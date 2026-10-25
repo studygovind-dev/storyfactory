@@ -1,0 +1,24 @@
+{
+  "series": "Cover Name",
+  "episode": 1,
+  "title": "The Baker Who Lied",
+  "style": "cinematic live-action film still, 35mm, shallow depth of field, cool noir grade, realistic skin, vertical 9:16",
+  "characters": {
+    "maya": {"look": "Maya, a woman in her early 30s with a sleek dark bob haircut, sharp green eyes, wearing a flour-dusted apron over a black blouse", "voice": "female_warm"},
+    "leo": {"look": "Leo, a 12-year-old boy with messy brown hair and a school backpack", "voice": "child_boy"},
+    "viper": {"look": "Viktor Crane, a polished man in his 50s in an expensive grey suit with silver hair and a cold smile", "voice": "male_smooth"},
+    "narrator": {"look": "", "voice": "narrator_female"}
+  },
+  "scenes": [
+    {"image": "[[maya]] kneading dough in a cozy small-town bakery at 5 AM, warm glowing light", "motion": "gentle push-in, steam rising", "speaker": "narrator", "line": "By day, Maya sold bread. By night, she was somebody else entirely."},
+    {"image": "[[leo]] at the bakery counter eating a croissant, smiling up at [[maya]]", "motion": "soft handheld, warm light", "speaker": "leo", "line": "Sis, you smell like flour and secrets."},
+    {"image": "[[maya]] laughing but her eyes flick to a black car parked across the street", "motion": "slow rack focus from her face to the car", "speaker": "maya", "line": "Eat your breakfast, Leo. And go straight to school."},
+    {"image": "Back room of the bakery, [[maya]] opens a hidden panel behind flour sacks revealing a pistol and an earpiece, dim light", "motion": "slow reveal, dust particles floating", "speaker": "narrator", "line": "Two years undercover. One mission. Bring down the smuggling king of the city."},
+    {"image": "Luxury restaurant at night, [[viper]] across a candlelit table from [[maya]] in a red dress, tense", "motion": "slow dolly in between them", "speaker": "viper", "line": "You are very good at lying, Miss Hart. Almost as good as I am."},
+    {"image": "Close-up of [[maya]] hiding fear behind a perfect smile, her hand trembling under the table", "motion": "slow zoom, shallow focus", "speaker": "maya", "line": "I do not know what you mean, Mr. Crane."},
+    {"image": "[[viper]] slides a photo of [[leo]] across the table, candlelight reflecting in his eyes", "motion": "the photo slides into frame, camera pushes in", "speaker": "viper", "line": "Then you will not mind if my men walk your brother home."},
+    {"image": "Extreme close-up of [[maya]]'s eyes, a single tear and a determined look, blurred restaurant behind", "motion": "slow push-in, heartbeat feel", "speaker": "narrator", "line": "The mission was never about the mafia. It just became personal. Part two... tomorrow."}
+  ],
+  "caption": "She protects the city. Who protects her brother? #drama #spy #story",
+  "next_hook": "Will Maya save Leo without blowing her cover?"
+}

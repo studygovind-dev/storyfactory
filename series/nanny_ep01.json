@@ -1,0 +1,24 @@
+{
+  "series": "The Nanny and the Boss",
+  "episode": 1,
+  "title": "The Nanny Nobody Wanted",
+  "style": "cinematic live-action film still, 35mm, shallow depth of field, rich warm golden grade, realistic skin, vertical 9:16",
+  "characters": {
+    "elena": {"look": "Elena, a gentle woman in her late 20s with long wavy dark hair, kind brown eyes, simple cream cardigan", "voice": "female_soft"},
+    "dante": {"look": "Dante Moretti, a tall serious man in his late 30s in a black tailored suit, short black hair, sharp jawline, cold eyes", "voice": "male_deep"},
+    "twins": {"look": "two 6-year-old twins, a boy and a girl, dark hair, in matching navy school uniforms, sad faces", "voice": "child_girl"},
+    "narrator": {"look": "", "voice": "narrator_female"}
+  },
+  "scenes": [
+    {"image": "[[elena]] standing nervously at the gates of a huge marble mansion in the rain, holding a small suitcase", "motion": "slow crane up over the gates, rain falling", "speaker": "narrator", "line": "Seven nannies had quit this house. Elena was the eighth."},
+    {"image": "[[dante]] in a dark study looking down coldly at [[elena]], a fire burning behind him", "motion": "slow push-in, firelight flicker", "speaker": "dante", "line": "My children do not smile anymore. Do not expect them to start."},
+    {"image": "[[twins]] hiding on the staircase, watching [[elena]] with suspicious eyes", "motion": "soft handheld, dim warm light", "speaker": "twins", "line": "She will leave too. They all leave."},
+    {"image": "[[elena]] kneeling in front of the twins, offering a small paper boat, gentle smile", "motion": "slow zoom, warm light", "speaker": "elena", "line": "I am not here to replace anyone. I am here to stay."},
+    {"image": "Close-up of the twins' hands touching the paper boat, a tiny smile appearing, warm light", "motion": "slow push-in on hands, soft focus", "speaker": "narrator", "line": "For the first time in two years, laughter echoed through the mansion."},
+    {"image": "[[dante]] watching from the doorway in the shadows, his cold expression softening slightly", "motion": "slow rack focus onto his face", "speaker": "narrator", "line": "And the most feared man in the city could not look away."},
+    {"image": "Night, [[elena]] finds a framed photo in a drawer of a woman who looks exactly like her, hand over her mouth, shocked", "motion": "slow zoom into her stunned face, thunder flash", "speaker": "elena", "line": "Why... does she have my face?"},
+    {"image": "[[dante]] standing behind [[elena]] in the dark hallway, hand on the doorframe, intense stare", "motion": "he steps out of shadow, camera pushes in", "speaker": "dante", "line": "I hoped you would never find that. Part two... tomorrow."}
+  ],
+  "caption": "She came to care for his children. She found his secret. #drama #romance #story",
+  "next_hook": "Why does the photo woman look exactly like Elena?"
+}

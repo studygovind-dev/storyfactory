@@ -1,0 +1,24 @@
+{
+  "series": "The Quiet Man",
+  "episode": 1,
+  "title": "The Man Who Drove the School Bus",
+  "style": "cinematic live-action film still, 35mm, shallow depth of field, moody teal and orange grade, realistic skin, vertical 9:16",
+  "characters": {
+    "daniel": {"look": "Daniel, a tall broad-shouldered man in his late 30s, short dark hair, light stubble, tired kind eyes, worn grey work jacket", "voice": "male_deep"},
+    "mia": {"look": "Mia, a 7-year-old girl with curly brown hair and a yellow raincoat", "voice": "child_girl"},
+    "boss": {"look": "Rocco, a heavy-set man in his 40s in a black leather coat with a scar over his left eyebrow", "voice": "male_gruff"},
+    "narrator": {"look": "", "voice": "narrator_male"}
+  },
+  "scenes": [
+    {"image": "[[daniel]] driving a yellow school bus at dawn, children laughing behind him, warm sunrise through the windshield", "motion": "slow push-in on his calm face, soft light flicker", "speaker": "narrator", "line": "Everyone in town thought Daniel was just the quiet school bus driver."},
+    {"image": "[[mia]] runs and hugs [[daniel]] outside a small rented house, golden evening light", "motion": "she runs into his arms, camera tracks gently", "speaker": "mia", "line": "Daddy, you promised we would never move again!"},
+    {"image": "Close-up of [[daniel]] smiling softly while hiding a faded military tattoo under his sleeve", "motion": "he pulls his sleeve down slowly", "speaker": "daniel", "line": "I promise, sweetheart. This is home."},
+    {"image": "Three black SUVs stop outside the house at night, headlights cutting through rain, [[boss]] stepping out", "motion": "headlights sweep across wet street, rain falling", "speaker": "narrator", "line": "But at night, the past always finds a way home."},
+    {"image": "[[boss]] holding a bat and smiling coldly at [[daniel]] on the porch, six armed men behind him", "motion": "slow dolly forward, tension", "speaker": "boss", "line": "Pay what your landlord owes me, or we burn this place down."},
+    {"image": "[[daniel]] gently pushes [[mia]] behind the door, his eyes turning cold and focused, rain dripping from his jacket", "motion": "slow zoom into his eyes", "speaker": "daniel", "line": "Mia, close your eyes and count to ten."},
+    {"image": "Silhouette of [[daniel]] stepping off the porch into the rain facing six men, dramatic backlight", "motion": "he walks forward, men step back", "speaker": "daniel", "line": "You came to the wrong house."},
+    {"image": "Extreme close-up of [[boss]] frightened as a scarred hand grabs the bat from him, blurred fight in background", "motion": "quick whip pan, shaky", "speaker": "narrator", "line": "Rocco did not know he had just woken up a ghost the army once feared. Part two... tomorrow."}
+  ],
+  "caption": "He only wanted a quiet life... #drama #shortfilm #story",
+  "next_hook": "What was Daniel's secret past?"
+}

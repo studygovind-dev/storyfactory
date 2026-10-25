@@ -1,0 +1,275 @@
+#!/usr/bin/env python3
+"""
+Story Factory - turns an episode JSON into a finished vertical video.
+
+Steps (each result is cached in output/<series>_epXX/, so re-running only
+redoes what is missing - you never pay twice for the same clip):
+  1. image  : one still per scene   (Gemini image model)
+  2. video  : animate each still    (Kling image-to-video)
+  3. voice  : speak each line       (ElevenLabs)
+  4. build  : join everything with subtitles + music (ffmpeg)
+  5. send   : deliver to your Telegram for review
+
+Usage:
+  python pipeline/make_episode.py series/quiet_man_ep01.json            # real run
+  python pipeline/make_episode.py series/quiet_man_ep01.json --dry-run  # free test, no APIs
+  python pipeline/make_episode.py series/quiet_man_ep01.json --no-send
+"""
+import argparse, base64, hmac, hashlib, json, os, re, subprocess, sys, time
+from pathlib import Path
+
+import requests
+
+ROOT = Path(__file__).resolve().parent.parent
+W, H = 1080, 1920
+SCENE_MIN = 4.0      # shortest a scene may be (seconds)
+PAD = 0.35           # breathing room after each spoken line
+
+
+# ---------------------------------------------------------------- helpers
+def env(name, required=True):
+    v = os.environ.get(name, "").strip()
+    if required and not v:
+        sys.exit(f"Missing {name}. Put it in .env (see .env.example).")
+    return v
+
+
+def load_dotenv():
+    p = ROOT / ".env"
+    if p.exists():
+        for line in p.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
+
+
+def run(cmd):
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    if r.returncode != 0:
+        sys.exit(f"ffmpeg/ffprobe failed:\n{' '.join(map(str, cmd))}\n{r.stderr[-1500:]}")
+    return r.stdout
+
+
+def duration(path):
+    out = run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+               "-of", "default=nw=1:nk=1", str(path)])
+    return float(out.strip())
+
+
+def expand(text, chars):
+    """Replace [[name]] with that character's fixed visual description."""
+    return re.sub(r"\[\[(\w+)\]\]", lambda m: chars[m.group(1)]["look"], text)
+
+
+# ---------------------------------------------------------------- 1. images
+def make_image(ep, i, scene, out, dry):
+    if out.exists():
+        return
+    if dry:
+        colors = ["0x1b2a41", "0x324a5f", "0x0c1821", "0x3d2c2e"]
+        run(["ffmpeg", "-y", "-f", "lavfi", "-i", f"color=c={colors[i % 4]}:s={W}x{H}",
+             "-frames:v", "1", str(out)])
+        return
+    prompt = (f"{ep['style']}. {expand(scene['image'], ep['characters'])}. "
+              "No text, no watermark, no logos.")
+    parts = [{"text": prompt}]
+    # Optional: reference photos keep faces consistent across scenes/episodes.
+    # Put a PNG at assets/characters/<name>.png for each character.
+    for name in re.findall(r"\[\[(\w+)\]\]", scene["image"]):
+        ref = ROOT / "assets" / "characters" / f"{name}.png"
+        if ref.exists():
+            parts.append({"inline_data": {"mime_type": "image/png",
+                                          "data": base64.b64encode(ref.read_bytes()).decode()}})
+    model = os.environ.get("GEMINI_IMAGE_MODEL", "gemini-2.5-flash-image")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+    r = requests.post(url, headers={"x-goog-api-key": env("GEMINI_API_KEY")},
+                      json={"contents": [{"parts": parts}]}, timeout=180)
+    r.raise_for_status()
+    for cand in r.json().get("candidates", []):
+        for p in cand["content"]["parts"]:
+            data = p.get("inlineData") or p.get("inline_data")
+            if data:
+                out.write_bytes(base64.b64decode(data["data"]))
+                return
+    sys.exit(f"Gemini returned no image for scene {i}: {r.text[:500]}")
+
+
+# ---------------------------------------------------------------- 2. video
+def kling_token():
+    b64 = lambda b: base64.urlsafe_b64encode(b).rstrip(b"=")
+    head = b64(json.dumps({"alg": "HS256", "typ": "JWT"}).encode())
+    now = int(time.time())
+    body = b64(json.dumps({"iss": env("KLING_ACCESS_KEY"), "exp": now + 1800, "nbf": now - 5}).encode())
+    sig = b64(hmac.new(env("KLING_SECRET_KEY").encode(), head + b"." + body, hashlib.sha256).digest())
+    return (head + b"." + body + b"." + sig).decode()
+
+
+def make_clip(ep, i, scene, img, out, dry, zoom=False):
+    if out.exists():
+        return
+    if dry or zoom:  # free mode: slow camera move on the still picture (no Kling needed)
+        z = ("min(zoom+0.0015,1.25)" if i % 2 == 0
+             else "if(eq(on,0),1.25,max(zoom-0.0015,1.0))")  # alternate zoom in / zoom out
+        run(["ffmpeg", "-y", "-loop", "1", "-i", str(img), "-t", "5", "-r", "24",
+             "-vf", (f"scale={W * 2}:{H * 2}:force_original_aspect_ratio=increase,crop={W * 2}:{H * 2},"
+                     f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=120:s={W}x{H}:fps=24"),
+             "-pix_fmt", "yuv420p", str(out)])
+        return
+    base = os.environ.get("KLING_BASE", "https://api.klingai.com")
+    hdr = {"Authorization": f"Bearer {kling_token()}", "Content-Type": "application/json"}
+    payload = {
+        "model_name": os.environ.get("KLING_MODEL", "kling-v2-1"),
+        "mode": os.environ.get("KLING_MODE", "std"),
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "image": base64.b64encode(img.read_bytes()).decode(),
+        "prompt": f"{scene['motion']}. Cinematic, natural realistic movement, no text.",
+    }
+    r = requests.post(f"{base}/v1/videos/image2video", headers=hdr, json=payload, timeout=120)
+    r.raise_for_status()
+    task = r.json()["data"]["task_id"]
+    for _ in range(120):  # up to ~20 min
+        time.sleep(10)
+        hdr["Authorization"] = f"Bearer {kling_token()}"
+        s = requests.get(f"{base}/v1/videos/image2video/{task}", headers=hdr, timeout=60).json()["data"]
+        if s["task_status"] == "succeed":
+            url = s["task_result"]["videos"][0]["url"]
+            out.write_bytes(requests.get(url, timeout=300).content)
+            return
+        if s["task_status"] == "failed":
+            sys.exit(f"Kling failed on scene {i}: {s.get('task_status_msg')}")
+    sys.exit(f"Kling timed out on scene {i}")
+
+
+# ---------------------------------------------------------------- 3. voice
+def make_voice(ep, i, scene, out, dry):
+    if out.exists():
+        return
+    if dry:  # a quiet tone whose length matches the words, just to test timing
+        secs = max(2.0, len(scene["line"].split()) * 0.4)
+        run(["ffmpeg", "-y", "-f", "lavfi", "-i", f"sine=frequency=220:duration={secs}",
+             "-af", "volume=0.05", str(out)])
+        return
+    voice_key = ep["characters"][scene["speaker"]]["voice"]
+    # Simple setup: only 3 voices needed (VOICE_MALE, VOICE_FEMALE, VOICE_CHILD).
+    # A specific VOICE_<NAME> in .env still wins if you set one.
+    k = voice_key.upper()
+    fallback = "VOICE_CHILD" if k.startswith("CHILD") else (
+        "VOICE_FEMALE" if "FEMALE" in k else "VOICE_MALE")
+    voice_id = os.environ.get("VOICE_" + k, "").strip() or env(fallback)
+    r = requests.post(
+        f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}?output_format=mp3_44100_128",
+        headers={"xi-api-key": env("ELEVEN_API_KEY")},
+        json={"text": scene["line"], "model_id": os.environ.get("ELEVEN_MODEL", "eleven_multilingual_v2"),
+              "voice_settings": {"stability": 0.4, "similarity_boost": 0.8, "style": 0.4}},
+        timeout=120)
+    r.raise_for_status()
+    out.write_bytes(r.content)
+
+
+# ---------------------------------------------------------------- 4. build
+def ts(t):
+    h, m, s = int(t // 3600), int(t % 3600 // 60), t % 60
+    return f"{h}:{m:02d}:{s:05.2f}"
+
+
+def build(ep, work, final):
+    n = len(ep["scenes"])
+    seg_files, ass_events, t = [], [], 0.0
+    for i, sc in enumerate(ep["scenes"]):
+        clip, voice = work / f"clip_{i}.mp4", work / f"voice_{i}.mp3"
+        d = max(SCENE_MIN, duration(voice) + PAD)
+        seg = work / f"seg_{i}.mp4"
+        # Hold the last frame if the speech is longer than the clip; trim if shorter.
+        vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
+              f"fps=24,tpad=stop_mode=clone:stop_duration=10,trim=duration={d:.3f},setpts=PTS-STARTPTS")
+        af = f"adelay=150|150,apad,atrim=duration={d:.3f}"
+        run(["ffmpeg", "-y", "-i", str(clip), "-i", str(voice),
+             "-filter_complex", f"[0:v]{vf}[v];[1:a]{af}[a]",
+             "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "fast", "-crf", "20",
+             "-pix_fmt", "yuv420p", "-c:a", "aac", "-ar", "44100", "-ac", "2", str(seg)])
+        seg_files.append(seg)
+        text = sc["line"].replace("\n", " ")
+        if len(text) > 38:  # split long lines into two caption lines
+            mid = text.rfind(" ", 0, len(text) // 2 + 8)
+            text = text[:mid] + "\\N" + text[mid + 1:]
+        ass_events.append(f"Dialogue: 0,{ts(t + 0.1)},{ts(t + d - 0.1)},Cap,,0,0,0,,{text}")
+        t += d
+
+    ass = work / "subs.ass"
+    ass.write_text(
+        "[Script Info]\nScriptType: v4.00+\nPlayResX: %d\nPlayResY: %d\n\n"
+        "[V4+ Styles]\nFormat: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,"
+        "Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,"
+        "MarginL,MarginR,MarginV,Encoding\n"
+        "Style: Cap,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,70,70,330,1\n\n"
+        "[Events]\nFormat: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text\n" % (W, H)
+        + "\n".join(ass_events) + "\n")
+
+    lst = work / "list.txt"
+    lst.write_text("".join(f"file '{p.name}'\n" for p in seg_files))
+    joined = work / "joined.mp4"
+    run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(joined)])
+
+    music = ROOT / "assets" / "music.mp3"   # optional royalty-free track
+    cmd = ["ffmpeg", "-y", "-i", str(joined)]
+    sub = f"subtitles={ass.name}"
+    if music.exists():
+        cmd += ["-stream_loop", "-1", "-i", str(music), "-filter_complex",
+                f"[0:v]{sub}[v];[1:a]volume=0.12[m];[0:a][m]amix=inputs=2:duration=first:normalize=0[a]",
+                "-map", "[v]", "-map", "[a]"]
+    else:
+        cmd += ["-vf", sub]
+    cmd += ["-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p",
+            "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(final)]
+    r = subprocess.run(cmd, cwd=work, capture_output=True, text=True)
+    if r.returncode:
+        sys.exit("Final render failed:\n" + r.stderr[-1500:])
+    return t
+
+
+# ---------------------------------------------------------------- 5. send
+def send_telegram(final, ep):
+    token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
+    cap = f"{ep['series']} - Ep {ep['episode']}: {ep['title']}\n\n{ep['caption']}"
+    with open(final, "rb") as f:
+        r = requests.post(f"https://api.telegram.org/bot{token}/sendVideo",
+                          data={"chat_id": chat, "caption": cap[:1000], "supports_streaming": "true"},
+                          files={"video": f}, timeout=600)
+    r.raise_for_status()
+    print("Sent to Telegram.")
+
+
+# ---------------------------------------------------------------- main
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("episode")
+    ap.add_argument("--dry-run", action="store_true", help="free test with placeholder media")
+    ap.add_argument("--no-send", action="store_true")
+    ap.add_argument("--no-kling", action="store_true",
+                    help="real pictures + real voice, but slow zoom instead of Kling video (cheap)")
+    a = ap.parse_args()
+    load_dotenv()
+
+    ep = json.loads(Path(a.episode).read_text())
+    slug = re.sub(r"\W+", "_", ep["series"].lower()).strip("_")
+    work = ROOT / "output" / f"{slug}_ep{ep['episode']:02d}{'_dry' if a.dry_run else ('_zoom' if a.no_kling else '')}"
+    work.mkdir(parents=True, exist_ok=True)
+
+    for i, sc in enumerate(ep["scenes"]):
+        print(f"scene {i + 1}/{len(ep['scenes'])}")
+        img = work / f"img_{i}.png"
+        make_image(ep, i, sc, img, a.dry_run)
+        make_clip(ep, i, sc, img, work / f"clip_{i}.mp4", a.dry_run, a.no_kling)
+        make_voice(ep, i, sc, work / f"voice_{i}.mp3", a.dry_run)
+
+    final = work / "final.mp4"
+    total = build(ep, work, final)
+    print(f"Done: {final}  ({total:.1f}s)")
+    if not a.no_send and not a.dry_run:
+        send_telegram(final, ep)
+
+
+if __name__ == "__main__":
+    main()
