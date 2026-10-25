@@ -12,7 +12,7 @@ if %errorlevel%==0 (
 )
 echo.
 echo ===== STEP 2: Installing Python helper =====
-python -m pip install requests
+py -m pip install requests
 echo.
 echo ===== STEP 3: Your keys =====
 if exist .env (

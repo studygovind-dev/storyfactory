@@ -12,7 +12,7 @@ if "%C%"=="3" set F=series\nanny_ep01.json
 if not defined F (echo Wrong choice & pause & exit /b)
 echo.
 echo Making the video. This takes 10-25 minutes. Do not close this window.
-python pipeline\make_episode.py %F%
+py pipeline\make_episode.py %F%
 echo.
 echo Finished. The video is also in the output folder.
 pause

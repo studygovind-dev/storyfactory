@@ -14,6 +14,7 @@ Usage:
   python pipeline/make_episode.py series/quiet_man_ep01.json            # real run
   python pipeline/make_episode.py series/quiet_man_ep01.json --dry-run  # free test, no APIs
   python pipeline/make_episode.py series/quiet_man_ep01.json --no-send
+  python pipeline/make_episode.py series/quiet_man_ep01.json --free     # $0: Pollinations + edge-tts + zoom
 """
 import argparse, base64, hmac, hashlib, json, os, re, subprocess, sys, time
 from pathlib import Path
@@ -63,6 +64,32 @@ def expand(text, chars):
 
 
 # ---------------------------------------------------------------- 1. images
+def make_image_free(ep, i, scene, out):
+    """Free picture from Pollinations. The free server is often busy, so keep retrying."""
+    prompt = (f"{ep['style']}. {expand(scene['image'], ep['characters'])}. "
+              "No text, no watermark, no logos.")
+    key = os.environ.get("POLLINATIONS_KEY", "").strip()  # optional free key: fewer waits, no logo
+    url = "https://image.pollinations.ai/prompt/" + requests.utils.quote(prompt[:1500], safe="")
+    params = {"width": 720, "height": 1280, "seed": 1000 + i, "nologo": "true", "model": "flux"}
+    hdr = {"Authorization": f"Bearer {key}"} if key else {}
+    for attempt in range(30):  # up to ~8 minutes per picture
+        try:
+            r = requests.get(url, params=params, headers=hdr, timeout=180)
+            if r.ok and r.headers.get("content-type", "").startswith("image"):
+                raw = out.with_suffix(".jpg")
+                raw.write_bytes(r.content)
+                # Cut off the bottom strip where the free server stamps its small logo.
+                run(["ffmpeg", "-y", "-i", str(raw), "-vf", "crop=iw:ih*0.93:0:0", str(out)])
+                raw.unlink()
+                return
+            print(f"  picture server busy ({r.status_code}), retrying...")
+        except requests.RequestException as e:
+            print(f"  picture server error ({type(e).__name__}), retrying...")
+        params["seed"] += 100  # a new seed sometimes gets through faster
+        time.sleep(15)
+    sys.exit(f"Free picture server kept refusing scene {i}. Try again later.")
+
+
 def make_image(ep, i, scene, out, dry):
     if out.exists():
         return
@@ -85,7 +112,8 @@ def make_image(ep, i, scene, out, dry):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     r = requests.post(url, headers={"x-goog-api-key": env("GEMINI_API_KEY")},
                       json={"contents": [{"parts": parts}]}, timeout=180)
-    r.raise_for_status()
+    if not r.ok:
+        sys.exit(f"Gemini error {r.status_code} on scene {i}: {r.text[:800]}")
     for cand in r.json().get("candidates", []):
         for p in cand["content"]["parts"]:
             data = p.get("inlineData") or p.get("inline_data")
@@ -143,6 +171,27 @@ def make_clip(ep, i, scene, img, out, dry, zoom=False):
 
 
 # ---------------------------------------------------------------- 3. voice
+# Free Microsoft voices (edge-tts) for each voice name used in the series files.
+EDGE_VOICES = {
+    "narrator_male": "en-US-ChristopherNeural", "narrator_female": "en-US-AriaNeural",
+    "male_deep": "en-US-GuyNeural", "male_gruff": "en-US-EricNeural",
+    "male_smooth": "en-US-AndrewNeural", "female_warm": "en-US-JennyNeural",
+    "female_soft": "en-US-EmmaNeural", "child_girl": "en-US-AnaNeural",
+    "child_boy": "en-US-AnaNeural",
+}
+
+
+def make_voice_free(ep, i, scene, out):
+    voice_key = ep["characters"][scene["speaker"]]["voice"].lower()
+    voice = EDGE_VOICES.get(voice_key) or (
+        "en-US-AnaNeural" if voice_key.startswith("child") else
+        "en-US-JennyNeural" if "female" in voice_key else "en-US-GuyNeural")
+    r = subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice, "--text", scene["line"],
+                        "--write-media", str(out)], capture_output=True, text=True)
+    if r.returncode:
+        sys.exit(f"Free voice failed on scene {i} (pip install edge-tts):\n{r.stderr[-800:]}")
+
+
 def make_voice(ep, i, scene, out, dry):
     if out.exists():
         return
@@ -249,20 +298,29 @@ def main():
     ap.add_argument("--no-send", action="store_true")
     ap.add_argument("--no-kling", action="store_true",
                     help="real pictures + real voice, but slow zoom instead of Kling video (cheap)")
+    ap.add_argument("--free", action="store_true",
+                    help="$0: free pictures (Pollinations) + free voices (edge-tts) + slow zoom")
     a = ap.parse_args()
     load_dotenv()
 
     ep = json.loads(Path(a.episode).read_text())
     slug = re.sub(r"\W+", "_", ep["series"].lower()).strip("_")
-    work = ROOT / "output" / f"{slug}_ep{ep['episode']:02d}{'_dry' if a.dry_run else ('_zoom' if a.no_kling else '')}"
+    tag = "_dry" if a.dry_run else "_free" if a.free else "_zoom" if a.no_kling else ""
+    work = ROOT / "output" / f"{slug}_ep{ep['episode']:02d}{tag}"
     work.mkdir(parents=True, exist_ok=True)
 
     for i, sc in enumerate(ep["scenes"]):
         print(f"scene {i + 1}/{len(ep['scenes'])}")
-        img = work / f"img_{i}.png"
-        make_image(ep, i, sc, img, a.dry_run)
-        make_clip(ep, i, sc, img, work / f"clip_{i}.mp4", a.dry_run, a.no_kling)
-        make_voice(ep, i, sc, work / f"voice_{i}.mp3", a.dry_run)
+        img, voice = work / f"img_{i}.png", work / f"voice_{i}.mp3"
+        if a.free:
+            if not img.exists():
+                make_image_free(ep, i, sc, img)
+            if not voice.exists():
+                make_voice_free(ep, i, sc, voice)
+        else:
+            make_image(ep, i, sc, img, a.dry_run)
+            make_voice(ep, i, sc, voice, a.dry_run)
+        make_clip(ep, i, sc, img, work / f"clip_{i}.mp4", a.dry_run, a.no_kling or a.free)
 
     final = work / "final.mp4"
     total = build(ep, work, final)

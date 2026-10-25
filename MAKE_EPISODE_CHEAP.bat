@@ -12,7 +12,7 @@ if "%C%"=="3" set F=series\nanny_ep01.json
 if not defined F (echo Wrong choice & pause & exit /b)
 echo.
 echo Making real pictures + real voice. Takes about 3-5 minutes.
-python pipeline\make_episode.py %F% --no-kling
+py pipeline\make_episode.py %F% --no-kling
 echo.
 echo Finished. Look in the output folder (folder name ends with _zoom).
 pause
