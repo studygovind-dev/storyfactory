@@ -197,10 +197,15 @@ def make_voice_free(ep, i, scene, out):
     voice = EDGE_VOICES.get(voice_key) or (
         "en-US-AnaNeural" if voice_key.startswith("child") else
         "en-US-JennyNeural" if "female" in voice_key else "en-US-GuyNeural")
-    r = subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice, "--text", scene["line"],
-                        "--write-media", str(out)], capture_output=True, text=True)
-    if r.returncode:
-        sys.exit(f"Free voice failed on scene {i} (pip install edge-tts):\n{r.stderr[-800:]}")
+    text = scene["line"].replace("*", "").replace("_", " ")  # drop markdown emphasis
+    for attempt in range(6):  # the free voice service sometimes refuses a request; wait and retry
+        r = subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice, "--text", text,
+                            "--write-media", str(out)], capture_output=True, text=True)
+        if r.returncode == 0 and out.exists() and out.stat().st_size > 0:
+            return
+        print(f"  voice service refused scene {i + 1}, retrying...")
+        time.sleep(10 * (attempt + 1))
+    sys.exit(f"Free voice failed on scene {i} (pip install edge-tts):\n{r.stderr[-800:]}")
 
 
 def make_voice(ep, i, scene, out, dry):
