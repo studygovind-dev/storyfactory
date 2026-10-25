@@ -29,7 +29,7 @@ PAD = 0.35           # breathing room after each spoken line
 
 # ---------------------------------------------------------------- helpers
 def env(name, required=True):
-    v = os.environ.get(name, "").strip()
+    v = os.environ.get(name, "").strip().lstrip("﻿")  # Windows tools can add an invisible BOM
     if required and not v:
         sys.exit(f"Missing {name}. Put it in .env (see .env.example).")
     return v
