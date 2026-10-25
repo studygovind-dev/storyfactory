@@ -68,9 +68,15 @@ def make_image_free(ep, i, scene, out):
     """Free picture from Pollinations. The free server is often busy, so keep retrying."""
     prompt = (f"{ep['style']}. {expand(scene['image'], ep['characters'])}. "
               "No text, no watermark, no logos.")
-    key = os.environ.get("POLLINATIONS_KEY", "").strip()  # optional free key: fewer waits, no logo
-    url = "https://image.pollinations.ai/prompt/" + requests.utils.quote(prompt[:1500], safe="")
-    params = {"width": 720, "height": 1280, "seed": 1000 + i, "nologo": "true", "model": "flux"}
+    key = os.environ.get("POLLINATIONS_KEY", "").strip()  # free account key: much more realistic faces
+    q = requests.utils.quote(prompt[:1500], safe="")
+    if key:
+        url = "https://gen.pollinations.ai/image/" + q
+        model = os.environ.get("POLLINATIONS_MODEL", "black-forest-labs/flux.2-klein-4b")
+    else:  # no-account server: weaker model, busy often, stamps a logo
+        url = "https://image.pollinations.ai/prompt/" + q
+        model = "flux"
+    params = {"width": 720, "height": 1280, "seed": 1000 + i, "nologo": "true", "model": model}
     hdr = {"Authorization": f"Bearer {key}"} if key else {}
     for attempt in range(30):  # up to ~8 minutes per picture
         try:
@@ -78,10 +84,15 @@ def make_image_free(ep, i, scene, out):
             if r.ok and r.headers.get("content-type", "").startswith("image"):
                 raw = out.with_suffix(".jpg")
                 raw.write_bytes(r.content)
-                # Cut off the bottom strip where the free server stamps its small logo.
-                run(["ffmpeg", "-y", "-i", str(raw), "-vf", "crop=iw:ih*0.93:0:0", str(out)])
+                # The no-account server stamps a small logo at the bottom; cut that strip off.
+                vf = "null" if key else "crop=iw:ih*0.93:0:0"
+                run(["ffmpeg", "-y", "-i", str(raw), "-vf", vf, str(out)])
                 raw.unlink()
                 return
+            if r.status_code in (401, 403):
+                sys.exit(f"Pollinations refused the key ({r.status_code}): {r.text[:300]}")
+            if key and r.status_code == 402:
+                sys.exit("Your free Pollinations allowance for today is used up. Try again tomorrow.")
             print(f"  picture server busy ({r.status_code}), retrying...")
         except requests.RequestException as e:
             print(f"  picture server error ({type(e).__name__}), retrying...")
