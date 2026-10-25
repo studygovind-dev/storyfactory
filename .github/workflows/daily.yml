@@ -1,0 +1,74 @@
+# Daily Story Factory: one new story in 3 parts, sent to Telegram at
+# 9:00, 13:00 and 18:00 India time. (GitHub may start scheduled runs 5-20 min late.)
+name: Daily story
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 09:00 IST -> write story + part 1
+    - cron: "30 7 * * *"   # 13:00 IST -> part 2
+    - cron: "30 12 * * *"  # 18:00 IST -> part 3
+  workflow_dispatch:
+    inputs:
+      part:
+        description: "Which part to make now (1, 2 or 3)"
+        default: "1"
+      day:
+        description: "Story date YYYY-MM-DD (empty = today)"
+        default: ""
+
+permissions:
+  contents: write   # to save the written story back to the repo
+
+concurrency:
+  group: daily-story
+  cancel-in-progress: false
+
+jobs:
+  make:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      TZ: Asia/Kolkata
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      POLLINATIONS_KEY: ${{ secrets.POLLINATIONS_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      KLING_ACCESS_KEY: ${{ secrets.KLING_ACCESS_KEY }}
+      KLING_SECRET_KEY: ${{ secrets.KLING_SECRET_KEY }}
+      # Budget mode: set the repo variable KLING_CLIPS_PER_PART to 1 (about Rs 3,300/month). 0 = free.
+      KLING_CLIPS_PER_PART: ${{ vars.KLING_CLIPS_PER_PART || '0' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick part
+        id: pick
+        run: |
+          case "${{ github.event.schedule }}" in
+            "30 3 * * *")  P=1 ;;
+            "30 7 * * *")  P=2 ;;
+            "30 12 * * *") P=3 ;;
+            *)             P="${{ github.event.inputs.part || '1' }}" ;;
+          esac
+          echo "part=$P" >> "$GITHUB_OUTPUT"
+          D="${{ github.event.inputs.day }}"; D="${D:-$(date +%F)}"
+          echo "day=$D" >> "$GITHUB_OUTPUT"
+          echo "Making part $P for $D"
+
+      - name: Install tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-liberation
+          pip install -q requests edge-tts
+
+      - name: Write today's story (if not written yet)
+        run: python pipeline/write_story.py "${{ steps.pick.outputs.day }}"
+
+      - name: Save story to repo
+        run: |
+          git config user.name "story-bot"
+          git config user.email "story-bot@users.noreply.github.com"
+          git add series/daily
+          git diff --cached --quiet || (git commit -m "Story for ${{ steps.pick.outputs.day }}" && git push)
+
+      - name: Make video and send to Telegram
+        run: python pipeline/make_episode.py "series/daily/${{ steps.pick.outputs.day }}_part${{ steps.pick.outputs.part }}.json" --free

@@ -290,9 +290,27 @@ def build(ep, work, final):
 
 
 # ---------------------------------------------------------------- 5. send
+TELEGRAM_MAX_MB = 48  # bots may send up to 50 MB
+
+
+def fit_for_telegram(final):
+    """Re-encode at a lower bitrate if the video is too big for a Telegram bot."""
+    if final.stat().st_size <= TELEGRAM_MAX_MB * 1024 * 1024:
+        return final
+    secs = duration(final)
+    kbps = int(TELEGRAM_MAX_MB * 8192 * 0.92 / secs) - 128  # leave room for 128k audio
+    small = final.with_name("final_small.mp4")
+    run(["ffmpeg", "-y", "-i", str(final), "-c:v", "libx264", "-preset", "medium",
+         "-b:v", f"{kbps}k", "-maxrate", f"{kbps}k", "-bufsize", f"{kbps * 2}k", "-pix_fmt", "yuv420p",
+         "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", str(small)])
+    return small
+
+
 def send_telegram(final, ep):
     token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
-    cap = f"{ep['series']} - Ep {ep['episode']}: {ep['title']}\n\n{ep['caption']}"
+    final = fit_for_telegram(final)
+    label = "Part" if ep.get("slug") else "Ep"
+    cap = f"{ep['series']} - {label} {ep['episode']}: {ep['title']}\n\n{ep['caption']}"
     with open(final, "rb") as f:
         r = requests.post(f"https://api.telegram.org/bot{token}/sendVideo",
                           data={"chat_id": chat, "caption": cap[:1000], "supports_streaming": "true"},
@@ -314,11 +332,16 @@ def main():
     a = ap.parse_args()
     load_dotenv()
 
-    ep = json.loads(Path(a.episode).read_text())
-    slug = re.sub(r"\W+", "_", ep["series"].lower()).strip("_")
+    ep = json.loads(Path(a.episode).read_text(encoding="utf-8"))
     tag = "_dry" if a.dry_run else "_free" if a.free else "_zoom" if a.no_kling else ""
-    work = ROOT / "output" / f"{slug}_ep{ep['episode']:02d}{tag}"
+    if ep.get("slug"):  # daily stories: output/<date>_partN_free
+        work = ROOT / "output" / f"{ep['slug']}{tag}"
+    else:
+        slug = re.sub(r"\W+", "_", ep["series"].lower()).strip("_")
+        work = ROOT / "output" / f"{slug}_ep{ep['episode']:02d}{tag}"
     work.mkdir(parents=True, exist_ok=True)
+    # Budget mode: in --free runs, animate the first N scenes of each part with Kling (paid).
+    kling_first = int(os.environ.get("KLING_CLIPS_PER_PART", "0") or 0) if a.free else 0
 
     for i, sc in enumerate(ep["scenes"]):
         print(f"scene {i + 1}/{len(ep['scenes'])}")
@@ -331,7 +354,8 @@ def main():
         else:
             make_image(ep, i, sc, img, a.dry_run)
             make_voice(ep, i, sc, voice, a.dry_run)
-        make_clip(ep, i, sc, img, work / f"clip_{i}.mp4", a.dry_run, a.no_kling or a.free)
+        zoom = a.no_kling or (a.free and i >= kling_first)
+        make_clip(ep, i, sc, img, work / f"clip_{i}.mp4", a.dry_run, zoom)
 
     final = work / "final.mp4"
     total = build(ep, work, final)
