@@ -270,13 +270,18 @@ def build(ep, work, final):
         ass_events.append(f"Dialogue: 0,{ts(t + 0.1)},{ts(t + d - 0.1)},Cap,,0,0,0,,{text}")
         t += d
 
+    if ep.get("parts"):  # daily stories: keep "Part 2 of 3" on screen so viewers know there is more
+        ass_events.insert(0, f"Dialogue: 0,{ts(0)},{ts(t)},Top,,0,0,0,,"
+                             f"PART {ep['episode']} OF {ep['parts']}")
+
     ass = work / "subs.ass"
     ass.write_text(
         "[Script Info]\nScriptType: v4.00+\nPlayResX: %d\nPlayResY: %d\n\n"
         "[V4+ Styles]\nFormat: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,"
         "Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,"
         "MarginL,MarginR,MarginV,Encoding\n"
-        "Style: Cap,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,70,70,330,1\n\n"
+        "Style: Cap,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,70,70,330,1\n"
+        "Style: Top,Arial,52,&H0000D7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,2,0,1,4,1,8,70,70,170,1\n\n"
         "[Events]\nFormat: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text\n" % (W, H)
         + "\n".join(ass_events) + "\n")
 
@@ -322,14 +327,40 @@ def fit_for_telegram(final):
 def send_telegram(final, ep):
     token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
     final = fit_for_telegram(final)
-    label = "Part" if ep.get("slug") else "Ep"
-    cap = f"{ep['series']} - {label} {ep['episode']}: {ep['title']}\n\n{ep['caption']}"
+    if ep.get("story_no"):
+        cap = (f"📌 Story #{ep['story_no']} · Part {ep['episode']} of {ep['parts']}\n"
+               f"{ep['series']}: {ep['title']}")
+    else:
+        cap = f"{ep['series']} - Ep {ep['episode']}: {ep['title']}\n\n{ep['caption']}"
     with open(final, "rb") as f:
         r = requests.post(f"https://api.telegram.org/bot{token}/sendVideo",
                           data={"chat_id": chat, "caption": cap[:1000], "supports_streaming": "true"},
                           files={"video": f}, timeout=600)
     r.raise_for_status()
+    if ep.get("story_no"):
+        requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                      data={"chat_id": chat, "text": post_kit(ep)[:4000]}, timeout=60).raise_for_status()
     print("Sent to Telegram.")
+
+
+NEXT_AT = {1: "1 PM", 2: "6 PM"}
+
+
+def post_kit(ep):
+    """Copy-ready posting details sent right after each daily video."""
+    n, total = ep["episode"], ep["parts"]
+    tags = " ".join(ep.get("hashtags") or ["#shorts", "#drama", "#story"])
+    nxt = (f"👉 Part {n + 1} today at {NEXT_AT[n]}. Follow so you don't miss it!"
+           if n < total else "✅ Final part. Follow for a new story every day!")
+    return (
+        f"📌 Story #{ep['story_no']} · Part {n} of {total}\n\n"
+        f"━━ TITLE (YouTube / Facebook) ━━\n{ep['yt_title']}\n\n"
+        f"━━ DESCRIPTION ━━\n{ep.get('description', '').strip()}\n\n{nxt}\n\n"
+        f"━━ HASHTAGS ━━\n{tags}\n\n"
+        f"━━ INSTAGRAM CAPTION ━━\n{ep['yt_title']}\n{nxt}\n\n{tags}\n\n"
+        "⚠️ Turn ON the AI-generated content label when posting.\n"
+        "📍 YouTube: add to the playlist for this story. Pin a comment: \"Which part was best?\""
+    )
 
 
 # ---------------------------------------------------------------- main

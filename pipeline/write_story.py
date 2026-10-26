@@ -60,7 +60,11 @@ Return ONLY JSON in this exact shape:
   "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
   "characters": {{"<key>": {{"look": "...", "voice": "<voice name>"}}, "narrator": {{"look": "", "voice": "narrator_male"}}}},
   "parts": [
-    {{"title": "...", "caption": "<1 line + 3 hashtags>", "scenes": [{{"image": "...", "motion": "...", "speaker": "<character key>", "line": "..."}}]}},
+    {{"title": "...", "caption": "<1 line + 3 hashtags>",
+     "yt_title": "<YouTube title under 90 characters: emotional hook + 'Part N'>",
+     "description": "<2-3 short lines that tease the story without spoiling the twist>",
+     "hashtags": ["<15 popular hashtags for this genre, mix broad (#shorts #drama #story) and specific>"],
+     "scenes": [{{"image": "...", "motion": "...", "speaker": "<character key>", "line": "..."}}]}},
     {{...part 2...}},
     {{...part 3...}}
   ]
@@ -127,11 +131,17 @@ def main():
     else:
         sys.exit("Gemini could not write a valid story after 3 tries.")
 
+    story_no = len(history) + 1  # running count shown as "Story #N"
     for n, part in enumerate(story["parts"], 1):
+        tags = [t if t.startswith("#") else "#" + t
+                for t in (part.get("hashtags") or []) if isinstance(t, str) and t.strip()]
         ep = {"series": story["series"], "episode": n, "title": part["title"],
               "style": story["style"], "characters": story["characters"],
               "scenes": part["scenes"], "caption": part["caption"],
-              "slug": f"{day}_part{n}"}
+              "slug": f"{day}_part{n}", "story_no": story_no, "parts": 3,
+              "yt_title": part.get("yt_title") or f"{story['series']} - Part {n}",
+              "description": part.get("description", ""),
+              "hashtags": [t.replace(" ", "") for t in tags][:20]}
         (DAILY / f"{day}_part{n}.json").write_text(json.dumps(ep, indent=1, ensure_ascii=False),
                                                    encoding="utf-8")
     entry = f"{story['series']} | {day} | {story.get('premise', '').strip()}"
