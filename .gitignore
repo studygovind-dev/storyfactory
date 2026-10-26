@@ -7,3 +7,6 @@ __pycache__/
 
 # Generated videos
 output/
+
+# Voice test clips
+voice_samples/

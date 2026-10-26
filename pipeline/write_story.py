@@ -11,7 +11,7 @@ Usage:
   python pipeline/write_story.py              # today's date (India time)
   python pipeline/write_story.py 2026-10-27   # a specific date
 """
-import datetime, json, os, re, sys
+import datetime, json, os, re, sys, time
 from pathlib import Path
 
 import requests
@@ -20,15 +20,17 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from make_episode import EDGE_VOICES, ROOT, env, load_dotenv  # noqa: E402
 
 DAILY = ROOT / "series" / "daily"
-SCENES_PER_PART = 26          # ~6.7 s each -> just under 3 minutes (Shorts limit)
+SCENES_PER_PART = 38          # ~4.4 s each at natural pace -> under 3 minutes (Shorts limit)
+# Mostly love stories (what viewers connect with most), plus dog and cat stories.
+# Rotates one per day: 5 of every 7 days are love stories.
 GENRES = [
-    "revenge drama: a humble person everyone underestimates turns out to be powerful",
-    "family emotional drama with a shocking secret",
-    "crime thriller with an undercover twist",
-    "romance with a rich boss and a poor but proud worker",
-    "mystery in a small town",
-    "survival and courage against a cruel villain",
-    "workplace drama where the bullied employee gets justice",
+    "love story: two strangers keep meeting by chance and slowly fall in love",
+    "pet story: a loyal dog who waits for its owner and changes a lonely person's life",
+    "love story: childhood sweethearts separated for years who meet again",
+    "love story: a quiet, shy person secretly in love with a friend, and the moment it is finally said",
+    "pet story: a stray cat that brings a broken family back together",
+    "love story: a married couple's small daily gestures, and a misunderstanding that tests their love",
+    "love story: a long-distance love that survives everything",
 ]
 
 PROMPT = """You write viral short-drama series for vertical video (YouTube Shorts, Instagram Reels).
@@ -39,14 +41,22 @@ character names, a DIFFERENT setting and a DIFFERENT twist from every one of the
 
 Rules:
 - Each part has exactly {n} scenes. Each scene is one picture and one spoken line.
-- Scenes come in PAIRS (1+2, 3+4, ...): the second scene of a pair reuses the first scene's
-  picture, so both lines of a pair must happen in the same moment and place.
-- Each line is 10-18 words, simple English, emotional and gripping.
+- Scenes come in GROUPS OF 3 (1-3, 4-6, ...): all three share the first scene's picture,
+  so the three lines of a group must happen in the same moment and place.
+- Keep the story MOVING: something new happens every group. No slow scene-setting.
+- The first line of each part is a character speaking (or a gripping question), never a calm
+  description. At most 2 narrator lines in a row.
+- Each line is 10-18 words, simple English, warm, tender and emotional, like a whispered
+  confession. Ordinary, relatable people and everyday places, so viewers feel "this could be me".
+- Feelings over action: small gestures, longing looks, first touches of hands, letters, rain,
+  waiting. No villains, guns or crime. Romance stays sweet and tasteful (a hug or a kiss at most).
+- In pet stories the animal never talks; the narrator and the humans tell its story.
 - Mix narrator lines with character dialogue.
 - Part 1 and part 2 MUST end on a strong cliffhanger. Part 3 ends with a satisfying payoff.
 - The first line of every part must hook the viewer in 3 seconds.
 - 2 to 4 characters plus a narrator. Give every character a fixed visual "look":
-  name, age, face, hair, clothing, so pictures stay consistent. Adults only for any violence.
+  name, age, face, hair, clothing, so pictures stay consistent. Lovers are adults.
+  A pet character gets a look too (breed, colour, markings, collar) and voice narrator_female.
 - "image" describes ONE realistic film shot (who, where, action, light). Refer to characters
   as [[key]] using the character keys you define. No text or signs in the picture.
 - "motion" is a short camera/movement note.
@@ -73,15 +83,24 @@ Return ONLY JSON in this exact shape:
 
 def ask_gemini(prompt):
     model = os.environ.get("GEMINI_TEXT_MODEL", "gemini-2.5-flash")
-    r = requests.post(
-        f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-        headers={"x-goog-api-key": env("GEMINI_API_KEY")},
-        json={"contents": [{"parts": [{"text": prompt}]}],
-              "generationConfig": {"responseMimeType": "application/json", "temperature": 1.0}},
-        timeout=300)
-    if not r.ok:
-        sys.exit(f"Gemini error {r.status_code}: {r.text[:800]}")
-    return json.loads(r.json()["candidates"][0]["content"]["parts"][0]["text"])
+    for attempt in range(6):  # Gemini is sometimes "overloaded" for a few minutes; wait and retry
+        try:
+            r = requests.post(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                headers={"x-goog-api-key": env("GEMINI_API_KEY")},
+                json={"contents": [{"parts": [{"text": prompt}]}],
+                      "generationConfig": {"responseMimeType": "application/json", "temperature": 1.0}},
+                timeout=300)
+        except requests.RequestException as e:
+            print(f"Gemini connection error ({type(e).__name__}), retrying...", flush=True)
+        else:
+            if r.ok:
+                return json.loads(r.json()["candidates"][0]["content"]["parts"][0]["text"])
+            if r.status_code not in (429, 500, 502, 503, 504):
+                sys.exit(f"Gemini error {r.status_code}: {r.text[:800]}")
+            print(f"Gemini busy ({r.status_code}), retrying...", flush=True)
+        time.sleep(30 * (attempt + 1))
+    sys.exit("Gemini stayed busy for 10 minutes; the next scheduled run will try again.")
 
 
 def check(story, history):

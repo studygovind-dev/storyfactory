@@ -23,8 +23,8 @@ import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 W, H = 1080, 1920
-SCENE_MIN = 4.0      # shortest a scene may be (seconds)
-PAD = 0.35           # breathing room after each spoken line
+SCENE_MIN = 3.0      # shortest a scene may be (seconds)
+PAD = 0.15           # breathing room after each spoken line
 
 
 # ---------------------------------------------------------------- helpers
@@ -191,23 +191,27 @@ def make_clip(ep, i, scene, img, out, dry, zoom=False):
 
 # ---------------------------------------------------------------- 3. voice
 # Free Microsoft voices (edge-tts) for each voice name used in the series files.
+# Chosen for love stories: Neerja (Indian English) for women, Andrew (warm) for men,
+# spoken a little slower and lower so it sounds close and intimate.
 EDGE_VOICES = {
-    "narrator_male": "en-US-ChristopherNeural", "narrator_female": "en-US-AriaNeural",
-    "male_deep": "en-US-GuyNeural", "male_gruff": "en-US-EricNeural",
-    "male_smooth": "en-US-AndrewNeural", "female_warm": "en-US-JennyNeural",
-    "female_soft": "en-US-EmmaNeural", "child_girl": "en-US-AnaNeural",
+    "narrator_male": "en-US-AndrewNeural", "narrator_female": "en-IN-NeerjaExpressiveNeural",
+    "male_deep": "en-US-AndrewNeural", "male_gruff": "en-US-AndrewNeural",
+    "male_smooth": "en-US-AndrewNeural", "female_warm": "en-IN-NeerjaExpressiveNeural",
+    "female_soft": "en-IN-NeerjaExpressiveNeural", "child_girl": "en-US-AnaNeural",
     "child_boy": "en-US-AnaNeural",
 }
+VOICE_RATE, VOICE_PITCH = "+5%", "-3Hz"   # natural pace, slightly lower pitch for warmth
 
 
 def make_voice_free(ep, i, scene, out):
     voice_key = ep["characters"][scene["speaker"]]["voice"].lower()
     voice = EDGE_VOICES.get(voice_key) or (
         "en-US-AnaNeural" if voice_key.startswith("child") else
-        "en-US-JennyNeural" if "female" in voice_key else "en-US-GuyNeural")
+        EDGE_VOICES["female_soft"] if "female" in voice_key else EDGE_VOICES["male_smooth"])
     text = scene["line"].replace("*", "").replace("_", " ")  # drop markdown emphasis
     for attempt in range(6):  # the free voice service sometimes refuses a request; wait and retry
         r = subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice, "--text", text,
+                            f"--rate={VOICE_RATE}", f"--pitch={VOICE_PITCH}",
                             "--write-media", str(out)], capture_output=True, text=True)
         if r.returncode == 0 and out.exists() and out.stat().st_size > 0:
             return
@@ -234,11 +238,38 @@ def make_voice(ep, i, scene, out, dry):
     r = requests.post(
         f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}?output_format=mp3_44100_128",
         headers={"xi-api-key": env("ELEVEN_API_KEY")},
-        json={"text": scene["line"], "model_id": os.environ.get("ELEVEN_MODEL", "eleven_multilingual_v2"),
-              "voice_settings": {"stability": 0.4, "similarity_boost": 0.8, "style": 0.4}},
+        json={"text": scene["line"].replace("*", ""),
+              "model_id": os.environ.get("ELEVEN_MODEL", "eleven_multilingual_v2"),
+              # lower stability + more style = softer, more emotional delivery
+              "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5}},
         timeout=120)
     r.raise_for_status()
     out.write_bytes(r.content)
+
+
+ELEVEN_OFF = False  # set when ElevenLabs credits run out, so the rest of the video uses free voices
+
+
+def make_voice_best(ep, i, scene, out):
+    """ElevenLabs voice when a key is set (best, most natural), free voice as backup."""
+    global ELEVEN_OFF
+    if not ELEVEN_OFF and os.environ.get("ELEVEN_API_KEY", "").strip():
+        for attempt in range(3):
+            try:
+                make_voice(ep, i, scene, out, False)
+                return
+            except requests.HTTPError as e:
+                code = e.response.status_code
+                if code in (401, 402, 403) or "quota" in e.response.text:
+                    print(f"  ElevenLabs refused ({code}: {e.response.text[:150]}); "
+                          "using free voices for the rest of this video.")
+                    ELEVEN_OFF = True
+                    break
+                print(f"  ElevenLabs busy ({code}), retrying...")
+            except requests.RequestException:
+                print("  ElevenLabs connection error, retrying...")
+            time.sleep(10 * (attempt + 1))
+    make_voice_free(ep, i, scene, out)
 
 
 # ---------------------------------------------------------------- 4. build
@@ -305,6 +336,25 @@ def build(ep, work, final):
     if r.returncode:
         sys.exit("Final render failed:\n" + r.stderr[-1500:])
     return t
+
+
+MAX_SECS = 178.0  # Shorts / Reels limit is 3:00; keep a little margin
+
+
+def speed_to_fit(final, total):
+    """Speed the whole video up slightly (voice pitch unchanged) so it ends under MAX_SECS."""
+    f = total / MAX_SECS
+    if f > 1.25:
+        print(f"Warning: part is {total:.0f}s; speeding up only 25%, it will stay over 3 minutes.")
+        f = 1.25
+    tmp = final.with_name("final_fast.mp4")
+    run(["ffmpeg", "-y", "-i", str(final), "-filter_complex",
+         f"[0:v]setpts=PTS/{f:.4f}[v];[0:a]atempo={f:.4f}[a]", "-map", "[v]", "-map", "[a]",
+         "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p",
+         "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(tmp)])
+    tmp.replace(final)
+    print(f"Sped up {f:.2f}x to fit under 3 minutes.")
+    return total / f
 
 
 # ---------------------------------------------------------------- 5. send
@@ -391,12 +441,12 @@ def main():
         print(f"scene {i + 1}/{len(ep['scenes'])}")
         img, voice = work / f"img_{i}.png", work / f"voice_{i}.mp3"
         if a.free:
-            # Pictures cost pollen: one picture covers two scenes (each gets a different zoom).
-            img = work / f"img_{i - i % 2}.png"
+            # Pictures cost pollen: one picture covers 3 scenes (each gets a different zoom).
+            img = work / f"img_{i - i % 3}.png"
             if not img.exists():
                 make_image_free(ep, i, sc, img)
             if not voice.exists():
-                make_voice_free(ep, i, sc, voice)
+                make_voice_best(ep, i, sc, voice)
         else:
             make_image(ep, i, sc, img, a.dry_run)
             make_voice(ep, i, sc, voice, a.dry_run)
@@ -405,6 +455,8 @@ def main():
 
     final = work / "final.mp4"
     total = build(ep, work, final)
+    if ep.get("parts") and total > MAX_SECS:  # daily parts must fit the 3-minute Shorts limit
+        total = speed_to_fit(final, total)
     print(f"Done: {final}  ({total:.1f}s)")
     if not a.no_send and not a.dry_run:
         send_telegram(final, ep)
