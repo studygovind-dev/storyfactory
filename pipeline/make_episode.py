@@ -195,10 +195,28 @@ def make_clip(ep, i, scene, img, out, dry, zoom=False):
 # spoken a little slower and lower so it sounds close and intimate.
 EDGE_VOICES = {
     "narrator_male": "en-US-AndrewNeural", "narrator_female": "en-IN-NeerjaExpressiveNeural",
-    "male_deep": "en-US-AndrewNeural", "male_gruff": "en-US-AndrewNeural",
+    "male_young": "en-US-BrianNeural", "male_young2": "en-US-AndrewNeural",
+    "male_adult": "en-US-AndrewNeural", "male_old": "en-US-GuyNeural",
+    "female_young": "en-IN-NeerjaExpressiveNeural", "female_adult": "en-IN-NeerjaExpressiveNeural",
+    "female_old": "en-IN-NeerjaExpressiveNeural",
+    "child_girl": "en-US-AnaNeural", "child_boy": "en-US-AnaNeural",
+    # older story files
+    "male_deep": "en-US-GuyNeural", "male_gruff": "en-US-GuyNeural",
     "male_smooth": "en-US-AndrewNeural", "female_warm": "en-IN-NeerjaExpressiveNeural",
-    "female_soft": "en-IN-NeerjaExpressiveNeural", "child_girl": "en-US-AnaNeural",
-    "child_boy": "en-US-AnaNeural",
+    "female_soft": "en-IN-NeerjaExpressiveNeural",
+}
+
+# ElevenLabs voices matched to age (public library voices). A VOICE_<NAME> setting in .env
+# or GitHub Secrets wins; women and children fall back to VOICE_FEMALE / VOICE_CHILD.
+ELEVEN_DEFAULTS = {
+    "MALE_YOUNG": "g5CIjZEefAph4nQFvHAz",     # Ethan: soft, 20-25
+    "MALE_YOUNG2": "bIHbv24MWmeRgasZH58o",    # Will: light, friendly, 20-25 (friend / rival)
+    "MALE_ADULT": "cjVigY5qzO86Huf0OWal",     # Eric: smooth, 30-45
+    "MALE_OLD": "nPczCjzI2devNBz1zQrb",       # Brian: deep, 45+ / boss / father
+    "MALE_DEEP": "nPczCjzI2devNBz1zQrb", "MALE_GRUFF": "nPczCjzI2devNBz1zQrb",
+    "MALE_SMOOTH": "cjVigY5qzO86Huf0OWal",
+    "NARRATOR_MALE": "iP95p4xoKVk53GoZ742B",  # Chris
+    "FEMALE_YOUNG": "twAMWTText0eNf1AicWu",   # chosen voice for women in their 20s
 }
 VOICE_RATE, VOICE_PITCH = "+5%", "-3Hz"   # natural pace, slightly lower pitch for warmth
 
@@ -234,7 +252,8 @@ def make_voice(ep, i, scene, out, dry):
     k = voice_key.upper()
     fallback = "VOICE_CHILD" if k.startswith("CHILD") else (
         "VOICE_FEMALE" if "FEMALE" in k else "VOICE_MALE")
-    voice_id = os.environ.get("VOICE_" + k, "").strip() or env(fallback)
+    voice_id = (os.environ.get("VOICE_" + k, "").strip() or ELEVEN_DEFAULTS.get(k)
+                or env(fallback))
     r = requests.post(
         f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}?output_format=mp3_44100_128",
         headers={"xi-api-key": env("ELEVEN_API_KEY")},

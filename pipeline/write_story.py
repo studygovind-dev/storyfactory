@@ -60,7 +60,15 @@ Rules:
 - "image" describes ONE realistic film shot (who, where, action, light). Refer to characters
   as [[key]] using the character keys you define. No text or signs in the picture.
 - "motion" is a short camera/movement note.
-- Use only these voice names: {voices}. The narrator uses narrator_male or narrator_female.
+- Pick each character's voice by AGE and TYPE (the voice must match the person):
+    male_young   = man 18-30, the young hero / lover (soft, not deep)
+    male_young2  = a SECOND young man 18-30 (friend, rival, brother)
+    male_adult   = man 30-45
+    male_old     = man over 45, father, boss, tough or dangerous man (deep voice)
+    female_young = woman 18-30, female_adult = woman 30-45, female_old = woman over 45
+    child_girl / child_boy = children
+    narrator_male or narrator_female = the narrator
+  Two characters must not share a voice, except female voices may repeat.
 - Family friendly enough for YouTube: no gore, no sexual content.
 
 Return ONLY JSON in this exact shape:
@@ -114,7 +122,7 @@ def check(story, history):
         errs.append("needs exactly 3 parts")
     for k, c in chars.items():
         if c.get("voice") not in EDGE_VOICES:
-            c["voice"] = "narrator_male" if k == "narrator" else "male_deep"  # repair, not fail
+            c["voice"] = "narrator_male" if k == "narrator" else "male_adult"  # repair, not fail
     for p in story.get("parts", []):
         if not SCENES_PER_PART - 5 <= len(p.get("scenes", [])) <= SCENES_PER_PART + 1:
             errs.append(f"part '{p.get('title')}' has {len(p.get('scenes', []))} scenes")
@@ -139,7 +147,7 @@ def main():
     history = hist_file.read_text(encoding="utf-8").splitlines() if hist_file.exists() else []
     genre = GENRES[datetime.date.fromisoformat(day).toordinal() % len(GENRES)]
     prompt = PROMPT.format(genre=genre, history="\n".join("- " + h for h in history[-90:]) or "none",
-                           n=SCENES_PER_PART, voices=", ".join(EDGE_VOICES))
+                           n=SCENES_PER_PART)
 
     for attempt in range(3):
         story = ask_gemini(prompt)
