@@ -1,0 +1,188 @@
+{
+ "series": "The Echo in the Attic",
+ "episode": 1,
+ "title": "The Unearthed Box",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
+ "characters": {
+  "elara": {
+   "look": "28, long wavy dark brown hair, expressive green eyes, wears smart casual dresses/blouses",
+   "voice": "female_warm"
+  },
+  "robert": {
+   "look": "55, kind face, greying temples, neatly combed silver hair, wears well-fitted polo shirts or casual button-downs",
+   "voice": "male_deep"
+  },
+  "maria": {
+   "look": "53, elegant, styled blonde bob, warm smile but hints of worry, wears sophisticated but comfortable clothing",
+   "voice": "female_soft"
+  },
+  "sarah": {
+   "look": "30, elegant, dark wavy hair, warm smile, wears business casual",
+   "voice": "female_warm"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "narrator_male"
+  }
+ },
+ "scenes": [
+  {
+   "image": "Elara standing in a dusty attic, sunlight streaming through a window, looking contemplative, surrounded by old boxes.",
+   "motion": "Slow zoom in on her face.",
+   "speaker": "narrator",
+   "line": "Some secrets are buried deep, waiting for the quiet dust to be disturbed."
+  },
+  {
+   "image": "Elara reaching for a worn cardboard box labeled 'Elara's Childhood' on a high shelf.",
+   "motion": "Dolly in.",
+   "speaker": "elara",
+   "line": "Time to face these old memories, even the ones I might have forgotten."
+  },
+  {
+   "image": "Close-up of Elara gently placing the dusty box on a wooden floor, light catching dust particles.",
+   "motion": "Static.",
+   "speaker": "narrator",
+   "line": "Each object held a whisper of a time long past, a story waiting to be heard."
+  },
+  {
+   "image": "Overhead shot of the open box, showing crayon drawings, a faded teddy bear, and school awards.",
+   "motion": "Pan slowly over contents.",
+   "speaker": "elara",
+   "line": "Look at this old teddy bear! I remember carrying him everywhere as a child."
+  },
+  {
+   "image": "Close-up of a sepia-toned wedding photo of young Robert and Maria, smiling brightly.",
+   "motion": "Gentle push in.",
+   "speaker": "elara",
+   "line": "Mom and Dad, so young, so full of hope and happiness on their special day."
+  },
+  {
+   "image": "Elara carefully moving dried flowers aside, her fingers touching a slightly raised area in the box.",
+   "motion": "Close-up of hands.",
+   "speaker": "narrator",
+   "line": "But beneath the surface of familiar warmth, something unexpected lay hidden."
+  },
+  {
+   "image": "Elara examining the bottom of the box, noticing a subtle seam she hadn't seen before.",
+   "motion": "Handheld slight shake.",
+   "speaker": "elara",
+   "line": "Wait, what's this? A false bottom? I never knew this box had a secret compartment."
+  },
+  {
+   "image": "Close-up of Elara using her fingernail to pry open the false bottom, revealing a dark recess.",
+   "motion": "Macro shot.",
+   "speaker": "narrator",
+   "line": "A hidden chamber, guarded by time, now reluctantly opened its secrets."
+  },
+  {
+   "image": "Overhead shot looking into the hidden compartment, showing old black and white photos and a single faded envelope.",
+   "motion": "Push in.",
+   "speaker": "elara",
+   "line": "These aren't my things. What could Dad or Mom have hidden in here?"
+  },
+  {
+   "image": "Elara picking up the stack of photos, her brow furrowed in concentration and curiosity.",
+   "motion": "Close-up on her face.",
+   "speaker": "narrator",
+   "line": "Her heart quickened. This felt different, heavier than mere forgotten keepsakes."
+  },
+  {
+   "image": "Close-up of a photo: young Robert (early 20s) with long hair, arm around a beautiful woman with wavy dark hair, both smiling.",
+   "motion": "Hold static.",
+   "speaker": "elara",
+   "line": "Dad? He looks so different, so much younger. Who is this woman with him?"
+  },
+  {
+   "image": "Close-up of another photo: young Robert and the same woman, gazing intimately, hand-in-hand in a park.",
+   "motion": "Slow pan across photo.",
+   "speaker": "narrator",
+   "line": "A passionate past, clearly etched in their youthful, loving gazes."
+  },
+  {
+   "image": "Elara holding the photo closer, her expression shifting from confusion to mild concern.",
+   "motion": "Focus pull from photo to Elara's face.",
+   "speaker": "elara",
+   "line": "She seems so important to him. Why have I never seen her before now?"
+  },
+  {
+   "image": "Close-up of a yellowed birth certificate. Names partially obscured, but 'Robert' is visible as father.",
+   "motion": "Zoom on text.",
+   "speaker": "narrator",
+   "line": "A brittle document, holding evidence of a life lived before her own."
+  },
+  {
+   "image": "Focus on the 'Mother's Name' section of the birth certificate: 'Eleanor Vance'.",
+   "motion": "Push in.",
+   "speaker": "elara",
+   "line": "Eleanor Vance? But Mom's name is Maria. What is this certificate?"
+  },
+  {
+   "image": "Elara's hand trembling slightly as she holds the birth certificate, her face pale.",
+   "motion": "Close-up on trembling hands.",
+   "speaker": "narrator",
+   "line": "A cold knot formed in her stomach. This wasn't just an old girlfriend."
+  },
+  {
+   "image": "Close-up of the date on the birth certificate, highlighting the year, then a quick cut to a calendar.",
+   "motion": "Fast cut.",
+   "speaker": "elara",
+   "line": "This birth was years before Mom and Dad even met. Who was this child?"
+  },
+  {
+   "image": "Elara carefully sliding a folded, aged letter out of the envelope, her expression tense.",
+   "motion": "Macro shot.",
+   "speaker": "narrator",
+   "line": "She opened the accompanying envelope, her fingers almost reluctant to touch it."
+  },
+  {
+   "image": "Close-up of the opening lines of the letter, revealing elegant handwriting and faint, circular watermarks (tear stains).",
+   "motion": "Slow pan across text.",
+   "speaker": "elara",
+   "line": "This letter is from Eleanor to Dad. It looks like it was written a long time ago."
+  },
+  {
+   "image": "Elara reading the letter, her eyes wide with shock and sadness. Her lips slightly parted.",
+   "motion": "Focus on her eyes.",
+   "speaker": "narrator",
+   "line": "It spoke of love, loss, and a difficult decision they had made together."
+  },
+  {
+   "image": "Close-up on a specific sentence in the letter: 'Our beautiful girl... protect her.'",
+   "motion": "Zoom to highlight.",
+   "speaker": "elara",
+   "line": "'Our beautiful girl'? They had a child? But I'm their only daughter."
+  },
+  {
+   "image": "Elara sitting on the floor, surrounded by the documents, looking utterly overwhelmed and lost.",
+   "motion": "Pull back slightly.",
+   "speaker": "narrator",
+   "line": "Her head spun. A child? Her father had a child with another woman before her mother?"
+  },
+  {
+   "image": "Elara frantically going through the rest of the photos, eyes darting, desperate.",
+   "motion": "Quick cuts of photos being flipped.",
+   "speaker": "elara",
+   "line": "There must be more. More explanations. I need to understand this."
+  },
+  {
+   "image": "Extreme close-up of Elara's eyes widening in horror and disbelief.",
+   "motion": "Static.",
+   "speaker": "narrator",
+   "line": "And then she saw it. A picture that stopped her breath."
+  },
+  {
+   "image": "Close-up of a sepia photo: young Robert, Eleanor (the other woman), and Eleanor cradling a newborn baby, all looking at the camera.",
+   "motion": "Slow zoom on the baby's face.",
+   "speaker": "elara",
+   "line": "No… This can't be real. Dad… with a baby? My father had another child."
+  },
+  {
+   "image": "Split screen: One side, the baby in the photo. Other side, a younger photo of Elara as a baby, showing striking resemblance.",
+   "motion": "Zoom on both faces.",
+   "speaker": "elara",
+   "line": "The baby looks just like me. This baby… is my half-sister. My father had a secret family."
+  }
+ ],
+ "caption": "A forgotten box reveals a shocking family secret. #FamilySecrets #HiddenTruth #ShockingDiscovery",
+ "slug": "2026-10-26_part1"
+}

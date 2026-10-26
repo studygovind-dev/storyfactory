@@ -1,0 +1,188 @@
+{
+ "series": "The Echo in the Attic",
+ "episode": 3,
+ "title": "The Full Truth and Forgiveness",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
+ "characters": {
+  "elara": {
+   "look": "28, long wavy dark brown hair, expressive green eyes, wears smart casual dresses/blouses",
+   "voice": "female_warm"
+  },
+  "robert": {
+   "look": "55, kind face, greying temples, neatly combed silver hair, wears well-fitted polo shirts or casual button-downs",
+   "voice": "male_deep"
+  },
+  "maria": {
+   "look": "53, elegant, styled blonde bob, warm smile but hints of worry, wears sophisticated but comfortable clothing",
+   "voice": "female_soft"
+  },
+  "sarah": {
+   "look": "30, elegant, dark wavy hair, warm smile, wears business casual",
+   "voice": "female_warm"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "narrator_male"
+  }
+ },
+ "scenes": [
+  {
+   "image": "Elara rushing to Robert's side as he slumps in his chair, looking distraught and panicked, while he gasps.",
+   "motion": "Close-up of their frantic faces.",
+   "speaker": "narrator",
+   "line": "The air crackled with unspoken history as Robert fought for breath, his secret finally exposed."
+  },
+  {
+   "image": "Maria bursting into the study, her eyes wide with alarm, rushing towards Robert and Elara.",
+   "motion": "Fast cut.",
+   "speaker": "maria",
+   "line": "Robert! What happened? Are you okay? Elara, what did you do?"
+  },
+  {
+   "image": "Elara looking between her parents, a mix of concern for her father and lingering anger.",
+   "motion": "Focus pull between Robert and Maria.",
+   "speaker": "elara",
+   "line": "Mom, he just… he saw the picture. He just reacted."
+  },
+  {
+   "image": "Maria holding Robert's hand, looking into his eyes, a silent communication passing between them.",
+   "motion": "Static.",
+   "speaker": "maria",
+   "line": "Deep breaths, Robert. It's okay. We'll face this together, just breathe."
+  },
+  {
+   "image": "Robert slowly regaining composure, looking from Elara to Maria, his expression a mixture of fear and deep sadness.",
+   "motion": "Slow zoom on his face.",
+   "speaker": "robert",
+   "line": "I… I have to tell you everything. Both of you. The whole truth."
+  },
+  {
+   "image": "Robert sitting upright, hands clasped, looking down, beginning to speak, his voice filled with sorrow.",
+   "motion": "Low angle shot.",
+   "speaker": "robert",
+   "line": "Eleanor… she was my first love. We were so young, foolish, barely adults."
+  },
+  {
+   "image": "Flashback image: Young Robert and Eleanor laughing in a sun-drenched field, full of innocent joy. (Slightly stylized, soft focus).",
+   "motion": "Dreamy pan.",
+   "speaker": "narrator",
+   "line": "A whirlwind romance, reckless and beautiful, led to an unexpected new life."
+  },
+  {
+   "image": "Flashback image: Young Robert looking distressed, being shouted at by an unseen older man (implied father figure) in a stern setting.",
+   "motion": "Static.",
+   "speaker": "robert",
+   "line": "My parents… they were furious. They demanded I leave her, deny everything."
+  },
+  {
+   "image": "Flashback image: Young Robert looking lost and heartbroken, walking away from a small cottage in the rain, head bowed.",
+   "motion": "Tracking shot.",
+   "speaker": "robert",
+   "line": "I was a boy. Scared. They convinced me she and the baby would be better off without me."
+  },
+  {
+   "image": "Close-up of Robert's face, tears silently running down his cheeks as he confesses the deepest wound.",
+   "motion": "Zoom on a tear.",
+   "speaker": "robert",
+   "line": "They told me the baby was stillborn. They lied. I believed them for years."
+  },
+  {
+   "image": "Maria pulling Robert into a tight hug, both crying softly, a shared grief and understanding between them.",
+   "motion": "Close-up of their embrace.",
+   "speaker": "maria",
+   "line": "My love… I'm so sorry. I knew there was a secret, but not this agony."
+  },
+  {
+   "image": "Elara standing a few feet away, watching her parents, her face reflecting a complex mix of anger, sadness, and dawning understanding.",
+   "motion": "Pull back.",
+   "speaker": "elara",
+   "line": "This… this is so much to process. All these years, you carried this burden."
+  },
+  {
+   "image": "Flashback image: Older Robert (early 30s) looking somber, visiting a frail Eleanor in a hospital bed, holding her hand.",
+   "motion": "Static.",
+   "speaker": "robert",
+   "line": "Years later, after Maria and I married, I found Eleanor again."
+  },
+  {
+   "image": "Close-up of Eleanor's hand gripping Robert's in the hospital, a faint smile on her face as she shares the truth.",
+   "motion": "Static.",
+   "speaker": "robert",
+   "line": "Our daughter, Sarah, was alive. Adopted. My parents had faked her death."
+  },
+  {
+   "image": "Overhead shot of Robert in a dim room, surrounded by old files and maps, tirelessly searching, years passing.",
+   "motion": "Time lapse effect (subtle).",
+   "speaker": "narrator",
+   "line": "Robert searched for years, driven by guilt and a desperate longing for his lost child."
+  },
+  {
+   "image": "Close-up of Robert's face, looking directly at Elara, a fragile smile appearing, tears still in his eyes.",
+   "motion": "Zoom in.",
+   "speaker": "robert",
+   "line": "I found her, Elara. Sarah. She's alive. I've been meeting her for the past few months."
+  },
+  {
+   "image": "Elara's hand flying to her mouth in shock, eyes wide, processing this new layer of revelation.",
+   "motion": "Quick cut to her face.",
+   "speaker": "elara",
+   "line": "You found her? My sister? You've been meeting her? Alone?"
+  },
+  {
+   "image": "Robert looking more hopeful, a genuine smile forming, envisioning a future where his two daughters meet.",
+   "motion": "Static.",
+   "speaker": "robert",
+   "line": "She's a wonderful woman, Elara, and she knows about me now. She wants to meet you."
+  },
+  {
+   "image": "Maria smiling gently at Elara, her eyes encouraging, supporting this difficult next step.",
+   "motion": "Gentle push in.",
+   "speaker": "maria",
+   "line": "It's a big step, but it's the right one. A new chapter for our family."
+  },
+  {
+   "image": "Elara's expression softening, a thoughtful, curious look replacing her earlier pain.",
+   "motion": "Slow zoom on her eyes.",
+   "speaker": "elara",
+   "line": "My sister… I have a sister. All these years, I never knew."
+  },
+  {
+   "image": "Elara sitting at a small cafe table, looking out the window, nervously stirring her coffee, anticipation in her eyes.",
+   "motion": "Focus pull from window to Elara.",
+   "speaker": "narrator",
+   "line": "The next day, at a quaint cafe, Elara waited, heart pounding, for this unknown sibling."
+  },
+  {
+   "image": "Robert and Maria joining Elara at the cafe table, both looking supportive and a little nervous themselves.",
+   "motion": "Wide shot of them together.",
+   "speaker": "robert",
+   "line": "She's almost here, darling. Remember, she's nervous too. Just be yourselves."
+  },
+  {
+   "image": "A woman, elegant, late 20s-early 30s, with dark wavy hair, entering the cafe, looking around expectantly.",
+   "motion": "Slow zoom on her face.",
+   "speaker": "narrator",
+   "line": "The cafe door chimed. A woman walked in, elegant and familiar. Elara's eyes widened."
+  },
+  {
+   "image": "Split screen: One side, Sarah smiling cautiously. Other side, Elara's face, a mix of disbelief and recognition.",
+   "motion": "Fast cut between their faces.",
+   "speaker": "elara",
+   "line": "Sarah? My Sarah? The girl from accounting? This can't be real."
+  },
+  {
+   "image": "Robert standing between Elara and Sarah, gently placing a hand on each of their shoulders, a look of profound relief and love on his face.",
+   "motion": "Pan slowly across their faces.",
+   "speaker": "robert",
+   "line": "Elara, this is Sarah. Sarah, this is your sister, Elara. My dearest daughters."
+  },
+  {
+   "image": "Elara and Sarah facing each other, a tentative, emotional smile shared between them, hands reaching out, new connection.",
+   "motion": "Slow zoom out to reveal the whole family, tears of joy.",
+   "speaker": "elara",
+   "line": "I can't believe it. My sister. Hello, Sarah. It's so good to finally meet you."
+  }
+ ],
+ "caption": "The shocking truth comes out, leading to an unexpected reunion. #FamilyForgiveness #NewBeginnings #EmotionalDrama",
+ "slug": "2026-10-26_part3"
+}

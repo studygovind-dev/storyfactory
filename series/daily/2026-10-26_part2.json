@@ -1,0 +1,188 @@
+{
+ "series": "The Echo in the Attic",
+ "episode": 2,
+ "title": "Confrontation and Denial",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
+ "characters": {
+  "elara": {
+   "look": "28, long wavy dark brown hair, expressive green eyes, wears smart casual dresses/blouses",
+   "voice": "female_warm"
+  },
+  "robert": {
+   "look": "55, kind face, greying temples, neatly combed silver hair, wears well-fitted polo shirts or casual button-downs",
+   "voice": "male_deep"
+  },
+  "maria": {
+   "look": "53, elegant, styled blonde bob, warm smile but hints of worry, wears sophisticated but comfortable clothing",
+   "voice": "female_soft"
+  },
+  "sarah": {
+   "look": "30, elegant, dark wavy hair, warm smile, wears business casual",
+   "voice": "female_warm"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "narrator_male"
+  }
+ },
+ "scenes": [
+  {
+   "image": "Elara on the attic floor, clutching the photo and birth certificate, tears streaming down her face, looking utterly broken.",
+   "motion": "Slow pan around her.",
+   "speaker": "narrator",
+   "line": "The world blurred around Elara as the devastating truth crashed over her, leaving her breathless."
+  },
+  {
+   "image": "Close-up of Elara's hand clutching the letter tightly, knuckles white, eyes full of betrayal.",
+   "motion": "Static.",
+   "speaker": "elara",
+   "line": "Everything I knew about my family, about Dad, is a lie. How could he?"
+  },
+  {
+   "image": "Elara descending the attic stairs slowly, head bowed, the documents still held tightly.",
+   "motion": "Tracking shot.",
+   "speaker": "narrator",
+   "line": "She stumbled downstairs, the artifacts of her father's past burning in her hands."
+  },
+  {
+   "image": "Maria in a bright, airy living room, smiling softly as she places flowers in a vase, natural light.",
+   "motion": "Gentle side track.",
+   "speaker": "maria",
+   "line": "Oh, Elara, darling! I thought you were up in the attic, finding treasures."
+  },
+  {
+   "image": "Elara standing rigidly at the living room entrance, eyes fixed on Maria, face pale and unresponsive.",
+   "motion": "Dolly in on Elara's face.",
+   "speaker": "elara",
+   "line": "Mom, I… I found something. Something really important, up there."
+  },
+  {
+   "image": "Maria slowly turning towards Elara, her cheerful expression morphing into concern as she sees Elara's distress.",
+   "motion": "Close-up on Maria's eyes.",
+   "speaker": "maria",
+   "line": "Elara, what's wrong? You look like you've seen a ghost. What did you find?"
+  },
+  {
+   "image": "Overhead shot of the coffee table: the photos, letter, and birth certificate laid out, Elara's trembling hand pointing.",
+   "motion": "Zoom out slightly.",
+   "speaker": "elara",
+   "line": "This. I found this. Can you explain this to me, Mom? Please."
+  },
+  {
+   "image": "Close-up of Maria's face as her eyes land on the key photo, her expression shifting from confusion to shock, then deep sadness.",
+   "motion": "Static.",
+   "speaker": "maria",
+   "line": "Oh, my god… No. This… this can't be happening. Not now."
+  },
+  {
+   "image": "Maria sinking onto the sofa, covering her mouth with a hand, tears welling in her eyes, looking defeated.",
+   "motion": "Pull back.",
+   "speaker": "narrator",
+   "line": "A deep sigh escaped Maria's lips. Her posture slumped, all energy draining from her."
+  },
+  {
+   "image": "Elara kneeling beside Maria, gripping her mother's arm, desperate for answers, eyes pleading.",
+   "motion": "Close-up of their intertwined hands.",
+   "speaker": "elara",
+   "line": "Tell me, Mom. Who is Eleanor? Who is that baby? Please."
+  },
+  {
+   "image": "Maria looking out the window, avoiding Elara's gaze, a single tear tracing a path down her cheek.",
+   "motion": "Soft focus on her profile.",
+   "speaker": "maria",
+   "line": "It's… your father's past, Elara. A painful one. He was very young."
+  },
+  {
+   "image": "Elara standing up abruptly, her voice rising in frustration and hurt, gesturing wildly at the documents.",
+   "motion": "Wide shot.",
+   "speaker": "elara",
+   "line": "A past? He had a whole other child, Mom! A secret daughter!"
+  },
+  {
+   "image": "Close-up on Maria's tearful face, her eyes closed for a moment in anguish, sharing a fragment of the truth.",
+   "motion": "Gentle push in.",
+   "speaker": "maria",
+   "line": "He thought she was gone, Elara. He was told the baby didn't make it."
+  },
+  {
+   "image": "Robert entering the house, briefcase in hand, a warm smile on his face, calling out.",
+   "motion": "Pan to him.",
+   "speaker": "robert",
+   "line": "Hello, my lovely ladies! What a wonderful day, home early for once."
+  },
+  {
+   "image": "Elara quickly gathering the papers from the table, trying to conceal them behind her back, eyes wide with fear.",
+   "motion": "Fast cut to hands.",
+   "speaker": "elara",
+   "line": "Dad's home. Not now. We can't do this with him right here."
+  },
+  {
+   "image": "Maria quickly wiping her eyes, forcing a smile towards Robert, though her eyes still hold sadness.",
+   "motion": "Static.",
+   "speaker": "maria",
+   "line": "Just discussing dinner plans, dear. Elara was asking about dinner."
+  },
+  {
+   "image": "Robert walking into the living room, kissing Maria lightly, then reaching to hug Elara, who is stiff.",
+   "motion": "Tracking shot.",
+   "speaker": "robert",
+   "line": "Dinner plans, eh? How about I make my famous lasagna tonight, ladies?"
+  },
+  {
+   "image": "Dinner table scene. Elara staring intensely at Robert across the table, her plate untouched, while he smiles.",
+   "motion": "Focus pull between them.",
+   "speaker": "narrator",
+   "line": "The evening was a tense charade. Elara watched her father, seeing a stranger."
+  },
+  {
+   "image": "Close-up of Elara's clenched fist under the table, her face strained, unable to meet her father's eyes.",
+   "motion": "Focus on fist.",
+   "speaker": "elara",
+   "line": "I can't eat. The weight of the secret, and his apparent deceit, is suffocating."
+  },
+  {
+   "image": "Robert in his study, sitting in an armchair, reading a book, peaceful. Elara standing hesitantly at the doorway.",
+   "motion": "Rack focus from Robert to Elara.",
+   "speaker": "elara",
+   "line": "Dad? Can we talk for a minute? There's something important."
+  },
+  {
+   "image": "Robert lowering his book, smiling warmly at Elara, gesturing her to come closer.",
+   "motion": "Static.",
+   "speaker": "robert",
+   "line": "Of course, sweetheart. Come in. What's on your mind, darling?"
+  },
+  {
+   "image": "Close-up of Elara's trembling hand slowly pulling out the old sepia photo from her jeans pocket.",
+   "motion": "Macro shot.",
+   "speaker": "narrator",
+   "line": "The moment of truth arrived, fragile and fraught with unimaginable consequence."
+  },
+  {
+   "image": "The old photo (Robert, Eleanor, baby) laid flat on Robert's desk. Elara's finger pointing to it, her face filled with hurt.",
+   "motion": "Overhead shot.",
+   "speaker": "elara",
+   "line": "Dad. Who is this woman? Who is this baby? I need the truth."
+  },
+  {
+   "image": "Close-up of Robert's face. His smile vanishes instantly, eyes widen in shock and horror, jaw dropping.",
+   "motion": "Zoom on his eyes.",
+   "speaker": "narrator",
+   "line": "Robert's eyes fell on the image. His face drained of all color, turning chalky white."
+  },
+  {
+   "image": "Robert's trembling hand reaching for the photo, almost knocking over a pen. His breathing is shallow and rapid.",
+   "motion": "Close-up of hand.",
+   "speaker": "robert",
+   "line": "Elara… no… how did you… how did you find this?"
+  },
+  {
+   "image": "Robert slumping dramatically in his chair, hand clutching his chest, eyes wide with fear and despair. Elara looking on in horror.",
+   "motion": "Dolly out from Robert's face to show Elara's reaction.",
+   "speaker": "robert",
+   "line": "Elara, please… you don't understand. This isn't what it looks like!"
+  }
+ ],
+ "caption": "Elara confronts her mother, unearthing a painful truth. #FamilyDrama #Betrayal #Cliffhanger",
+ "slug": "2026-10-26_part2"
+}
