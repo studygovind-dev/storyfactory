@@ -64,11 +64,16 @@ def expand(text, chars):
 
 
 # ---------------------------------------------------------------- 1. images
+POLLEN_EMPTY = False  # set once the account balance runs out, so later scenes skip straight to the fallback
+
+
 def make_image_free(ep, i, scene, out):
-    """Free picture from Pollinations. The free server is often busy, so keep retrying."""
+    """Picture from Pollinations. Uses the account key (realistic faces) while it has pollen,
+    then falls back to the no-account server so the video still gets made."""
+    global POLLEN_EMPTY
     prompt = (f"{ep['style']}. {expand(scene['image'], ep['characters'])}. "
               "No text, no watermark, no logos.")
-    key = os.environ.get("POLLINATIONS_KEY", "").strip()  # free account key: much more realistic faces
+    key = "" if POLLEN_EMPTY else os.environ.get("POLLINATIONS_KEY", "").strip().lstrip("﻿")
     q = requests.utils.quote(prompt[:1500], safe="")
     if key:
         url = "https://gen.pollinations.ai/image/" + q
@@ -92,7 +97,10 @@ def make_image_free(ep, i, scene, out):
             if r.status_code in (401, 403):
                 sys.exit(f"Pollinations refused the key ({r.status_code}): {r.text[:300]}")
             if key and r.status_code == 402:
-                sys.exit("Your free Pollinations allowance for today is used up. Try again tomorrow.")
+                print("  Pollinations balance is empty (top up at enter.pollinations.ai), "
+                      "using the free no-account pictures for the rest of this video.")
+                POLLEN_EMPTY = True
+                return make_image_free(ep, i, scene, out)
             print(f"  picture server busy ({r.status_code}), retrying...")
         except requests.RequestException as e:
             print(f"  picture server error ({type(e).__name__}), retrying...")
@@ -352,6 +360,8 @@ def main():
         print(f"scene {i + 1}/{len(ep['scenes'])}")
         img, voice = work / f"img_{i}.png", work / f"voice_{i}.mp3"
         if a.free:
+            # Pictures cost pollen: one picture covers two scenes (each gets a different zoom).
+            img = work / f"img_{i - i % 2}.png"
             if not img.exists():
                 make_image_free(ep, i, sc, img)
             if not voice.exists():

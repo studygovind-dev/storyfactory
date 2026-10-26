@@ -33,10 +33,14 @@ GENRES = [
 
 PROMPT = """You write viral short-drama series for vertical video (YouTube Shorts, Instagram Reels).
 Write ONE original story told in exactly 3 parts. Genre today: {genre}.
-Do not reuse any of these earlier titles or plots: {history}
+These stories were already made. Your story must have a DIFFERENT title, DIFFERENT
+character names, a DIFFERENT setting and a DIFFERENT twist from every one of them:
+{history}
 
 Rules:
 - Each part has exactly {n} scenes. Each scene is one picture and one spoken line.
+- Scenes come in PAIRS (1+2, 3+4, ...): the second scene of a pair reuses the first scene's
+  picture, so both lines of a pair must happen in the same moment and place.
 - Each line is 10-18 words, simple English, emotional and gripping.
 - Mix narrator lines with character dialogue.
 - Part 1 and part 2 MUST end on a strong cliffhanger. Part 3 ends with a satisfying payoff.
@@ -52,6 +56,7 @@ Rules:
 Return ONLY JSON in this exact shape:
 {{
   "series": "<catchy series name>",
+  "premise": "<one sentence: who, where, what the twist is>",
   "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
   "characters": {{"<key>": {{"look": "...", "voice": "<voice name>"}}, "narrator": {{"look": "", "voice": "narrator_male"}}}},
   "parts": [
@@ -75,9 +80,12 @@ def ask_gemini(prompt):
     return json.loads(r.json()["candidates"][0]["content"]["parts"][0]["text"])
 
 
-def check(story):
+def check(story, history):
     """Return a list of problems; empty means the story is usable."""
     errs = []
+    used = {h.split(" | ")[0].strip().lower() for h in history}
+    if story.get("series", "").strip().lower() in used:
+        errs.append(f"title '{story.get('series')}' was already used")
     chars = story.get("characters", {})
     if len(story.get("parts", [])) != 3:
         errs.append("needs exactly 3 parts")
@@ -107,12 +115,12 @@ def main():
     hist_file = DAILY / "history.txt"
     history = hist_file.read_text(encoding="utf-8").splitlines() if hist_file.exists() else []
     genre = GENRES[datetime.date.fromisoformat(day).toordinal() % len(GENRES)]
-    prompt = PROMPT.format(genre=genre, history="; ".join(history[-60:]) or "none",
+    prompt = PROMPT.format(genre=genre, history="\n".join("- " + h for h in history[-90:]) or "none",
                            n=SCENES_PER_PART, voices=", ".join(EDGE_VOICES))
 
     for attempt in range(3):
         story = ask_gemini(prompt)
-        errs = check(story)
+        errs = check(story, history)
         if not errs:
             break
         print(f"Story had problems ({'; '.join(errs[:3])}), asking again...")
@@ -126,7 +134,8 @@ def main():
               "slug": f"{day}_part{n}"}
         (DAILY / f"{day}_part{n}.json").write_text(json.dumps(ep, indent=1, ensure_ascii=False),
                                                    encoding="utf-8")
-    hist_file.write_text("\n".join(history + [story["series"]]) + "\n", encoding="utf-8")
+    entry = f"{story['series']} | {day} | {story.get('premise', '').strip()}"
+    hist_file.write_text("\n".join(history + [entry]) + "\n", encoding="utf-8")
     print(f"Wrote {story['series']} ({day}), 3 parts.")
 
 
