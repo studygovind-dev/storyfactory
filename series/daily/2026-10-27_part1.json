@@ -1,0 +1,277 @@
+{
+ "series": "Faded Petals, New Blooms",
+ "episode": 1,
+ "title": "The Lakeside Whisper",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
+ "characters": {
+  "Leo": {
+   "look": "28, tall, lean build, kind hazel eyes, short messy dark brown hair often falling over his forehead, usually wears a soft grey hoodie over a white t-shirt, dark jeans, and worn sneakers.",
+   "voice": "male_young"
+  },
+  "Clara": {
+   "look": "28, graceful, warm smile, long wavy auburn hair often tied back with a silk scarf, gentle green eyes, wears practical yet flowing floral dresses, simple silver pendant necklace, gardening apron when working.",
+   "voice": "female_young"
+  },
+  "Molly": {
+   "look": "6, small, energetic, bright curious blue eyes, short blonde hair usually in two bouncy pigtails, wears colorful striped t-shirts and denim overalls, often with mud on her knees.",
+   "voice": "child_girl"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "narrator_female"
+  }
+ },
+ "scenes": [
+  {
+   "image": "[[Leo]] stands on a bustling main street of a quaint lakeside town, looking slightly lost, a small worn backpack on his shoulder. Sunlight filters through autumn leaves.",
+   "motion": "zoom slowly in on [[Leo]]'s thoughtful face.",
+   "speaker": "Leo",
+   "line": "Is it really me, standing back in this town, after all these years?"
+  },
+  {
+   "image": "[[Leo]] stands on a bustling main street of a quaint lakeside town, looking slightly lost, a small worn backpack on his shoulder. Sunlight filters through autumn leaves.",
+   "motion": "zoom slowly in on [[Leo]]'s thoughtful face.",
+   "speaker": "narrator",
+   "line": "Leo had promised himself he wouldn't look back, not after the way they parted."
+  },
+  {
+   "image": "[[Leo]] stands on a bustling main street of a quaint lakeside town, looking slightly lost, a small worn backpack on his shoulder. Sunlight filters through autumn leaves.",
+   "motion": "zoom slowly in on [[Leo]]'s thoughtful face.",
+   "speaker": "narrator",
+   "line": "But the familiar scent of lake air pulled him back into forgotten memories."
+  },
+  {
+   "image": "Close up of [[Leo]]'s hand instinctively touching an old, slightly faded wooden fence post along a quiet path. A small, overgrown path sign is barely visible.",
+   "motion": "camera follows [[Leo]]'s hand as it traces the weathered wood.",
+   "speaker": "narrator",
+   "line": "He wandered down an old path, a shortcut to the lake they used to share."
+  },
+  {
+   "image": "Close up of [[Leo]]'s hand instinctively touching an old, slightly faded wooden fence post along a quiet path. A small, overgrown path sign is barely visible.",
+   "motion": "camera follows [[Leo]]'s hand as it traces the weathered wood.",
+   "speaker": "Leo",
+   "line": "Remember this place, Clara? Our secret world, just beyond these reeds."
+  },
+  {
+   "image": "Close up of [[Leo]]'s hand instinctively touching an old, slightly faded wooden fence post along a quiet path. A small, overgrown path sign is barely visible.",
+   "motion": "camera follows [[Leo]]'s hand as it traces the weathered wood.",
+   "speaker": "narrator",
+   "line": "A bittersweet ache tightened in his chest, remembering her laughter."
+  },
+  {
+   "image": "A vibrant community garden patch filled with blooming wildflowers and vegetables. A small child, [[Molly]], is happily watering a plant.",
+   "motion": "slow pan across the colorful garden, ending on [[Molly]].",
+   "speaker": "narrator",
+   "line": "A burst of color caught his eye, an unexpected garden in an unexpected place."
+  },
+  {
+   "image": "A vibrant community garden patch filled with blooming wildflowers and vegetables. A small child, [[Molly]], is happily watering a plant.",
+   "motion": "slow pan across the colorful garden, ending on [[Molly]].",
+   "speaker": "Molly",
+   "line": "Look, Ms. Clara, this little daisy is already opening its petals today!"
+  },
+  {
+   "image": "A vibrant community garden patch filled with blooming wildflowers and vegetables. A small child, [[Molly]], is happily watering a plant.",
+   "motion": "slow pan across the colorful garden, ending on [[Molly]].",
+   "speaker": "narrator",
+   "line": "He smiled, amused by the child's pure joy among the flowers."
+  },
+  {
+   "image": "[[Clara]] kneels in the garden, smiling warmly at [[Molly]], her hands covered in light soil, a few strands of auburn hair escaping her scarf.",
+   "motion": "slight push in on [[Clara]]'s warm smile.",
+   "speaker": "Clara",
+   "line": "You have such a gentle touch, Molly; these flowers truly love you, my dear."
+  },
+  {
+   "image": "[[Clara]] kneels in the garden, smiling warmly at [[Molly]], her hands covered in light soil, a few strands of auburn hair escaping her scarf.",
+   "motion": "slight push in on [[Clara]]'s warm smile.",
+   "speaker": "narrator",
+   "line": "Then his breath caught. A familiar voice, a familiar warmth he couldn't believe."
+  },
+  {
+   "image": "[[Clara]] kneels in the garden, smiling warmly at [[Molly]], her hands covered in light soil, a few strands of auburn hair escaping her scarf.",
+   "motion": "slight push in on [[Clara]]'s warm smile.",
+   "speaker": "Leo",
+   "line": "Clara? Could that possibly be her, after all this time and distance?"
+  },
+  {
+   "image": "[[Leo]] hides partially behind a large oak tree, peering intently at [[Clara]] and [[Molly]] in the garden. His expression is a mix of shock and longing.",
+   "motion": "camera shakes slightly, mirroring [[Leo]]'s internal tremor.",
+   "speaker": "narrator",
+   "line": "His heart pounded a rhythm he thought was long forgotten, a song of youth."
+  },
+  {
+   "image": "[[Leo]] hides partially behind a large oak tree, peering intently at [[Clara]] and [[Molly]] in the garden. His expression is a mix of shock and longing.",
+   "motion": "camera shakes slightly, mirroring [[Leo]]'s internal tremor.",
+   "speaker": "narrator",
+   "line": "She was just as beautiful, perhaps even more radiant, bathed in sunlight."
+  },
+  {
+   "image": "[[Leo]] hides partially behind a large oak tree, peering intently at [[Clara]] and [[Molly]] in the garden. His expression is a mix of shock and longing.",
+   "motion": "camera shakes slightly, mirroring [[Leo]]'s internal tremor.",
+   "speaker": "Leo",
+   "line": "It's really her, in this place, creating something so wonderfully alive."
+  },
+  {
+   "image": "[[Clara]] gently wipes a smudge of dirt from [[Molly]]'s cheek with her thumb, a tender, maternal gesture. [[Molly]] giggles.",
+   "motion": "close up on their hands and faces, emphasizing the connection.",
+   "speaker": "Clara",
+   "line": "We're almost done here, little helper; soon we can share our bounty."
+  },
+  {
+   "image": "[[Clara]] gently wipes a smudge of dirt from [[Molly]]'s cheek with her thumb, a tender, maternal gesture. [[Molly]] giggles.",
+   "motion": "close up on their hands and faces, emphasizing the connection.",
+   "speaker": "Molly",
+   "line": "Will daddy come see all the new tomatoes we have grown for him?"
+  },
+  {
+   "image": "[[Clara]] gently wipes a smudge of dirt from [[Molly]]'s cheek with her thumb, a tender, maternal gesture. [[Molly]] giggles.",
+   "motion": "close up on their hands and faces, emphasizing the connection.",
+   "speaker": "Leo",
+   "line": "Daddy? My whole world just shattered into a million tiny, painful pieces."
+  },
+  {
+   "image": "[[Leo]] recoils slightly, pulling back further behind the tree, his face etched with disbelief and pain. His eyes are wide.",
+   "motion": "quick zoom out from [[Leo]]'s face, showing his retreat.",
+   "speaker": "narrator",
+   "line": "The word echoed, a cold, harsh truth slicing through his fragile hope."
+  },
+  {
+   "image": "[[Leo]] recoils slightly, pulling back further behind the tree, his face etched with disbelief and pain. His eyes are wide.",
+   "motion": "quick zoom out from [[Leo]]'s face, showing his retreat.",
+   "speaker": "narrator",
+   "line": "She had moved on, as he always knew she would, building a new life."
+  },
+  {
+   "image": "[[Leo]] recoils slightly, pulling back further behind the tree, his face etched with disbelief and pain. His eyes are wide.",
+   "motion": "quick zoom out from [[Leo]]'s face, showing his retreat.",
+   "speaker": "Leo",
+   "line": "Of course she did. Why would she ever wait for someone like me?"
+  },
+  {
+   "image": "[[Clara]] glances towards the oak tree, a flicker of an unknown emotion crossing her face, as if sensing a presence.",
+   "motion": "slow pan across [[Clara]]'s face, ending on her searching gaze.",
+   "speaker": "Clara",
+   "line": "Did you hear something, Molly? Felt a strange breeze pass through here."
+  },
+  {
+   "image": "[[Clara]] glances towards the oak tree, a flicker of an unknown emotion crossing her face, as if sensing a presence.",
+   "motion": "slow pan across [[Clara]]'s face, ending on her searching gaze.",
+   "speaker": "Molly",
+   "line": "Just the wind playing with the leaves, Ms. Clara! They're dancing now."
+  },
+  {
+   "image": "[[Clara]] glances towards the oak tree, a flicker of an unknown emotion crossing her face, as if sensing a presence.",
+   "motion": "slow pan across [[Clara]]'s face, ending on her searching gaze.",
+   "speaker": "narrator",
+   "line": "She dismissed the feeling, returning to her work, unaware of the broken heart."
+  },
+  {
+   "image": "[[Leo]] turns abruptly, walking quickly away from the garden, his back to the camera, shoulders slumped. The path ahead is blurry.",
+   "motion": "tracking shot from behind [[Leo]] as he walks away quickly.",
+   "speaker": "narrator",
+   "line": "He couldn't stay. The sight was too much, too real, too final."
+  },
+  {
+   "image": "[[Leo]] turns abruptly, walking quickly away from the garden, his back to the camera, shoulders slumped. The path ahead is blurry.",
+   "motion": "tracking shot from behind [[Leo]] as he walks away quickly.",
+   "speaker": "Leo",
+   "line": "I should have never come back. This town only holds ghosts now."
+  },
+  {
+   "image": "[[Leo]] turns abruptly, walking quickly away from the garden, his back to the camera, shoulders slumped. The path ahead is blurry.",
+   "motion": "tracking shot from behind [[Leo]] as he walks away quickly.",
+   "speaker": "narrator",
+   "line": "Each step away felt like a tear in the fabric of his childhood."
+  },
+  {
+   "image": "A small, intricately carved wooden bird, clearly old and cherished, lying half-hidden in the grass near the oak tree where [[Leo]] stood.",
+   "motion": "macro shot, slowly revealing the bird from the grass.",
+   "speaker": "narrator",
+   "line": "He didn't notice the small item that fell from his pocket, a forgotten token."
+  },
+  {
+   "image": "A small, intricately carved wooden bird, clearly old and cherished, lying half-hidden in the grass near the oak tree where [[Leo]] stood.",
+   "motion": "macro shot, slowly revealing the bird from the grass.",
+   "speaker": "narrator",
+   "line": "A small bird, carved from childhood, a symbol of their unspoken promise."
+  },
+  {
+   "image": "A small, intricately carved wooden bird, clearly old and cherished, lying half-hidden in the grass near the oak tree where [[Leo]] stood.",
+   "motion": "macro shot, slowly revealing the bird from the grass.",
+   "speaker": "Leo",
+   "line": "We promised to fly back to each other, like little birds, someday."
+  },
+  {
+   "image": "[[Clara]] is now standing, stretching her back, looking around the garden contentedly. She spots something glimmering in the grass.",
+   "motion": "slight head tilt from [[Clara]], then her eyes focus downwards.",
+   "speaker": "Clara",
+   "line": "Oh, what's this? A little piece of wood, glinting in the afternoon sun."
+  },
+  {
+   "image": "[[Clara]] is now standing, stretching her back, looking around the garden contentedly. She spots something glimmering in the grass.",
+   "motion": "slight head tilt from [[Clara]], then her eyes focus downwards.",
+   "speaker": "Molly",
+   "line": "Is it a fairy treasure, Ms. Clara? Can I touch it gently?"
+  },
+  {
+   "image": "[[Clara]] is now standing, stretching her back, looking around the garden contentedly. She spots something glimmering in the grass.",
+   "motion": "slight head tilt from [[Clara]], then her eyes focus downwards.",
+   "speaker": "Clara",
+   "line": "Let's see, Molly. It feels very old, but beautiful and so familiar."
+  },
+  {
+   "image": "Close-up of [[Clara]]'s hand picking up the wooden bird. Her fingers trace its smooth, worn surface. Her eyes widen slightly in recognition.",
+   "motion": "extreme close-up on the bird, then pulling back to [[Clara]]'s astonished face.",
+   "speaker": "narrator",
+   "line": "As her fingers closed around it, a jolt went through her, a wave of memory."
+  },
+  {
+   "image": "Close-up of [[Clara]]'s hand picking up the wooden bird. Her fingers trace its smooth, worn surface. Her eyes widen slightly in recognition.",
+   "motion": "extreme close-up on the bird, then pulling back to [[Clara]]'s astonished face.",
+   "speaker": "Clara",
+   "line": "This... this is impossible. I thought I'd lost this little carving forever."
+  },
+  {
+   "image": "Close-up of [[Clara]]'s hand picking up the wooden bird. Her fingers trace its smooth, worn surface. Her eyes widen slightly in recognition.",
+   "motion": "extreme close-up on the bird, then pulling back to [[Clara]]'s astonished face.",
+   "speaker": "narrator",
+   "line": "It was *their* bird, the one he had carved for her before he left."
+  },
+  {
+   "image": "[[Clara]] clutches the bird to her chest, her gaze sweeping frantically towards the path where [[Leo]] just walked away, her eyes filled with dawning realization.",
+   "motion": "slow pan from the bird to [[Clara]]'s face, then across the path.",
+   "speaker": "Clara",
+   "line": "He was here. He must have been here. I felt him, just a moment ago."
+  },
+  {
+   "image": "[[Clara]] clutches the bird to her chest, her gaze sweeping frantically towards the path where [[Leo]] just walked away, her eyes filled with dawning realization.",
+   "motion": "slow pan from the bird to [[Clara]]'s face, then across the path.",
+   "speaker": "narrator",
+   "line": "But he was already gone, leaving only a ghost and a forgotten promise."
+  }
+ ],
+ "caption": "Years apart, a chance encounter. Can childhood dreams truly fade? #LoveStory #SecondChances #FatedMeeting",
+ "slug": "2026-10-27_part1",
+ "story_no": 3,
+ "parts": 3,
+ "yt_title": "He Never Thought He'd See Her Again... (Part 1)",
+ "description": "A man returns to his childhood town, carrying old memories. An unexpected sight stops him cold. What will he do?",
+ "hashtags": [
+  "#shorts",
+  "#drama",
+  "#lovestory",
+  "#romance",
+  "#childhoodsweethearts",
+  "#secondchance",
+  "#reunion",
+  "#fated",
+  "#emotional",
+  "#heartwarming",
+  "#shortfilm",
+  "#verticalvideo",
+  "#cutecouple",
+  "#love",
+  "#dramaseries"
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "series": "Faded Petals, New Blooms",
+ "episode": 2,
+ "title": "The Echoing Lake",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
+ "characters": {
+  "Leo": {
+   "look": "28, tall, lean build, kind hazel eyes, short messy dark brown hair often falling over his forehead, usually wears a soft grey hoodie over a white t-shirt, dark jeans, and worn sneakers.",
+   "voice": "male_young"
+  },
+  "Clara": {
+   "look": "28, graceful, warm smile, long wavy auburn hair often tied back with a silk scarf, gentle green eyes, wears practical yet flowing floral dresses, simple silver pendant necklace, gardening apron when working.",
+   "voice": "female_young"
+  },
+  "Molly": {
+   "look": "6, small, energetic, bright curious blue eyes, short blonde hair usually in two bouncy pigtails, wears colorful striped t-shirts and denim overalls, often with mud on her knees.",
+   "voice": "child_girl"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "narrator_female"
+  }
+ },
+ "scenes": [
+  {
+   "image": "Close up of [[Clara]]'s hand holding the wooden bird, her thumb gently stroking its smooth surface. A single tear rolls down her cheek.",
+   "motion": "slow push in on [[Clara]]'s hand and face.",
+   "speaker": "Clara",
+   "line": "How could you be here, Leo? And why did you leave again so quickly?"
+  },
+  {
+   "image": "Close up of [[Clara]]'s hand holding the wooden bird, her thumb gently stroking its smooth surface. A single tear rolls down her cheek.",
+   "motion": "slow push in on [[Clara]]'s hand and face.",
+   "speaker": "narrator",
+   "line": "The tiny wooden bird felt heavy in her palm, a weight of unspoken words."
+  },
+  {
+   "image": "Close up of [[Clara]]'s hand holding the wooden bird, her thumb gently stroking its smooth surface. A single tear rolls down her cheek.",
+   "motion": "slow push in on [[Clara]]'s hand and face.",
+   "speaker": "narrator",
+   "line": "It was a symbol of their last farewell, a promise whispered by the lake."
+  },
+  {
+   "image": "[[Clara]] is now at the edge of the lake, looking out over the shimmering water, the bird clutched tightly. The setting sun casts a warm glow.",
+   "motion": "camera sweeps across the lake, then settles on [[Clara]]'s wistful profile.",
+   "speaker": "narrator",
+   "line": "She walked to their old spot by the water, where youthful dreams were born."
+  },
+  {
+   "image": "[[Clara]] is now at the edge of the lake, looking out over the shimmering water, the bird clutched tightly. The setting sun casts a warm glow.",
+   "motion": "camera sweeps across the lake, then settles on [[Clara]]'s wistful profile.",
+   "speaker": "Clara",
+   "line": "We promised we’d return here, carve our initials deeper into the oak."
+  },
+  {
+   "image": "[[Clara]] is now at the edge of the lake, looking out over the shimmering water, the bird clutched tightly. The setting sun casts a warm glow.",
+   "motion": "camera sweeps across the lake, then settles on [[Clara]]'s wistful profile.",
+   "speaker": "narrator",
+   "line": "A wave of longing washed over her, a tide of what-ifs and unspoken goodbyes."
+  },
+  {
+   "image": "[[Leo]] is sitting alone on a park bench by the lake, some distance away, gazing absently at the water. He looks dejected.",
+   "motion": "slow zoom out, showing [[Leo]]'s isolation on the bench.",
+   "speaker": "Leo",
+   "line": "It's all just echoes now, just shadows of who we used to be."
+  },
+  {
+   "image": "[[Leo]] is sitting alone on a park bench by the lake, some distance away, gazing absently at the water. He looks dejected.",
+   "motion": "slow zoom out, showing [[Leo]]'s isolation on the bench.",
+   "speaker": "narrator",
+   "line": "He tried to convince himself that seeing her happy was all that mattered."
+  },
+  {
+   "image": "[[Leo]] is sitting alone on a park bench by the lake, some distance away, gazing absently at the water. He looks dejected.",
+   "motion": "slow zoom out, showing [[Leo]]'s isolation on the bench.",
+   "speaker": "narrator",
+   "line": "But the image of her with the child, the word \"daddy,\" burned in his mind."
+  },
+  {
+   "image": "[[Clara]] turns her head suddenly, her eyes scanning the area by the lake, as if sensing his presence again.",
+   "motion": "quick pan to [[Clara]]'s face, her eyes wide and searching.",
+   "speaker": "Clara",
+   "line": "I feel like you're close, Leo. Please, don't hide from me this time."
+  },
+  {
+   "image": "[[Clara]] turns her head suddenly, her eyes scanning the area by the lake, as if sensing his presence again.",
+   "motion": "quick pan to [[Clara]]'s face, her eyes wide and searching.",
+   "speaker": "narrator",
+   "line": "A gut feeling, a thread of connection pulled at her heart, drawing her closer."
+  },
+  {
+   "image": "[[Clara]] turns her head suddenly, her eyes scanning the area by the lake, as if sensing his presence again.",
+   "motion": "quick pan to [[Clara]]'s face, her eyes wide and searching.",
+   "speaker": "Leo",
+   "line": "I can't face her now, not after what I just saw, not like this."
+  },
+  {
+   "image": "[[Clara]] spots [[Leo]] on the bench across the way. Her face registers shock, then a determined resolve. The distance between them is clear.",
+   "motion": "rack focus from [[Clara]]'s determined face to [[Leo]]'s distant figure.",
+   "speaker": "Clara",
+   "line": "Leo! Is that truly you? I can't believe my own eyes right now."
+  },
+  {
+   "image": "[[Clara]] spots [[Leo]] on the bench across the way. Her face registers shock, then a determined resolve. The distance between them is clear.",
+   "motion": "rack focus from [[Clara]]'s determined face to [[Leo]]'s distant figure.",
+   "speaker": "narrator",
+   "line": "He looked up, startled, their eyes meeting across the quiet expanse of the park."
+  },
+  {
+   "image": "[[Clara]] spots [[Leo]] on the bench across the way. Her face registers shock, then a determined resolve. The distance between them is clear.",
+   "motion": "rack focus from [[Clara]]'s determined face to [[Leo]]'s distant figure.",
+   "speaker": "Leo",
+   "line": "Clara? I... I didn't expect to see you here again, ever."
+  },
+  {
+   "image": "They are now standing awkwardly a few feet apart, by the lake. [[Clara]] extends her hand, holding the wooden bird. [[Leo]] stares at it.",
+   "motion": "gentle push in on the wooden bird in [[Clara]]'s outstretched hand.",
+   "speaker": "Clara",
+   "line": "You dropped this. It's yours, isn't it? The little bird you made."
+  },
+  {
+   "image": "They are now standing awkwardly a few feet apart, by the lake. [[Clara]] extends her hand, holding the wooden bird. [[Leo]] stares at it.",
+   "motion": "gentle push in on the wooden bird in [[Clara]]'s outstretched hand.",
+   "speaker": "Leo",
+   "line": "My bird... I thought I lost that carving so many years ago."
+  },
+  {
+   "image": "They are now standing awkwardly a few feet apart, by the lake. [[Clara]] extends her hand, holding the wooden bird. [[Leo]] stares at it.",
+   "motion": "gentle push in on the wooden bird in [[Clara]]'s outstretched hand.",
+   "speaker": "narrator",
+   "line": "The small token of their past felt like a bridge, fragile but real."
+  },
+  {
+   "image": "[[Leo]] tentatively takes the bird. Their fingers brush, a spark of electricity passing between them. Both look down at their hands.",
+   "motion": "close up on their hands as they touch, then pull back slightly.",
+   "speaker": "Leo",
+   "line": "It still looks exactly the same, as if time hasn't touched it at all."
+  },
+  {
+   "image": "[[Leo]] tentatively takes the bird. Their fingers brush, a spark of electricity passing between them. Both look down at their hands.",
+   "motion": "close up on their hands as they touch, then pull back slightly.",
+   "speaker": "Clara",
+   "line": "Some things are just too precious to ever truly fade away, Leo."
+  },
+  {
+   "image": "[[Leo]] tentatively takes the bird. Their fingers brush, a spark of electricity passing between them. Both look down at their hands.",
+   "motion": "close up on their hands as they touch, then pull back slightly.",
+   "speaker": "narrator",
+   "line": "The air hummed with unspoken words, with years of longing and regret."
+  },
+  {
+   "image": "[[Clara]] gestures towards the community garden, visible in the distance. Her expression softens.",
+   "motion": "pan from their hands to [[Clara]]'s face, then to the garden.",
+   "speaker": "Clara",
+   "line": "I saw you by the garden earlier, watching Molly and me work."
+  },
+  {
+   "image": "[[Clara]] gestures towards the community garden, visible in the distance. Her expression softens.",
+   "motion": "pan from their hands to [[Clara]]'s face, then to the garden.",
+   "speaker": "Leo",
+   "line": "Yes, I did. She's... she's beautiful. Your little girl is very sweet."
+  },
+  {
+   "image": "[[Clara]] gestures towards the community garden, visible in the distance. Her expression softens.",
+   "motion": "pan from their hands to [[Clara]]'s face, then to the garden.",
+   "speaker": "narrator",
+   "line": "A misunderstanding hung in the air, a barrier between their hearts."
+  },
+  {
+   "image": "[[Clara]] laughs softly, a gentle, understanding sound. She shakes her head slightly.",
+   "motion": "zoom in on [[Clara]]'s gentle laugh.",
+   "speaker": "Clara",
+   "line": "Oh, Molly? She's not my daughter, Leo. She's my niece, my sister's girl."
+  },
+  {
+   "image": "[[Clara]] laughs softly, a gentle, understanding sound. She shakes her head slightly.",
+   "motion": "zoom in on [[Clara]]'s gentle laugh.",
+   "speaker": "Leo",
+   "line": "Your niece? But... but I heard her say \"daddy.\" I just assumed..."
+  },
+  {
+   "image": "[[Clara]] laughs softly, a gentle, understanding sound. She shakes her head slightly.",
+   "motion": "zoom in on [[Clara]]'s gentle laugh.",
+   "speaker": "Clara",
+   "line": "She calls her uncle \"daddy\" sometimes, playing games. It's a silly habit."
+  },
+  {
+   "image": "Relief washes over [[Leo]]'s face, quickly followed by embarrassment. He runs a hand through his hair.",
+   "motion": "close up on [[Leo]]'s face, capturing the range of emotions.",
+   "speaker": "Leo",
+   "line": "I feel like such a fool. I just jumped to the worst possible conclusion."
+  },
+  {
+   "image": "Relief washes over [[Leo]]'s face, quickly followed by embarrassment. He runs a hand through his hair.",
+   "motion": "close up on [[Leo]]'s face, capturing the range of emotions.",
+   "speaker": "Clara",
+   "line": "It's okay, Leo. We've both had many years to jump to conclusions."
+  },
+  {
+   "image": "Relief washes over [[Leo]]'s face, quickly followed by embarrassment. He runs a hand through his hair.",
+   "motion": "close up on [[Leo]]'s face, capturing the range of emotions.",
+   "speaker": "narrator",
+   "line": "The heavy weight lifted, replaced by a fragile, tentative hope."
+  },
+  {
+   "image": "They are now walking slowly along the lake path, side by side, a comfortable silence settling between them.",
+   "motion": "tracking shot, following them as they walk, showing their proximity.",
+   "speaker": "narrator",
+   "line": "The lake reflected the twilight sky, painting their shared path in soft hues."
+  },
+  {
+   "image": "They are now walking slowly along the lake path, side by side, a comfortable silence settling between them.",
+   "motion": "tracking shot, following them as they walk, showing their proximity.",
+   "speaker": "Clara",
+   "line": "So, what brought you back to our quiet little lakeside town, Leo?"
+  },
+  {
+   "image": "They are now walking slowly along the lake path, side by side, a comfortable silence settling between them.",
+   "motion": "tracking shot, following them as they walk, showing their proximity.",
+   "speaker": "Leo",
+   "line": "Just passing through, clearing my head, seeing if anything felt like home."
+  },
+  {
+   "image": "[[Leo]] stops, looking at a small, gnarled oak tree near the path. Its bark is covered with old carvings, including their barely visible initials.",
+   "motion": "camera focuses on the old oak tree and the faint carvings.",
+   "speaker": "Leo",
+   "line": "Remember this old oak? Our initials are still here, fading with time."
+  },
+  {
+   "image": "[[Leo]] stops, looking at a small, gnarled oak tree near the path. Its bark is covered with old carvings, including their barely visible initials.",
+   "motion": "camera focuses on the old oak tree and the faint carvings.",
+   "speaker": "Clara",
+   "line": "They're still there. Just like our dreams, still etched into the past."
+  },
+  {
+   "image": "[[Leo]] stops, looking at a small, gnarled oak tree near the path. Its bark is covered with old carvings, including their barely visible initials.",
+   "motion": "camera focuses on the old oak tree and the faint carvings.",
+   "speaker": "narrator",
+   "line": "He traced their intertwined initials, a ghost of a touch, a whisper of promise."
+  },
+  {
+   "image": "[[Clara]] reaches out and gently covers [[Leo]]'s hand on the tree bark, a tender, unspoken gesture of connection. Their eyes meet.",
+   "motion": "close-up on their hands touching, then pulling back to their faces.",
+   "speaker": "Clara",
+   "line": "Did you ever truly let go of our dream, Leo? The one we had together?"
+  },
+  {
+   "image": "[[Clara]] reaches out and gently covers [[Leo]]'s hand on the tree bark, a tender, unspoken gesture of connection. Their eyes meet.",
+   "motion": "close-up on their hands touching, then pulling back to their faces.",
+   "speaker": "narrator",
+   "line": "His gaze softened, realizing the weight of her question, the meaning behind it."
+  }
+ ],
+ "caption": "A forgotten token, a missed connection. The lake holds their secrets. #LostLove #ChildhoodMemories #WhatIf",
+ "slug": "2026-10-27_part2",
+ "story_no": 3,
+ "parts": 3,
+ "yt_title": "She Found THIS After He Left! What Does It Mean? (Part 2)",
+ "description": "A cherished carving brings a flood of memories and questions. Can a forgotten item bridge years of silence?",
+ "hashtags": [
+  "#shorts",
+  "#drama",
+  "#lovestory",
+  "#romance",
+  "#childhoodsweethearts",
+  "#secondchance",
+  "#reunion",
+  "#fated",
+  "#emotional",
+  "#heartwarming",
+  "#shortfilm",
+  "#verticalvideo",
+  "#cutecouple",
+  "#love",
+  "#dramaseries"
+ ]
+}

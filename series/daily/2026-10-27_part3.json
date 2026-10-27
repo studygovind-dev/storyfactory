@@ -1,0 +1,277 @@
+{
+ "series": "Faded Petals, New Blooms",
+ "episode": 3,
+ "title": "Blooming Promises",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
+ "characters": {
+  "Leo": {
+   "look": "28, tall, lean build, kind hazel eyes, short messy dark brown hair often falling over his forehead, usually wears a soft grey hoodie over a white t-shirt, dark jeans, and worn sneakers.",
+   "voice": "male_young"
+  },
+  "Clara": {
+   "look": "28, graceful, warm smile, long wavy auburn hair often tied back with a silk scarf, gentle green eyes, wears practical yet flowing floral dresses, simple silver pendant necklace, gardening apron when working.",
+   "voice": "female_young"
+  },
+  "Molly": {
+   "look": "6, small, energetic, bright curious blue eyes, short blonde hair usually in two bouncy pigtails, wears colorful striped t-shirts and denim overalls, often with mud on her knees.",
+   "voice": "child_girl"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "narrator_female"
+  }
+ },
+ "scenes": [
+  {
+   "image": "Close up on [[Leo]] and [[Clara]]'s hands, still touching on the old oak tree bark. His thumb slowly brushes hers.",
+   "motion": "very slow zoom in on their hands, then to their faces.",
+   "speaker": "Leo",
+   "line": "I tried to. I truly did, Clara. But some dreams refuse to die completely."
+  },
+  {
+   "image": "Close up on [[Leo]] and [[Clara]]'s hands, still touching on the old oak tree bark. His thumb slowly brushes hers.",
+   "motion": "very slow zoom in on their hands, then to their faces.",
+   "speaker": "narrator",
+   "line": "Her question hung in the air, weighted with years of separation and silence."
+  },
+  {
+   "image": "Close up on [[Leo]] and [[Clara]]'s hands, still touching on the old oak tree bark. His thumb slowly brushes hers.",
+   "motion": "very slow zoom in on their hands, then to their faces.",
+   "speaker": "Clara",
+   "line": "I never forgot ours, Leo. Not for a single moment."
+  },
+  {
+   "image": "They are walking back towards the community garden, the sky now a deep, soft blue of twilight. [[Clara]] looks at [[Leo]] expectantly.",
+   "motion": "tracking shot, following them, emphasizing the calm intimacy.",
+   "speaker": "Clara",
+   "line": "Do you remember our grand plan for a place where beauty could grow?"
+  },
+  {
+   "image": "They are walking back towards the community garden, the sky now a deep, soft blue of twilight. [[Clara]] looks at [[Leo]] expectantly.",
+   "motion": "tracking shot, following them, emphasizing the calm intimacy.",
+   "speaker": "Leo",
+   "line": "Of course. A community garden, a haven for all, filled with life."
+  },
+  {
+   "image": "They are walking back towards the community garden, the sky now a deep, soft blue of twilight. [[Clara]] looks at [[Leo]] expectantly.",
+   "motion": "tracking shot, following them, emphasizing the calm intimacy.",
+   "speaker": "narrator",
+   "line": "He smiled, remembering the youthful passion, the impossible vision."
+  },
+  {
+   "image": "[[Clara]] stops at the entrance to the community garden, gesturing broadly with a warm, proud smile. Lights strung above twinkle softly.",
+   "motion": "camera pans from [[Clara]]'s gesture to the illuminated garden.",
+   "speaker": "Clara",
+   "line": "Welcome, Leo, to our little slice of paradise, our dream brought to life."
+  },
+  {
+   "image": "[[Clara]] stops at the entrance to the community garden, gesturing broadly with a warm, proud smile. Lights strung above twinkle softly.",
+   "motion": "camera pans from [[Clara]]'s gesture to the illuminated garden.",
+   "speaker": "Leo",
+   "line": "This garden... this whole place... is *your* dream come true, Clara?"
+  },
+  {
+   "image": "[[Clara]] stops at the entrance to the community garden, gesturing broadly with a warm, proud smile. Lights strung above twinkle softly.",
+   "motion": "camera pans from [[Clara]]'s gesture to the illuminated garden.",
+   "speaker": "narrator",
+   "line": "He looked around, suddenly seeing the vibrant space with new, astonished eyes."
+  },
+  {
+   "image": "Close up of [[Leo]]'s face, his eyes wide with a mix of shock, awe, and deep admiration as he takes in the flourishing garden.",
+   "motion": "slow zoom in on [[Leo]]'s amazed expression.",
+   "speaker": "Leo",
+   "line": "It's everything we talked about, every detail, every shared whispered hope."
+  },
+  {
+   "image": "Close up of [[Leo]]'s face, his eyes wide with a mix of shock, awe, and deep admiration as he takes in the flourishing garden.",
+   "motion": "slow zoom in on [[Leo]]'s amazed expression.",
+   "speaker": "Clara",
+   "line": "I couldn't let it go. It felt like a promise I needed to keep, even alone."
+  },
+  {
+   "image": "Close up of [[Leo]]'s face, his eyes wide with a mix of shock, awe, and deep admiration as he takes in the flourishing garden.",
+   "motion": "slow zoom in on [[Leo]]'s amazed expression.",
+   "speaker": "narrator",
+   "line": "Her voice was soft, laced with a gentle truth he had overlooked."
+  },
+  {
+   "image": "[[Clara]] leads [[Leo]] through the garden paths, pointing out different plants, her passion evident in every gesture. He watches her, captivated.",
+   "motion": "tracking shot as they walk, focus on [[Clara]]'s animated explanations and [[Leo]]'s adoration.",
+   "speaker": "Clara",
+   "line": "These are the old climbing roses, and over here, herbs for everyone."
+  },
+  {
+   "image": "[[Clara]] leads [[Leo]] through the garden paths, pointing out different plants, her passion evident in every gesture. He watches her, captivated.",
+   "motion": "tracking shot as they walk, focus on [[Clara]]'s animated explanations and [[Leo]]'s adoration.",
+   "speaker": "Leo",
+   "line": "You made it real. You actually built our impossible dream here."
+  },
+  {
+   "image": "[[Clara]] leads [[Leo]] through the garden paths, pointing out different plants, her passion evident in every gesture. He watches her, captivated.",
+   "motion": "tracking shot as they walk, focus on [[Clara]]'s animated explanations and [[Leo]]'s adoration.",
+   "speaker": "narrator",
+   "line": "He saw not just a garden, but a living testament to her enduring spirit."
+  },
+  {
+   "image": "They stop at a small, handmade wooden sign near a bench, which reads \"Dreamer's Knoll\".",
+   "motion": "focus on the sign, then pan up to their faces.",
+   "speaker": "Clara",
+   "line": "And this is where we sit and dream new dreams, or remember old ones."
+  },
+  {
+   "image": "They stop at a small, handmade wooden sign near a bench, which reads \"Dreamer's Knoll\".",
+   "motion": "focus on the sign, then pan up to their faces.",
+   "speaker": "Leo",
+   "line": "\"Dreamer's Knoll.\" You remembered that silly name we came up with."
+  },
+  {
+   "image": "They stop at a small, handmade wooden sign near a bench, which reads \"Dreamer's Knoll\".",
+   "motion": "focus on the sign, then pan up to their faces.",
+   "speaker": "narrator",
+   "line": "Every corner of the garden whispered tales of their shared past."
+  },
+  {
+   "image": "[[Leo]] reaches out and gently touches a delicate flower petal, his expression tender and reflective.",
+   "motion": "close up on [[Leo]]'s hand touching the flower, then his thoughtful face.",
+   "speaker": "Leo",
+   "line": "I always thought I had to leave this town to find my purpose, my path."
+  },
+  {
+   "image": "[[Leo]] reaches out and gently touches a delicate flower petal, his expression tender and reflective.",
+   "motion": "close up on [[Leo]]'s hand touching the flower, then his thoughtful face.",
+   "speaker": "narrator",
+   "line": "He realized his journey away had always held the echo of this place."
+  },
+  {
+   "image": "[[Leo]] reaches out and gently touches a delicate flower petal, his expression tender and reflective.",
+   "motion": "close up on [[Leo]]'s hand touching the flower, then his thoughtful face.",
+   "speaker": "Clara",
+   "line": "Sometimes, our path is right where our heart already feels at home."
+  },
+  {
+   "image": "[[Leo]] turns to [[Clara]], his eyes filled with a rediscovered warmth and deep understanding. He takes her hands in his.",
+   "motion": "slow push in on their hands clasping, then their faces.",
+   "speaker": "Leo",
+   "line": "Clara, I never stopped wondering about you, about us, about this."
+  },
+  {
+   "image": "[[Leo]] turns to [[Clara]], his eyes filled with a rediscovered warmth and deep understanding. He takes her hands in his.",
+   "motion": "slow push in on their hands clasping, then their faces.",
+   "speaker": "Clara",
+   "line": "Me too, Leo. Every single day, I wondered where you were, what you found."
+  },
+  {
+   "image": "[[Leo]] turns to [[Clara]], his eyes filled with a rediscovered warmth and deep understanding. He takes her hands in his.",
+   "motion": "slow push in on their hands clasping, then their faces.",
+   "speaker": "narrator",
+   "line": "Years of longing dissolved in the soft glow of understanding and shared truth."
+  },
+  {
+   "image": "[[Leo]]'s gaze falls to the wooden bird in his other hand, then back to [[Clara]]'s eyes. He offers it to her.",
+   "motion": "focus on the bird, then on their intertwining gazes.",
+   "speaker": "Leo",
+   "line": "This little bird belongs here, with its home, with you, with our dream."
+  },
+  {
+   "image": "[[Leo]]'s gaze falls to the wooden bird in his other hand, then back to [[Clara]]'s eyes. He offers it to her.",
+   "motion": "focus on the bird, then on their intertwining gazes.",
+   "speaker": "Clara",
+   "line": "No, Leo. It always belonged to both of us. A reminder of where we started."
+  },
+  {
+   "image": "[[Leo]]'s gaze falls to the wooden bird in his other hand, then back to [[Clara]]'s eyes. He offers it to her.",
+   "motion": "focus on the bird, then on their intertwining gazes.",
+   "speaker": "narrator",
+   "line": "A silent agreement passed between them, a promise of a new beginning."
+  },
+  {
+   "image": "[[Leo]] gently brings the wooden bird to [[Clara]]'s necklace, placing it carefully on the chain. She smiles, tears welling up.",
+   "motion": "close up on [[Leo]] attaching the bird to [[Clara]]'s necklace.",
+   "speaker": "Leo",
+   "line": "Let it be a sign, Clara. A sign that I'm here now, for good."
+  },
+  {
+   "image": "[[Leo]] gently brings the wooden bird to [[Clara]]'s necklace, placing it carefully on the chain. She smiles, tears welling up.",
+   "motion": "close up on [[Leo]] attaching the bird to [[Clara]]'s necklace.",
+   "speaker": "Clara",
+   "line": "For good? Are you really saying what I think you are saying, Leo?"
+  },
+  {
+   "image": "[[Leo]] gently brings the wooden bird to [[Clara]]'s necklace, placing it carefully on the chain. She smiles, tears welling up.",
+   "motion": "close up on [[Leo]] attaching the bird to [[Clara]]'s necklace.",
+   "speaker": "narrator",
+   "line": "Her heart fluttered, daring to believe in the impossible second chance."
+  },
+  {
+   "image": "[[Leo]]'s thumb gently caresses the bird on her necklace, his eyes filled with sincere intent. He smiles, a promise in his gaze.",
+   "motion": "close up on their faces, his sincere smile, her hopeful gaze.",
+   "speaker": "Leo",
+   "line": "I want to help you build this dream, Clara. Our dream, together this time."
+  },
+  {
+   "image": "[[Leo]]'s thumb gently caresses the bird on her necklace, his eyes filled with sincere intent. He smiles, a promise in his gaze.",
+   "motion": "close up on their faces, his sincere smile, her hopeful gaze.",
+   "speaker": "Clara",
+   "line": "Oh, Leo. I always knew this garden needed its other gardener."
+  },
+  {
+   "image": "[[Leo]]'s thumb gently caresses the bird on her necklace, his eyes filled with sincere intent. He smiles, a promise in his gaze.",
+   "motion": "close up on their faces, his sincere smile, her hopeful gaze.",
+   "speaker": "narrator",
+   "line": "The missing piece of her heart found its way back, taking root beside her."
+  },
+  {
+   "image": "They embrace gently in the softly lit garden, a tender hug filled with years of longing and newfound hope.",
+   "motion": "slow zoom out from their embrace, showing the magical garden around them.",
+   "speaker": "Leo",
+   "line": "We have so many lost years to make up for, so many seeds to plant."
+  },
+  {
+   "image": "They embrace gently in the softly lit garden, a tender hug filled with years of longing and newfound hope.",
+   "motion": "slow zoom out from their embrace, showing the magical garden around them.",
+   "speaker": "Clara",
+   "line": "And a lifetime of new blooms to watch grow, right here, together."
+  },
+  {
+   "image": "They embrace gently in the softly lit garden, a tender hug filled with years of longing and newfound hope.",
+   "motion": "slow zoom out from their embrace, showing the magical garden around them.",
+   "speaker": "narrator",
+   "line": "The air was sweet with the scent of flowers, and the promise of forever."
+  },
+  {
+   "image": "[[Leo]] and [[Clara]] are sitting on the bench at \"Dreamer's Knoll,\" holding hands, gazing out at the beautiful garden under the starry sky.",
+   "motion": "wide shot, slowly rotating around them, capturing the peaceful moment.",
+   "speaker": "narrator",
+   "line": "Some dreams are not meant to fade, but to lie dormant, waiting for the right moment to bloom."
+  },
+  {
+   "image": "[[Leo]] and [[Clara]] are sitting on the bench at \"Dreamer's Knoll,\" holding hands, gazing out at the beautiful garden under the starry sky.",
+   "motion": "wide shot, slowly rotating around them, capturing the peaceful moment.",
+   "speaker": "narrator",
+   "line": "Their garden of dreams, once a childhood fantasy, now a vibrant reality, tended by two loving hearts, finally reunited."
+  }
+ ],
+ "caption": "A forgotten dream, a new beginning. Their future takes root here. #NewBeginnings #Fulfillment #TrueLove",
+ "slug": "2026-10-27_part3",
+ "story_no": 3,
+ "parts": 3,
+ "yt_title": "The Shared Dream He Never Knew Was Alive! (Part 3)",
+ "description": "They finally speak of a shared past and a forgotten dream. The truth about Clara's garden will surprise them both.",
+ "hashtags": [
+  "#shorts",
+  "#drama",
+  "#lovestory",
+  "#romance",
+  "#childhoodsweethearts",
+  "#secondchance",
+  "#reunion",
+  "#fated",
+  "#emotional",
+  "#heartwarming",
+  "#shortfilm",
+  "#verticalvideo",
+  "#cutecouple",
+  "#love",
+  "#dramaseries"
+ ]
+}
