@@ -155,9 +155,10 @@ def kling_token():
 def make_clip(ep, i, scene, img, out, dry, zoom=False):
     if out.exists():
         return
-    if dry or zoom:  # free mode: slow camera move on the still picture (no Kling needed)
-        z = ("min(zoom+0.0015,1.25)" if i % 2 == 0
-             else "if(eq(on,0),1.25,max(zoom-0.0015,1.0))")  # alternate zoom in / zoom out
+    if dry or zoom:  # free mode: camera move on the still picture (no Kling needed)
+        step = 0.004 if ep.get("short") else 0.0015  # shorts change picture every ~2.5 s: move faster
+        z = (f"min(zoom+{step},1.25)" if i % 2 == 0
+             else f"if(eq(on,0),1.25,max(zoom-{step},1.0))")  # alternate zoom in / zoom out
         run(["ffmpeg", "-y", "-loop", "1", "-i", str(img), "-t", "5", "-r", "24",
              "-vf", (f"scale={W * 2}:{H * 2}:force_original_aspect_ratio=increase,crop={W * 2}:{H * 2},"
                      f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=120:s={W}x{H}:fps=24"),
@@ -204,20 +205,25 @@ EDGE_VOICES = {
     "male_deep": "en-US-GuyNeural", "male_gruff": "en-US-GuyNeural",
     "male_smooth": "en-US-AndrewNeural", "female_warm": "en-IN-NeerjaExpressiveNeural",
     "female_soft": "en-IN-NeerjaExpressiveNeural",
+    "cartoon_male": "en-US-AnaNeural", "cartoon_female": "en-US-AnaNeural",
 }
 
 # ElevenLabs voices matched to age (public library voices). A VOICE_<NAME> setting in .env
 # or GitHub Secrets wins; women and children fall back to VOICE_FEMALE / VOICE_CHILD.
-ELEVEN_DEFAULTS = {
-    "MALE_YOUNG": "g5CIjZEefAph4nQFvHAz",     # Ethan: soft, 20-25
-    "MALE_YOUNG2": "bIHbv24MWmeRgasZH58o",    # Will: light, friendly, 20-25 (friend / rival)
-    "MALE_ADULT": "cjVigY5qzO86Huf0OWal",     # Eric: smooth, 30-45
-    "MALE_OLD": "nPczCjzI2devNBz1zQrb",       # Brian: deep, 45+ / boss / father
-    "MALE_DEEP": "nPczCjzI2devNBz1zQrb", "MALE_GRUFF": "nPczCjzI2devNBz1zQrb",
-    "MALE_SMOOTH": "cjVigY5qzO86Huf0OWal",
-    "NARRATOR_MALE": "iP95p4xoKVk53GoZ742B",  # Chris
-    "FEMALE_YOUNG": "twAMWTText0eNf1AicWu",   # chosen voice for women in their 20s
+ELEVEN_DEFAULTS = {  # all chosen by ear from the ElevenLabs voice library
+    "MALE_YOUNG": "3XOBzXhnDY98yeWQ3GdM",      # men in their 20s
+    "FEMALE_YOUNG": "Bsa1HP3wF8JGRzGouFEa",    # women in their 20s
+    "NARRATOR_MALE": "WyxfC66zZ4F16RqcMMHI",   # male storyteller, around 30
+    "NARRATOR_FEMALE": "DtsPFCrhbCbbJkwZsb3d", # female storyteller
+    "CARTOON_MALE": "XjGYkUkzth8BPs29fmcV",    # cartoon boys, male animals
+    "CARTOON_FEMALE": "XJ2fW4ybq7HouelYYGcL",  # cartoon girls, baby girls, female animals
 }
+# Older voice names map onto the chosen ones.
+for _k, _v in {"MALE_YOUNG2": "MALE_YOUNG", "MALE_ADULT": "NARRATOR_MALE", "MALE_OLD": "NARRATOR_MALE",
+               "MALE_DEEP": "NARRATOR_MALE", "MALE_GRUFF": "NARRATOR_MALE", "MALE_SMOOTH": "MALE_YOUNG",
+               "FEMALE_ADULT": "NARRATOR_FEMALE", "FEMALE_OLD": "NARRATOR_FEMALE",
+               "CHILD_BOY": "CARTOON_MALE", "CHILD_GIRL": "CARTOON_FEMALE"}.items():
+    ELEVEN_DEFAULTS[_k] = ELEVEN_DEFAULTS[_v]
 VOICE_RATE, VOICE_PITCH = "+5%", "-3Hz"   # natural pace, slightly lower pitch for warmth
 
 
@@ -252,7 +258,8 @@ def make_voice(ep, i, scene, out, dry):
     k = voice_key.upper()
     fallback = "VOICE_CHILD" if k.startswith("CHILD") else (
         "VOICE_FEMALE" if "FEMALE" in k else "VOICE_MALE")
-    voice_id = (os.environ.get("VOICE_" + k, "").strip() or ELEVEN_DEFAULTS.get(k)
+    # The voices picked by ear (ELEVEN_DEFAULTS) win over older VOICE_* settings.
+    voice_id = (ELEVEN_DEFAULTS.get(k) or os.environ.get("VOICE_" + k, "").strip()
                 or env(fallback))
     r = requests.post(
         f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}?output_format=mp3_44100_128",
@@ -297,12 +304,34 @@ def ts(t):
     return f"{h}:{m:02d}:{s:05.2f}"
 
 
+HANDLE = "@storybitetv2"
+
+
+def word_captions(line, start, end):
+    """Show the line 2-3 words at a time (big, centre), timed by word length, the key word yellow."""
+    words = line.replace("*", "").replace("\n", " ").split()
+    chunks = [words[k:k + 3] for k in range(0, len(words), 3)]
+    if len(chunks) > 1 and len(chunks[-1]) == 1:  # no lonely last word
+        last = chunks.pop()
+        chunks[-1] += last
+    total = sum(len(" ".join(c)) for c in chunks) or 1
+    out, t = [], start
+    for c in chunks:
+        d = (end - start) * len(" ".join(c)) / total
+        longest = max(range(len(c)), key=lambda k: len(c[k]))
+        text = " ".join(r"{\c&H0000E5FF&}" + w + r"{\c&HFFFFFF&}" if k == longest else w
+                        for k, w in enumerate(c))
+        out.append(f"Dialogue: 0,{ts(t)},{ts(t + d)},Word,,0,0,0,,{{\\fscx80\\fscy80\\t(0,120,\\fscx100\\fscy100)}}{text}")
+        t += d
+    return out
+
+
 def build(ep, work, final):
-    n = len(ep["scenes"])
+    short = ep.get("short")
     seg_files, ass_events, t = [], [], 0.0
     for i, sc in enumerate(ep["scenes"]):
         clip, voice = work / f"clip_{i}.mp4", work / f"voice_{i}.mp3"
-        d = max(SCENE_MIN, duration(voice) + PAD)
+        d = max(1.2, duration(voice) + 0.05) if short else max(SCENE_MIN, duration(voice) + PAD)
         seg = work / f"seg_{i}.mp4"
         # Hold the last frame if the speech is longer than the clip; trim if shorter.
         vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
@@ -313,6 +342,10 @@ def build(ep, work, final):
              "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "fast", "-crf", "20",
              "-pix_fmt", "yuv420p", "-c:a", "aac", "-ar", "44100", "-ac", "2", str(seg)])
         seg_files.append(seg)
+        if short:
+            ass_events += word_captions(sc["line"], t + 0.15, t + d)
+            t += d
+            continue
         text = sc["line"].replace("\n", " ")
         if len(text) > 38:  # split long lines into two caption lines
             mid = text.rfind(" ", 0, len(text) // 2 + 8)
@@ -323,6 +356,13 @@ def build(ep, work, final):
     if ep.get("parts"):  # daily stories: keep "Part 2 of 3" on screen so viewers know there is more
         ass_events.insert(0, f"Dialogue: 0,{ts(0)},{ts(t)},Top,,0,0,0,,"
                              f"PART {ep['episode']} OF {ep['parts']}")
+    if short:
+        ass_events.append(f"Dialogue: 1,{ts(0)},{ts(t)},Mark,,0,0,0,,{HANDLE}")
+        if ep.get("hook_text"):
+            ass_events.append(f"Dialogue: 1,{ts(0)},{ts(min(3.0, t))},Hook,,0,0,0,,"
+                              f"{ep['hook_text'].upper()}")
+        ass_events.append(f"Dialogue: 1,{ts(max(0, t - 3.0))},{ts(t)},Hook,,0,0,0,,"
+                          f"FOLLOW {HANDLE.upper()}\\NFOR MORE STORIES")
 
     ass = work / "subs.ass"
     ass.write_text(
@@ -331,7 +371,11 @@ def build(ep, work, final):
         "Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,"
         "MarginL,MarginR,MarginV,Encoding\n"
         "Style: Cap,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,70,70,330,1\n"
-        "Style: Top,Arial,52,&H0000D7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,2,0,1,4,1,8,70,70,170,1\n\n"
+        "Style: Top,Arial,52,&H0000D7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,2,0,1,4,1,8,70,70,170,1\n"
+        # shorts: big word-by-word captions in the middle, hook / follow text at the top, small handle
+        "Style: Word,Arial,96,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1\n"
+        "Style: Hook,Arial,78,&H0000E5FF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,1,0,3,6,0,8,60,60,230,1\n"
+        "Style: Mark,Arial,40,&H90FFFFFF,&H000000FF,&H90000000,&H00000000,-1,0,0,0,100,100,1,0,1,2,0,9,50,50,90,1\n\n"
         "[Events]\nFormat: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text\n" % (W, H)
         + "\n".join(ass_events) + "\n")
 
@@ -358,13 +402,14 @@ def build(ep, work, final):
 
 
 MAX_SECS = 178.0  # Shorts / Reels limit is 3:00; keep a little margin
+SHORT_MAX_SECS = 62.0  # daily single stories aim for under about a minute
 
 
-def speed_to_fit(final, total):
-    """Speed the whole video up slightly (voice pitch unchanged) so it ends under MAX_SECS."""
-    f = total / MAX_SECS
+def speed_to_fit(final, total, limit=MAX_SECS):
+    """Speed the whole video up slightly (voice pitch unchanged) so it ends under the limit."""
+    f = total / limit
     if f > 1.25:
-        print(f"Warning: part is {total:.0f}s; speeding up only 25%, it will stay over 3 minutes.")
+        print(f"Warning: video is {total:.0f}s; speeding up only 25%, it will stay over {limit:.0f}s.")
         f = 1.25
     tmp = final.with_name("final_fast.mp4")
     run(["ffmpeg", "-y", "-i", str(final), "-filter_complex",
@@ -372,7 +417,7 @@ def speed_to_fit(final, total):
          "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p",
          "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(tmp)])
     tmp.replace(final)
-    print(f"Sped up {f:.2f}x to fit under 3 minutes.")
+    print(f"Sped up {f:.2f}x to fit under {limit:.0f}s.")
     return total / f
 
 
@@ -396,7 +441,9 @@ def fit_for_telegram(final):
 def send_telegram(final, ep):
     token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
     final = fit_for_telegram(final)
-    if ep.get("story_no"):
+    if ep.get("short"):
+        cap = f"📌 Story #{ep['story_no']} · Video {ep['episode']} of 3 today\n{ep['title']}"
+    elif ep.get("story_no"):
         cap = (f"📌 Story #{ep['story_no']} · Part {ep['episode']} of {ep['parts']}\n"
                f"{ep['series']}: {ep['title']}")
     else:
@@ -417,8 +464,19 @@ NEXT_AT = {1: "1 PM", 2: "6 PM"}
 
 def post_kit(ep):
     """Copy-ready posting details sent right after each daily video."""
-    n, total = ep["episode"], ep["parts"]
     tags = " ".join(ep.get("hashtags") or ["#shorts", "#drama", "#story"])
+    if ep.get("short"):
+        follow = f"👉 Follow {HANDLE} for 3 new stories every day!"
+        return (
+            f"📌 Story #{ep['story_no']}\n\n"
+            f"━━ TITLE (YouTube / Facebook) ━━\n{ep['yt_title']}\n\n"
+            f"━━ DESCRIPTION ━━\n{ep.get('description', '').strip()}\n\n{follow}\n\n"
+            f"━━ HASHTAGS ━━\n{tags}\n\n"
+            f"━━ INSTAGRAM CAPTION ━━\n{ep['yt_title']}\n{follow}\n\n{tags}\n\n"
+            "⚠️ Turn ON the AI-generated content label when posting.\n"
+            "📍 Pin a comment that repeats the question from the end of the video."
+        )
+    n, total = ep["episode"], ep["parts"]
     nxt = (f"👉 Part {n + 1} today at {NEXT_AT[n]}. Follow so you don't miss it!"
            if n < total else "✅ Final part. Follow for a new story every day!")
     return (
@@ -461,7 +519,8 @@ def main():
         img, voice = work / f"img_{i}.png", work / f"voice_{i}.mp3"
         if a.free:
             # Pictures cost pollen: one picture covers 3 scenes (each gets a different zoom).
-            img = work / f"img_{i - i % 3}.png"
+            # Shorts get a new picture every line (fast cuts keep viewers watching).
+            img = work / f"img_{i if ep.get('short') else i - i % 3}.png"
             if not img.exists():
                 make_image_free(ep, i, sc, img)
             if not voice.exists():
@@ -474,8 +533,9 @@ def main():
 
     final = work / "final.mp4"
     total = build(ep, work, final)
-    if ep.get("parts") and total > MAX_SECS:  # daily parts must fit the 3-minute Shorts limit
-        total = speed_to_fit(final, total)
+    limit = SHORT_MAX_SECS if ep.get("short") else MAX_SECS
+    if (ep.get("parts") or ep.get("short")) and total > limit:  # must fit the Shorts length
+        total = speed_to_fit(final, total, limit)
     print(f"Done: {final}  ({total:.1f}s)")
     if not a.no_send and not a.dry_run:
         send_telegram(final, ep)
