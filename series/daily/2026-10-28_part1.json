@@ -1,0 +1,277 @@
+{
+ "series": "Whispered Blooms",
+ "episode": 1,
+ "title": "Seeds of a Secret Garden",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
+ "characters": {
+  "Leo": {
+   "look": "26, soft brown hair often falling over his eyes, gentle smile, wears comfortable, slightly oversized sweaters and dark jeans.",
+   "voice": "male_young"
+  },
+  "Chloe": {
+   "look": "25, bright, curly red hair, expressive green eyes, usually in colourful, artistic outfits.",
+   "voice": "female_young"
+  },
+  "Maya": {
+   "look": "32, long dark braids, calm demeanor, often wears earthy tones, owner of 'The Story Nook'.",
+   "voice": "female_adult"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "narrator_male"
+  }
+ },
+ "scenes": [
+  {
+   "image": "Leo (26, soft brown hair, gentle smile, oversized sweater, dark jeans) sitting at a sunlit cafe table inside 'The Story Nook,' sketching intently in a notebook. Empty coffee cup nearby.",
+   "motion": "Close up on Leo's focused face.",
+   "speaker": "narrator",
+   "line": "Do you ever wonder if fate draws us to the same beautiful things, Chloe?"
+  },
+  {
+   "image": "Leo (26, soft brown hair, gentle smile, oversized sweater, dark jeans) sitting at a sunlit cafe table inside 'The Story Nook,' sketching intently in a notebook. Empty coffee cup nearby.",
+   "motion": "Pan across the detailed sketch in Leo's notebook: whimsical trees, glowing flowers.",
+   "speaker": "narrator",
+   "line": "Leo poured his heart into every line, crafting a world only she would truly understand."
+  },
+  {
+   "image": "Leo (26, soft brown hair, gentle smile, oversized sweater, dark jeans) sitting at a sunlit cafe table inside 'The Story Nook,' sketching intently in a notebook. Empty coffee cup nearby.",
+   "motion": "Soft focus on Leo's hand as he adds a tiny detail to his drawing.",
+   "speaker": "Leo",
+   "line": "Just one more touch. Something she'll definitely remember from our old adventures."
+  },
+  {
+   "image": "Maya (32, long dark braids, earthy tones) stands behind the counter of The Story Nook, subtly watching Leo with a knowing smile. Bookshelves fill the background.",
+   "motion": "Slight zoom on Maya's face.",
+   "speaker": "Maya",
+   "line": "He’s been working on that project for weeks now. So intensely focused, almost lost."
+  },
+  {
+   "image": "Maya (32, long dark braids, earthy tones) stands behind the counter of The Story Nook, subtly watching Leo with a knowing smile. Bookshelves fill the background.",
+   "motion": "Shift focus to Leo still sketching, unaware he's being observed.",
+   "speaker": "narrator",
+   "line": "Maya, the kind bookstore owner, often wondered about the story behind Leo's secret art."
+  },
+  {
+   "image": "Maya (32, long dark braids, earthy tones) stands behind the counter of The Story Nook, subtly watching Leo with a knowing smile. Bookshelves fill the background.",
+   "motion": "Maya gently wipes the counter, her gaze returning to her task.",
+   "speaker": "Maya",
+   "line": "Some feelings are too big to just be spoken, you see them in actions."
+  },
+  {
+   "image": "Chloe (25, bright curly red hair, expressive green eyes, colourful outfit) enters The Story Nook, a burst of energy, smiling brightly. The bell above the door jingles.",
+   "motion": "Wide shot as Chloe steps inside.",
+   "speaker": "Chloe",
+   "line": "Leo! Hey, I didn't expect to see you here again so early this morning."
+  },
+  {
+   "image": "Chloe (25, bright curly red hair, expressive green eyes, colourful outfit) enters The Story Nook, a burst of energy, smiling brightly. The bell above the door jingles.",
+   "motion": "Chloe waves at Leo, who looks up, startled, quickly closing his notebook.",
+   "speaker": "narrator",
+   "line": "His heart pounded. The secret almost spilled. His quiet world was suddenly vibrant."
+  },
+  {
+   "image": "Chloe (25, bright curly red hair, expressive green eyes, colourful outfit) enters The Story Nook, a burst of energy, smiling brightly. The bell above the door jingles.",
+   "motion": "Leo offers a shy, almost flustered smile, his hand still on the closed notebook.",
+   "speaker": "Leo",
+   "line": "Chloe. Hi. Just... catching up on some sketches, you know. Nothing too exciting."
+  },
+  {
+   "image": "Chloe walks over to Leo's table, pulling up a chair opposite him, a playful look in her eye. Sunlight streams from the window.",
+   "motion": "Tracking shot as Chloe moves.",
+   "speaker": "Chloe",
+   "line": "Nothing exciting? From the intense look on your face, it must be something amazing."
+  },
+  {
+   "image": "Chloe walks over to Leo's table, pulling up a chair opposite him, a playful look in her eye. Sunlight streams from the window.",
+   "motion": "Close up on Leo's notebook, his hand protectively covering it.",
+   "speaker": "Leo",
+   "line": "It's... just ideas for a client project. Very conceptual. Not ready for eyes yet."
+  },
+  {
+   "image": "Chloe walks over to Leo's table, pulling up a chair opposite him, a playful look in her eye. Sunlight streams from the window.",
+   "motion": "Chloe leans forward slightly, a curious glint in her eyes.",
+   "speaker": "Chloe",
+   "line": "Client project? You've been working on it forever. Is it that big of a secret?"
+  },
+  {
+   "image": "Leo nervously pushes his empty coffee cup away, avoiding eye contact, glancing around the cozy bookstore.",
+   "motion": "Slight wobble in camera as Leo moves.",
+   "speaker": "Leo",
+   "line": "It’s... a really special garden design. For a very particular kind of client."
+  },
+  {
+   "image": "Leo nervously pushes his empty coffee cup away, avoiding eye contact, glancing around the cozy bookstore.",
+   "motion": "Chloe watches him, a soft, understanding expression forming on her face.",
+   "speaker": "narrator",
+   "line": "He wanted to tell her, to share every hidden detail, but the words wouldn't come."
+  },
+  {
+   "image": "Leo nervously pushes his empty coffee cup away, avoiding eye contact, glancing around the cozy bookstore.",
+   "motion": "Close-up on Chloe's hand reaching across the table, gently touching his sleeve.",
+   "speaker": "Chloe",
+   "line": "I bet it's beautiful, Leo. Everything you create always is, honestly."
+  },
+  {
+   "image": "Leo and Chloe are now walking together through a vibrant urban greenhouse, sun dappling through the glass ceiling, surrounded by exotic plants.",
+   "motion": "Crane shot, showing them beneath the tall plants.",
+   "speaker": "narrator",
+   "line": "Their conversations were always easy, filled with shared laughter and comfortable silences."
+  },
+  {
+   "image": "Leo and Chloe are now walking together through a vibrant urban greenhouse, sun dappling through the glass ceiling, surrounded by exotic plants.",
+   "motion": "Close-up on Chloe pointing excitedly at a rare, unusually shaped plant.",
+   "speaker": "Chloe",
+   "line": "Look at this one, Leo! It reminds me of the 'whispering willows' from our story."
+  },
+  {
+   "image": "Leo and Chloe are now walking together through a vibrant urban greenhouse, sun dappling through the glass ceiling, surrounded by exotic plants.",
+   "motion": "Leo's face, a flicker of surprise and tenderness as he gazes at her.",
+   "speaker": "Leo",
+   "line": "The... whispering willows? I haven't thought about them in years, Chloe."
+  },
+  {
+   "image": "Leo is back at his design studio (a small, plant-filled room), working late into the night. His design spread across a light table, glowing.",
+   "motion": "Slow pan over the intricate garden plans.",
+   "speaker": "narrator",
+   "line": "Her words echoed in his mind. The whispering willows, a forgotten piece of their past."
+  },
+  {
+   "image": "Leo is back at his design studio (a small, plant-filled room), working late into the night. His design spread across a light table, glowing.",
+   "motion": "Leo adds a sketch of a weeping willow, its branches forming a secret archway, just like in their childhood tales.",
+   "speaker": "Leo",
+   "line": "It belongs in this garden. It always did, I just needed to remember it."
+  },
+  {
+   "image": "Leo is back at his design studio (a small, plant-filled room), working late into the night. His design spread across a light table, glowing.",
+   "motion": "Close-up on the detailed sketch of the willows, with small, glowing orbs hanging from the branches.",
+   "speaker": "narrator",
+   "line": "Every detail was a secret message, a piece of his heart he hoped she'd discover."
+  },
+  {
+   "image": "Outside The Story Nook, rain begins to fall, blurring the streetlights. Leo stands under the awning, holding his carefully rolled-up design.",
+   "motion": "Gentle rain falling, reflections on the wet pavement.",
+   "speaker": "narrator",
+   "line": "He'd almost found the courage to show her today. But the moment slipped away again."
+  },
+  {
+   "image": "Outside The Story Nook, rain begins to fall, blurring the streetlights. Leo stands under the awning, holding his carefully rolled-up design.",
+   "motion": "Close-up on Leo's anxious face, a mix of determination and fear in his eyes.",
+   "speaker": "Leo",
+   "line": "Tomorrow. I'll just gather my thoughts, and then I'll definitely tell her everything."
+  },
+  {
+   "image": "Outside The Story Nook, rain begins to fall, blurring the streetlights. Leo stands under the awning, holding his carefully rolled-up design.",
+   "motion": "A car drives by, splashing a puddle, making Leo flinch slightly.",
+   "speaker": "narrator",
+   "line": "He clutched the rolled drawings tighter, a precious dream bundled safely within."
+  },
+  {
+   "image": "Inside The Story Nook, Maya is closing up for the night, dimming the lights. She notices Leo still outside.",
+   "motion": "Maya looks out the window at Leo.",
+   "speaker": "Maya",
+   "line": "Some stories take a long time to write themselves. They need the perfect moment."
+  },
+  {
+   "image": "Inside The Story Nook, Maya is closing up for the night, dimming the lights. She notices Leo still outside.",
+   "motion": "A quiet, contemplative shot of Maya through the glass, looking out at the rain.",
+   "speaker": "narrator",
+   "line": "Maya understood the quiet language of unspoken feelings, the weight of waiting."
+  },
+  {
+   "image": "Inside The Story Nook, Maya is closing up for the night, dimming the lights. She notices Leo still outside.",
+   "motion": "Close-up on a stack of new books on the counter, with a whimsical cover visible.",
+   "speaker": "Maya",
+   "line": "Sometimes, the universe gives you a little nudge when you need it most, dear."
+  },
+  {
+   "image": "The next morning, sunny again. Leo is back at the cafe table in The Story Nook, his design now spread open, almost ready.",
+   "motion": "Sunlight streaming through the window, illuminating the design.",
+   "speaker": "Leo",
+   "line": "This is it. No more waiting. Today, I'm going to finally be brave."
+  },
+  {
+   "image": "The next morning, sunny again. Leo is back at the cafe table in The Story Nook, his design now spread open, almost ready.",
+   "motion": "Close-up on a specific, intricate detail in the design: a tiny, glowing 'Moonpetal' flower.",
+   "speaker": "narrator",
+   "line": "The Moonpetal flower, a secret bloom from their childhood's forgotten, magical grove."
+  },
+  {
+   "image": "The next morning, sunny again. Leo is back at the cafe table in The Story Nook, his design now spread open, almost ready.",
+   "motion": "Leo takes a deep breath, steeling himself.",
+   "speaker": "Leo",
+   "line": "It's so important that she knows, that she truly sees this beautiful place."
+  },
+  {
+   "image": "Chloe enters, her red hair catching the sunlight, carrying a small, wrapped gift. She looks vibrant and happy.",
+   "motion": "Chloe turns her head slightly, catching Leo's eye.",
+   "speaker": "Chloe",
+   "line": "Leo, good morning! I was just hoping to catch you before you got too busy."
+  },
+  {
+   "image": "Chloe enters, her red hair catching the sunlight, carrying a small, wrapped gift. She looks vibrant and happy.",
+   "motion": "Leo's face, a mix of hope and renewed apprehension, looking at the gift.",
+   "speaker": "Leo",
+   "line": "Chloe! Good morning. What's... what's that you're holding there?"
+  },
+  {
+   "image": "Chloe enters, her red hair catching the sunlight, carrying a small, wrapped gift. She looks vibrant and happy.",
+   "motion": "Chloe gestures playfully with the gift.",
+   "speaker": "Chloe",
+   "line": "Oh, this? Just a little something I picked up. Thought it would be perfect."
+  },
+  {
+   "image": "Chloe places the small, beautifully wrapped gift on the table between them, smiling warmly.",
+   "motion": "Slow zoom on the gift.",
+   "speaker": "Chloe",
+   "line": "It's a new children's book. The illustrations just completely captivated me."
+  },
+  {
+   "image": "Chloe places the small, beautifully wrapped gift on the table between them, smiling warmly.",
+   "motion": "Close-up on Leo's hands hovering over his garden design, which is slightly obscured by the gift.",
+   "speaker": "Leo",
+   "line": "A book? For me? That's really thoughtful, Chloe, thank you so much."
+  },
+  {
+   "image": "Chloe places the small, beautifully wrapped gift on the table between them, smiling warmly.",
+   "motion": "Chloe's hand reaches out and nudges the book closer to him.",
+   "speaker": "Chloe",
+   "line": "Open it! You have to see the pictures. They are absolutely enchanting."
+  },
+  {
+   "image": "Leo's hand slowly reaches for the gift, his eyes still on his hidden design, then up to Chloe.",
+   "motion": "Close-up on his conflicted expression.",
+   "speaker": "narrator",
+   "line": "He hesitated, his heart torn between his secret and the mystery now before him."
+  },
+  {
+   "image": "Leo unwraps the book. The cover is revealed: a whimsical illustration of a Moonpetal flower and a whispering willow tree, identical to elements in his design.",
+   "motion": "Quick zoom on the book cover.",
+   "speaker": "Leo",
+   "line": "No... it can't be. This isn't just similar... it's our Moonpetal grove."
+  }
+ ],
+ "caption": "Will his secret ever be revealed? #SecretGarden #UnspokenLove #FriendshipGoals",
+ "slug": "2026-10-28_part1",
+ "story_no": 4,
+ "parts": 3,
+ "yt_title": "He's Designing a Secret Garden For Her... Will She Ever Know? | Part 1",
+ "description": "Leo has been secretly designing a magical garden inspired by his childhood memories with Chloe. He yearns to confess his feelings, but fear holds him back. Will he find the courage before it's too late?",
+ "hashtags": [
+  "#shorts",
+  "#drama",
+  "#romance",
+  "#lovestory",
+  "#secretlove",
+  "#crush",
+  "#unspokenfeelings",
+  "#friendstolovers",
+  "#quietlove",
+  "#artist",
+  "#creative",
+  "#bookstore",
+  "#shortfilm",
+  "#emotional",
+  "#viralshorts"
+ ]
+}

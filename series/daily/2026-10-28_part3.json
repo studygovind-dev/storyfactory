@@ -1,0 +1,278 @@
+{
+ "series": "Whispered Blooms",
+ "episode": 3,
+ "title": "The Garden Revealed",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, vertical 9:16",
+ "characters": {
+  "Leo": {
+   "look": "26, soft brown hair often falling over his eyes, gentle smile, wears comfortable, slightly oversized sweaters and dark jeans.",
+   "voice": "male_young"
+  },
+  "Chloe": {
+   "look": "25, bright, curly red hair, expressive green eyes, usually in colourful, artistic outfits.",
+   "voice": "female_young"
+  },
+  "Maya": {
+   "look": "32, long dark braids, calm demeanor, often wears earthy tones, owner of 'The Story Nook'.",
+   "voice": "female_adult"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "narrator_male"
+  }
+ },
+ "scenes": [
+  {
+   "image": "Leo staring in utter disbelief at Chloe's open sketchbook, which perfectly illustrates 'The Willow Creek Adventures,' mirroring his own garden design. His design is still spread next to it.",
+   "motion": "Close up on Leo's stunned face, then pan to the two projects side-by-side.",
+   "speaker": "Leo",
+   "line": "Chloe... you finished it. The Willow Creek adventure."
+  },
+  {
+   "image": "Leo staring in utter disbelief at Chloe's open sketchbook, which perfectly illustrates 'The Willow Creek Adventures,' mirroring his own garden design. His design is still spread next to it.",
+   "motion": "Chloe's expression is a mix of wonder and shyness, a soft blush on her cheeks.",
+   "speaker": "Chloe",
+   "line": "I... I just finished it this morning. My own little secret project."
+  },
+  {
+   "image": "Leo staring in utter disbelief at Chloe's open sketchbook, which perfectly illustrates 'The Willow Creek Adventures,' mirroring his own garden design. His design is still spread next to it.",
+   "motion": "Close-up on the intricate detail of her illustration, a tiny, familiar bridge.",
+   "speaker": "narrator",
+   "line": "Two separate dreams, two hidden passions, now unveiled in perfect, stunning synchronicity."
+  },
+  {
+   "image": "Leo slowly reaches out a trembling hand, tracing the lines of her illustration. His eyes are wide with emotion.",
+   "motion": "Slow, deliberate touch.",
+   "speaker": "Leo",
+   "line": "The Crystal Creek bridge, the Dreamleaf ferns... it's exactly as we imagined."
+  },
+  {
+   "image": "Leo slowly reaches out a trembling hand, tracing the lines of her illustration. His eyes are wide with emotion.",
+   "motion": "Chloe looks at him, her heart in her eyes, a silent question.",
+   "speaker": "Chloe",
+   "line": "I always wondered if you still remembered that magical place we created."
+  },
+  {
+   "image": "Leo slowly reaches out a trembling hand, tracing the lines of her illustration. His eyes are wide with emotion.",
+   "motion": "Close-up on Leo's design, then her illustration, then back to their faces.",
+   "speaker": "narrator",
+   "line": "A moment suspended in time, filled with the weight of years of unspoken feelings."
+  },
+  {
+   "image": "Maya approaches their table, carrying two fresh teas, her face soft with a knowing smile. She sets the teas down gently.",
+   "motion": "Maya observes them with quiet satisfaction.",
+   "speaker": "Maya",
+   "line": "Some secrets are meant to be shared, to find their way home, eventually."
+  },
+  {
+   "image": "Maya approaches their table, carrying two fresh teas, her face soft with a knowing smile. She sets the teas down gently.",
+   "motion": "Leo and Chloe barely notice her, their attention fully on each other and their projects.",
+   "speaker": "narrator",
+   "line": "The world around them faded; only their shared discovery mattered in that moment."
+  },
+  {
+   "image": "Maya approaches their table, carrying two fresh teas, her face soft with a knowing smile. She sets the teas down gently.",
+   "motion": "Maya quietly retreats, leaving them to their revelation.",
+   "speaker": "Maya",
+   "line": "It's a beautiful story you're both telling, in such different, wonderful ways."
+  },
+  {
+   "image": "Leo finally looks up from her sketchbook, his eyes meeting Chloe's. There are tears gathering in his eyes.",
+   "motion": "Intense, emotional eye contact.",
+   "speaker": "Leo",
+   "line": "I never stopped remembering, Chloe. Not for a single day, honestly."
+  },
+  {
+   "image": "Leo finally looks up from her sketchbook, his eyes meeting Chloe's. There are tears gathering in his eyes.",
+   "motion": "Chloe's hand slowly reaches across the table, covering his hand on the sketchbook.",
+   "speaker": "Chloe",
+   "line": "Me neither, Leo. Our imaginary world was always with me, a comforting presence."
+  },
+  {
+   "image": "Leo finally looks up from her sketchbook, his eyes meeting Chloe's. There are tears gathering in his eyes.",
+   "motion": "Close-up on their hands, fingers gently intertwining.",
+   "speaker": "narrator",
+   "line": "The first touch, electric with years of longing, a silent promise exchanged."
+  },
+  {
+   "image": "Leo gestures from his garden design to her book, a relieved, joyful smile breaking through his tears.",
+   "motion": "He points with his free hand.",
+   "speaker": "Leo",
+   "line": "I designed this garden for you, Chloe. A real place for our imaginary world."
+  },
+  {
+   "image": "Leo gestures from his garden design to her book, a relieved, joyful smile breaking through his tears.",
+   "motion": "Chloe's eyes widen again, a gasp escaping her lips.",
+   "speaker": "Chloe",
+   "line": "For me? You did all this for me, Leo? It's breathtakingly beautiful."
+  },
+  {
+   "image": "Leo gestures from his garden design to her book, a relieved, joyful smile breaking through his tears.",
+   "motion": "Close-up on her face, overwhelmed with emotion, a tear rolling down her cheek.",
+   "speaker": "narrator",
+   "line": "The pure, unadulterated joy of being seen, understood, and truly cherished."
+  },
+  {
+   "image": "Chloe looks at her book, then back at Leo, her smile now radiant and full of love.",
+   "motion": "Her gaze is unwavering, filled with affection.",
+   "speaker": "Chloe",
+   "line": "And I wrote and illustrated this book for us. To keep our stories alive."
+  },
+  {
+   "image": "Chloe looks at her book, then back at Leo, her smile now radiant and full of love.",
+   "motion": "Leo's head bows slightly, overcome with emotion, then looks up, his eyes shining.",
+   "speaker": "Leo",
+   "line": "It's... it's perfect, Chloe. Absolutely perfect. This is everything I ever hoped for."
+  },
+  {
+   "image": "Chloe looks at her book, then back at Leo, her smile now radiant and full of love.",
+   "motion": "Their hands tighten, a palpable connection between them.",
+   "speaker": "narrator",
+   "line": "Two souls, unknowingly nurturing the same shared dream, finally collided beautifully."
+  },
+  {
+   "image": "Leo takes a deep breath, mustering all his courage, his gaze locking with hers.",
+   "motion": "His posture straightens slightly, determined.",
+   "speaker": "Leo",
+   "line": "Chloe... I think I've been in love with you for a very long time."
+  },
+  {
+   "image": "Leo takes a deep breath, mustering all his courage, his gaze locking with hers.",
+   "motion": "Chloe's eyes fill with tears, but her smile widens, a look of profound relief.",
+   "speaker": "Chloe",
+   "line": "Oh, Leo. You really have no idea, do you? I've felt the same way."
+  },
+  {
+   "image": "Leo takes a deep breath, mustering all his courage, his gaze locking with hers.",
+   "motion": "Close-up on their faces, the shared moment of vulnerability and confession.",
+   "speaker": "narrator",
+   "line": "The words, once trapped, now flowed freely, filling the space with pure, honest affection."
+  },
+  {
+   "image": "Chloe leans across the table, her face close to his, her eyes sparkling.",
+   "motion": "Gentle, loving movement.",
+   "speaker": "Chloe",
+   "line": "I saw glimpses in your sketches sometimes, darling. I always knew it was our world."
+  },
+  {
+   "image": "Chloe leans across the table, her face close to his, her eyes sparkling.",
+   "motion": "Leo's expression is one of shock mixed with dawning understanding and relief.",
+   "speaker": "Leo",
+   "line": "You... you knew? All this time, you had a sense of my secret?"
+  },
+  {
+   "image": "Chloe leans across the table, her face close to his, her eyes sparkling.",
+   "motion": "Chloe nods gently, a playful, loving smirk now on her face.",
+   "speaker": "Chloe",
+   "line": "Let's just say a truly shared imaginary world leaves very distinct breadcrumbs, my love."
+  },
+  {
+   "image": "Leo reaches out, gently cupping Chloe's cheek, his thumb brushing away a tear.",
+   "motion": "Tender, intimate gesture.",
+   "speaker": "Leo",
+   "line": "My love. It feels so right, Chloe. It always felt like you were my home."
+  },
+  {
+   "image": "Leo reaches out, gently cupping Chloe's cheek, his thumb brushing away a tear.",
+   "motion": "Chloe leans into his touch, her eyes closing briefly in contentment.",
+   "speaker": "Chloe",
+   "line": "And you, Leo, were always the quiet magic shaping my most beautiful dreams."
+  },
+  {
+   "image": "Leo reaches out, gently cupping Chloe's cheek, his thumb brushing away a tear.",
+   "motion": "Maya stands at the counter, watching them from afar, a warm, satisfied smile on her face.",
+   "speaker": "narrator",
+   "line": "Some love stories unfold not in grand gestures, but in gentle, patient revelations."
+  },
+  {
+   "image": "Leo and Chloe are now standing, embracing gently in the middle of The Story Nook, their projects temporarily forgotten on the table.",
+   "motion": "A warm, comforting hug.",
+   "speaker": "Leo",
+   "line": "We could make this garden real, Chloe. Our imaginary world, tangible."
+  },
+  {
+   "image": "Leo and Chloe are now standing, embracing gently in the middle of The Story Nook, their projects temporarily forgotten on the table.",
+   "motion": "Chloe pulls back slightly, her eyes bright with excitement and wonder.",
+   "speaker": "Chloe",
+   "line": "And my book could be the map! Imagine, Leo, a real Willow Creek adventure!"
+  },
+  {
+   "image": "Leo and Chloe are now standing, embracing gently in the middle of The Story Nook, their projects temporarily forgotten on the table.",
+   "motion": "They hold each other's hands tightly, a shared vision in their eyes.",
+   "speaker": "narrator",
+   "line": "Their combined dreams, stronger and more vibrant than they ever could have been alone."
+  },
+  {
+   "image": "Outside The Story Nook, now evening. Leo and Chloe walk hand-in-hand down the street, their empty project tubes casually swung.",
+   "motion": "They walk away from the camera, silhouetted against the setting sun.",
+   "speaker": "narrator",
+   "line": "The quiet architect and the vibrant artist, hand in hand, stepping into a new chapter."
+  },
+  {
+   "image": "Outside The Story Nook, now evening. Leo and Chloe walk hand-in-hand down the street, their empty project tubes casually swung.",
+   "motion": "Close-up on their clasped hands.",
+   "speaker": "Leo",
+   "line": "This feels like the beginning of everything, Chloe. Our story is just starting."
+  },
+  {
+   "image": "Outside The Story Nook, now evening. Leo and Chloe walk hand-in-hand down the street, their empty project tubes casually swung.",
+   "motion": "Chloe squeezes his hand, her head resting on his shoulder.",
+   "speaker": "Chloe",
+   "line": "The most wonderful beginning, Leo. Filled with whispering willows and Moonpetal dreams."
+  },
+  {
+   "image": "A close-up on a newly planted Moonpetal flower in a small pot, glowing softly in the twilight.",
+   "motion": "A gentle, ethereal glow from the flower.",
+   "speaker": "narrator",
+   "line": "Their love, like a rare, beautiful bloom, finally unfurling under the gentle moonlight."
+  },
+  {
+   "image": "A close-up on a newly planted Moonpetal flower in a small pot, glowing softly in the twilight.",
+   "motion": "A single dewdrop sparkles on a petal.",
+   "speaker": "narrator",
+   "line": "A testament to patient hearts, and the powerful magic of shared, secret dreams."
+  },
+  {
+   "image": "A close-up on a newly planted Moonpetal flower in a small pot, glowing softly in the twilight.",
+   "motion": "The image slowly blurs, fading to black.",
+   "speaker": "narrator",
+   "line": "Some loves are quietly cultivated, waiting for the perfect moment to blossom."
+  },
+  {
+   "image": "A wide shot of The Story Nook, lights on inside, warm and inviting. A small sign on the door says 'Open Heart, Open Book.'",
+   "motion": "Still shot, peaceful and serene.",
+   "speaker": "narrator",
+   "line": "And when they do, the whole world seems to hold its breath and simply listen."
+  },
+  {
+   "image": "Final shot: A beautifully illustrated book cover, titled 'The Willow Creek Adventures,' and beneath it, a smaller text: 'Inspired by the Gardens of Moonpetal Grove.'",
+   "motion": "Slow zoom on the titles.",
+   "speaker": "narrator",
+   "line": "Their story, now written for all to cherish, forever blooming."
+  }
+ ],
+ "caption": "Their unspoken love, finally brought to light. #TrueLove #Soulmates #HappilyEverAfter",
+ "slug": "2026-10-28_part3",
+ "story_no": 4,
+ "parts": 3,
+ "yt_title": "Our Imaginary World is Real! A Love Story Unfolds | Part 3",
+ "description": "Chloe's revelation leaves Leo speechless. They discover their shared childhood imaginary world has been cultivated by both of them, leading to an emotional confession of love and a beautiful future together.",
+ "hashtags": [
+  "#shorts",
+  "#drama",
+  "#romance",
+  "#lovestory",
+  "#secretlove",
+  "#confession",
+  "#unspokenfeelings",
+  "#friendstolovers",
+  "#quietlove",
+  "#artist",
+  "#creative",
+  "#bookstore",
+  "#shortfilm",
+  "#emotional",
+  "#viralshorts",
+  "#truefeelings"
+ ]
+}
