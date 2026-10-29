@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
 Writes today's 3 short videos with Gemini (free tier text model):
-  series/daily/<date>_part1.json  9 AM  funny cartoon story (English one day, Hinglish the next)
-  series/daily/<date>_part2.json  1 PM  realistic emotional story
-  series/daily/<date>_part3.json  6 PM  realistic emotional story
+  series/daily/<date>_part1.json  9 AM  realistic emotional story
+  series/daily/<date>_part2.json  1 PM  funny cartoon story (English one day, Hinglish the next)
+  series/daily/<date>_part3.json  5 PM  realistic emotional story
 
-Each video is ONE complete story of 45-60 seconds: a hook in the first second,
+Each video is ONE complete story of about 3.5-4 minutes: a hook in the first second,
 fast picture changes, one narrator, and a twist at the end. Past titles are
 kept in series/daily/history.txt so stories do not repeat.
 
@@ -22,7 +22,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from make_episode import ROOT, env, load_dotenv  # noqa: E402
 
 DAILY = ROOT / "series" / "daily"
-SCENES = 22                 # one picture + one line each, about 2.5 s -> under 60 s
+SCENES = 70                 # one line each, about 3 s -> 3.5-4 minute videos
 
 CARTOON_STYLE = ("3D animated movie still in the style of a Pixar film, cute expressive characters with big "
                  "eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16")
@@ -66,17 +66,18 @@ REAL_TOPICS = [
 ]
 
 PROMPT = """You write viral YouTube Shorts / Instagram Reels stories that people watch to the end and rewatch.
-Write ONE complete short story. {kind}
+Write ONE complete story for a 3.5-4 minute video. {kind}
 Topic: {topic}
 These stories were already made. Use a DIFFERENT title, names, setting and twist:
 {history}
 
 Rules:
 - Exactly {n} scenes. Each scene is one picture and one spoken line. A new picture every line.
-- The whole story is 120-150 spoken words. Each line 4-9 words. Short, punchy, simple {lang}.
+- The whole story is 550-650 spoken words. Each line 6-11 words. Simple, gripping {lang}.
 - LINE 1 IS THE HOOK: a shocking, curious or funny statement that makes people stop scrolling
   (examples: "My dog stole my wedding ring.", "Everyone laughed at the waiter. Big mistake.").
-- Structure: hook -> quick setup -> rising tension -> twist -> one strong closing line.
+- Structure: hook -> quick setup -> problem -> 2-3 turns that raise the stakes (a mini cliffhanger
+  every 30-40 seconds so nobody leaves) -> the big twist -> payoff -> one strong closing line.
 - The last line asks viewers a short question to comment on, or lands the punchline.
 - {speech}
 - Each scene has a "speaker": "narrator" or a character key. Spoken lines are just the words,
@@ -147,7 +148,7 @@ def check(story, used, voices):
     for s in story.get("scenes", []):
         if s.get("speaker") not in chars:
             s["speaker"] = "narrator"
-    if not SCENES - 4 <= len(story.get("scenes", [])) <= SCENES + 3:
+    if not SCENES - 10 <= len(story.get("scenes", [])) <= SCENES + 8:
         errs.append(f"has {len(story.get('scenes', []))} scenes")
     for s in story.get("scenes", []):
         for name in re.findall(r"\[\[(\w+)\]\]", s.get("image", "")):
@@ -164,6 +165,8 @@ def slots(day):
             "speech": ("Mostly ONE narrator telling it (first person 'I' works best), with a few short "
                        "emotional lines spoken by the characters at key moments.")}
     return [
+        {"kind": "It is an emotional, realistic story with a twist ending.",
+         "topic": REAL_TOPICS[(2 * d) % len(REAL_TOPICS)], **real},
         {"kind": "It is a FUNNY cartoon story: light, silly, relatable comedy with a punchline at the end.",
          "topic": FUNNY_TOPICS[d % len(FUNNY_TOPICS)], "style": CARTOON_STYLE,
          "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
@@ -171,8 +174,6 @@ def slots(day):
                     "a narrator line now and then to move the story on."),
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way young "
                   "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')" if hinglish else "English")},
-        {"kind": "It is an emotional, realistic story with a twist ending.",
-         "topic": REAL_TOPICS[(2 * d) % len(REAL_TOPICS)], **real},
         {"kind": "It is an emotional, realistic story with a twist ending.",
          "topic": REAL_TOPICS[(2 * d + 1) % len(REAL_TOPICS)], **real},
     ]

@@ -1,5 +1,5 @@
-# Daily Story Factory: one new story in 3 parts, sent to Telegram at
-# 9:00, 13:00 and 18:00 India time.
+# Daily Story Factory: 3 new stories a day, sent to Telegram at
+# 9:00 (story), 13:00 (cartoon) and 17:00 (story) India time.
 #
 # GitHub starts scheduled runs late (sometimes hours) or skips them, so there
 # are several runs a day. Each run makes whatever part is due and not sent yet
@@ -9,13 +9,13 @@ name: Daily story
 
 on:
   schedule:
-    - cron: "47 1 * * *"   # 07:17 IST  part 1 (sent at 9:00)
-    - cron: "17 3 * * *"   # 08:47 IST  backup
-    - cron: "47 5 * * *"   # 11:17 IST  part 2 (sent at 13:00)
-    - cron: "17 7 * * *"   # 12:47 IST  backup
-    - cron: "47 10 * * *"  # 16:17 IST  part 3 (sent at 18:00)
-    - cron: "17 12 * * *"  # 17:47 IST  backup
-    - cron: "37 14 * * *"  # 20:07 IST  last catch-up for anything missed
+    - cron: "47 0 * * *"   # 06:17 IST  story (sent at 9:00)
+    - cron: "17 2 * * *"   # 07:47 IST  backup
+    - cron: "47 4 * * *"   # 10:17 IST  cartoon (sent at 13:00)
+    - cron: "17 6 * * *"   # 11:47 IST  backup
+    - cron: "47 8 * * *"   # 14:17 IST  story (sent at 17:00)
+    - cron: "17 10 * * *"  # 15:47 IST  backup
+    - cron: "37 13 * * *"  # 19:07 IST  last catch-up for anything missed
   workflow_dispatch:
     inputs:
       part:

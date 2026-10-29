@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Daily runner (used by GitHub Actions). Sends today's story in 3 parts:
-  part 1 at 9:00, part 2 at 13:00, part 3 at 18:00 India time.
+  story at 9:00, cartoon at 13:00, story at 17:00 India time.
 
 GitHub starts scheduled runs late or skips them on busy days, so this is
 safe to run many times a day: each run makes every part that is due and
@@ -19,8 +19,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from make_episode import ROOT, load_dotenv, send_telegram  # noqa: E402
 
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
-SEND_AT = {1: (9, 0), 2: (13, 0), 3: (18, 0)}
-START_EARLY = datetime.timedelta(minutes=75)   # making a part takes 15-30 minutes
+SEND_AT = {1: (9, 0), 2: (13, 0), 3: (17, 0)}
+START_EARLY = datetime.timedelta(minutes=170)  # a 4-minute video takes 40-70 minutes to make
 DAILY = ROOT / "series" / "daily"
 
 

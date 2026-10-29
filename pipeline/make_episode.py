@@ -156,7 +156,7 @@ def make_clip(ep, i, scene, img, out, dry, zoom=False):
     if out.exists():
         return
     if dry or zoom:  # free mode: camera move on the still picture (no Kling needed)
-        step = 0.004 if ep.get("short") else 0.0015  # shorts change picture every ~2.5 s: move faster
+        step = 0.003 if ep.get("short") else 0.0015  # daily stories cut every ~3 s: move a bit faster
         z = (f"min(zoom+{step},1.25)" if i % 2 == 0
              else f"if(eq(on,0),1.25,max(zoom-{step},1.0))")  # alternate zoom in / zoom out
         run(["ffmpeg", "-y", "-loop", "1", "-i", str(img), "-t", "5", "-r", "24",
@@ -402,7 +402,7 @@ def build(ep, work, final):
 
 
 MAX_SECS = 178.0  # Shorts / Reels limit is 3:00; keep a little margin
-SHORT_MAX_SECS = 62.0  # daily single stories aim for under about a minute
+SHORT_MAX_SECS = 295.0  # daily stories run 3.5-4 minutes; keep them under 5
 
 
 def speed_to_fit(final, total, limit=MAX_SECS):
@@ -519,8 +519,8 @@ def main():
         img, voice = work / f"img_{i}.png", work / f"voice_{i}.mp3"
         if a.free:
             # Pictures cost pollen: one picture covers 3 scenes (each gets a different zoom).
-            # Shorts get a new picture every line (fast cuts keep viewers watching).
-            img = work / f"img_{i if ep.get('short') else i - i % 3}.png"
+            # Daily stories: a new picture every 2 lines (~6 s), each line its own zoom.
+            img = work / f"img_{i - i % 2 if ep.get('short') else i - i % 3}.png"
             if not img.exists():
                 make_image_free(ep, i, sc, img)
             if not voice.exists():
