@@ -519,8 +519,8 @@ def main():
         img, voice = work / f"img_{i}.png", work / f"voice_{i}.mp3"
         if a.free:
             # Pictures cost pollen: one picture covers 3 scenes (each gets a different zoom).
-            # Daily stories: a new picture every 2 lines (~6 s), each line its own zoom.
-            img = work / f"img_{i - i % 2 if ep.get('short') else i - i % 3}.png"
+            # Daily stories: a new picture every 3 lines (~9 s), each line its own zoom.
+            img = work / f"img_{i - i % 3}.png"
             if not img.exists():
                 make_image_free(ep, i, sc, img)
             if not voice.exists():
