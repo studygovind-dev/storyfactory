@@ -1,0 +1,156 @@
+{
+ "series": "The Engraved Secret",
+ "episode": 2,
+ "title": "The Engraved Secret",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Late 20s, long wavy brown hair, warm brown eyes, elegant but practical style (e.g., tailored blouse, simple jewelry). Her face shows intelligence and emotion.",
+   "voice": "narrator_female"
+  },
+  "Mark": {
+   "look": "Late 20s, short dark hair, clean-shaven, initially charming smile, later looks strained and guilt-ridden. Wears smart casual (e.g., collared shirt, chinos).",
+   "voice": "male_young"
+  },
+  "Brenda": {
+   "look": "Early 30s, sleek blonde bob, bright smile, fashionable but professional attire (e.g., stylish blazer, simple top). Her hand is manicured.",
+   "voice": "female_young"
+  }
+ },
+ "short": true,
+ "hook_text": "THE ENGRAVED PEN.",
+ "scenes": [
+  {
+   "image": "[[narrator]] watching [[Mark]] on his phone, looking preoccupied, a subtle frown on her face.",
+   "speaker": "narrator",
+   "line": "My husband was acting so weird."
+  },
+  {
+   "image": "[[Mark]] whispers into his phone, turning his back to [[narrator]] who sits nearby, looking hurt.",
+   "speaker": "narrator",
+   "line": "Late-night calls, vague excuses."
+  },
+  {
+   "image": "[[narrator]] clutching her chest, eyes wide with fear and suspicion.",
+   "speaker": "narrator",
+   "line": "My gut screamed something was wrong."
+  },
+  {
+   "image": "Close-up on [[Mark]]'s hand, holding a distinctive, engraved silver pen.",
+   "speaker": "narrator",
+   "line": "He always carried his lucky pen."
+  },
+  {
+   "image": "[[narrator]] smiling, handing the pen to [[Mark]] in a flashback, both happy.",
+   "speaker": "narrator",
+   "line": "A special, engraved gift from me."
+  },
+  {
+   "image": "[[narrator]] carefully placing the pen under a sofa cushion, a determined look.",
+   "speaker": "narrator",
+   "line": "One morning, I quietly hid it."
+  },
+  {
+   "image": "[[Mark]] frantically searching his desk, rummaging through papers, frustrated.",
+   "speaker": "narrator",
+   "line": "He panicked, frantic searching."
+  },
+  {
+   "image": "[[Mark]] looking agitated, speaking to [[narrator]], who watches him with a knowing look.",
+   "speaker": "Mark",
+   "line": "I absolutely must find it! he declared."
+  },
+  {
+   "image": "[[narrator]] raising an eyebrow, a thoughtful, suspicious expression.",
+   "speaker": "narrator",
+   "line": "Why such urgency for a pen?"
+  },
+  {
+   "image": "[[narrator]] looking at the empty spot on [[Mark]]'s desk where the pen usually was.",
+   "speaker": "narrator",
+   "line": "Days passed, but no pen appeared."
+  },
+  {
+   "image": "[[narrator]] scrolling on LinkedIn, seeing a profile picture of a cheerful, elegant woman, [[Brenda]].",
+   "speaker": "narrator",
+   "line": "Then, I saw a new coworker."
+  },
+  {
+   "image": "Close-up of the screen showing 'Brenda, Marketing Director.'",
+   "speaker": "narrator",
+   "line": "Her name was Brenda on LinkedIn."
+  },
+  {
+   "image": "Phone screen showing a stylish coffee cup on a table, a woman's hand holding it.",
+   "speaker": "narrator",
+   "line": "She posted a casual coffee photo."
+  },
+  {
+   "image": "[[narrator]]'s eyes intensely focused on the phone screen, zooming in.",
+   "speaker": "narrator",
+   "line": "My eyes immediately darted to the table."
+  },
+  {
+   "image": "Zoomed-in on the phone screen, clearly showing [[Mark]]'s engraved pen lying on the table next to the coffee.",
+   "speaker": "narrator",
+   "line": "There it was. My unique pen."
+  },
+  {
+   "image": "[[narrator]]'s face, horrified, eyes wide, mouth open in disbelief.",
+   "speaker": "narrator",
+   "line": "Lying right there, in her office!"
+  },
+  {
+   "image": "[[narrator]] drops her phone, head in hands, tears falling, looking devastated.",
+   "speaker": "narrator",
+   "line": "My entire world completely shattered."
+  },
+  {
+   "image": "[[narrator]] standing tall, looking sternly at [[Mark]] who looks uncomfortable.",
+   "speaker": "narrator",
+   "line": "I confronted him much later that day."
+  },
+  {
+   "image": "[[narrator]] holding up her own phone, showing him the picture of the pen.",
+   "speaker": "narrator",
+   "line": "The engraved pen, Mark, I said, firmly."
+  },
+  {
+   "image": "[[Mark]]'s face, looking defeated, eyes downcast, a tear running down his cheek.",
+   "speaker": "narrator",
+   "line": "He broke down, confessing everything."
+  },
+  {
+   "image": "[[narrator]] looking directly at the camera, a thoughtful, almost cold expression.",
+   "speaker": "narrator",
+   "line": "But the final twist, truly chilling?"
+  },
+  {
+   "image": "[[narrator]] looking shocked, but also with a hint of dark satisfaction, as if realizing the depth of the deception.",
+   "speaker": "narrator",
+   "line": "Brenda was also his daughter's name."
+  }
+ ],
+ "caption": "My Husband's Pen Revealed a Chilling Secret... 😨",
+ "slug": "2026-10-29_part2",
+ "story_no": 6,
+ "yt_title": "My Husband's Pen Revealed a Chilling Secret... 😨",
+ "description": "He thought he was so clever. I used his own prized possession to expose the truth. You won't believe the final detail.",
+ "hashtags": [
+  "#shorts",
+  "#story",
+  "#viral",
+  "#cheatingstory",
+  "#betrayal",
+  "#relationshipdrama",
+  "#twistending",
+  "#emotionalstory",
+  "#shortfilm",
+  "#reels",
+  "#cheatinghusband",
+  "#storytime",
+  "#truestory",
+  "#caughtcheating",
+  "#deepsecret"
+ ]
+}
