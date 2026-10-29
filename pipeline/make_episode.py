@@ -265,7 +265,9 @@ def make_voice(ep, i, scene, out, dry):
         f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}?output_format=mp3_44100_128",
         headers={"xi-api-key": env("ELEVEN_API_KEY")},
         json={"text": scene["line"].replace("*", ""),
-              "model_id": os.environ.get("ELEVEN_MODEL", "eleven_flash_v2_5"),  # half the credits of multilingual_v2
+              # Narrators sound clearly better on multilingual_v2; everyone else uses Flash (half the credits).
+              "model_id": ("eleven_multilingual_v2" if k.startswith("NARRATOR")
+                           else os.environ.get("ELEVEN_MODEL", "eleven_flash_v2_5")),
               # lower stability + more style = softer, more emotional delivery
               "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5}},
         timeout=120)
