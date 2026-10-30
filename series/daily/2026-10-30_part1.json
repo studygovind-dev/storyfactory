@@ -1,0 +1,385 @@
+{
+ "series": "Shadow's Warning",
+ "episode": 1,
+ "title": "Shadow's Warning",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A man in his late 20s, thoughtful expression, wearing a comfortable grey hoodie.",
+   "voice": "narrator_male"
+  },
+  "Sarah": {
+   "look": "A woman around 28, warm smile, kind green eyes, long wavy brown hair, wearing a soft cream sweater.",
+   "voice": "female_young"
+  },
+  "Mark": {
+   "look": "A man around 30, practical, short dark hair, blue eyes, wearing a dark blue t-shirt and jeans.",
+   "voice": "male_young"
+  },
+  "Shadow": {
+   "look": "A sleek black short-haired cat with striking green eyes, initially thin and a bit skittish, later well-fed and relaxed.",
+   "voice": "narrator_male"
+  }
+ },
+ "short": true,
+ "hook_text": "OUR CAT KNEW...",
+ "scenes": [
+  {
+   "image": "Close-up of [[Shadow]]'s intense green eyes, staring intently, slightly dilated pupils.",
+   "speaker": "narrator",
+   "line": "Our new cat seemed psychic. It was much scarier."
+  },
+  {
+   "image": "[[Sarah]] and [[Mark]] smiling, holding keys, standing in front of a charming old house, 'Sold' sign nearby.",
+   "speaker": "narrator",
+   "line": "It started when Sarah and I moved."
+  },
+  {
+   "image": "Interior shot of an empty living room with a large, old brick fireplace.",
+   "speaker": "narrator",
+   "line": "Our first home, an older place."
+  },
+  {
+   "image": "[[Sarah]] unpacking a box, looking happy and a little tired.",
+   "speaker": "narrator",
+   "line": "We were excited to make it ours."
+  },
+  {
+   "image": "Shot of [[Shadow]], thin and scruffy, hiding under a porch bush, peering out shyly.",
+   "speaker": "narrator",
+   "line": "Then we met Shadow, a scrawny stray."
+  },
+  {
+   "image": "[[Sarah]] gently extending a hand with a small bowl of food towards [[Shadow]].",
+   "speaker": "narrator",
+   "line": "Sarah couldn't resist. She fed him daily."
+  },
+  {
+   "image": "[[Shadow]] cautiously eating from the bowl, looking up at [[Sarah]] with hesitant trust.",
+   "speaker": "narrator",
+   "line": "He was shy, but slowly warmed up."
+  },
+  {
+   "image": "[[Sarah]] petting [[Shadow]] who is now purring, curled on her lap.",
+   "speaker": "narrator",
+   "line": "Soon, Shadow was part of our family."
+  },
+  {
+   "image": "[[Mark]] with a slightly amused expression, watching [[Shadow]] play with a toy.",
+   "speaker": "narrator",
+   "line": "I admit, I wasn't initially convinced."
+  },
+  {
+   "image": "[[Shadow]] sleek and well-fed, sitting on a sunlit windowsill, looking content.",
+   "speaker": "narrator",
+   "line": "He quickly became a happy, healthy cat."
+  },
+  {
+   "image": "[[Shadow]] suddenly stops playing, head tilted, ears swiveling towards a wall, looking concerned.",
+   "speaker": "narrator",
+   "line": "But then, his behavior began to change."
+  },
+  {
+   "image": "[[Shadow]] staring intently at a section of the living room wall, unblinking, tail slightly twitching.",
+   "speaker": "narrator",
+   "line": "He'd stare at specific walls for hours."
+  },
+  {
+   "image": "Close-up of [[Shadow]]'s face, a low growl barely audible, focused on the wall.",
+   "speaker": "narrator",
+   "line": "Sometimes he'd even let out soft growls."
+  },
+  {
+   "image": "[[Sarah]] kneels, puzzled, gently touching the wall where [[Shadow]] is focused.",
+   "speaker": "narrator",
+   "line": "Sarah thought he saw a ghost."
+  },
+  {
+   "image": "[[Mark]] shrugging, slightly dismissive, looking at [[Shadow]] staring at the wall.",
+   "speaker": "narrator",
+   "line": "I said it was just quirky cat stuff."
+  },
+  {
+   "image": "[[Shadow]] sitting rigidly by a floor vent in the living room, pawing at it, a distressed look on his face.",
+   "speaker": "narrator",
+   "line": "Then he focused on a floor vent."
+  },
+  {
+   "image": "Close-up of [[Shadow]]'s claws scratching softly at the metal grate of the vent.",
+   "speaker": "narrator",
+   "line": "He'd scratch at it, meow mournfully."
+  },
+  {
+   "image": "[[Sarah]] looking worried, pointing at the vent. [[Mark]] is inspecting the vent with a flashlight, looking skeptical.",
+   "speaker": "narrator",
+   "line": "We checked for mice, found nothing."
+  },
+  {
+   "image": "Nighttime shot of the living room, dark, with [[Shadow]] a dark silhouette, staring at the vent.",
+   "speaker": "narrator",
+   "line": "His vigil intensified at night."
+  },
+  {
+   "image": "[[Sarah]] and [[Mark]] in bed, eyes open, looking annoyed as faint scratching sounds emanate from outside the bedroom.",
+   "speaker": "narrator",
+   "line": "He kept us up with his restless pacing."
+  },
+  {
+   "image": "[[Shadow]] sitting on the floor by the bedroom door, looking up at the door, meowing loudly.",
+   "speaker": "Shadow",
+   "line": "Mrow! Mrow!"
+  },
+  {
+   "image": "[[Mark]] looking frustrated, rubbing his eyes, sitting up in bed.",
+   "speaker": "Mark",
+   "line": "What is wrong with him tonight?"
+  },
+  {
+   "image": "[[Sarah]] reaching over to comfort [[Mark]], a concerned expression on her face.",
+   "speaker": "Sarah",
+   "line": "He's never been this agitated."
+  },
+  {
+   "image": "[[Shadow]] clawing at the base of the living room vent, looking desperate.",
+   "speaker": "narrator",
+   "line": "His behavior became desperate."
+  },
+  {
+   "image": "[[Shadow]] jumps onto the coffee table, knocking a small decorative item off, making eye contact with the camera.",
+   "speaker": "narrator",
+   "line": "He started knocking things over."
+  },
+  {
+   "image": "[[Shadow]] standing on [[Mark]]'s chest in bed, pawing at his face, meowing urgently.",
+   "speaker": "narrator",
+   "line": "Then, one morning, it escalated."
+  },
+  {
+   "image": "Close-up of [[Shadow]]'s face, eyes wide, meowing loudly and urgently at [[Mark]].",
+   "speaker": "Shadow",
+   "line": "MROW! MROW! MROW!"
+  },
+  {
+   "image": "[[Mark]] sitting up abruptly in bed, looking startled and annoyed, pushing [[Shadow]] off.",
+   "speaker": "Mark",
+   "line": "Shadow, enough! Get down!"
+  },
+  {
+   "image": "[[Shadow]] jumps off the bed, then turns and tugs repeatedly at [[Mark]]'s pajama pants.",
+   "speaker": "narrator",
+   "line": "But he wouldn't stop, pulling my pants."
+  },
+  {
+   "image": "[[Sarah]] watching [[Shadow]] tugging at [[Mark]]'s pants, a look of growing alarm on her face.",
+   "speaker": "Sarah",
+   "line": "He's trying to tell us something."
+  },
+  {
+   "image": "[[Mark]], still annoyed, slowly getting out of bed, looking down at [[Shadow]] who is still tugging.",
+   "speaker": "narrator",
+   "line": "I reluctantly followed him out."
+  },
+  {
+   "image": "[[Shadow]] running ahead, then looking back, urging [[Mark]] forward towards the living room.",
+   "speaker": "narrator",
+   "line": "He led me straight to that vent."
+  },
+  {
+   "image": "[[Mark]] kneeling by the vent, frowning, trying to smell something near it.",
+   "speaker": "narrator",
+   "line": "That's when I smelled it faintly."
+  },
+  {
+   "image": "Close-up of [[Mark]]'s nose wrinkling slightly, a confused, concerned expression.",
+   "speaker": "Mark",
+   "line": "Something's... off. A metallic tang."
+  },
+  {
+   "image": "[[Sarah]] joining [[Mark]] by the vent, sniffing the air, then her eyes widen in concern.",
+   "speaker": "Sarah",
+   "line": "I feel a strange pressure, too."
+  },
+  {
+   "image": "[[Mark]] holding his head, looking slightly dazed, a new headache starting.",
+   "speaker": "narrator",
+   "line": "A dull ache began in my head."
+  },
+  {
+   "image": "[[Mark]] pulling out his phone, looking worried, about to dial.",
+   "speaker": "narrator",
+   "line": "My skepticism vanished. I called."
+  },
+  {
+   "image": "A furnace technician in a uniform, with a toolkit, standing by the vent, holding a detector.",
+   "speaker": "narrator",
+   "line": "A technician arrived quickly."
+  },
+  {
+   "image": "Close-up of a digital carbon monoxide detector's screen, displaying a high number.",
+   "speaker": "narrator",
+   "line": "Your levels are dangerously high."
+  },
+  {
+   "image": "The technician looking grim, pointing at an old, rusted part of the furnace.",
+   "speaker": "narrator",
+   "line": "Faulty furnace. A carbon monoxide leak."
+  },
+  {
+   "image": "[[Sarah]] and [[Mark]] looking at each other, eyes wide with shock and fear, then relief.",
+   "speaker": "narrator",
+   "line": "A cold dread washed over us."
+  },
+  {
+   "image": "[[Shadow]] sitting calmly nearby, watching the technician work, no longer frantic.",
+   "speaker": "narrator",
+   "line": "Shadow was suddenly calm."
+  },
+  {
+   "image": "The technician explaining, gesturing with his hands, a serious expression.",
+   "speaker": "narrator",
+   "line": "Cats are more sensitive to the gas."
+  },
+  {
+   "image": "Close-up of [[Shadow]]'s peaceful face, eyes half-closed, purring softly.",
+   "speaker": "narrator",
+   "line": "He felt it long before you did."
+  },
+  {
+   "image": "[[Sarah]] kneeling, hugging [[Shadow]] tightly, tears welling in her eyes.",
+   "speaker": "Sarah",
+   "line": "He wasn't psychic. He was saving us."
+  },
+  {
+   "image": "[[Mark]] stroking [[Shadow]]'s head, a look of profound gratitude on his face.",
+   "speaker": "Mark",
+   "line": "Our little guardian angel."
+  },
+  {
+   "image": "[[Sarah]] and [[Mark]] standing together, watching [[Shadow]] curled up peacefully in a sunbeam.",
+   "speaker": "narrator",
+   "line": "We evacuated immediately, fixed the furnace."
+  },
+  {
+   "image": "[[Shadow]] purring loudly, being petted by both [[Sarah]] and [[Mark]] simultaneously.",
+   "speaker": "narrator",
+   "line": "Our bond with Shadow grew immensely."
+  },
+  {
+   "image": "Close-up of [[Shadow]]'s face looking up at [[Sarah]] with complete trust and affection.",
+   "speaker": "narrator",
+   "line": "He wasn't a quirky cat."
+  },
+  {
+   "image": "[[Mark]] holding [[Shadow]] gently, looking at him with deep affection.",
+   "speaker": "narrator",
+   "line": "He was our silent protector."
+  },
+  {
+   "image": "[[Shadow]] sleeping soundly on [[Sarah]]'s chest, a look of utter contentment.",
+   "speaker": "narrator",
+   "line": "His frantic warnings weren't random."
+  },
+  {
+   "image": "[[Shadow]] curled up in his own plush cat bed, looking perfectly content.",
+   "speaker": "narrator",
+   "line": "They were a desperate plea."
+  },
+  {
+   "image": "[[Sarah]] and [[Mark]] sitting on the couch, smiling, with [[Shadow]] curled between them.",
+   "speaker": "narrator",
+   "line": "He used his instincts to save us."
+  },
+  {
+   "image": "[[Mark]] adjusting a brand new carbon monoxide detector on the wall.",
+   "speaker": "narrator",
+   "line": "Now, we have detectors everywhere."
+  },
+  {
+   "image": "[[Shadow]] playfully chasing a laser pointer dot across the floor.",
+   "speaker": "narrator",
+   "line": "And we cherish every moment."
+  },
+  {
+   "image": "[[Sarah]] and [[Mark]] giving each other a loving look, then looking at [[Shadow]] happily.",
+   "speaker": "narrator",
+   "line": "Our home is safe, thanks to him."
+  },
+  {
+   "image": "[[Shadow]] grooming himself meticulously, looking healthy and well-cared for.",
+   "speaker": "narrator",
+   "line": "A stray cat, once alone."
+  },
+  {
+   "image": "[[Shadow]] sitting majestically on the living room mantelpiece, overseeing the room.",
+   "speaker": "narrator",
+   "line": "Became our greatest hero."
+  },
+  {
+   "image": "Close-up of [[Shadow]]'s green eyes, looking alert and intelligent.",
+   "speaker": "narrator",
+   "line": "He brought us more than just joy."
+  },
+  {
+   "image": "[[Sarah]] and [[Mark]] sitting on the floor, playing with [[Shadow]] with a feather wand.",
+   "speaker": "narrator",
+   "line": "He brought us another chance."
+  },
+  {
+   "image": "[[Shadow]] lying on his back, paws in the air, enjoying a belly rub from [[Sarah]].",
+   "speaker": "narrator",
+   "line": "A reminder of life's fragility."
+  },
+  {
+   "image": "[[Mark]] holding [[Shadow]] up, who is purring, looking content.",
+   "speaker": "narrator",
+   "line": "And a pet's unspoken wisdom."
+  },
+  {
+   "image": "[[Sarah]] and [[Mark]] exchanging a warm, knowing smile over [[Shadow]] who is asleep between them.",
+   "speaker": "narrator",
+   "line": "Sometimes, the biggest heroes."
+  },
+  {
+   "image": "[[Shadow]] stretching languidly in a patch of sunlight.",
+   "speaker": "narrator",
+   "line": "Come on four paws."
+  },
+  {
+   "image": "A wide shot of the cozy living room, warm light, [[Shadow]] sleeping peacefully on the couch.",
+   "speaker": "narrator",
+   "line": "Always trust your pet's intuition."
+  },
+  {
+   "image": "Close-up of [[Shadow]]'s face, purring, eyes closed in contentment.",
+   "speaker": "narrator",
+   "line": "It might just save your life."
+  },
+  {
+   "image": "A final shot of [[Shadow]] looking directly at the camera, then slowly blinking.",
+   "speaker": "narrator",
+   "line": "Have your pets ever surprised you?"
+  }
+ ],
+ "caption": "Our Cat Seemed Psychic... Until We Knew The Truth! 😱",
+ "slug": "2026-10-30_part1",
+ "story_no": 8,
+ "yt_title": "Our Cat Seemed Psychic... Until We Knew The Truth! 😱",
+ "description": "We thought our new stray was just quirky. Her frantic warnings had a deeper meaning. You won't believe what she saved us from.",
+ "hashtags": [
+  "#shorts",
+  "#story",
+  "#viral",
+  "#catstory",
+  "#straycat",
+  "#twistending",
+  "#emotionalstory",
+  "#pets",
+  "#heroanimals",
+  "#truestory",
+  "#family",
+  "#lifesaving",
+  "#mystery",
+  "#shortfilm",
+  "#petsofyoutube"
+ ]
+}

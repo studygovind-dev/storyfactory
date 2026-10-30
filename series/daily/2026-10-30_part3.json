@@ -1,0 +1,396 @@
+{
+ "series": "The Echoing Alley",
+ "episode": 3,
+ "title": "The Echoing Alley",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "male storyteller around 30",
+   "voice": "narrator_male"
+  },
+  "Leo": {
+   "look": "male, early 20s, dark messy hair, kind eyes, often wears simple, slightly worn t-shirts and jeans",
+   "voice": "male_young"
+  },
+  "Maya": {
+   "look": "female, early 20s, bright, expressive eyes, practical braided hair, often wears colourful, thrift-store style dresses or blouses with jeans",
+   "voice": "female_young"
+  }
+ },
+ "short": true,
+ "hook_text": "HIS SECRET LIFE...",
+ "scenes": [
+  {
+   "image": "[[Leo]] sitting alone in a small, sparse apartment, looking thoughtful but determined.",
+   "speaker": "narrator",
+   "line": "He chose poverty to find a love money couldn't buy."
+  },
+  {
+   "image": "Close up on [[Leo]]'s hands, worn jeans, a scuffed old wallet.",
+   "speaker": "narrator",
+   "line": "Leo came from immense wealth, a world of gilded cages."
+  },
+  {
+   "image": "Flashback to [[Leo]] in a luxurious mansion, looking bored and lonely.",
+   "speaker": "narrator",
+   "line": "His family’s fortune brought him everything, except connection."
+  },
+  {
+   "image": "[[Leo]] packing a small duffel bag, leaving a fancy watch on a dresser.",
+   "speaker": "narrator",
+   "line": "So he shed his identity, moving to the city’s forgotten corners."
+  },
+  {
+   "image": "[[Leo]] struggling with a heavy box up narrow stairs in a rundown building.",
+   "speaker": "narrator",
+   "line": "He found a tiny, dusty apartment. A true blank slate."
+  },
+  {
+   "image": "[[Leo]] making instant coffee in a cheap mug, looking out a grimy window.",
+   "speaker": "narrator",
+   "line": "No private chefs, no personal assistants. Just humble reality."
+  },
+  {
+   "image": "[[Leo]] getting a job as a barista at a local coffee shop.",
+   "speaker": "narrator",
+   "line": "His first 'real' job. Serving coffee, learning human rhythms."
+  },
+  {
+   "image": "[[Leo]] smiling genuinely at a customer, wiping down the counter.",
+   "speaker": "narrator",
+   "line": "He felt a strange lightness, a freedom he’d never known."
+  },
+  {
+   "image": "[[Maya]] entering the coffee shop, a vibrant, warm smile.",
+   "speaker": "narrator",
+   "line": "Then she walked in, a burst of sunshine named Maya."
+  },
+  {
+   "image": "[[Leo]] watching [[Maya]] ordering, captivated.",
+   "speaker": "narrator",
+   "line": "She ordered a simple black coffee, her eyes sparkling."
+  },
+  {
+   "image": "Close up on [[Leo]]’s face, a hint of a blush.",
+   "speaker": "narrator",
+   "line": "His heart did something unfamiliar, a quiet flutter."
+  },
+  {
+   "image": "[[Leo]] handing [[Maya]] her coffee, their fingers briefly touching.",
+   "speaker": "narrator",
+   "line": "He stumbled over his words, just a little."
+  },
+  {
+   "image": "[[Maya]] laughing softly at his awkwardness, taking her coffee.",
+   "speaker": "narrator",
+   "line": "She just smiled, a gentle, understanding smile."
+  },
+  {
+   "image": "[[Leo]] watching [[Maya]] sit by the window, sketching in a notebook.",
+   "speaker": "narrator",
+   "line": "Soon, she became a regular. His favorite regular."
+  },
+  {
+   "image": "[[Leo]] and [[Maya]] talking over the counter, animated gestures.",
+   "speaker": "narrator",
+   "line": "They talked about books, dreams, the city's hidden gems."
+  },
+  {
+   "image": "[[Leo]] helping [[Maya]] carry a box of books from a second-hand store.",
+   "speaker": "narrator",
+   "line": "He learned she was a struggling artist, incredibly resilient."
+  },
+  {
+   "image": "[[Maya]] showing [[Leo]] one of her beautiful, detailed sketches.",
+   "speaker": "narrator",
+   "line": "Her talent was immense, her spirit brighter than any diamond."
+  },
+  {
+   "image": "[[Leo]] and [[Maya]] walking through a lively street market, laughing.",
+   "speaker": "narrator",
+   "line": "He loved her simple joys, her genuine enthusiasm."
+  },
+  {
+   "image": "[[Leo]] looking at his worn shoes, a pang of guilt.",
+   "speaker": "narrator",
+   "line": "But a heavy secret clung to him, a constant, sharp ache."
+  },
+  {
+   "image": "[[Leo]] holding a chipped mug, staring into space, conflicted.",
+   "speaker": "narrator",
+   "line": "He was living a lie, and it felt increasingly wrong."
+  },
+  {
+   "image": "[[Leo]] and [[Maya]] sharing a cheap meal, deep in conversation.",
+   "speaker": "narrator",
+   "line": "He wanted to tell her, desperately, but fear held him."
+  },
+  {
+   "image": "[[Leo]] getting a text message notification on his hidden, expensive phone.",
+   "speaker": "narrator",
+   "line": "His old life kept tugging, demanding his attention."
+  },
+  {
+   "image": "[[Leo]] quickly dismissing the message, looking around nervously.",
+   "speaker": "narrator",
+   "line": "He hid his real phone, his real identity, from everyone."
+  },
+  {
+   "image": "[[Leo]] on a rare, secret call with his family, looking tense.",
+   "speaker": "narrator",
+   "line": "His father called, asking about 'his little adventure'."
+  },
+  {
+   "image": "[[Leo]] nodding vaguely, giving non-committal answers.",
+   "speaker": "Leo",
+   "line": "Everything's… fine. I’m learning a lot."
+  },
+  {
+   "image": "[[Maya]] looking worriedly at her phone, then at a broken art easel.",
+   "speaker": "narrator",
+   "line": "Maya, meanwhile, struggled with real financial woes."
+  },
+  {
+   "image": "[[Leo]] watching [[Maya]] try to fix her easel with tape, a sad look.",
+   "speaker": "narrator",
+   "line": "He longed to help her, to just buy her a new one."
+  },
+  {
+   "image": "[[Leo]]'s hand clenching, restraining himself from offering money.",
+   "speaker": "narrator",
+   "line": "But that would reveal everything. He couldn't risk it."
+  },
+  {
+   "image": "[[Maya]] smiling bravely at [[Leo]], despite her broken easel.",
+   "speaker": "Maya",
+   "line": "It's okay, I'll make it work. Artists always adapt!"
+  },
+  {
+   "image": "[[Leo]] looking away, guilt evident on his face.",
+   "speaker": "narrator",
+   "line": "Her resilience made his deception feel even heavier."
+  },
+  {
+   "image": "[[Leo]] and [[Maya]] laughing together in the park, sunlight streaming.",
+   "speaker": "narrator",
+   "line": "Despite the secret, their bond grew stronger, undeniable."
+  },
+  {
+   "image": "[[Leo]] gently touching [[Maya]]'s hand, looking into her eyes.",
+   "speaker": "narrator",
+   "line": "He knew he loved her, more than any fortune."
+  },
+  {
+   "image": "[[Maya]] reciprocating the hand touch, a soft, loving smile.",
+   "speaker": "Maya",
+   "line": "You're different, Leo. In the best way."
+  },
+  {
+   "image": "[[Leo]] looking shocked, then pained by her words.",
+   "speaker": "narrator",
+   "line": "Her words were a dagger, a reminder of his lie."
+  },
+  {
+   "image": "[[Leo]] walking alone at night, head down, wrestling with his conscience.",
+   "speaker": "narrator",
+   "line": "He decided. He had to tell her the absolute truth."
+  },
+  {
+   "image": "[[Leo]] sitting nervously in the coffee shop, waiting for Maya.",
+   "speaker": "narrator",
+   "line": "He practiced his confession, his heart pounding a frantic drum."
+  },
+  {
+   "image": "[[Maya]] entering the coffee shop, looking unusually serious.",
+   "speaker": "narrator",
+   "line": "Maya arrived, but her usual cheerful demeanor was gone."
+  },
+  {
+   "image": "[[Leo]] trying to start, looking at her intently.",
+   "speaker": "Leo",
+   "line": "Maya, there’s something important I need to tell you."
+  },
+  {
+   "image": "[[Maya]] holding up a hand, a conflicted expression.",
+   "speaker": "Maya",
+   "line": "Wait, Leo. I have something to tell you first."
+  },
+  {
+   "image": "[[Leo]] looking confused, a ripple of unease.",
+   "speaker": "narrator",
+   "line": "A cold dread washed over him. What could it be?"
+  },
+  {
+   "image": "Close-up on [[Maya]]'s face, her eyes filled with a complex emotion.",
+   "speaker": "Maya",
+   "line": "My name isn't really Maya. It's Eliza."
+  },
+  {
+   "image": "[[Leo]]'s eyes widening in shock, mouth slightly agape.",
+   "speaker": "narrator",
+   "line": "His world tilted. Eliza? What was happening?"
+  },
+  {
+   "image": "[[Maya]]/Eliza looking down, taking a deep breath.",
+   "speaker": "Maya",
+   "line": "And I'm not an artist. Not really."
+  },
+  {
+   "image": "[[Leo]] gripping the table, trying to process this.",
+   "speaker": "Leo",
+   "line": "What are you saying?"
+  },
+  {
+   "image": "[[Maya]]/Eliza looking up, meeting his gaze directly.",
+   "speaker": "Maya",
+   "line": "I work for your family, Leo. Your father hired me."
+  },
+  {
+   "image": "Extreme close-up on [[Leo]]'s face, pure disbelief and betrayal.",
+   "speaker": "narrator",
+   "line": "The words hit him like a physical blow. Unimaginable."
+  },
+  {
+   "image": "Flashback: [[Leo]]’s father talking to [[Maya]]/Eliza in a lavish office.",
+   "speaker": "narrator",
+   "line": "His father had arranged this. A test. A cruel experiment."
+  },
+  {
+   "image": "[[Maya]]/Eliza explaining, a sad but firm expression.",
+   "speaker": "Maya",
+   "line": "He wanted to see if you could truly thrive, free from your inheritance."
+  },
+  {
+   "image": "[[Leo]] standing up abruptly, chair scraping the floor.",
+   "speaker": "Leo",
+   "line": "You knew? All this time?"
+  },
+  {
+   "image": "[[Maya]]/Eliza nodding slowly, pain in her eyes.",
+   "speaker": "Maya",
+   "line": "Yes. I was observing you. Reporting back."
+  },
+  {
+   "image": "[[Leo]] running a hand through his hair, pacing angrily.",
+   "speaker": "narrator",
+   "line": "Rage and hurt surged through him. He felt utterly foolish."
+  },
+  {
+   "image": "[[Maya]]/Eliza reaching out, then pulling her hand back.",
+   "speaker": "Maya",
+   "line": "At first, it was just a job."
+  },
+  {
+   "image": "[[Maya]]/Eliza looking directly at [[Leo]], tears welling.",
+   "speaker": "Maya",
+   "line": "But then… I fell for you, Leo. The real you."
+  },
+  {
+   "image": "[[Leo]] pausing, looking at her, a flicker of something.",
+   "speaker": "narrator",
+   "line": "Her confession hung heavy, a truth he hadn't expected."
+  },
+  {
+   "image": "[[Leo]]’s conflicted face, battling anger and something else.",
+   "speaker": "narrator",
+   "line": "He saw her sincerity, the genuine pain in her eyes."
+  },
+  {
+   "image": "Close-up on [[Maya]]/Eliza's hand, clutching a small, worn sketchbook.",
+   "speaker": "Maya",
+   "line": "My art, our conversations… they were real to me."
+  },
+  {
+   "image": "[[Leo]] looking at the sketchbook, then back at her.",
+   "speaker": "narrator",
+   "line": "Was any of it real? Or just part of the charade?"
+  },
+  {
+   "image": "Flashback: [[Maya]]/Eliza sketching happily in the park.",
+   "speaker": "narrator",
+   "line": "He remembered her passion, the light in her eyes."
+  },
+  {
+   "image": "[[Leo]] slowly sitting back down, processing everything.",
+   "speaker": "narrator",
+   "line": "His own deception now mirrored hers, a bitter irony."
+  },
+  {
+   "image": "[[Maya]]/Eliza watching him, waiting for his reaction.",
+   "speaker": "Maya",
+   "line": "I was going to tell you today, too."
+  },
+  {
+   "image": "[[Leo]] looking at her, a long silence between them.",
+   "speaker": "narrator",
+   "line": "Two people, both with secrets, finally exposed."
+  },
+  {
+   "image": "[[Leo]]’s face, a slow realization dawning.",
+   "speaker": "narrator",
+   "line": "His father’s test… it wasn’t just for him."
+  },
+  {
+   "image": "Flashback: [[Leo]]’s father making a worried gesture.",
+   "speaker": "narrator",
+   "line": "It was a desperate attempt to find genuine connection."
+  },
+  {
+   "image": "[[Leo]] looking at [[Maya]]/Eliza, a new understanding.",
+   "speaker": "narrator",
+   "line": "And they had found it, amidst a pile of lies."
+  },
+  {
+   "image": "[[Maya]]/Eliza wiping a tear, a hopeful, tentative look.",
+   "speaker": "Maya",
+   "line": "Can we… can we still be real?"
+  },
+  {
+   "image": "[[Leo]] taking her hand, a small, genuine smile.",
+   "speaker": "Leo",
+   "line": "Let's try. Without any more games."
+  },
+  {
+   "image": "[[Leo]] and [[Maya]]/Eliza walking out of the coffee shop, holding hands, looking thoughtful but together.",
+   "speaker": "narrator",
+   "line": "They walked into the street, a new chapter unfolding."
+  },
+  {
+   "image": "Close-up on their clasped hands, simple, honest.",
+   "speaker": "narrator",
+   "line": "Their love was born from deception, yet it felt true."
+  },
+  {
+   "image": "[[Leo]] and [[Maya]]/Eliza looking at each other, a shared, understanding smile.",
+   "speaker": "narrator",
+   "line": "A rich boy sought truth, finding it in unexpected places."
+  },
+  {
+   "image": "Fade out on [[Leo]] and [[Maya]]/Eliza's faces, a sense of hope.",
+   "speaker": "narrator",
+   "line": "Could a love built on lies ever truly last?"
+  }
+ ],
+ "caption": "He Faked Being Poor To Find Love, Then THIS Happened 💔",
+ "slug": "2026-10-30_part3",
+ "story_no": 10,
+ "yt_title": "He Faked Being Poor To Find Love, Then THIS Happened 💔",
+ "description": "He wanted to find true love, free from his family's immense wealth. So he chose a life of humble reality... until his past caught up in the most unexpected way.",
+ "hashtags": [
+  "#shorts",
+  "#story",
+  "#viral",
+  "#emotionalstory",
+  "#twistending",
+  "#truelove",
+  "#richpoor",
+  "#deception",
+  "#relationship",
+  "#shortfilm",
+  "#drama",
+  "#heartbreak",
+  "#lifechoices",
+  "#love",
+  "#familysecrets"
+ ]
+}

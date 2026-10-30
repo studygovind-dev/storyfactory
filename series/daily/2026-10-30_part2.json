@@ -1,0 +1,396 @@
+{
+ "series": "Dadi's Digital Drama",
+ "episode": 2,
+ "title": "Dadi's Digital Drama",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A friendly, neutral male storyteller.",
+   "voice": "narrator_male"
+  },
+  "Dadi": {
+   "look": "An elderly Indian woman, about 70s. Silver hair tied in a neat bun, stern but sometimes bewildered expression, traditional maroon and gold saree, reading glasses on a chain.",
+   "voice": "narrator_male"
+  },
+  "Rohan": {
+   "look": "A young Indian man, early 20s. Energetic, modern short haircut, bright blue t-shirt, jeans, perpetually amused expression.",
+   "voice": "cartoon_male"
+  }
+ },
+ "short": true,
+ "hook_text": "DADI'S FIRST PHONE!",
+ "scenes": [
+  {
+   "image": "Rohan looks utterly shocked, holding a smartphone showing a blurry, close-up photo of Dadi's stern face.",
+   "speaker": "Rohan",
+   "line": "My Dadi sent a pic. Trust me, it was wild!"
+  },
+  {
+   "image": "Dadi sitting on a sofa, eyes narrowed, pointing a finger at a scared-looking Rohan.",
+   "speaker": "narrator",
+   "line": "Dadi always ruled the house with an iron fist."
+  },
+  {
+   "image": "Rohan tiptoeing past Dadi, who is inspecting a plant with a magnifying glass.",
+   "speaker": "Rohan",
+   "line": "Tech? She said, 'Bekaar hai, Rohan, pura time waste!'"
+  },
+  {
+   "image": "Rohan trying to show Dadi a tablet, Dadi turning her head away dismissively.",
+   "speaker": "narrator",
+   "line": "Rohan wanted Dadi to join the digital world."
+  },
+  {
+   "image": "Dadi dusting a rotary phone with a feather duster, proudly.",
+   "speaker": "Dadi",
+   "line": "Yeh mera phone hai. Simple, no bakwaas."
+  },
+  {
+   "image": "Rohan looking exasperated, holding a smartphone, Dadi crosses her arms.",
+   "speaker": "Rohan",
+   "line": "Dadi, please! Thoda toh try karo na."
+  },
+  {
+   "image": "Rohan holding a phone, making puppy dog eyes at Dadi.",
+   "speaker": "narrator",
+   "line": "Rohan kept coaxing, for days, then weeks."
+  },
+  {
+   "image": "Dadi sighs dramatically, slowly reaching out for the smartphone Rohan offers.",
+   "speaker": "Dadi",
+   "line": "Bas, ek baar. Agar bore hua toh..."
+  },
+  {
+   "image": "Dadi holding the smartphone gingerly, looking at it like a bomb. Rohan smiling excitedly.",
+   "speaker": "Rohan",
+   "line": "Dekho, Dadi. Yeh hai touch screen."
+  },
+  {
+   "image": "Dadi poking the screen with one finger, then quickly pulling it back, confused.",
+   "speaker": "Dadi",
+   "line": "Arre, yeh kya? Kaise chalta hai?"
+  },
+  {
+   "image": "Rohan showing Dadi how to swipe, Dadi looking skeptical.",
+   "speaker": "Rohan",
+   "line": "Upar scroll karo, Dadi. Aise."
+  },
+  {
+   "image": "Dadi vigorously rubbing the screen with her thumb, nothing happening.",
+   "speaker": "Dadi",
+   "line": "Kuch nahi ho raha. Yeh kharab hai!"
+  },
+  {
+   "image": "Dadi holding the phone upside down, a surprised expression, a ringing sound.",
+   "speaker": "narrator",
+   "line": "Soon, accidental calls became a daily affair."
+  },
+  {
+   "image": "Rohan grabbing the phone from Dadi, looking mortified. Dadi shrugging.",
+   "speaker": "Rohan",
+   "line": "Dadi, aapne toh Sharma uncle ko phone laga diya!"
+  },
+  {
+   "image": "Rohan showing Dadi how to open the camera app. Dadi raising an eyebrow.",
+   "speaker": "Rohan",
+   "line": "Aur yeh hai camera. Photos click karte hain."
+  },
+  {
+   "image": "Dadi trying to take a photo of her own ear, phone facing wrong way.",
+   "speaker": "Dadi",
+   "line": "Mera chehra kyun nahi dikh raha?"
+  },
+  {
+   "image": "Dadi, with a confused look, accidentally presses the shutter button.",
+   "speaker": "narrator",
+   "line": "One afternoon, Dadi tried a selfie."
+  },
+  {
+   "image": "Close up of Dadi's stern, slightly scowling face, very unflattering angle.",
+   "speaker": "Rohan",
+   "line": "She clicked a close-up of her nose, mostly."
+  },
+  {
+   "image": "Dadi trying to close the camera app, accidentally tapping 'send.'",
+   "speaker": "Dadi",
+   "line": "Ab yeh kya hua? Kahan gaya?"
+  },
+  {
+   "image": "Rohan's phone vibrating. He checks it, eyes widening in horror.",
+   "speaker": "narrator",
+   "line": "Rohan's phone buzzed seconds later."
+  },
+  {
+   "image": "Close-up of Rohan's phone screen, showing the blurry nose selfie from Dadi.",
+   "speaker": "Rohan",
+   "line": "Dadi! Aapne Sharma Aunty ko yeh photo bhej di!"
+  },
+  {
+   "image": "Dadi looking innocent and confused, shrugging her shoulders.",
+   "speaker": "Dadi",
+   "line": "Toh? Kya ho gaya? Bas ek tasveer."
+  },
+  {
+   "image": "Rohan frantically typing on his phone, trying to explain to Sharma Aunty.",
+   "speaker": "Rohan",
+   "line": "Woh abhi call karengi! Kya bolunga main?"
+  },
+  {
+   "image": "Rohan teaching Dadi to record a voice note, Dadi looking unsure.",
+   "speaker": "Rohan",
+   "line": "Aise record karte hain, bolkar message bhejte hain."
+  },
+  {
+   "image": "Dadi holding the phone close to her mouth, eyes stern, recording.",
+   "speaker": "narrator",
+   "line": "Dadi quickly mastered voice notes."
+  },
+  {
+   "image": "Dadi sending a voice note, scolding a distant relative for not visiting.",
+   "speaker": "Dadi",
+   "line": "Beta, ghar kab aaoge? Sab log intezaar kar rahe hain!"
+  },
+  {
+   "image": "Rohan covering his face with his hands, groaning. Dadi looks satisfied.",
+   "speaker": "Rohan",
+   "line": "Dadi, aap sabko aise daant kyu rahi ho?"
+  },
+  {
+   "image": "Dadi tapping her chin thoughtfully, a mischievous glint in her eye.",
+   "speaker": "Dadi",
+   "line": "Message se zyada impact aata hai!"
+  },
+  {
+   "image": "Rohan showing Dadi Instagram Reels, a funny animal video playing.",
+   "speaker": "Rohan",
+   "line": "Aur yeh hain Reels, short videos."
+  },
+  {
+   "image": "Dadi watching the animal video, unimpressed, with a 'hmpf' expression.",
+   "speaker": "Dadi",
+   "line": "Kya bachpana hai. Pura time kharab."
+  },
+  {
+   "image": "Dadi secretly peeking at Rohan's phone while he scrolls Reels.",
+   "speaker": "narrator",
+   "line": "But Dadi kept watching secretly."
+  },
+  {
+   "image": "Dadi with a sudden, determined look on her face, phone in hand.",
+   "speaker": "Dadi",
+   "line": "Rohan, mujhe bhi ek video banana hai."
+  },
+  {
+   "image": "Rohan's jaw drops, looking at Dadi in disbelief.",
+   "speaker": "Rohan",
+   "line": "Aap? Reels banayenge? Mazaaak kar rahe ho?"
+  },
+  {
+   "image": "Dadi standing authoritatively, holding the phone like a microphone.",
+   "speaker": "Dadi",
+   "line": "Chup! Jaldi shuru karo. Mujhe dikhao."
+  },
+  {
+   "image": "Dadi standing in her kitchen, pointing at a messy spice rack with a stern face.",
+   "speaker": "narrator",
+   "line": "Dadi's first Reel was about kitchen discipline."
+  },
+  {
+   "image": "Dadi looking directly into the camera, wagging her finger.",
+   "speaker": "Dadi",
+   "line": "Masale hamesha line mein hone chahiye!"
+  },
+  {
+   "image": "Rohan struggling to hold back laughter while recording Dadi, camera shaking slightly.",
+   "speaker": "Rohan",
+   "line": "(whispering) Yeh toh next level hai."
+  },
+  {
+   "image": "Dadi confidently pressing the 'post' button, a determined smile.",
+   "speaker": "Dadi",
+   "line": "Ab dekhte hain kitne likes aate hain."
+  },
+  {
+   "image": "Rohan and Dadi looking at the phone screen, 3 likes from family members.",
+   "speaker": "Rohan",
+   "line": "Bas teen likes aaye hain, Dadi."
+  },
+  {
+   "image": "Dadi pouting, then narrowing her eyes, 'I'll show them' expression.",
+   "speaker": "Dadi",
+   "line": "Koi baat nahi. Ek aur banayenge!"
+  },
+  {
+   "image": "Dadi giving a stern lecture on folding clothes, perfectly neat stacks beside her.",
+   "speaker": "narrator",
+   "line": "Her next Reel was on folding laundry perfectly."
+  },
+  {
+   "image": "Dadi demonstrating a complex saree pleating technique with serious concentration.",
+   "speaker": "Dadi",
+   "line": "Ek bhi crease nahi chalegi. Samjhe?"
+  },
+  {
+   "image": "Rohan looking at the phone, suddenly hundreds of likes appearing.",
+   "speaker": "Rohan",
+   "line": "Dadi! Aapke Reel pe views badh rahe hain!"
+  },
+  {
+   "image": "Phone screen showing the Reel with thousands of views, comments pouring in.",
+   "speaker": "narrator",
+   "line": "People loved her strict, no-nonsense advice."
+  },
+  {
+   "image": "Dadi, now with a slightly mischievous smile, checking comments.",
+   "speaker": "Dadi",
+   "line": "Dekho, yeh log mujhe 'Reels ki Rani' bula rahe hain."
+  },
+  {
+   "image": "Rohan pinching himself, staring at Dadi, who is beaming.",
+   "speaker": "Rohan",
+   "line": "Meri Dadi? Viral? Kaise ho gaya yeh?"
+  },
+  {
+   "image": "Dadi posing dramatically, holding a rolling pin like a prop.",
+   "speaker": "Dadi",
+   "line": "Ab main Dadi-influencer hoon, Rohan!"
+  },
+  {
+   "image": "Dadi in the garden, pointing sternly at a wilting plant.",
+   "speaker": "narrator",
+   "line": "Dadi started making Reels on everything."
+  },
+  {
+   "image": "Dadi explaining how to perfectly peel a potato, looking very serious.",
+   "speaker": "Dadi",
+   "line": "Aise chhilte hain aaloo, waste nahi karna!"
+  },
+  {
+   "image": "Dadi sitting on her sofa, phone in hand, looking at fan mail (cartoon letters).",
+   "speaker": "Rohan",
+   "line": "Her 'Strict Dadi' brand was a huge hit!"
+  },
+  {
+   "image": "Dadi holding up a plate of perfectly round rotis, showing them off to the camera.",
+   "speaker": "Dadi",
+   "line": "Agla video perfect roti pe banega."
+  },
+  {
+   "image": "A group of young people gathered around a phone, laughing and watching Dadi's Reel.",
+   "speaker": "narrator",
+   "line": "Youngsters loved her traditional, funny wisdom."
+  },
+  {
+   "image": "Dadi instructing Rohan on lighting and angles for her next Reel shoot.",
+   "speaker": "Dadi",
+   "line": "Rohan, light theek nahi hai. Aur paas aao."
+  },
+  {
+   "image": "Rohan, now acting as Dadi's personal cameraman, looking tired but amused.",
+   "speaker": "Rohan",
+   "line": "Main toh Dadi ka pura production team ban gaya hoon."
+  },
+  {
+   "image": "Dadi, looking at her reflection in the phone, trying a cute filter.",
+   "speaker": "Dadi",
+   "line": "Yeh filter mujhe young dikhata hai."
+  },
+  {
+   "image": "Dadi holding a small bag of homemade pickles, winking at the camera.",
+   "speaker": "Dadi",
+   "line": "Mere achaar ka business bhi chal raha hai!"
+  },
+  {
+   "image": "Dadi laughing heartily while watching her own viral Reel on the phone.",
+   "speaker": "narrator",
+   "line": "Dadi was happier than ever before."
+  },
+  {
+   "image": "Rohan smiling, watching Dadi, feeling proud.",
+   "speaker": "Rohan",
+   "line": "Who knew a phone could change her so much?"
+  },
+  {
+   "image": "Dadi scrolling through comments, a genuinely warm smile on her face.",
+   "speaker": "narrator",
+   "line": "The strict Dadi was now a social media star."
+  },
+  {
+   "image": "Dadi showing Rohan a comment praising her for a recipe.",
+   "speaker": "Dadi",
+   "line": "Dekho, logon ko mere tips pasand hain!"
+  },
+  {
+   "image": "Dadi speaking into the phone, giving advice, a map of the world subtly in the background.",
+   "speaker": "narrator",
+   "line": "Her wisdom, once just for family, was global."
+  },
+  {
+   "image": "Dadi confidently holding up a smartphone, ready for her next video.",
+   "speaker": "Dadi",
+   "line": "Rohan, next time, hum live jayenge!"
+  },
+  {
+   "image": "Rohan slumping his shoulders dramatically, a sweat drop on his forehead.",
+   "speaker": "Rohan",
+   "line": "Arre Dadi! Bas karo! Meri toh lag gayi!"
+  },
+  {
+   "image": "Dadi looking very regal and powerful, holding her smartphone like a scepter.",
+   "speaker": "narrator",
+   "line": "Dadi now held digital power in her hands."
+  },
+  {
+   "image": "Dadi getting a call, answering it with a very serious, important expression.",
+   "speaker": "Dadi",
+   "line": "Hello? Yes, this is Reels ki Rani speaking."
+  },
+  {
+   "image": "Dadi giving a stern lecture to Rohan about spending too much time on his phone.",
+   "speaker": "Dadi",
+   "line": "Rohan, pura din phone pe mat raho!"
+  },
+  {
+   "image": "Rohan looking utterly bewildered, pointing at Dadi's phone.",
+   "speaker": "Rohan",
+   "line": "Dadi, aap bhi toh…"
+  },
+  {
+   "image": "Dadi silencing Rohan with a glare and a raised hand.",
+   "speaker": "Dadi",
+   "line": "Mera kaam hai! Tumhara nahi."
+  },
+  {
+   "image": "Dadi busy creating a new Reel, Rohan sighing and setting up the camera.",
+   "speaker": "narrator",
+   "line": "And so, the digital drama continued."
+  },
+  {
+   "image": "Dadi winking at the camera, holding up her phone displaying her viral profile.",
+   "speaker": "Dadi",
+   "line": "Kya aapki Dadi bhi Reels star ban sakti hai?"
+  }
+ ],
+ "caption": "My Strict Dadi Used A Phone For The First Time... 🤯📱",
+ "slug": "2026-10-30_part2",
+ "story_no": 9,
+ "yt_title": "My Strict Dadi Used A Phone For The First Time... 🤯📱",
+ "description": "My Dadi, who barely used a remote, tried a smartphone. You won't believe what happened next!\nHer first Reel went viral and changed everything. Get ready to laugh!",
+ "hashtags": [
+  "#shorts",
+  "#viral",
+  "#funny",
+  "#indiangrandma",
+  "#desicontent",
+  "#youtubeshorts",
+  "#comedy",
+  "#relatable",
+  "#indiancomedy",
+  "#shortstory",
+  "#strictgrandma",
+  "#dadi",
+  "#firsttime",
+  "#techfail",
+  "#grandmasoftiktok"
+ ]
+}
