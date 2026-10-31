@@ -1,0 +1,396 @@
+{
+ "series": "The Orchid's Echo",
+ "episode": 1,
+ "title": "The Orchid's Echo",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Female, 28, long dark hair, usually wears comfortable but stylish jeans and a nice top, a thoughtful and sometimes frustrated expression.",
+   "voice": "narrator_female"
+  },
+  "Elara": {
+   "look": "Female, 62, silver-gray hair neatly styled in a bun, sharp but weary blue eyes, always in elegant, classic dresses.",
+   "voice": "narrator_male"
+  },
+  "Liam": {
+   "look": "Male, 29, short brown hair, kind eyes, a gentle smile, often wears casual shirts, slightly worried expression.",
+   "voice": "male_young"
+  }
+ },
+ "short": true,
+ "hook_text": "THE ORCHID'S ECHO",
+ "scenes": [
+  {
+   "image": "Close-up on a young woman's (Anya, the narrator) face, looking frustrated as she waters a plant, eyes subtly darting off-frame.",
+   "speaker": "narrator",
+   "line": "My mother-in-law's gardening advice was truly unbearable."
+  },
+  {
+   "image": "An older woman (Elara) stands rigidly in a garden, arms crossed, scrutinizing Anya's planting technique from a distance, a critical look on her face.",
+   "speaker": "narrator",
+   "line": "She watched my every move with hawk-like intensity."
+  },
+  {
+   "image": "A young man (Liam) stands between Anya and Elara in the garden, looking uncomfortable and trying to smile weakly.",
+   "speaker": "narrator",
+   "line": "Even my husband Liam felt the tension in the air."
+  },
+  {
+   "image": "Liam gently places a hand on Elara's arm, a pleading look on his face as she stares at Anya.",
+   "speaker": "Liam",
+   "line": "Mom, please, Anya knows what she's doing."
+  },
+  {
+   "image": "Elara turns her head slightly towards Liam, a dismissive frown on her lips, her gaze still firm.",
+   "speaker": "Elara",
+   "line": "Nonsense, son. A plant needs proper care."
+  },
+  {
+   "image": "Anya, with a serene smile, carefully plants a small seedling into rich soil, her hands gentle.",
+   "speaker": "narrator",
+   "line": "I always loved gardening, it was my solace."
+  },
+  {
+   "image": "Anya looks deflated, standing next to a flourishing rose bush, while Elara points a finger at a single withered leaf.",
+   "speaker": "narrator",
+   "line": "But Elara turned it into a constant battle."
+  },
+  {
+   "image": "Close-up on a perfectly formed rosebud, with Elara's hand almost touching it, as if inspecting for flaws.",
+   "speaker": "narrator",
+   "line": "Every seedling, every rose, became a critique."
+  },
+  {
+   "image": "Anya sits on a garden bench, looking dejected, head slightly bowed, a watering can beside her.",
+   "speaker": "narrator",
+   "line": "I felt like nothing I did was ever good enough."
+  },
+  {
+   "image": "Wide shot of a beautiful, slightly overgrown backyard garden, with Anya and Elara on opposite sides, backs turned.",
+   "speaker": "narrator",
+   "line": "Our small backyard became a warzone of wills."
+  },
+  {
+   "image": "Anya gasps slightly, eyes wide with delight, as she holds a pot containing a stunning, unique orchid with shimmering petals.",
+   "speaker": "narrator",
+   "line": "Then I found it: a magnificent, rare orchid."
+  },
+  {
+   "image": "Extreme close-up on the orchid's delicate, vibrant petals, shimmering with a soft, ethereal glow.",
+   "speaker": "narrator",
+   "line": "Its petals shimmered with an otherworldly glow."
+  },
+  {
+   "image": "Anya stands, dreaming, envisioning the orchid blooming gloriously amidst her other garden plants, a look of hopeful joy.",
+   "speaker": "narrator",
+   "line": "I imagined it thriving, a jewel in our garden."
+  },
+  {
+   "image": "Elara approaches the potted orchid, her expression unreadable at first, then her eyes narrow slightly.",
+   "speaker": "narrator",
+   "line": "Elara saw it and her eyes narrowed instantly."
+  },
+  {
+   "image": "Elara leans in close to the orchid, her brow furrowed in concentration, almost as if assessing a threat.",
+   "speaker": "Elara",
+   "line": "That plant requires specific, delicate conditions."
+  },
+  {
+   "image": "Anya clenches her jaw, looking away from Elara, a flicker of defiance in her eyes as she holds the orchid.",
+   "speaker": "narrator",
+   "line": "I bristled, but tried to ignore her warnings."
+  },
+  {
+   "image": "Anya carefully places the orchid pot in a sunny spot on the patio, a hopeful expression on her face.",
+   "speaker": "narrator",
+   "line": "I placed it carefully in the sunniest spot."
+  },
+  {
+   "image": "Anya waters the orchid with a regular watering can, just like her other plants, a routine action.",
+   "speaker": "narrator",
+   "line": "Watered it as I had all my other plants."
+  },
+  {
+   "image": "Close-up on the orchid, its once vibrant leaves now visibly yellowing and drooping, a sad sight.",
+   "speaker": "narrator",
+   "line": "Within days, its vibrant green leaves began to droop."
+  },
+  {
+   "image": "The orchid is slumped over in its pot, looking truly forlorn, a shadow falling across its once bright petals.",
+   "speaker": "narrator",
+   "line": "The beautiful orchid looked utterly heartbroken."
+  },
+  {
+   "image": "Anya kneels beside the wilting orchid, hands hovering uselessly, a look of growing despair on her face.",
+   "speaker": "narrator",
+   "line": "I tried everything, but it just kept wilting."
+  },
+  {
+   "image": "Elara walks past the wilting orchid, pausing just long enough to glance at it, then slowly shakes her head.",
+   "speaker": "narrator",
+   "line": "Elara would walk by, shaking her head slowly."
+  },
+  {
+   "image": "Elara looks directly at Anya, a look of stern disapproval on her face, her hand gesturing towards the plant.",
+   "speaker": "Elara",
+   "line": "Too much sun. Not enough humidity, Anya."
+  },
+  {
+   "image": "Anya flinches slightly at Elara's words, her expression turning from despair to a sharp, wounded resentment.",
+   "speaker": "narrator",
+   "line": "Her words felt like sharp daggers to my heart."
+  },
+  {
+   "image": "Anya turns her back to Elara, looking at the dying orchid with a defeated and resentful expression.",
+   "speaker": "narrator",
+   "line": "I thought she enjoyed seeing my efforts fail."
+  },
+  {
+   "image": "Liam approaches Anya, putting a comforting hand on her shoulder, looking thoughtful.",
+   "speaker": "Liam",
+   "line": "Dad had a plant just like that, Anya."
+  },
+  {
+   "image": "Liam gazes off into the distance, a faraway, nostalgic look in his eyes, remembering his father.",
+   "speaker": "Liam",
+   "line": "He spent years trying to make it truly flourish."
+  },
+  {
+   "image": "Anya nods vaguely, preoccupied with the orchid, her mind not fully processing Liam's comment.",
+   "speaker": "narrator",
+   "line": "I barely registered Liam's words at the time."
+  },
+  {
+   "image": "Close-up on Anya's hands, gently touching the wilting orchid leaves, her face etched with concern.",
+   "speaker": "narrator",
+   "line": "My focus was on this dying, precious flower."
+  },
+  {
+   "image": "Elara stands over Anya, her face now showing a hint of urgency beneath her usual sternness, her voice more intense.",
+   "speaker": "narrator",
+   "line": "Elara grew more insistent, almost frantic now."
+  },
+  {
+   "image": "Elara quickly demonstrates a misting motion with her hands, looking directly at Anya with a demanding gaze.",
+   "speaker": "Elara",
+   "line": "You must mist its roots. Only distilled water."
+  },
+  {
+   "image": "Anya looks taken aback by Elara's intense tone, seeing a new desperation in her mother-in-law's eyes.",
+   "speaker": "narrator",
+   "line": "Her voice was sharper, her gaze more intense."
+  },
+  {
+   "image": "Elara turns away abruptly, clutching her hand to her chest, a flash of pain in her eyes, then quickly hides it.",
+   "speaker": "narrator",
+   "line": "She seemed distressed, though I couldn't grasp why."
+  },
+  {
+   "image": "Anya peers cautiously through a slightly ajar shed door, hearing muffled voices from inside.",
+   "speaker": "narrator",
+   "line": "One afternoon, I heard her in the garden shed."
+  },
+  {
+   "image": "Inside the shed, Elara holds an old, framed photograph of a man, her expression tender and sorrowful, talking softly.",
+   "speaker": "narrator",
+   "line": "She was talking softly to an old, framed photo."
+  },
+  {
+   "image": "Close-up on Elara's hand gently caressing the photograph, her lips moving silently as she whispers.",
+   "speaker": "Elara",
+   "line": "I promise, my love. I will keep it alive."
+  },
+  {
+   "image": "Anya retreats from the shed door, a puzzled and slightly unnerved expression on her face, deep in thought.",
+   "speaker": "narrator",
+   "line": "A chill ran down my spine. What was 'it'?"
+  },
+  {
+   "image": "Anya looks thoughtfully at the wilting orchid, connecting Elara's words to the plant, still confused by the intensity.",
+   "speaker": "narrator",
+   "line": "Was she truly this obsessed with his memories?"
+  },
+  {
+   "image": "Anya sits at a computer, researching intently, various plant care articles open on the screen.",
+   "speaker": "narrator",
+   "line": "I decided to research the specific orchid variety."
+  },
+  {
+   "image": "Close-up on a research article highlighting the orchid's rarity and extremely difficult cultivation requirements.",
+   "speaker": "narrator",
+   "line": "It was indeed rare, incredibly hard to cultivate."
+  },
+  {
+   "image": "A complex diagram on the computer screen showing specific light, temperature, and humidity zones for the orchid.",
+   "speaker": "narrator",
+   "line": "Requiring precise temperature, light, and moisture."
+  },
+  {
+   "image": "Anya rereads the instructions, then a flash of realization crosses her face as she remembers Elara's past comments.",
+   "speaker": "narrator",
+   "line": "Every detail Elara mentioned was perfectly accurate."
+  },
+  {
+   "image": "Anya still looks conflicted, but determined, holding a small spray bottle for misting.",
+   "speaker": "narrator",
+   "line": "My resentment lingered, but I started listening."
+  },
+  {
+   "image": "Anya carefully mists the orchid's roots, following precise motions, a look of intense concentration.",
+   "speaker": "narrator",
+   "line": "I followed her exact, painstaking instructions."
+  },
+  {
+   "image": "Anya moves the orchid pot to a shadier, more humid spot, arranging it just so, as per her research.",
+   "speaker": "narrator",
+   "line": "I moved the orchid, misted its fragile roots."
+  },
+  {
+   "image": "Close-up on the orchid, a tiny, vibrant green shoot visibly emerging from the base of the plant.",
+   "speaker": "narrator",
+   "line": "Slowly, painstakingly, a tiny new shoot appeared."
+  },
+  {
+   "image": "Elara stands at a distance, observing Anya and the orchid. A very subtle, almost imperceptible softening around her eyes.",
+   "speaker": "narrator",
+   "line": "Elara watched, a subtle shift in her expression."
+  },
+  {
+   "image": "Elara's lips curve slightly upward, a hint of a gentle smile, but she quickly composes her face back to neutrality.",
+   "speaker": "narrator",
+   "line": "She almost smiled, but quickly recomposed herself."
+  },
+  {
+   "image": "Anya works on the orchid, still feeling a slight air of tension, even with the plant's recovery.",
+   "speaker": "narrator",
+   "line": "Still, the tension between us felt very thick."
+  },
+  {
+   "image": "Anya sits by the recovering orchid, looking thoughtful and determined, realizing there's more to uncover.",
+   "speaker": "narrator",
+   "line": "I needed to understand her guarded heart better."
+  },
+  {
+   "image": "Anya reaches into a dusty corner of the garden shed, her hand brushing against an old, forgotten object.",
+   "speaker": "narrator",
+   "line": "Days later, searching for potting soil, I found it."
+  },
+  {
+   "image": "Anya pulls out an old, leather-bound journal, covered in a thin layer of dust, from under a pile of seed packets.",
+   "speaker": "narrator",
+   "line": "Tucked away, beneath old seed packets: a journal."
+  },
+  {
+   "image": "Anya holds the journal, a look of curiosity on her face as she recognizes the worn cover.",
+   "speaker": "narrator",
+   "line": "It was Liam's father's, bound in worn leather."
+  },
+  {
+   "image": "Close-up of an opened journal page, revealing an intricately pressed, dried orchid bloom and elegant handwriting.",
+   "speaker": "narrator",
+   "line": "Inside, a dried orchid bloom, perfectly preserved."
+  },
+  {
+   "image": "Anya reads the journal, her expression changing from curiosity to deep emotion as she absorbs the words.",
+   "speaker": "narrator",
+   "line": "His neat handwriting filled the pages with love."
+  },
+  {
+   "image": "A journal entry describing the thrill of discovery, a detailed drawing of the specific rare orchid.",
+   "speaker": "narrator",
+   "line": "He wrote about finding this specific, rare orchid."
+  },
+  {
+   "image": "Another journal entry showing small sketches of his failures and successes in cultivating the plant, expressing deep care.",
+   "speaker": "narrator",
+   "line": "His struggles, his joys, cultivating its beauty."
+  },
+  {
+   "image": "Close-up on the last page of the journal, a handwritten letter addressed to 'My dearest Elara'.",
+   "speaker": "narrator",
+   "line": "The last entry was addressed to Elara, his wife."
+  },
+  {
+   "image": "Anya's eyes scan the heartfelt words on the page, her own eyes beginning to well up.",
+   "speaker": "narrator",
+   "line": "'My dearest Elara,' it read. 'This orchid holds our love.'"
+  },
+  {
+   "image": "Anya's finger traces the words on the page, focusing on the poignant final request.",
+   "speaker": "narrator",
+   "line": "'Please, teach our future family to keep it blooming.'"
+  },
+  {
+   "image": "Tears stream down Anya's face, a profound realization dawning on her, understanding replacing resentment.",
+   "speaker": "narrator",
+   "line": "My heart ached. Her 'critiques' were his last wish."
+  },
+  {
+   "image": "Anya looks at the recovering orchid with new eyes, seeing it now as a symbol of enduring love and legacy.",
+   "speaker": "narrator",
+   "line": "She wasn't judging; she was sharing a legacy."
+  },
+  {
+   "image": "Elara sits by the orchid, her hands gently touching its leaves, her face etched with profound sadness and longing.",
+   "speaker": "narrator",
+   "line": "I found Elara by the orchid, her eyes full."
+  },
+  {
+   "image": "Anya approaches Elara, extending the open journal, her face softened with empathy and understanding, tears in her own eyes.",
+   "speaker": "narrator",
+   "line": "I handed her the journal, tears in my own eyes."
+  },
+  {
+   "image": "Elara takes the journal, her eyes meeting Anya's, a shared moment of raw emotion, her voice breaking.",
+   "speaker": "Elara",
+   "line": "He loved this plant, Anya. It was his everything."
+  },
+  {
+   "image": "Anya and Elara sit side by side on the garden bench, the journal between them, holding hands, faces softened with shared grief and warmth.",
+   "speaker": "narrator",
+   "line": "We sat together, sharing stories, sharing grief."
+  },
+  {
+   "image": "The orchid stands tall and majestic, now in full bloom, its petals vibrant and exquisite, bathed in gentle light.",
+   "speaker": "narrator",
+   "line": "The orchid bloomed, vibrant and full of life."
+  },
+  {
+   "image": "Anya and Elara are watering the flourishing orchid together, their hands brushing, a quiet, knowing smile shared between them.",
+   "speaker": "narrator",
+   "line": "It wasn't just a plant; it was our connection."
+  },
+  {
+   "image": "Anya and Elara embrace gently in the garden, a true bond of family now evident in their expressions.",
+   "speaker": "narrator",
+   "line": "From enemies, we became family, bonded by love."
+  },
+  {
+   "image": "The blooming orchid stands proudly in the garden, bathed in golden sunlight, a symbol of resolved conflict and new beginnings.",
+   "speaker": "narrator",
+   "line": "What quiet legacies are we unknowingly tending?"
+  }
+ ],
+ "caption": "My Mother-in-Law's Secret Garden 🤫",
+ "slug": "2026-10-31_part1",
+ "story_no": 11,
+ "yt_title": "My Mother-in-Law's Secret Garden 🤫",
+ "description": "I thought she hated me, judging my every move in the garden. Until one day, I uncovered a secret that changed everything.\nThis emotional story reveals how unspoken grief can shape our relationships.",
+ "hashtags": [
+  "#shorts",
+  "#story",
+  "#viral",
+  "#emotionalstory",
+  "#familydrama",
+  "#motherinlaw",
+  "#daughterinlaw",
+  "#relationshipgoals",
+  "#gardening",
+  "#orchids",
+  "#twistending",
+  "#heartwarming",
+  "#reels",
+  "#lovestory",
+  "#grief"
+ ]
+}

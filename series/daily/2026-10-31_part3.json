@@ -1,0 +1,396 @@
+{
+ "series": "The Architect's Apron",
+ "episode": 3,
+ "title": "The Architect's Apron",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Male, around 30, with a thoughtful expression, dressed casually but neatly.",
+   "voice": "narrator_male"
+  },
+  "Liam": {
+   "look": "Male, late 50s/early 60s, silvering hair, tired but kind eyes, slightly stooped posture, wearing a slightly ill-fitting waiter uniform. Later, in flashbacks and after the twist, he's younger, confident, in a smart suit or at a drawing board.",
+   "voice": "male_young"
+  },
+  "Mrs. Albright": {
+   "look": "Female, late 60s/early 70s, elegant, impeccably dressed, sharp gaze, always poised, often with a stern but ultimately thoughtful expression.",
+   "voice": "female_young"
+  }
+ },
+ "short": true,
+ "hook_text": "HIS SECRET LIFE",
+ "scenes": [
+  {
+   "image": "Close-up of an elderly man's hands, slightly trembling, holding a tray with a single glass.",
+   "speaker": "narrator",
+   "line": "Everyone whispered about Liam, the new waiter."
+  },
+  {
+   "image": "Liam in a slightly oversized waiter uniform, looking out of place in a fancy, dimly lit restaurant.",
+   "speaker": "narrator",
+   "line": "He was a kind man, always trying his best."
+  },
+  {
+   "image": "Wide shot of a luxurious restaurant dining room, elegant patrons enjoying their meals.",
+   "speaker": "narrator",
+   "line": "But this upscale restaurant wasn't quite his world."
+  },
+  {
+   "image": "Close-up of a stern-faced, elegant Mrs. Albright at a table, watching Liam intently.",
+   "speaker": "narrator",
+   "line": "Mrs. Albright, a regular, watched him constantly."
+  },
+  {
+   "image": "Liam nervously wiping down a table, aware of her unwavering gaze.",
+   "speaker": "narrator",
+   "line": "Her sharp eyes made him feel uneasy."
+  },
+  {
+   "image": "A group of younger, fashionable customers whispering and subtly glancing at Liam.",
+   "speaker": "narrator",
+   "line": "Other tables often exchanged knowing, disdainful glances."
+  },
+  {
+   "image": "Liam struggling to open a wine bottle, brow furrowed in concentration, slight beads of sweat.",
+   "speaker": "narrator",
+   "line": "He wasn't naturally graceful, sometimes clumsy."
+  },
+  {
+   "image": "Mrs. Albright subtly shaking her head, a hint of exasperation on her face.",
+   "speaker": "narrator",
+   "line": "Mrs. Albright would often sigh dramatically."
+  },
+  {
+   "image": "Liam pouring water into a glass, a few drops spilling onto the white tablecloth.",
+   "speaker": "narrator",
+   "line": "Little spills, forgotten orders, slow service."
+  },
+  {
+   "image": "A customer rolling their eyes discreetly at their dining companion.",
+   "speaker": "narrator",
+   "line": "He became the restaurant's quiet joke."
+  },
+  {
+   "image": "Liam looking down at his worn shoes, feeling the weight of unspoken judgment.",
+   "speaker": "narrator",
+   "line": "Liam felt their judgment, every single day."
+  },
+  {
+   "image": "Liam carrying a heavy tray laden with plates, stumbling slightly on the polished floor.",
+   "speaker": "narrator",
+   "line": "One busy evening, disaster struck quickly."
+  },
+  {
+   "image": "The tray full of glasses and plates beginning to tip precariously.",
+   "speaker": "narrator",
+   "line": "His grip faltered, hands slick with sweat."
+  },
+  {
+   "image": "A close-up of broken glass and spilled food scattered across the dark floor.",
+   "speaker": "narrator",
+   "line": "A loud crash echoed through the dining room."
+  },
+  {
+   "image": "All customers staring at Liam, some with annoyance, some with veiled pity.",
+   "speaker": "narrator",
+   "line": "Everyone stopped, turning to see the mess."
+  },
+  {
+   "image": "Liam looking mortified, eyes wide with shame, face beet red.",
+   "speaker": "narrator",
+   "line": "Liam’s face flushed scarlet with deep embarrassment."
+  },
+  {
+   "image": "Mrs. Albright observing him from her table, expression unreadable but intense.",
+   "speaker": "narrator",
+   "line": "Mrs. Albright’s gaze was particularly piercing."
+  },
+  {
+   "image": "Liam kneeling to pick up broken glass pieces, hands trembling noticeably.",
+   "speaker": "narrator",
+   "line": "He mumbled apologies, sweeping up carefully."
+  },
+  {
+   "image": "The manager, a young man, giving Liam a long, disappointed look.",
+   "speaker": "narrator",
+   "line": "The manager gave him a stern, disapproving stare."
+  },
+  {
+   "image": "Liam walking away, head bowed low, feeling utterly defeated.",
+   "speaker": "narrator",
+   "line": "He felt the sting of their silent criticism."
+  },
+  {
+   "image": "Two elegant women at a table, leaning in to whisper conspiratorially.",
+   "speaker": "narrator",
+   "line": "Later, Liam served a couple nearby."
+  },
+  {
+   "image": "Close-up of one woman's mouth, speaking discreetly, a slight smirk.",
+   "speaker": "narrator",
+   "line": "Honestly, this new waiter is dreadful."
+  },
+  {
+   "image": "The other woman nodding in agreement, sipping her wine with a patronizing look.",
+   "speaker": "narrator",
+   "line": "He’s too old for this kind of work."
+  },
+  {
+   "image": "Liam paused, just out of sight, listening, a deep hurt visible in his eyes.",
+   "speaker": "narrator",
+   "line": "Liam heard every single word clearly."
+  },
+  {
+   "image": "His hand hovering over a plate he was about to set down, frozen.",
+   "speaker": "narrator",
+   "line": "He felt a familiar ache in his chest."
+  },
+  {
+   "image": "Liam forcing a small, strained smile as he serves them, maintaining composure.",
+   "speaker": "narrator",
+   "line": "Professionalism masked his profound pain."
+  },
+  {
+   "image": "Mrs. Albright at her table, still watching Liam, her face thoughtful and concerned.",
+   "speaker": "narrator",
+   "line": "Mrs. Albright saw the exchange happen."
+  },
+  {
+   "image": "Close-up of her hand resting on her chin, deep in contemplation.",
+   "speaker": "narrator",
+   "line": "Her expression remained an absolute mystery."
+  },
+  {
+   "image": "Liam wiping down the bar after closing, looking incredibly tired and defeated.",
+   "speaker": "narrator",
+   "line": "Nights were long, his spirit worn thin."
+  },
+  {
+   "image": "A single, framed photo on Liam's bedside table: a young woman and a child smiling.",
+   "speaker": "narrator",
+   "line": "But he had a reason to keep going."
+  },
+  {
+   "image": "Mrs. Albright finishing her meal, signaling subtly for the check with a raised hand.",
+   "speaker": "narrator",
+   "line": "Days passed, the routine continued."
+  },
+  {
+   "image": "Liam bringing the bill to Mrs. Albright, avoiding her intense eyes.",
+   "speaker": "narrator",
+   "line": "Mrs. Albright was ready to leave."
+  },
+  {
+   "image": "Her elegant hand placing money and a small, folded cream-colored note on the tray.",
+   "speaker": "narrator",
+   "line": "She left the usual exact change."
+  },
+  {
+   "image": "Close-up of the small, cream-colored note, neatly folded, sitting on the table.",
+   "speaker": "narrator",
+   "line": "But this time, a small note too."
+  },
+  {
+   "image": "Liam staring at the note, a mix of curiosity and apprehension on his face.",
+   "speaker": "narrator",
+   "line": "Liam’s heart hammered in his chest."
+  },
+  {
+   "image": "Close-up of Mrs. Albright’s face as she walks past Liam, a slight, almost imperceptible nod.",
+   "speaker": "narrator",
+   "line": "Mrs. Albright gave him one last look."
+  },
+  {
+   "image": "Liam slowly picking up the note after she's left the restaurant.",
+   "speaker": "narrator",
+   "line": "He wondered what it could possibly say."
+  },
+  {
+   "image": "Liam walking to a quiet corner of the empty restaurant, away from potential eyes.",
+   "speaker": "narrator",
+   "line": "Was it a complaint? A final dismissal?"
+  },
+  {
+   "image": "Close-up of Liam’s trembling fingers carefully unfolding the crisp note.",
+   "speaker": "narrator",
+   "line": "His hands shook as he opened it."
+  },
+  {
+   "image": "Extreme close-up of the note, showing elegant handwriting: 'Is this truly you, Mr. Davies?'",
+   "speaker": "narrator",
+   "line": "The words on the page stopped him cold."
+  },
+  {
+   "image": "Liam’s face, a mixture of shock, confusion, then dawning recognition and sorrow.",
+   "speaker": "narrator",
+   "line": "Mr. Davies. His old, forgotten name."
+  },
+  {
+   "image": "Flashback: A younger, confident Liam (Mr. Davies) in a smart suit, holding architectural blueprints.",
+   "speaker": "narrator",
+   "line": "He was once a respected architect."
+  },
+  {
+   "image": "Flashback: Liam (Mr. Davies) presenting a detailed model of a beautiful modern building.",
+   "speaker": "narrator",
+   "line": "Designing stunning, innovative structures."
+  },
+  {
+   "image": "Flashback: A younger Mrs. Albright, smiling, shaking hands with a younger Liam (Mr. Davies).",
+   "speaker": "narrator",
+   "line": "Mrs. Albright was his esteemed client."
+  },
+  {
+   "image": "Flashback: Liam (Mr. Davies) smiling proudly, standing before a newly completed, grand house.",
+   "speaker": "narrator",
+   "line": "He designed her magnificent family home."
+  },
+  {
+   "image": "Current: Liam gripping the note tightly, eyes welling up with silent tears.",
+   "speaker": "narrator",
+   "line": "A financial crisis cost him everything."
+  },
+  {
+   "image": "Close-up of the framed photo again: his sick daughter in a hospital bed, looking frail.",
+   "speaker": "narrator",
+   "line": "His daughter’s illness, soaring medical bills."
+  },
+  {
+   "image": "Liam looking around the restaurant, suddenly seeing his current situation differently, with a pang of sorrow.",
+   "speaker": "narrator",
+   "line": "Waiting was the only job he could find."
+  },
+  {
+   "image": "The note now shows more words, same elegant handwriting: 'Your talent was extraordinary.'",
+   "speaker": "narrator",
+   "line": "Mrs. Albright recognized his hidden genius."
+  },
+  {
+   "image": "Close-up of Liam’s tear-streaked face, a mix of vulnerability and emerging understanding.",
+   "speaker": "narrator",
+   "line": "She wasn't judging his service at all."
+  },
+  {
+   "image": "Flashback: Mrs. Albright admiring the blueprints of her home with a satisfied, appreciative smile.",
+   "speaker": "narrator",
+   "line": "She grieved his lost potential."
+  },
+  {
+   "image": "Current: Liam rereading the note, the words now a beacon of hope.",
+   "speaker": "narrator",
+   "line": "Now, understanding dawned, sharp and clear."
+  },
+  {
+   "image": "Close-up of the note. Next sentence visible: 'My firm needs your vision.'",
+   "speaker": "narrator",
+   "line": "The note continued, offering a new path."
+  },
+  {
+   "image": "Liam looking up, a flicker of genuine hope illuminating his tired eyes.",
+   "speaker": "narrator",
+   "line": "A chance to reclaim his true self."
+  },
+  {
+   "image": "Close-up of the final words on the note: 'Call me. Eleanor Albright.'",
+   "speaker": "narrator",
+   "line": "Eleanor Albright. A name of opportunity."
+  },
+  {
+   "image": "Liam clutching the note to his chest, taking a deep, shaky breath.",
+   "speaker": "narrator",
+   "line": "He suddenly felt a surge of strength."
+  },
+  {
+   "image": "Liam looking towards the restaurant entrance where Mrs. Albright had exited, a thoughtful expression.",
+   "speaker": "narrator",
+   "line": "She hadn’t judged, she had seen him."
+  },
+  {
+   "image": "Liam standing taller, shoulders back, a quiet, renewed determination in his posture.",
+   "speaker": "narrator",
+   "line": "Seen beyond the simple waiter’s apron."
+  },
+  {
+   "image": "Liam pulling out his old, battered phone, dialing a number with newly steady hands.",
+   "speaker": "narrator",
+   "line": "He took the biggest leap of faith."
+  },
+  {
+   "image": "A montage: Liam on the phone, looking slightly nervous but hopeful, followed by him sketching ideas.",
+   "speaker": "narrator",
+   "line": "A quiet conversation began."
+  },
+  {
+   "image": "A few weeks later: Liam (now Mr. Davies) in a smart new suit, walking confidently into a modern office building.",
+   "speaker": "narrator",
+   "line": "Weeks later, everything had shifted."
+  },
+  {
+   "image": "Liam (Mr. Davies) smiling, shaking hands warmly with Mrs. Albright in a sleek, bright office.",
+   "speaker": "narrator",
+   "line": "He met Mrs. Albright again, truly."
+  },
+  {
+   "image": "Liam (Mr. Davies) at a drawing board, sketching intricate designs with focus and passion.",
+   "speaker": "narrator",
+   "line": "His hands, once trembling, now steady."
+  },
+  {
+   "image": "Close-up of a new, intricate architectural drawing of a futuristic building.",
+   "speaker": "narrator",
+   "line": "Designing beautiful dreams once more."
+  },
+  {
+   "image": "Liam (Mr. Davies) walking through the restaurant, no longer working there, but as a patron.",
+   "speaker": "narrator",
+   "line": "He visited the old restaurant later."
+  },
+  {
+   "image": "The young manager smiling, greeting him respectfully, recognizing his changed demeanor.",
+   "speaker": "narrator",
+   "line": "The manager greeted him differently now."
+  },
+  {
+   "image": "Liam (Mr. Davies) looking at the empty table where Mrs. Albright used to sit, a soft, grateful smile.",
+   "speaker": "narrator",
+   "line": "He felt immense, silent gratitude."
+  },
+  {
+   "image": "Close-up of Liam’s hand, now confident and skilled, holding a professional drafting pen.",
+   "speaker": "narrator",
+   "line": "Sometimes, true vision sees beyond surface."
+  },
+  {
+   "image": "Liam (Mr. Davies) smiling gently, a look of profound peace and fulfillment.",
+   "speaker": "narrator",
+   "line": "It sees the story hidden within."
+  },
+  {
+   "image": "A blueprint of a grand house slowly transforming into a serene, smiling face of Liam (Mr. Davies).",
+   "speaker": "narrator",
+   "line": "What hidden stories do you think people carry?"
+  }
+ ],
+ "caption": "He Was Just A Waiter... Until She Saw His Secret! 🤯",
+ "slug": "2026-10-31_part3",
+ "story_no": 13,
+ "yt_title": "He Was Just A Waiter... Until She Saw His Secret! 🤯",
+ "description": "Every day, he faced judgment. But one customer saw something no one else did.\nHis hidden past was about to change everything.",
+ "hashtags": [
+  "#shorts",
+  "#story",
+  "#viral",
+  "#emotional",
+  "#waiter",
+  "#twistending",
+  "#hiddenidentity",
+  "#inspiration",
+  "#secondchance",
+  "#kindness",
+  "#lifechanging",
+  "#unexpected",
+  "#humanstory",
+  "#shortfilm",
+  "#dontjudge"
+ ]
+}

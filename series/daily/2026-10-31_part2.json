@@ -1,0 +1,406 @@
+{
+ "series": "The Curious Case of Pippa's 'Five Minutes'",
+ "episode": 2,
+ "title": "The Curious Case of Pippa's 'Five Minutes'",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A friendly male storyteller, unseen but guiding the narrative.",
+   "voice": "narrator_male"
+  },
+  "Finn": {
+   "look": "A lean, slightly anxious man in his late 20s with neat brown hair, wearing a crisp blue shirt and a visible wrist watch. Often seen sighing or checking his watch.",
+   "voice": "cartoon_male"
+  },
+  "Pippa": {
+   "look": "A bubbly, colorful woman in her late 20s with wild, curly red hair, often tied in a messy bun. Wears vibrant, mismatched clothes and carries a whimsical, oversized handbag.",
+   "voice": "cartoon_female"
+  }
+ },
+ "short": true,
+ "hook_text": "ALWAYS LATE. WHY?",
+ "scenes": [
+  {
+   "image": "Close-up on a ticking wall clock, hands showing 10:30, with a blurred background of a cafe window.",
+   "speaker": "narrator",
+   "line": "My friend Pippa was never, ever on time."
+  },
+  {
+   "image": "Finn, looking exasperated, checking his watch for the tenth time at a cafe table, empty coffee cup in front of him.",
+   "speaker": "Finn",
+   "line": "She's supposed to be here for brunch."
+  },
+  {
+   "image": "Pippa bursts into the cafe, hair a little wild, waving cheerfully at Finn, a mischievous grin on her face.",
+   "speaker": "Pippa",
+   "line": "Finn! So sorry, just five minutes late!"
+  },
+  {
+   "image": "Finn rubs his temples, looking at Pippa, who is now cheerfully pulling out a menu.",
+   "speaker": "Finn",
+   "line": "It's been forty-five minutes, Pippa!"
+  },
+  {
+   "image": "Pippa shrugs innocently, eyes wide, as if genuinely confused by the concept of time.",
+   "speaker": "Pippa",
+   "line": "Felt like five! Time flies when you're..."
+  },
+  {
+   "image": "Pippa winks conspiratorially, leaning forward over the table, making Finn sigh dramatically.",
+   "speaker": "Pippa",
+   "line": "Well, never mind. What's good?"
+  },
+  {
+   "image": "Narrator stands in front of a calendar, flipping through pages rapidly, showing days and weeks passing.",
+   "speaker": "narrator",
+   "line": "This was Pippa's constant way of life."
+  },
+  {
+   "image": "Finn and Pippa standing at a bus stop, Finn pointing angrily at his watch, Pippa looking dreamily at the sky.",
+   "speaker": "Finn",
+   "line": "We missed the concert's opening act!"
+  },
+  {
+   "image": "Pippa holds up five fingers, a sheepish smile on her face, the bus driving away in the background.",
+   "speaker": "Pippa",
+   "line": "Only just five minutes, I promise!"
+  },
+  {
+   "image": "Finn facepalms hard, leaning against the bus stop pole, utterly defeated.",
+   "speaker": "Finn",
+   "line": "The main singer came on early!"
+  },
+  {
+   "image": "Narrator shakes his head, arms crossed, as if sharing Finn's frustration.",
+   "speaker": "narrator",
+   "line": "Finn tried every trick in the book."
+  },
+  {
+   "image": "Close-up on Finn's alarm clock, showing 8:00 AM, but the real time is 7:00 AM.",
+   "speaker": "Finn",
+   "line": "I'll set my clock an hour ahead."
+  },
+  {
+   "image": "Finn waits anxiously at a park bench. He checks his watch. He looks hopeful.",
+   "speaker": "Finn",
+   "line": "Surely this time, she'll be early."
+  },
+  {
+   "image": "Pippa strolls into the park, pushing a squeaky toy dog on a leash, beaming at Finn.",
+   "speaker": "Pippa",
+   "line": "Just five minutes late! Sorry!"
+  },
+  {
+   "image": "Finn stares at her, mouth agape, as Pippa adjusts the tiny bow on the toy dog's head.",
+   "speaker": "Finn",
+   "line": "But... I set the time forward!"
+  },
+  {
+   "image": "Pippa taps her temple playfully, a glint in her eye, as if she knew his secret.",
+   "speaker": "Pippa",
+   "line": "My internal clock is just better, Finn."
+  },
+  {
+   "image": "Narrator sighs, throwing his hands up in exasperation.",
+   "speaker": "narrator",
+   "line": "Finn tried telling her fake times."
+  },
+  {
+   "image": "Finn whispers conspiratorially into a phone, looking sneaky, a calendar open in front of him.",
+   "speaker": "Finn",
+   "line": "Meet me at noon sharp tomorrow."
+  },
+  {
+   "image": "Pippa on the phone, looking confused, a small frown on her face.",
+   "speaker": "Pippa",
+   "line": "But our reservation is at one, right?"
+  },
+  {
+   "image": "Finn's eyes widen in panic, his hand flying to his forehead, realizing she saw through him.",
+   "speaker": "Finn",
+   "line": "No, no! One o'clock, I mean twelve!"
+  },
+  {
+   "image": "Pippa giggles on the phone, already seeing through his clumsy attempt.",
+   "speaker": "Pippa",
+   "line": "Alright, Finn. See you there!"
+  },
+  {
+   "image": "Finn waiting alone outside a fancy restaurant, nervously adjusting his tie, looking very stressed.",
+   "speaker": "Finn",
+   "line": "She's going to be late again."
+  },
+  {
+   "image": "Pippa arrives, perfectly coiffed, looking glamorous, blowing Finn a kiss from afar.",
+   "speaker": "Pippa",
+   "line": "Just five minutes! Hope you waited."
+  },
+  {
+   "image": "Finn points at his watch, exasperated. The restaurant host rolls his eyes in the background.",
+   "speaker": "Finn",
+   "line": "We lost our table, Pippa!"
+  },
+  {
+   "image": "Pippa looks genuinely sad for a moment, then brightens, spotting something.",
+   "speaker": "Pippa",
+   "line": "Oh! A smaller, cozier table, perfect!"
+  },
+  {
+   "image": "Narrator gestures dramatically, explaining the stakes.",
+   "speaker": "narrator",
+   "line": "Then came the annual 'Whimsywille Grand Race'."
+  },
+  {
+   "image": "A vibrant banner for 'Whimsywille Grand Race' hangs across a street. Finn is training intensely in the background.",
+   "speaker": "Finn",
+   "line": "This was the big one. She couldn't be late."
+  },
+  {
+   "image": "Finn approaches Pippa, who is painting a tiny mustache on a rubber duck.",
+   "speaker": "Finn",
+   "line": "Pippa, our relay starts at ten sharp!"
+  },
+  {
+   "image": "Pippa holds up the duck, admiring her work, then looks at Finn with a knowing smile.",
+   "speaker": "Pippa",
+   "line": "I'll be there. Give or take five minutes."
+  },
+  {
+   "image": "Finn's jaw drops. He looks utterly horrified. He grabs his head in disbelief.",
+   "speaker": "Finn",
+   "line": "Give or take? Pippa, no!"
+  },
+  {
+   "image": "Narrator looks concerned, shrugging his shoulders.",
+   "speaker": "narrator",
+   "line": "Finn was desperate for an explanation."
+  },
+  {
+   "image": "Finn hides behind a large bush, wearing a trench coat and sunglasses, secretly watching Pippa's front door.",
+   "speaker": "Finn",
+   "line": "I'll follow her. See her secret."
+  },
+  {
+   "image": "Pippa walks out her front door, looking perfectly ready for the race, then pauses.",
+   "speaker": "narrator",
+   "line": "Pippa stepped out, then stopped."
+  },
+  {
+   "image": "Close-up on a small, loose pebble on the sidewalk. Pippa is looking at it intensely.",
+   "speaker": "Pippa",
+   "line": "Oh, this pebble is out of place."
+  },
+  {
+   "image": "Pippa carefully bends down and nudges the pebble with her finger, aligning it with other pebbles.",
+   "speaker": "Pippa",
+   "line": "Just five minutes to fix it."
+  },
+  {
+   "image": "Finn peeks from behind the bush, confused, rubbing his eyes to confirm what he's seeing.",
+   "speaker": "Finn",
+   "line": "A pebble? That's her big secret?"
+  },
+  {
+   "image": "Pippa continues walking, then stops abruptly, peering into a small patch of grass.",
+   "speaker": "narrator",
+   "line": "Then, she spotted something else."
+  },
+  {
+   "image": "Close-up on a snail slowly making its way across the sidewalk toward a busy road.",
+   "speaker": "Pippa",
+   "line": "A snail! Oh, poor little thing."
+  },
+  {
+   "image": "Pippa gently scoops up the snail with a leaf and carefully places it in a flowerbed.",
+   "speaker": "Pippa",
+   "line": "Just five minutes to save it."
+  },
+  {
+   "image": "Finn's jaw hangs open, his sunglasses slipping down his nose. He shakes his head in disbelief.",
+   "speaker": "Finn",
+   "line": "She's rescuing snails now?"
+  },
+  {
+   "image": "Pippa walks past a mailbox, then turns back, noticing it's slightly crooked.",
+   "speaker": "narrator",
+   "line": "Her journey continued with pauses."
+  },
+  {
+   "image": "Pippa firmly straightens the mailbox, adjusting it until it's perfectly upright.",
+   "speaker": "Pippa",
+   "line": "Just five minutes to make it right."
+  },
+  {
+   "image": "Finn facepalms again, peeking through the leaves, groaning softly.",
+   "speaker": "Finn",
+   "line": "The mailbox? Seriously, Pippa?"
+  },
+  {
+   "image": "Pippa spots a single, forlorn-looking daisy drooping in a cracked pavement.",
+   "speaker": "narrator",
+   "line": "Another minor crisis emerged."
+  },
+  {
+   "image": "Pippa pulls a tiny watering can from her oversized handbag and waters the daisy with a gentle smile.",
+   "speaker": "Pippa",
+   "line": "Just five minutes for this little guy."
+  },
+  {
+   "image": "Finn's eyes bug out. He clutches his chest, looking like he's about to hyperventilate.",
+   "speaker": "Finn",
+   "line": "She carries a tiny watering can!"
+  },
+  {
+   "image": "Pippa continues walking, then notices a fallen leaf on a perfectly swept porch.",
+   "speaker": "narrator",
+   "line": "The 'five minutes' piled up fast."
+  },
+  {
+   "image": "Pippa carefully picks up the single leaf and places it in a nearby compost bin, satisfied.",
+   "speaker": "Pippa",
+   "line": "Just five minutes to tidy up."
+  },
+  {
+   "image": "Finn throws his hands up in exasperation, stepping out from behind the bush, sunglasses askew.",
+   "speaker": "Finn",
+   "line": "Pippa! What are you doing?!"
+  },
+  {
+   "image": "Pippa jumps, startled, dropping her tiny watering can. She looks guilty, then shrugs.",
+   "speaker": "Pippa",
+   "line": "Finn! Oh, um, just five minutes!"
+  },
+  {
+   "image": "Finn points at the pebble, the flower, the snail's path, looking incredulous.",
+   "speaker": "Finn",
+   "line": "You're always late because of... this?"
+  },
+  {
+   "image": "Pippa looks around at her 'fixes' with a proud, innocent expression.",
+   "speaker": "Pippa",
+   "line": "The world needs little adjustments, Finn."
+  },
+  {
+   "image": "Pippa gestures emphatically with her hands, explaining her philosophy.",
+   "speaker": "Pippa",
+   "line": "Every small thing, it just takes five minutes."
+  },
+  {
+   "image": "Finn stares at Pippa, his face a mixture of shock, frustration, and dawning understanding.",
+   "speaker": "Finn",
+   "line": "But... they add up! It's like an hour!"
+  },
+  {
+   "image": "Pippa waves her hand dismissively, as if an hour is a trivial amount of time.",
+   "speaker": "Pippa",
+   "line": "An hour of goodness, Finn!"
+  },
+  {
+   "image": "Finn's face slowly transitions from anger to a defeated, almost amused look.",
+   "speaker": "Finn",
+   "line": "So, all this time, you've been..."
+  },
+  {
+   "image": "Pippa beams, clasping her hands together proudly.",
+   "speaker": "Pippa",
+   "line": "A secret fixer of tiny things!"
+  },
+  {
+   "image": "Finn slowly nods, a faint smile on his face, though still clearly bewildered.",
+   "speaker": "Finn",
+   "line": "I don't know whether to hug you or scream."
+  },
+  {
+   "image": "Narrator stands, arms crossed, shaking his head with a chuckle.",
+   "speaker": "narrator",
+   "line": "They actually made it to the race."
+  },
+  {
+   "image": "Finn and Pippa, both panting and sweaty, arrive at the race's starting line. The starter pistol fires immediately.",
+   "speaker": "Finn",
+   "line": "Just as the gun went off!"
+  },
+  {
+   "image": "Pippa, still panting, manages a wide, triumphant smile.",
+   "speaker": "Pippa",
+   "line": "Perfect timing! See? Five minutes early!"
+  },
+  {
+   "image": "Finn stares at her in disbelief, then just starts running, pulling Pippa along by the hand.",
+   "speaker": "Finn",
+   "line": "That's not how time works, Pippa!"
+  },
+  {
+   "image": "Pippa happily runs alongside Finn, still smiling, completely oblivious.",
+   "speaker": "Pippa",
+   "line": "It's how MY time works, Finn!"
+  },
+  {
+   "image": "Finn and Pippa running in the race, Finn looking determined but exhausted, Pippa cheerfully waving at spectators.",
+   "speaker": "narrator",
+   "line": "Finn realized he couldn't change Pippa."
+  },
+  {
+   "image": "Finn is sitting on a park bench, looking at his watch, a small, knowing smile on his face.",
+   "speaker": "Finn",
+   "line": "He just had to adjust to her rhythm."
+  },
+  {
+   "image": "Pippa skips past Finn, then stops suddenly, looking at something on the ground.",
+   "speaker": "Pippa",
+   "line": "Oh! A perfect little flower petal!"
+  },
+  {
+   "image": "Pippa carefully picks up the petal and places it on a nearby tree stump like a miniature decoration.",
+   "speaker": "Pippa",
+   "line": "Just five minutes to admire."
+  },
+  {
+   "image": "Finn sighs happily, no longer stressed, shaking his head with a fond smile.",
+   "speaker": "Finn",
+   "line": "She'll be here... eventually."
+  },
+  {
+   "image": "Narrator looks at the camera with a knowing grin.",
+   "speaker": "narrator",
+   "line": "Turns out, some people just live on 'Pippa Time'."
+  },
+  {
+   "image": "Finn is sitting calmly, reading a book, as Pippa arrives, blowing a kiss.",
+   "speaker": "Pippa",
+   "line": "Just five minutes late, sweetie!"
+  },
+  {
+   "image": "Finn just smiles, closes his book, and gestures for her to sit, completely unbothered.",
+   "speaker": "Finn",
+   "line": "Indeed you are, Pippa."
+  },
+  {
+   "image": "Narrator winks at the camera, holding up an imaginary clock.",
+   "speaker": "narrator",
+   "line": "Do you have a 'Pippa' in your life?"
+  }
+ ],
+ "caption": "My Friend is ALWAYS LATE... The Reason Shocked Me! ⏰",
+ "slug": "2026-10-31_part2",
+ "story_no": 12,
+ "yt_title": "My Friend is ALWAYS LATE... The Reason Shocked Me! ⏰",
+ "description": "Finn's friend Pippa is legendary for her lateness. He tried everything to fix it. What he found was beyond imagination!",
+ "hashtags": [
+  "#shorts",
+  "#story",
+  "#viral",
+  "#funny",
+  "#comedy",
+  "#cartoon",
+  "#relatable",
+  "#friendshipgoals",
+  "#lateness",
+  "#just5minutes",
+  "#mystery",
+  "#hilarious",
+  "#animated",
+  "#shortstory",
+  "#wholesome"
+ ]
+}
