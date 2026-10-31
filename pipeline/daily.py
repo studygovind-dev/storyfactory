@@ -62,6 +62,13 @@ def make_and_send(day, part, wait):
     ep = json.loads(ep_file.read_text(encoding="utf-8"))
     video = ROOT / "output" / f"{day}_part{part}_free" / "final.mp4"
     send_telegram(video, ep)
+    teaser = video.with_name("teaser.mp4")
+    if teaser.exists():  # the under-90 s cut, for YouTube Shorts / Reels
+        with open(teaser, "rb") as f:
+            requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendVideo",
+                          data={"chat_id": env("TELEGRAM_CHAT_ID"), "supports_streaming": "true",
+                                "caption": "🎬 Short version (under 90 s) for YouTube Shorts / Reels"},
+                          files={"video": f}, timeout=600)
     problems = post_all(video, ep)  # Facebook + Instagram, when FB_PAGE_ID / FB_PAGE_TOKEN are set
     if problems:  # tell the owner so they can post that one by hand
         requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendMessage",
