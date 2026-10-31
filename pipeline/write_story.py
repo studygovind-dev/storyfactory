@@ -45,6 +45,10 @@ FUNNY_TOPICS = [
     "siblings fighting over the TV remote",
     "a wedding where everything goes funny-wrong",
     "a gym first day disaster",
+    "a babysitter who can understand baby talk: the baby is secretly the boss of the house",
+    "a talking pet cat who complains about the family all day",
+    "a baby dragon adopted by an Indian family causes chaos in the kitchen",
+    "a dog who can talk only to grandpa, and nobody believes him",
 ]
 
 # Animal + human stories: easy to follow even without understanding the words.
@@ -64,6 +68,10 @@ ANIMAL_TOPICS = [
     "a cow and a farmer's son: the boy sells her to pay for school, she walks back home miles away",
     "a dolphin helps a fisherman's son lost at sea",
     "an abandoned puppy and an old soldier who lost his family",
+    "a young nanny who can understand what babies and animals say: a baby dragon tells her why it cries",
+    "a girl who can hear animals talk: the zoo's sad old lion tells her his secret",
+    "a lonely boy discovers the stray dog he feeds can talk, and it warns him of danger",
+    "a forest ranger who understands animal language becomes famous after saving a wolf pack",
 ]
 
 # Most watched realistic story types on Shorts / Reels (emotional, twist ending, karma, kindness).
@@ -111,7 +119,9 @@ Rules:
   an empty chair), close-ups at emotional moments. The FIRST picture must be dramatic and
   instantly intriguing.{sub_rule}
 - "hook_text": 2-5 words shown big on screen in the first seconds (e.g. "SHE LEFT A NOTE...").
-- Pick each voice so it matches who is speaking: {voices}
+- Pick each voice so it matches who is speaking: {voices}{talk_rule}
+- Each scene has "fx": the weather/atmosphere layer for that picture: rain, snow, dust
+  (sunbeams, warm floating dust, fireflies, magic) or none. Use it where it adds feeling.
 
 Return ONLY JSON:
 {{
@@ -122,12 +132,16 @@ Return ONLY JSON:
   "yt_title": "<YouTube title under 80 characters, curiosity hook, ends with an emoji>",
   "description": "<2 short lines that tease without spoiling>",
   "hashtags": ["<15 popular hashtags: mix #shorts #story #viral with topic-specific ones>"],
-  "scenes": [{{"image": "...", "speaker": "<narrator or character key>", "line": "..."{sub_field}}}]
+  "scenes": [{{"image": "...", "speaker": "<narrator or character key>", "line": "..."{sub_field}, "fx": "<rain|snow|dust|none>"}}]
 }}"""
 
 SUB_RULE = """
 - Each scene also has "sub": a short, natural ENGLISH translation of the line (shown as subtitles).
   "title", "hook_text", "yt_title" and "description" are in English (Hindi words in English letters are OK)."""
+
+TALK_RULE = """
+- Animals and babies MAY talk (people love this): give a talking animal or baby the voice
+  cartoon_male or cartoon_female (cute child-like voice). No roars or animal-noise lines."""
 
 CARTOON_VOICES = {
     "narrator_male": "male storyteller (narrator)", "narrator_female": "female storyteller (narrator)",
@@ -138,6 +152,8 @@ REAL_VOICES = {
     "narrator_male": "male storyteller around 30 (narrator)",
     "narrator_female": "female storyteller (narrator)",
     "male_young": "man in his 20s", "female_young": "woman in her 20s",
+    "cartoon_male": "cute child-like voice for a talking animal, baby or little boy",
+    "cartoon_female": "cute child-like voice for a talking animal, baby or little girl",
 }
 
 
@@ -194,13 +210,13 @@ def slots(day):
     return [
         {"kind": ("It is an emotional, realistic ANIMAL + HUMAN story (wild or pet animal and people), "
                   "told mostly through pictures so anyone in the world can follow it."),
-         "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real},
+         "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal"},
         {"kind": "It is a FUNNY cartoon story: light, silly, relatable comedy with a punchline at the end.",
          "topic": FUNNY_TOPICS[d % len(FUNNY_TOPICS)], "style": CARTOON_STYLE,
          "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
          "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
                     "a narrator line now and then to move the story on."),
-         "hindi_voices": True,
+         "hindi_voices": True, "mood": "funny",
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way young "
                   "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')")},
         {"kind": "It is an emotional, realistic story with a twist ending, set in India with Indian characters.",
@@ -227,7 +243,7 @@ def main():
         prompt = PROMPT.format(kind=slot["kind"], topic=slot["topic"], lang=slot["lang"],
                                shot=slot["shot"], n=SCENES, speech=slot["speech"],
                                voices="; ".join(f"{k} = {v}" for k, v in slot["voices"].items()),
-                               sub_rule=SUB_RULE if slot.get("hindi") else "",
+                               sub_rule=SUB_RULE if slot.get("hindi") else "", talk_rule=TALK_RULE,
                                sub_field=', "sub": "<English translation>"' if slot.get("hindi") else "",
                                history="\n".join("- " + h for h in history[-90:]) or "none")
         for attempt in range(3):
@@ -247,8 +263,10 @@ def main():
                 c["voice"] = "hindi_" + c["voice"]
         ep = {"series": story["title"], "episode": n, "title": story["title"],
               "style": slot["style"], "characters": chars, "short": True,
+              "mood": slot.get("mood", "emotional"),
               "hook_text": story.get("hook_text", ""),
               "scenes": [{"image": s["image"], "speaker": s["speaker"], "line": s["line"],
+                          "fx": s.get("fx") if s.get("fx") in ("rain", "snow", "dust") else "none",
                           **({"sub": s["sub"]} if s.get("sub") else {})} for s in story["scenes"]],
               "caption": story.get("yt_title", ""), "slug": f"{day}_part{n}",
               "story_no": len(history) + 1,

@@ -40,6 +40,8 @@ jobs:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       ELEVEN_API_KEY: ${{ secrets.ELEVEN_API_KEY }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}          # Facebook + Instagram auto-posting
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
       VOICE_FEMALE: ${{ secrets.VOICE_FEMALE }}
       VOICE_MALE: ${{ secrets.VOICE_MALE }}
       VOICE_CHILD: ${{ secrets.VOICE_CHILD }}
@@ -55,7 +57,8 @@ jobs:
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-liberation
-          pip install -q requests edge-tts
+          pip install -q requests edge-tts pillow transformers
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu   # free 3D depth model
           git config user.name "story-bot"
           git config user.email "story-bot@users.noreply.github.com"
 

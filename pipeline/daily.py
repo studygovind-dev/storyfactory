@@ -13,10 +13,13 @@ Usage:
   python pipeline/daily.py --part 2  # make and send part 2 now (manual)
 """
 import argparse, datetime, json, subprocess, sys, time
+
+import requests
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from make_episode import ROOT, load_dotenv, send_telegram  # noqa: E402
+from make_episode import ROOT, env, load_dotenv, send_telegram  # noqa: E402
+from post_social import post_all  # noqa: E402
 
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
 SEND_AT = {1: (9, 0), 2: (13, 0), 3: (17, 0)}
@@ -57,7 +60,14 @@ def make_and_send(day, part, wait):
         print(f"Part {part} is ready; waiting {early / 60:.0f} min until {h:02d}:{m:02d}.", flush=True)
         time.sleep(early)
     ep = json.loads(ep_file.read_text(encoding="utf-8"))
-    send_telegram(ROOT / "output" / f"{day}_part{part}_free" / "final.mp4", ep)
+    video = ROOT / "output" / f"{day}_part{part}_free" / "final.mp4"
+    send_telegram(video, ep)
+    problems = post_all(video, ep)  # Facebook + Instagram, when FB_PAGE_ID / FB_PAGE_TOKEN are set
+    if problems:  # tell the owner so they can post that one by hand
+        requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendMessage",
+                      data={"chat_id": env("TELEGRAM_CHAT_ID"),
+                            "text": "⚠️ Auto-posting failed, please post this one by hand:\n"
+                                    + "\n".join(problems)}, timeout=60)
     marker.write_text(datetime.datetime.now(IST).isoformat() + "\n")
     save_to_repo(f"Sent part {part} for {day}")
     return True

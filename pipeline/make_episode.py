@@ -161,6 +161,10 @@ def kling_token():
 def make_clip(ep, i, scene, img, out, dry, zoom=False):
     if out.exists():
         return
+    if zoom and not dry and ep.get("short"):  # daily stories: 3D parallax + weather (free)
+        from effects import living_clip
+        living_clip(img, i, out, W, H, scene.get("fx", "none"))
+        return
     if dry or zoom:  # free mode: camera move on the still picture (no Kling needed)
         step = 0.003 if ep.get("short") else 0.0015  # daily stories cut every ~3 s: move a bit faster
         z = (f"min(zoom+{step},1.25)" if i % 2 == 0
@@ -328,6 +332,14 @@ def ts(t):
 HANDLE = "@storybitetv2"
 
 
+def pick_music(ep):
+    """Background music by mood: assets/music/<mood>/*.mp3 (rotates per story), else assets/music.mp3."""
+    tracks = sorted((ROOT / "assets" / "music" / ep.get("mood", "emotional")).glob("*.mp3"))
+    if tracks:
+        return tracks[ep.get("story_no", 0) % len(tracks)]
+    return ROOT / "assets" / "music.mp3"
+
+
 def word_captions(line, start, end):
     """Show the line 2-3 words at a time (big, centre), timed by word length, the key word yellow."""
     words = line.replace("*", "").replace("\n", " ").split()
@@ -405,9 +417,11 @@ def build(ep, work, final):
     joined = work / "joined.mp4"
     run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(joined)])
 
-    music = ROOT / "assets" / "music.mp3"   # optional royalty-free track
+    music = pick_music(ep)
     cmd = ["ffmpeg", "-y", "-i", str(joined)]
     sub = f"subtitles={ass.name}"
+    if short:  # film look: soft dark edges + fine moving grain
+        sub = f"vignette=PI/5,noise=alls=5:allf=t,{sub}"
     if music.exists():
         cmd += ["-stream_loop", "-1", "-i", str(music), "-filter_complex",
                 f"[0:v]{sub}[v];[1:a]volume=0.12[m];[0:a][m]amix=inputs=2:duration=first:normalize=0[a]",
