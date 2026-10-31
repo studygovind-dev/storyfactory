@@ -83,7 +83,7 @@ def make_image_free(ep, i, scene, out):
         model = "flux"
     params = {"width": 720, "height": 1280, "seed": 1000 + i, "nologo": "true", "model": model}
     hdr = {"Authorization": f"Bearer {key}"} if key else {}
-    for attempt in range(30):  # up to ~8 minutes per picture
+    for attempt in range(12):  # up to ~3 minutes per picture
         try:
             r = requests.get(url, params=params, headers=hdr, timeout=180)
             if r.ok and r.headers.get("content-type", "").startswith("image"):
@@ -106,6 +106,12 @@ def make_image_free(ep, i, scene, out):
             print(f"  picture server error ({type(e).__name__}), retrying...")
         params["seed"] += 100  # a new seed sometimes gets through faster
         time.sleep(15)
+    # Never lose the whole video over one picture: reuse the latest picture made so far.
+    done = sorted(out.parent.glob("img_*.png"), key=lambda f: f.stat().st_mtime)
+    if done:
+        print(f"  picture server kept refusing scene {i}; reusing the previous picture.")
+        out.write_bytes(done[-1].read_bytes())
+        return
     sys.exit(f"Free picture server kept refusing scene {i}. Try again later.")
 
 
@@ -217,6 +223,11 @@ ELEVEN_DEFAULTS = {  # all chosen by ear from the ElevenLabs voice library
     "NARRATOR_FEMALE": "DtsPFCrhbCbbJkwZsb3d", # female storyteller
     "CARTOON_MALE": "XjGYkUkzth8BPs29fmcV",    # cartoon boys, male animals
     "CARTOON_FEMALE": "XJ2fW4ybq7HouelYYGcL",  # cartoon girls, baby girls, female animals
+    # Hindi / Hinglish videos (1 PM cartoon, 5 PM story)
+    "HINDI_NARRATOR_MALE": "F8IvasoAdpDhOjLm5YBm",
+    "HINDI_NARRATOR_FEMALE": "CNKl99QEbWm8RQ4D8GfC",
+    "HINDI_MALE_YOUNG": "6RDBmepnHSilYYdPZC4W",
+    "HINDI_FEMALE_YOUNG": "S2uC1CO2xXot4UtzYX68",
 }
 # Older voice names map onto the chosen ones.
 for _k, _v in {"MALE_YOUNG2": "MALE_YOUNG", "MALE_ADULT": "NARRATOR_MALE", "MALE_OLD": "NARRATOR_MALE",
@@ -229,7 +240,11 @@ VOICE_RATE, VOICE_PITCH = "+5%", "-3Hz"   # natural pace, slightly lower pitch f
 
 def make_voice_free(ep, i, scene, out):
     voice_key = ep["characters"][scene["speaker"]]["voice"].lower()
-    voice = EDGE_VOICES.get(voice_key) or (
+    if voice_key.startswith("hindi_"):  # free Hindi voices
+        voice = "hi-IN-SwaraNeural" if "female" in voice_key else "hi-IN-MadhurNeural"
+    else:
+        voice = None
+    voice = voice or EDGE_VOICES.get(voice_key) or (
         "en-US-AnaNeural" if voice_key.startswith("child") else
         EDGE_VOICES["female_soft"] if "female" in voice_key else EDGE_VOICES["male_smooth"])
     text = scene["line"].replace("*", "").replace("_", " ")  # drop markdown emphasis
@@ -256,6 +271,10 @@ def make_voice(ep, i, scene, out, dry):
     # Simple setup: only 3 voices needed (VOICE_MALE, VOICE_FEMALE, VOICE_CHILD).
     # A specific VOICE_<NAME> in .env still wins if you set one.
     k = voice_key.upper()
+    hindi = k.startswith("HINDI_")
+    if hindi and not (ELEVEN_DEFAULTS.get(k) or os.environ.get("VOICE_" + k, "").strip()):
+        k = k[len("HINDI_"):]  # no Hindi voice chosen yet: the matching English voice speaks Hindi
+    base = k[len("HINDI_"):] if k.startswith("HINDI_") else k
     fallback = "VOICE_CHILD" if k.startswith("CHILD") else (
         "VOICE_FEMALE" if "FEMALE" in k else "VOICE_MALE")
     # The voices picked by ear (ELEVEN_DEFAULTS) win over older VOICE_* settings.
@@ -266,7 +285,7 @@ def make_voice(ep, i, scene, out, dry):
         headers={"xi-api-key": env("ELEVEN_API_KEY")},
         json={"text": scene["line"].replace("*", ""),
               # Narrators sound clearly better on multilingual_v2; everyone else uses Flash (half the credits).
-              "model_id": ("eleven_multilingual_v2" if k.startswith("NARRATOR")
+              "model_id": ("eleven_multilingual_v2" if base.startswith("NARRATOR")
                            else os.environ.get("ELEVEN_MODEL", "eleven_flash_v2_5")),
               # lower stability + more style = softer, more emotional delivery
               "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5}},
@@ -345,7 +364,7 @@ def build(ep, work, final):
              "-pix_fmt", "yuv420p", "-c:a", "aac", "-ar", "44100", "-ac", "2", str(seg)])
         seg_files.append(seg)
         if short:
-            ass_events += word_captions(sc["line"], t + 0.15, t + d)
+            ass_events += word_captions(sc.get("sub") or sc["line"], t + 0.15, t + d)
             t += d
             continue
         text = sc["line"].replace("\n", " ")

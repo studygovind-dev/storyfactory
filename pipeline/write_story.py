@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 Writes today's 3 short videos with Gemini (free tier text model):
-  series/daily/<date>_part1.json  9 AM  realistic emotional story
-  series/daily/<date>_part2.json  1 PM  funny cartoon story (English one day, Hinglish the next)
-  series/daily/<date>_part3.json  5 PM  realistic emotional story
+  series/daily/<date>_part1.json  9 AM  realistic animal + human story in English
+  series/daily/<date>_part2.json  1 PM  funny cartoon story in Hinglish
+  series/daily/<date>_part3.json  5 PM  realistic emotional story in Hinglish (English subtitles)
 
 Each video is ONE complete story of about 3.5-4 minutes: a hook in the first second,
 fast picture changes, one narrator, and a twist at the end. Past titles are
@@ -47,6 +47,25 @@ FUNNY_TOPICS = [
     "a gym first day disaster",
 ]
 
+# Animal + human stories: easy to follow even without understanding the words.
+ANIMAL_TOPICS = [
+    "a tiger mother leaves her blind cub with a pregnant village woman, who gets its eyes treated; "
+    "the cub and her baby grow up together, and years later the tigress returns to thank her",
+    "a lion cub raised by a farmer returns as a grown lion and recognises him years later",
+    "a wolf saves a lost child in the snowy forest and leads the rescuers to her",
+    "an elephant never forgets the man who freed her from a trap and comes back to save his village",
+    "a giant python and a lonely boy: everyone is afraid until the python saves the family",
+    "a street dog follows an old woman every day until the day she needs him most",
+    "a monkey steals a baby's milk bottle, then comes back with something surprising",
+    "an injured eagle nursed back to health by a girl returns every year on the same day",
+    "a horse that was going to be sold saves its owner's daughter from a flood",
+    "a mother cat brings her kittens one by one to the woman who once fed her",
+    "a bear cub separated from its mother and the forest ranger who reunites them",
+    "a cow and a farmer's son: the boy sells her to pay for school, she walks back home miles away",
+    "a dolphin helps a fisherman's son lost at sea",
+    "an abandoned puppy and an old soldier who lost his family",
+]
+
 # Most watched realistic story types on Shorts / Reels (emotional, twist ending, karma, kindness).
 REAL_TOPICS = [
     "kindness rewarded: someone helps a stranger who turns out to be important",
@@ -86,6 +105,11 @@ Rules:
 - 1 to 3 characters. Give each a fixed visual "look" (age, face, hair, clothing; for animals breed,
   colour, collar) so pictures stay consistent. Refer to them in "image" as [[key]].
 - "image" describes ONE {shot} (who, where, action, emotion on the face). No text or signs.
+- SILENT-MOVIE TEST: the story must be easy to follow with the sound OFF, even for someone who
+  does not know the language. Every picture shows exactly what is happening: a clear action,
+  big readable emotions (tears, shock, laughter, anger), meaningful objects (a letter, a ring,
+  an empty chair), close-ups at emotional moments. The FIRST picture must be dramatic and
+  instantly intriguing.{sub_rule}
 - "hook_text": 2-5 words shown big on screen in the first seconds (e.g. "SHE LEFT A NOTE...").
 - Pick each voice so it matches who is speaking: {voices}
 
@@ -98,8 +122,12 @@ Return ONLY JSON:
   "yt_title": "<YouTube title under 80 characters, curiosity hook, ends with an emoji>",
   "description": "<2 short lines that tease without spoiling>",
   "hashtags": ["<15 popular hashtags: mix #shorts #story #viral with topic-specific ones>"],
-  "scenes": [{{"image": "...", "speaker": "<narrator or character key>", "line": "..."}}]
+  "scenes": [{{"image": "...", "speaker": "<narrator or character key>", "line": "..."{sub_field}}}]
 }}"""
+
+SUB_RULE = """
+- Each scene also has "sub": a short, natural ENGLISH translation of the line (shown as subtitles).
+  "title", "hook_text", "yt_title" and "description" are in English (Hindi words in English letters are OK)."""
 
 CARTOON_VOICES = {
     "narrator_male": "male storyteller (narrator)", "narrator_female": "female storyteller (narrator)",
@@ -160,22 +188,25 @@ def check(story, used, voices):
 def slots(day):
     """What each of today's 3 videos should be."""
     d = datetime.date.fromisoformat(day).toordinal()
-    hinglish = d % 2 == 1
     real = {"style": REAL_STYLE, "shot": "realistic film shot", "lang": "English", "voices": REAL_VOICES,
             "speech": ("Mostly ONE narrator telling it (first person 'I' works best), with a few short "
                        "emotional lines spoken by the characters at key moments.")}
     return [
-        {"kind": "It is an emotional, realistic story with a twist ending.",
-         "topic": REAL_TOPICS[(2 * d) % len(REAL_TOPICS)], **real},
+        {"kind": ("It is an emotional, realistic ANIMAL + HUMAN story (wild or pet animal and people), "
+                  "told mostly through pictures so anyone in the world can follow it."),
+         "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real},
         {"kind": "It is a FUNNY cartoon story: light, silly, relatable comedy with a punchline at the end.",
          "topic": FUNNY_TOPICS[d % len(FUNNY_TOPICS)], "style": CARTOON_STYLE,
          "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
          "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
                     "a narrator line now and then to move the story on."),
+         "hindi_voices": True,
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way young "
-                  "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')" if hinglish else "English")},
-        {"kind": "It is an emotional, realistic story with a twist ending.",
-         "topic": REAL_TOPICS[(2 * d + 1) % len(REAL_TOPICS)], **real},
+                  "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')")},
+        {"kind": "It is an emotional, realistic story with a twist ending, set in India with Indian characters.",
+         "topic": REAL_TOPICS[(2 * d + 1) % len(REAL_TOPICS)], **real, "hindi": True,
+         "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way "
+                  "Indians really talk, e.g. 'Maa, main sach bol raha hoon, please trust me.')")},
     ]
 
 
@@ -196,6 +227,8 @@ def main():
         prompt = PROMPT.format(kind=slot["kind"], topic=slot["topic"], lang=slot["lang"],
                                shot=slot["shot"], n=SCENES, speech=slot["speech"],
                                voices="; ".join(f"{k} = {v}" for k, v in slot["voices"].items()),
+                               sub_rule=SUB_RULE if slot.get("hindi") else "",
+                               sub_field=', "sub": "<English translation>"' if slot.get("hindi") else "",
                                history="\n".join("- " + h for h in history[-90:]) or "none")
         for attempt in range(3):
             story = ask_gemini(prompt)
@@ -209,11 +242,14 @@ def main():
         chars = {k: {"look": c.get("look", ""), "voice": c["voice"]} for k, c in story["characters"].items()}
         tags = [t if t.startswith("#") else "#" + t
                 for t in (story.get("hashtags") or []) if isinstance(t, str) and t.strip()]
+        if slot.get("hindi") or slot.get("hindi_voices"):  # Hinglish lines: Hindi voices
+            for c in chars.values():
+                c["voice"] = "hindi_" + c["voice"]
         ep = {"series": story["title"], "episode": n, "title": story["title"],
               "style": slot["style"], "characters": chars, "short": True,
               "hook_text": story.get("hook_text", ""),
-              "scenes": [{"image": s["image"], "speaker": s["speaker"], "line": s["line"]}
-                         for s in story["scenes"]],
+              "scenes": [{"image": s["image"], "speaker": s["speaker"], "line": s["line"],
+                          **({"sub": s["sub"]} if s.get("sub") else {})} for s in story["scenes"]],
               "caption": story.get("yt_title", ""), "slug": f"{day}_part{n}",
               "story_no": len(history) + 1,
               "yt_title": story.get("yt_title") or story["title"],
