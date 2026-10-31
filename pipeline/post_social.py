@@ -80,11 +80,16 @@ def post_all(video, ep):
     if not (page and token):
         return []  # auto-posting not set up: nothing to do
     problems = []
-    for name, fn in (("Facebook", post_facebook), ("Instagram", post_instagram)):
+    teaser = Path(video).with_name("teaser.mp4")  # Reels must be under 90 s
+    jobs = [("Facebook", post_facebook, video, ep)]
+    if teaser.exists():
+        jobs.append(("Instagram", post_instagram, teaser,
+                     {**ep, "yt_title": ep["yt_title"] + "\n\n▶️ Full story on our Facebook page & YouTube"}))
+    for name, fn, file, info in jobs:
         if os.environ.get("POST_ONLY") and os.environ["POST_ONLY"] != name:
             continue
         try:
-            fn(video, ep, page, token)
+            fn(file, info, page, token)
         except (RuntimeError, requests.RequestException) as e:
             print(f"{name}: {e}")
             problems.append(f"{name}: {e}")

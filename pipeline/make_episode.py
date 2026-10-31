@@ -361,7 +361,7 @@ def word_captions(line, start, end):
 
 def build(ep, work, final):
     short = ep.get("short")
-    seg_files, ass_events, t = [], [], 0.0
+    seg_files, ass_events, t, cuts = [], [], 0.0, []
     for i, sc in enumerate(ep["scenes"]):
         clip, voice = work / f"clip_{i}.mp4", work / f"voice_{i}.mp3"
         d = max(1.2, duration(voice) + 0.05) if short else max(SCENE_MIN, duration(voice) + PAD)
@@ -378,6 +378,7 @@ def build(ep, work, final):
         if short:
             ass_events += word_captions(sc.get("sub") or sc["line"], t + 0.15, t + d)
             t += d
+            cuts.append(round(t, 3))  # scene ends: where a teaser may stop cleanly
             continue
         text = sc["line"].replace("\n", " ")
         if len(text) > 38:  # split long lines into two caption lines
@@ -412,6 +413,7 @@ def build(ep, work, final):
         "[Events]\nFormat: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text\n" % (W, H)
         + "\n".join(ass_events) + "\n")
 
+    (work / "cuts.json").write_text(json.dumps(cuts))
     lst = work / "list.txt"
     lst.write_text("".join(f"file '{p.name}'\n" for p in seg_files))
     joined = work / "joined.mp4"
@@ -454,6 +456,38 @@ def speed_to_fit(final, total, limit=MAX_SECS):
     tmp.replace(final)
     print(f"Sped up {f:.2f}x to fit under {limit:.0f}s.")
     return total / f
+
+
+TEASER_MAX = 85.0  # Instagram Reels must stay under 90 s
+
+
+def make_teaser(work, final):
+    """First ~60-85 s of the story, cut at the end of a line, with a 'full story' card: a Reel."""
+    cuts = json.loads((work / "cuts.json").read_text()) if (work / "cuts.json").exists() else []
+    scale = duration(final) / cuts[-1] if cuts else 1.0  # the video may have been sped up
+    ok = [c * scale for c in cuts if c * scale <= TEASER_MAX - 4]
+    if not ok:
+        return None
+    end = ok[-1] + 4.0  # 4 s card after the cut line
+    head = (work / "subs.ass").read_text(encoding="utf-8").split("[Events]")[0]
+    (work / "teaser.ass").write_text(
+        head + "[Events]\nFormat: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text\n"
+        f"Dialogue: 2,{ts(end - 4)},{ts(end)},Hook,,0,0,0,,WHAT HAPPENS NEXT?\\NFULL STORY ON OUR PAGE\n"
+        f"Dialogue: 2,{ts(end - 4)},{ts(end)},Word,,0,0,0,,{HANDLE}\n", encoding="utf-8")
+    teaser = work / "teaser.mp4"
+    r = subprocess.run(["ffmpeg", "-y", "-i", final.name, "-t", f"{end:.2f}", "-filter_complex",
+                        f"[0:v]tpad=stop_mode=clone:stop_duration=4,trim=duration={end:.2f},"
+                        f"boxblur=24:enable='gte(t,{end - 4:.2f})',"  # soft background behind the card
+                        f"eq=brightness=-0.12:enable='gte(t,{end - 4:.2f})',"
+                        "subtitles=teaser.ass[v];[0:a]afade=t=out:st={:.2f}:d=1.5[a]".format(end - 4),
+                        "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
+                        teaser.name], cwd=work, capture_output=True, text=True)
+    if r.returncode:
+        print("Teaser failed (the long video is fine):", r.stderr[-400:])
+        return None
+    print(f"Teaser reel: {teaser} ({end:.0f}s)")
+    return teaser
 
 
 # ---------------------------------------------------------------- 5. send
@@ -572,6 +606,8 @@ def main():
     if (ep.get("parts") or ep.get("short")) and total > limit:  # must fit the Shorts length
         total = speed_to_fit(final, total, limit)
     print(f"Done: {final}  ({total:.1f}s)")
+    if ep.get("short"):
+        make_teaser(work, final)
     if not a.no_send and not a.dry_run:
         send_telegram(final, ep)
 
