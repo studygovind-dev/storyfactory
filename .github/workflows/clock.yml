@@ -1,0 +1,55 @@
+# On-time clock for the daily videos.
+#
+# GitHub often starts *scheduled* runs hours late, but runs started from another run
+# (workflow_dispatch) start within seconds. So this job sleeps until the next start time
+# (06:15, 10:15, 14:15 India time), starts "Daily story", then starts the next clock.
+# A run can last at most 6 hours, so long gaps are bridged by hopping to a fresh clock.
+# The schedule below only restarts the chain if it ever breaks; a newer clock replaces
+# an older one, so there is never more than one.
+name: Clock
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 18 * * *"   # 23:35 IST: restart the chain if it broke
+    - cron: "5 5 * * *"    # 10:35 IST
+
+permissions:
+  actions: write
+
+concurrency:
+  group: clock
+  cancel-in-progress: true
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Sleep until the next start time, then start the video job
+        run: |
+          python3 - <<'EOF'
+          import datetime, subprocess, time
+          IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
+          STARTS = [(6, 15), (10, 15), (14, 15)]
+          MAX_WAIT = 5.5 * 3600
+          now = datetime.datetime.now(IST)
+          nxt = min(d.replace(hour=h, minute=m, second=0, microsecond=0)
+                    for d in (now, now + datetime.timedelta(days=1)) for h, m in STARTS
+                    if d.replace(hour=h, minute=m, second=0, microsecond=0) > now)
+          wait = (nxt - now).total_seconds()
+          if wait > MAX_WAIT:
+              print(f"Next start {nxt:%d %b %H:%M} IST is far away; hopping to a fresh clock in 5.5 h.")
+              time.sleep(MAX_WAIT)
+          else:
+              print(f"Sleeping {wait / 60:.0f} min until {nxt:%H:%M} IST.", flush=True)
+              time.sleep(wait)
+              subprocess.run(["gh", "workflow", "run", "daily.yml"], check=True)
+              print("Started Daily story.")
+          EOF
+      - name: Start the next clock
+        if: always()
+        run: gh workflow run clock.yml
