@@ -1,0 +1,17 @@
+# Manual test: renders sample clips of the free picture effects and attaches them to the run.
+name: Test effects
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q pillow transformers
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          python pipeline/test_effects.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fx-test
+          path: output/fx_test/*.mp4
