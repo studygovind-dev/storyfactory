@@ -509,7 +509,7 @@ def post_kit(ep):
             f"━━ HASHTAGS ━━\n{tags}\n\n"
             f"━━ INSTAGRAM CAPTION ━━\n{ep['yt_title']}\n{follow}\n\n{tags}\n\n"
             "⚠️ Turn ON the AI-generated content label when posting.\n"
-            "📍 Pin a comment that repeats the question from the end of the video."
+            f"📍 Pin this comment: {ep.get('comment_question') or 'What would you have done? 👇'}"
         )
     n, total = ep["episode"], ep["parts"]
     nxt = (f"👉 Part {n + 1} today at {NEXT_AT[n]}. Follow so you don't miss it!"

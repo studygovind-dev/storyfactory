@@ -129,9 +129,13 @@ Return ONLY JSON:
   "premise": "<one sentence: who, what, the twist>",
   "hook_text": "...",
   "characters": {{"narrator": {{"look": "", "voice": "..."}}, "<key>": {{"look": "...", "voice": "..."}}}},
-  "yt_title": "<YouTube title under 80 characters, curiosity hook, ends with an emoji>",
-  "description": "<2 short lines that tease without spoiling>",
-  "hashtags": ["<15 popular hashtags: mix #shorts #story #viral with topic-specific ones>"],
+  "yt_title": "<title under 70 characters: a specific emotional hook with the key searchable words
+               (e.g. 'Rich Customer Insulted the Waiter... Then He Saw His Name Tag'), 1 emoji at most, no ALL CAPS>",
+  "description": "<3 short lines: line 1 repeats the hook with searchable words, line 2 teases the twist
+                  without spoiling it, line 3 asks the viewers' comment question>",
+  "comment_question": "<one short question viewers will want to answer, e.g. 'Would you have forgiven her?'>",
+  "hashtags": ["<12 hashtags: 3 broad (#story #emotionalstory #storytime), the rest specific to this
+               story's topic and feelings. NO #shorts (the videos are 3-4 minutes long)>"],
   "scenes": [{{"image": "...", "speaker": "<narrator or character key>", "line": "..."{sub_field}, "fx": "<rain|snow|dust|none>"}}]
 }}"""
 
@@ -272,6 +276,7 @@ def main():
               "story_no": len(history) + 1,
               "yt_title": story.get("yt_title") or story["title"],
               "description": story.get("description", ""),
+              "comment_question": story.get("comment_question", ""),
               "hashtags": [t.replace(" ", "") for t in tags][:20]}
         eps.append(ep)
         history.append(f"{story['title']} | {day} | {story.get('premise', '').strip()}")
