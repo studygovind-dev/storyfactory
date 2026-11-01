@@ -32,13 +32,29 @@ def check(r, what):
     return r.json()
 
 
+TEST = os.environ.get("POST_TEST") == "1"  # upload but do not publish (for checking the setup)
+
+
 def post_facebook(video, ep, page, token):
-    with open(video, "rb") as f:
-        r = requests.post(f"https://graph-video.facebook.com/{GRAPH.rsplit('/', 1)[1]}/{page}/videos",
-                          data={"access_token": token, "title": ep["yt_title"][:250],
-                                "description": caption(ep)},
-                          files={"source": f}, timeout=1800)
-    print(f"Facebook: posted video {check(r, 'Facebook upload').get('id')}")
+    """Chunked ("resumable") upload: the simple upload refuses files this big (error 413)."""
+    url = f"https://graph-video.facebook.com/{GRAPH.rsplit('/', 1)[1]}/{page}/videos"
+    data = Path(video).read_bytes()
+    s = check(requests.post(url, data={"access_token": token, "upload_phase": "start",
+                                       "file_size": len(data)}, timeout=120), "Facebook upload start")
+    start, end = int(s["start_offset"]), int(s["end_offset"])
+    while start < end:
+        r = check(requests.post(url, data={"access_token": token, "upload_phase": "transfer",
+                                           "upload_session_id": s["upload_session_id"],
+                                           "start_offset": start},
+                                files={"video_file_chunk": ("chunk", data[start:end])}, timeout=600),
+                  "Facebook upload")
+        start, end = int(r["start_offset"]), int(r["end_offset"])
+    check(requests.post(url, data={"access_token": token, "upload_phase": "finish",
+                                   "upload_session_id": s["upload_session_id"],
+                                   "title": ep["yt_title"][:250], "description": caption(ep),
+                                   "published": "false" if TEST else "true"}, timeout=300),
+          "Facebook upload finish")
+    print(f"Facebook: {'uploaded (unpublished test)' if TEST else 'posted'} video {s.get('video_id')}")
 
 
 def post_instagram(video, ep, page, token):
@@ -55,7 +71,8 @@ def post_instagram(video, ep, page, token):
     data = Path(video).read_bytes()
     check(requests.post(c["uri"], data=data, timeout=1800,
                         headers={"Authorization": f"OAuth {token}", "offset": "0",
-                                 "file_size": str(len(data))}), "Instagram upload")
+                                 "file_size": str(len(data)),
+                                 "Content-Type": "application/octet-stream"}), "Instagram upload")
     # 2. wait until Instagram has processed the video, then publish it
     for _ in range(60):
         st = check(requests.get(f"{GRAPH}/{c['id']}", params={"fields": "status_code,status",
@@ -68,6 +85,9 @@ def post_instagram(video, ep, page, token):
         time.sleep(15)
     else:
         raise RuntimeError("Instagram took over 15 minutes to process the video.")
+    if TEST:
+        print("Instagram: uploaded and processed OK (test, not published)")
+        return
     r = check(requests.post(f"{GRAPH}/{ig}/media_publish",
                             data={"creation_id": c["id"], "access_token": token}, timeout=120),
               "Instagram publish")
