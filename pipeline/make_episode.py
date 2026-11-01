@@ -251,7 +251,7 @@ def make_voice_free(ep, i, scene, out):
     voice = voice or EDGE_VOICES.get(voice_key) or (
         "en-US-AnaNeural" if voice_key.startswith("child") else
         EDGE_VOICES["female_soft"] if "female" in voice_key else EDGE_VOICES["male_smooth"])
-    text = scene["line"].replace("*", "").replace("_", " ")  # drop markdown emphasis
+    text = (scene.get("say") or scene["line"]).replace("*", "").replace("_", " ")  # drop markdown emphasis
     for attempt in range(6):  # the free voice service sometimes refuses a request; wait and retry
         r = subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice, "--text", text,
                             f"--rate={VOICE_RATE}", f"--pitch={VOICE_PITCH}",
@@ -287,9 +287,9 @@ def make_voice(ep, i, scene, out, dry):
     r = requests.post(
         f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}?output_format=mp3_44100_128",
         headers={"xi-api-key": env("ELEVEN_API_KEY")},
-        json={"text": scene["line"].replace("*", ""),
-              # Narrators sound clearly better on multilingual_v2; everyone else uses Flash (half the credits).
-              "model_id": ("eleven_multilingual_v2" if base.startswith("NARRATOR")
+        json={"text": (scene.get("say") or scene["line"]).replace("*", ""),  # Hinglish: Devanagari text
+              # Narrators and Hindi sound clearly better on multilingual_v2; the rest uses Flash (half the credits).
+              "model_id": ("eleven_multilingual_v2" if base.startswith("NARRATOR") or hindi
                            else os.environ.get("ELEVEN_MODEL", "eleven_flash_v2_5")),
               # lower stability + more style = softer, more emotional delivery
               "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5}},

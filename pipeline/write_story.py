@@ -143,6 +143,12 @@ SUB_RULE = """
 - Each scene also has "sub": a short, natural ENGLISH translation of the line (shown as subtitles).
   "title", "hook_text", "yt_title" and "description" are in English (Hindi words in English letters are OK)."""
 
+# Voices read Hindi in English letters with a foreign accent, so Hinglish lines also come
+# in Devanagari ("say"): that is what gets spoken; the English-letter "line" stays for captions.
+SAY_RULE = """
+- Each scene also has "say": the SAME line written in Devanagari script exactly as it is spoken,
+  English words too (e.g. line "Bhai, yeh totally crazy hai!" -> say "भाई, ये टोटली क्रेज़ी है!")."""
+
 TALK_RULE = """
 - Animals and babies MAY talk (people love this): give a talking animal or baby the voice
   cartoon_male or cartoon_female (cute child-like voice). No roars or animal-noise lines."""
@@ -244,11 +250,14 @@ def main():
     eps = []  # written together at the end, so a failed run never leaves half a day
     for n, slot in enumerate(slots(day), 1):
         used = {h.split(" | ")[0].strip().lower() for h in history}
+        hinglish = slot.get("hindi") or slot.get("hindi_voices")
         prompt = PROMPT.format(kind=slot["kind"], topic=slot["topic"], lang=slot["lang"],
                                shot=slot["shot"], n=SCENES, speech=slot["speech"],
                                voices="; ".join(f"{k} = {v}" for k, v in slot["voices"].items()),
-                               sub_rule=SUB_RULE if slot.get("hindi") else "", talk_rule=TALK_RULE,
-                               sub_field=', "sub": "<English translation>"' if slot.get("hindi") else "",
+                               sub_rule=(SUB_RULE if slot.get("hindi") else "") + (SAY_RULE if hinglish else ""),
+                               talk_rule=TALK_RULE,
+                               sub_field=(', "sub": "<English translation>"' if slot.get("hindi") else "")
+                               + (', "say": "<same line in Devanagari>"' if hinglish else ""),
                                history="\n".join("- " + h for h in history[-90:]) or "none")
         for attempt in range(3):
             story = ask_gemini(prompt)
@@ -271,7 +280,9 @@ def main():
               "hook_text": story.get("hook_text", ""),
               "scenes": [{"image": s["image"], "speaker": s["speaker"], "line": s["line"],
                           "fx": s.get("fx") if s.get("fx") in ("rain", "snow", "dust") else "none",
-                          **({"sub": s["sub"]} if s.get("sub") else {})} for s in story["scenes"]],
+                          **({"sub": s["sub"]} if s.get("sub") else {}),
+                          **({"say": s["say"]} if hinglish and s.get("say") else {})}
+                         for s in story["scenes"]],
               "caption": story.get("yt_title", ""), "slug": f"{day}_part{n}",
               "story_no": len(history) + 1,
               "yt_title": story.get("yt_title") or story["title"],
