@@ -17,8 +17,9 @@ jobs:
           mkdir -p output/test
           # same size and format as a real 3-minute video (~100 MB) and its 83 s teaser
           ffmpeg -v error -f lavfi -i testsrc2=s=1080x1920:r=24 -f lavfi -i sine=f=300 -t 180 \
-            -c:v libx264 -b:v 4M -pix_fmt yuv420p -c:a aac -ar 44100 -movflags +faststart output/test/final.mp4
-          ffmpeg -v error -i output/test/final.mp4 -t 83 -c copy output/test/teaser.mp4
+            -c:v libx264 -b:v 4M -pix_fmt yuv420p -c:a aac -ar 44100 -ac 2 -movflags +faststart output/test/final.mp4
+          ffmpeg -v error -i output/test/final.mp4 -t 83 -c:v libx264 -crf 20 -pix_fmt yuv420p \
+            -c:a aac -b:a 160k -ac 2 -movflags +faststart output/test/teaser.mp4
           ls -la output/test
           echo '{"yt_title":"Upload test","description":"test","hashtags":["#test"]}' > output/test/ep.json
           python pipeline/post_social.py output/test/final.mp4 output/test/ep.json
