@@ -216,16 +216,20 @@ def check(story, used, voices):
 def slots(day):
     """What each of today's 3 videos should be."""
     d = datetime.date.fromisoformat(day).toordinal()
+    # Most viewers are men, who watch stories led by a woman or girl more: female lead by default.
+    lead = (" The MAIN CHARACTER is a woman or girl (young, warm, relatable); tell it in her voice "
+            "(first person, narrator_female or female_young).")
     real = {"style": REAL_STYLE, "shot": "realistic film shot", "lang": "English", "voices": REAL_VOICES,
             "speech": ("Mostly ONE narrator telling it (first person 'I' works best), with a few short "
                        "emotional lines spoken by the characters at key moments.")}
     return [
         {"kind": ("It is an emotional, realistic ANIMAL + HUMAN story (wild or pet animal and people), "
-                  "told mostly through pictures so anyone in the world can follow it."),
+                  "told mostly through pictures so anyone in the world can follow it.") + lead,
          "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal", "hindi": True,
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way "
                   "Indians really talk)")},
-        {"kind": "It is a FUNNY cartoon story: light, silly, relatable comedy with a punchline at the end.",
+        {"kind": ("It is a FUNNY cartoon story: light, silly, relatable comedy with a punchline at the end."
+                  + (" The main character is a girl or woman." if d % 3 else "")),
          "topic": FUNNY_TOPICS[d % len(FUNNY_TOPICS)], "style": CARTOON_STYLE,
          "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
          "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
@@ -233,7 +237,8 @@ def slots(day):
          "hindi_voices": True, "mood": "funny",
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way young "
                   "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')")},
-        {"kind": "It is an emotional, realistic story with a twist ending, set in India with Indian characters.",
+        {"kind": ("It is an emotional, realistic story with a twist ending, set in India with Indian "
+                  "characters." + lead),
          "topic": REAL_TOPICS[(2 * d + 1) % len(REAL_TOPICS)], **real, "hindi": True,
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way "
                   "Indians really talk, e.g. 'Maa, main sach bol raha hoon, please trust me.')")},
