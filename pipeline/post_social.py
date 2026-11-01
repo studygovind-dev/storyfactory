@@ -9,7 +9,7 @@ The Instagram account is found from the Page (it must be linked to it).
 Usage (manual test):
   python pipeline/post_social.py output/<slug>_free/final.mp4 series/daily/<slug>.json [--fb-only|--ig-only]
 """
-import json, os, sys, time
+import json, os, subprocess, sys, time
 from pathlib import Path
 
 import requests
@@ -60,23 +60,34 @@ def post_facebook(video, ep, page, token, hidden=False):
     return s["video_id"]
 
 
+def public_link(video):
+    """Upload the file to the repo's 'reels' release (public repo) and return a direct link."""
+    name = f"{int(time.time())}_{Path(video).parent.name}.mp4"
+    subprocess.run(["gh", "release", "create", "reels", "--title", "Reels (temporary)",
+                    "--notes", "Temporary copies for Instagram to fetch; deleted after posting."],
+                   capture_output=True)  # fails harmlessly if it already exists
+    tmp = Path(video).with_name(name)
+    tmp.write_bytes(Path(video).read_bytes())
+    r = subprocess.run(["gh", "release", "upload", "reels", str(tmp), "--clobber"],
+                       capture_output=True, text=True)
+    tmp.unlink()
+    if r.returncode:
+        raise RuntimeError(f"Could not make a public link for the reel: {r.stderr[-300:]}")
+    url = f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/releases/download/reels/{name}"
+    # Instagram does not follow redirects well: hand it the final download address
+    loc = requests.head(url, allow_redirects=False, timeout=60).headers.get("location") or url
+    return loc, name
+
+
 def post_instagram(video, ep, page, token):
     ig = check(requests.get(f"{GRAPH}/{page}", params={"fields": "instagram_business_account",
                                                        "access_token": token}, timeout=60),
                "Finding the Instagram account").get("instagram_business_account", {}).get("id")
     if not ig:
         raise RuntimeError("No Instagram account is linked to this Facebook Page.")
-    # 1. Instagram's direct upload keeps failing, so put the reel on Facebook as a hidden
-    #    (unpublished) video and let Instagram fetch it from Facebook's own link.
-    vid = post_facebook(video, ep, page, token, hidden=True)
-    for _ in range(40):
-        src = requests.get(f"{GRAPH}/{vid}", params={"fields": "source", "access_token": token},
-                           timeout=60).json().get("source")
-        if src:
-            break
-        time.sleep(15)
-    else:
-        raise RuntimeError("Facebook did not give a link for the reel within 10 minutes.")
+    # 1. Instagram's direct upload keeps failing, so put the reel on the public GitHub repo as a
+    #    temporary download, give Instagram that link, and delete it again afterwards.
+    src, asset = public_link(video)
     c = check(requests.post(f"{GRAPH}/{ig}/media",
                             data={"media_type": "REELS", "video_url": src, "caption": caption(ep),
                                   "share_to_feed": "true", "access_token": token}, timeout=120),
@@ -93,6 +104,8 @@ def post_instagram(video, ep, page, token):
         time.sleep(15)
     else:
         raise RuntimeError("Instagram took over 15 minutes to process the video.")
+    if asset:  # Instagram has its own copy now
+        subprocess.run(["gh", "release", "delete-asset", "reels", asset, "-y"], capture_output=True)
     if TEST:
         print("Instagram: uploaded and processed OK (test, not published)")
         return

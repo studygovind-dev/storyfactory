@@ -42,6 +42,7 @@ jobs:
       ELEVEN_API_KEY: ${{ secrets.ELEVEN_API_KEY }}
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}          # Facebook + Instagram auto-posting
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      GH_TOKEN: ${{ github.token }}   # temporary public link for Instagram reels
       VOICE_FEMALE: ${{ secrets.VOICE_FEMALE }}
       VOICE_MALE: ${{ secrets.VOICE_MALE }}
       VOICE_CHILD: ${{ secrets.VOICE_CHILD }}

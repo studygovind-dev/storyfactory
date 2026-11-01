@@ -2,6 +2,9 @@
 # Facebook keeps the video unpublished, Instagram only uploads and processes it.
 name: Test posting
 on: workflow_dispatch
+permissions:
+  contents: write
+
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -9,6 +12,7 @@ jobs:
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
       POST_TEST: "1"
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
       - run: |
