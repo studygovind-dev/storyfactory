@@ -53,6 +53,8 @@ jobs:
       KLING_CLIPS_PER_PART: ${{ vars.KLING_CLIPS_PER_PART || '0' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # latest code and "sent" markers, even for runs that waited in the queue
 
       - name: Install tools
         run: |
