@@ -1,0 +1,469 @@
+{
+ "series": "Max's Gym Mania: The Viral Blunder",
+ "episode": 2,
+ "title": "Max's Gym Mania: The Viral Blunder",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_male"
+  },
+  "Max": {
+   "look": "A cheerful, slightly chubby young man in his late 20s. Messy black hair, round face, always wearing slightly ill-fitting, bright yellow workout gear. Often wide-eyed and flustered.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Gym Bhai": {
+   "look": "A very muscular, serious gym trainer in his 30s. Buzz cut, sharp jawline, always wearing tight black gym apparel with the 'Titan Gym' logo. Looks perpetually unimpressed.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Neha": {
+   "look": "A fit, energetic young woman in her early 20s. Long ponytail, athletic wear. Initially annoyed, then amused.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "GYM FAIL? OR...",
+ "scenes": [
+  {
+   "image": "A massive, old-school barbell lies bent in half on a gym floor, smoke subtly rising. Max, looking shocked and slightly singed, stands next to it. Gym Bhai stares in disbelief, hand on his head.",
+   "speaker": "narrator",
+   "line": "Bhai, Max ka gym ka pehla din tha. Tabahi mach gayi.",
+   "fx": "dust"
+  },
+  {
+   "image": "Max, holding a crumpled gym flyer, looks nervously at a huge, modern gym building. He's determined, but sweat beads on his forehead.",
+   "speaker": "Max",
+   "line": "Aaj se life change. Fit hona hai boss.",
+   "fx": "none"
+  },
+  {
+   "image": "Inside the gym, Max looks overwhelmed by all the complex machines and muscular people. He gulps nervously, shrinking a little.",
+   "speaker": "narrator",
+   "line": "Max enter hua, thoda darr gaya.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai, flexing a bicep while talking to another gym member, looks incredibly intimidating. His muscles ripple.",
+   "speaker": "narrator",
+   "line": "Phir usne dekha Gym Bhai ko.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up on Max's face, eyes wide with awe and fear. His jaw drops slightly.",
+   "speaker": "Max",
+   "line": "Oh god, yeh toh ultimate level hai.",
+   "fx": "none"
+  },
+  {
+   "image": "Max awkwardly approaches Gym Bhai, who has his arms crossed, looking stern and impatient.",
+   "speaker": "Max",
+   "line": "Sir, main new member hoon. Max.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai looks Max up and down slowly, from head to toe, unimpressed. Max tries to force a smile.",
+   "speaker": "Gym Bhai",
+   "line": "Hmm. Max? Theek hai. Let's start.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai points to a running treadmill. Max looks at it like a foreign, dangerous object.",
+   "speaker": "Gym Bhai",
+   "line": "Warm-up. Treadmill pe five minutes.",
+   "fx": "none"
+  },
+  {
+   "image": "Max cautiously steps onto the treadmill, wobbling slightly. He holds onto the handles tightly.",
+   "speaker": "Max",
+   "line": "Five minutes? Easy-peasy. I got this.",
+   "fx": "none"
+  },
+  {
+   "image": "Max tries to run, but his legs are flailing comically. He's barely moving, about to trip.",
+   "speaker": "Max",
+   "line": "Thoda fast... oh wait... control!",
+   "fx": "none"
+  },
+  {
+   "image": "The treadmill speed increases rapidly, indicated by a digital display. Max's eyes widen in panic, sweat flying off his face.",
+   "speaker": "narrator",
+   "line": "Max ne button galat daba diya.",
+   "fx": "none"
+  },
+  {
+   "image": "Max is now running at an impossible speed, arms windmilling wildly. Other gym members turn and stare.",
+   "speaker": "Max",
+   "line": "Bhaiya, yeh toh race ho gayi!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai looks over, sees Max struggling dramatically, and slowly shakes his head in disbelief.",
+   "speaker": "Gym Bhai",
+   "line": "Kya kar raha hai Max? Slow down!",
+   "fx": "none"
+  },
+  {
+   "image": "Max frantically tries to hit buttons, but only makes it faster. He's almost flying off the back of the machine.",
+   "speaker": "Max",
+   "line": "Main try kar raha hoon, control nahi ho raha!",
+   "fx": "none"
+  },
+  {
+   "image": "Max loses his footing completely and tumbles off the back of the treadmill, landing in a pile of exercise mats with a 'thud'.",
+   "speaker": "narrator",
+   "line": "Aur Max, dhadaam! Neeche gir gaya.",
+   "fx": "none"
+  },
+  {
+   "image": "Max is sprawled on the floor amongst the mats, looking dazed, eyes spinning. A couple of gym-goers cover their mouths to giggle.",
+   "speaker": "Max",
+   "line": "Ouch! My pride... and my back.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai walks over, crosses his arms firmly. His expression is one of pure annoyance.",
+   "speaker": "Gym Bhai",
+   "line": "First rule, Max: Read the instructions.",
+   "fx": "none"
+  },
+  {
+   "image": "Max sheepishly gets up, dusting himself off, looking utterly embarrassed. He avoids eye contact.",
+   "speaker": "Max",
+   "line": "Sorry sir, thoda excited ho gaya.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai sighs deeply, points to a set of very light pink dumbbells on a rack.",
+   "speaker": "Gym Bhai",
+   "line": "Chal, ab thoda light weights utha.",
+   "fx": "none"
+  },
+  {
+   "image": "Max confidently picks up the tiny pink dumbbells, flexing his non-existent biceps with a triumphant grin.",
+   "speaker": "Max",
+   "line": "Weights? Yeh toh mera area hai.",
+   "fx": "none"
+  },
+  {
+   "image": "Max tries to lift the tiny dumbbells above his head, but his arms wobble uncontrollably, and he strains.",
+   "speaker": "Max",
+   "line": "Uff, yeh toh heavy lag rahe hain.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai facepalms hard, looking at Max in exasperation. Another gym member stares, openly amused.",
+   "speaker": "Gym Bhai",
+   "line": "Max, woh five kilos hain, not fifty.",
+   "fx": "none"
+  },
+  {
+   "image": "Max strains harder, veins popping on his forehead, trying to lift them over his head with a grunt.",
+   "speaker": "Max",
+   "line": "My muscles are sleeping. Wake up guys!",
+   "fx": "none"
+  },
+  {
+   "image": "One dumbbell slips from Max's sweaty grasp and bounces off his foot. He cries out and hops around in pain.",
+   "speaker": "narrator",
+   "line": "Aur ek dumbbell seedha pair pe.",
+   "fx": "none"
+  },
+  {
+   "image": "Max clutches his foot, hopping on one leg, making funny pained noises and grimaces.",
+   "speaker": "Max",
+   "line": "Aaiyyo! My poor little toe!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai massages his temples with both hands, looking utterly exasperated and at his wits' end.",
+   "speaker": "Gym Bhai",
+   "line": "Max, yeh kya drama hai? Focus kar.",
+   "fx": "none"
+  },
+  {
+   "image": "Max tries to regain composure, but then trips over the other dumbbell, losing his balance completely.",
+   "speaker": "narrator",
+   "line": "Dusre dumbbell se toh khud hi gir gaya.",
+   "fx": "none"
+  },
+  {
+   "image": "Max is tangled with the dumbbells, looking like a human pretzel on the floor. He's upside down.",
+   "speaker": "Max",
+   "line": "I think I need a personal injury lawyer.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai helps Max untangle himself, his expression a mix of anger and sheer bewilderment.",
+   "speaker": "Gym Bhai",
+   "line": "Bas kar Max. Let's try something simple.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai points to a yoga mat on the floor. He mouths the word 'Plank'. Max looks utterly confused.",
+   "speaker": "Gym Bhai",
+   "line": "Ek minute ka plank. Easy hai.",
+   "fx": "none"
+  },
+  {
+   "image": "Max gets into a plank position, but his form is terrible, butt high in the air and back arched.",
+   "speaker": "Max",
+   "line": "Plank. Got it. Like a wooden board.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai corrects Max's posture, pushing his back down gently with a sigh. Max grunts.",
+   "speaker": "Gym Bhai",
+   "line": "Back straight, Max. Thoda neeche.",
+   "fx": "none"
+  },
+  {
+   "image": "Max tries, but his whole body starts shaking violently after only five seconds. His face contorts.",
+   "speaker": "Max",
+   "line": "My body is rebelling. This is torture!",
+   "fx": "none"
+  },
+  {
+   "image": "A gym-goer in the background discretely records Max's struggle on their phone, trying not to laugh loudly.",
+   "speaker": "narrator",
+   "line": "Koi video bana raha tha chupke se.",
+   "fx": "none"
+  },
+  {
+   "image": "Max's face is beet red, sweat dripping, eyes squeezed shut in agony. His tongue sticks out.",
+   "speaker": "Max",
+   "line": "Kitna time ho gaya? Bas ho gaya na?",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai checks his watch, a fleeting, amused smirk on his face, quickly replaced by a serious expression.",
+   "speaker": "Gym Bhai",
+   "line": "Abhi twenty seconds hue hain, Max.",
+   "fx": "none"
+  },
+  {
+   "image": "Max groans loudly, collapses onto the mat, panting heavily like a dog. He looks utterly defeated.",
+   "speaker": "Max",
+   "line": "Meri toh bas ho gayi. Main gaya!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai sighs, helps Max sit up. He looks at Max with a strange, contemplative expression, almost impressed.",
+   "speaker": "Gym Bhai",
+   "line": "Theek hai. Let's try one last thing.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai leads Max to a heavy punching bag hanging from the ceiling. Max looks at it with trepidation.",
+   "speaker": "Gym Bhai",
+   "line": "Stress release. Punch the bag. Go on.",
+   "fx": "none"
+  },
+  {
+   "image": "Max stares at the bag, then nervously throws a very weak, floppy punch that barely touches it.",
+   "speaker": "Max",
+   "line": "Take that, bad carbs! And you, sugar!",
+   "fx": "none"
+  },
+  {
+   "image": "Max winds up for a truly big punch, looking determined, eyes focused fiercely on the punching bag.",
+   "speaker": "Max",
+   "line": "Ab toh full power se marunga!",
+   "fx": "none"
+  },
+  {
+   "image": "Max throws a mighty, but incredibly clumsy, punch. He misses the bag completely, spinning off-axis.",
+   "speaker": "narrator",
+   "line": "Max ka punch... hawa mein.",
+   "fx": "none"
+  },
+  {
+   "image": "Max's momentum carries him forward. He spins around wildly, losing balance and flailing.",
+   "speaker": "Max",
+   "line": "Whoa! Control! Kahan ja raha hoon main?",
+   "fx": "none"
+  },
+  {
+   "image": "Max accidentally back-kicks a large water cooler, which tips over dramatically with a loud crash.",
+   "speaker": "narrator",
+   "line": "Paani cooler gir gaya. Splash!",
+   "fx": "none"
+  },
+  {
+   "image": "Water gushes everywhere from the broken cooler. Max stands in a growing puddle, looking horrified.",
+   "speaker": "Max",
+   "line": "Oh no! Water park ban gaya gym!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai throws his hands up in despair, yelling Max's name in utter frustration, his face red.",
+   "speaker": "Gym Bhai",
+   "line": "Max!!! Yeh kya kar diya tu ne?!",
+   "fx": "none"
+  },
+  {
+   "image": "Max, trying to apologize, slips on the water and slides uncontrollably into a stack of yoga balls.",
+   "speaker": "narrator",
+   "line": "Phir woh yoga balls mein ghus gaya.",
+   "fx": "none"
+  },
+  {
+   "image": "Max is completely trapped in a pile of colourful yoga balls, only his head popping out, looking helpless and slightly funny.",
+   "speaker": "Max",
+   "line": "Main theek hoon! Bas thoda stuck hoon!",
+   "fx": "none"
+  },
+  {
+   "image": "Multiple gym-goers are now openly recording Max's antics with their phones, laughing out loud.",
+   "speaker": "narrator",
+   "line": "Sab log Max ki video bana rahe the.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai, red-faced with anger, helps Max out of the yoga ball pile. He looks absolutely furious.",
+   "speaker": "Gym Bhai",
+   "line": "Bas Max! Aaj ka gym session over!",
+   "fx": "none"
+  },
+  {
+   "image": "Max looks utterly downcast and embarrassed, shoulders slumped. He avoids eye contact, shuffling his feet.",
+   "speaker": "Max",
+   "line": "Sorry sir. Main toh bas try kar raha tha.",
+   "fx": "none"
+  },
+  {
+   "image": "Max walks slowly out of the gym with slumped shoulders, head down, looking like a defeated puppy.",
+   "speaker": "narrator",
+   "line": "Max ne haar maan li. Chala gaya.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up on a phone screen, showing a video of Max's treadmill disaster with a big 'Epic Gym Fail!' overlay.",
+   "speaker": "narrator",
+   "line": "Video toh viral ho gayi.",
+   "fx": "none"
+  },
+  {
+   "image": "Another phone shows Max tangled in dumbbells, then hitting the water cooler. The 'likes' counter is increasing rapidly.",
+   "speaker": "narrator",
+   "line": "Har fail ko mil rahe the millions views.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai sits at his desk, frustrated, scrolling through his phone. He sees Max's viral videos.",
+   "speaker": "Gym Bhai",
+   "line": "Yeh Max toh poore internet pe hai!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai gets a phone call. He looks confused at first, then intrigued as he listens.",
+   "speaker": "narrator",
+   "line": "Phir Gym Bhai ko ek call aaya.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai listens intently on the phone, his eyes widening in surprise and a hint of a smile appearing.",
+   "speaker": "Gym Bhai",
+   "line": "Naye members? Amazing growth? Really?",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai smiles broadly, a rare sight for him. He looks at his gym's social media page, which now has huge engagement.",
+   "speaker": "Gym Bhai",
+   "line": "Max ki vajah se? Impossible!",
+   "fx": "none"
+  },
+  {
+   "image": "The gym entrance, now bustling with new people signing up. A long queue forms outside the reception desk.",
+   "speaker": "narrator",
+   "line": "Max ke videos se gym famous ho gaya.",
+   "fx": "none"
+  },
+  {
+   "image": "New members, laughing, point at a screen showing Max's fails. A young woman (Neha) smiles widely.",
+   "speaker": "Neha",
+   "line": "Oh my god, yeh Max toh bilkul mere jaisa!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai, beaming with pride, poses for a photo with some new members, looking extremely happy.",
+   "speaker": "Gym Bhai",
+   "line": "Welcome to Titan Gym, everyone!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai sees Max sitting outside the gym on a bench, looking sad and dejected. He walks towards him.",
+   "speaker": "narrator",
+   "line": "Gym Bhai ne Max ko bahar dekha.",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai claps Max on the shoulder, smiling broadly. Max looks up, bewildered and surprised.",
+   "speaker": "Gym Bhai",
+   "line": "Max! Waapas aa. Tu hi toh star hai.",
+   "fx": "none"
+  },
+  {
+   "image": "Max looks utterly bewildered, then a small, hopeful smile slowly forms on his face.",
+   "speaker": "Max",
+   "line": "Main? Star? But I broke everything!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai hands Max a brand new, clean yellow t-shirt that clearly says 'Max - The Viral Motivator'.",
+   "speaker": "Gym Bhai",
+   "line": "Teri vajah se sab inspire hue Max!",
+   "fx": "none"
+  },
+  {
+   "image": "Max, now proudly wearing his new t-shirt, stands next to a smiling Gym Bhai, who's pointing at him proudly to new members.",
+   "speaker": "narrator",
+   "line": "Max ban gaya gym ka official face.",
+   "fx": "none"
+  },
+  {
+   "image": "Max is giving a 'motivational' speech, clumsily demonstrating a plank to a group of new members. They laugh good-naturedly.",
+   "speaker": "Max",
+   "line": "Dekho, aise hi fail hona hai!",
+   "fx": "none"
+  },
+  {
+   "image": "Gym Bhai watches Max, shaking his head with an amused, proud smile. The gym is now visibly packed with people.",
+   "speaker": "Gym Bhai",
+   "line": "Never thought disaster can be a blessing.",
+   "fx": "none"
+  },
+  {
+   "image": "Max is holding a protein smoothie, looking much happier and slightly fitter. He winks at the camera with a cheerful grin.",
+   "speaker": "Max",
+   "line": "Toh, agla challenge kya hai, bhai log?",
+   "fx": "none"
+  },
+  {
+   "image": "Max accidentally trips over a small yoga mat, but catches himself with a stumble, laughing heartily. Gym Bhai rolls his eyes playfully.",
+   "speaker": "narrator",
+   "line": "Tumhara gym ka pehla din kaisa tha?",
+   "fx": "dust"
+  }
+ ],
+ "caption": "Chubby Guy's First Gym Day Goes VIRAL! 😂 Unbelievable Twist!",
+ "slug": "2026-11-01_part2",
+ "story_no": 15,
+ "yt_title": "Chubby Guy's First Gym Day Goes VIRAL! 😂 Unbelievable Twist!",
+ "description": "Max's first gym day was a total disaster! He tried to get fit, but everything went wrong.\nBut what if his epic fails actually turned into the gym's biggest success? You won't believe the twist!\nHave you ever had a gym disaster? Share your story in the comments!",
+ "comment_question": "Tumhara gym ka pehla din kaisa tha?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#gymfail",
+  "#funnygym",
+  "#viralstory",
+  "#comedy",
+  "#relatable",
+  "#firstgymday",
+  "#cartoonstory",
+  "#hindienglish",
+  "#gymmotivation"
+ ]
+}

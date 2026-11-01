@@ -1,0 +1,476 @@
+{
+ "series": "The Hidden Canvas",
+ "episode": 3,
+ "title": "The Hidden Canvas",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Rahul, a man in his early 30s. Short, neat hair, clean-shaven, wearing a smart casual shirt.",
+   "voice": "hindi_narrator_male"
+  },
+  "father": {
+   "look": "Vijay, Rahul's father, in his 60s. Lean build, slightly graying hair, a kind but firm expression, usually in a simple kurta-pajama.",
+   "voice": "hindi_narrator_male"
+  },
+  "mother": {
+   "look": "Meera, Rahul's mother, in her 60s. Gentle face, warm eyes, traditional saree.",
+   "voice": "hindi_narrator_male"
+  },
+  "young_rahul": {
+   "look": "Rahul as a child/teenager, enthusiastic, often seen with a sketchbook.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HE HID A SECRET...",
+ "scenes": [
+  {
+   "image": "Close-up on Rahul's face, eyes wide with shock, holding a faded, official-looking document.",
+   "speaker": "narrator",
+   "line": "Main hamesha sochta tha Papa ko mera art pasand nahi tha.",
+   "fx": "none",
+   "sub": "I always thought Papa didn't like my art."
+  },
+  {
+   "image": "Rahul (narrator) sitting alone in his father's old study, looking pensive, surrounded by dusty books.",
+   "speaker": "narrator",
+   "line": "Unke jaane ke baad, sach saamne aaya.",
+   "fx": "dust",
+   "sub": "After he passed away, the truth emerged."
+  },
+  {
+   "image": "Flashback: Young Rahul (young_rahul) excitedly showing a drawing to his father (father), who looks stern.",
+   "speaker": "young_rahul",
+   "line": "Papa, dekho maine kya banaya!",
+   "fx": "none",
+   "sub": "Papa, look what I made!"
+  },
+  {
+   "image": "Father (father) gently pushes the drawing away, gesturing towards a school book.",
+   "speaker": "father",
+   "line": "Rahul, padhai pe dhyan do. Art se pet nahi bharega.",
+   "fx": "none",
+   "sub": "Rahul, focus on studies. Art won't fill your stomach."
+  },
+  {
+   "image": "Young Rahul (young_rahul) looks dejected, clutching his sketchbook to his chest.",
+   "speaker": "narrator",
+   "line": "Mujhe bohot bura lagta tha. Unko meri kala samajh nahi aayi.",
+   "fx": "none",
+   "sub": "I felt very bad. He didn't understand my art."
+  },
+  {
+   "image": "Flashback: Teenager Rahul (young_rahul) sketching intensely in his room, ignoring engineering textbooks.",
+   "speaker": "narrator",
+   "line": "Mera sapna tha art school jaana, videsh mein padhna.",
+   "fx": "none",
+   "sub": "My dream was to go to art school, study abroad."
+  },
+  {
+   "image": "Father (father) stands at the doorway, arms crossed, looking disappointed.",
+   "speaker": "father",
+   "line": "Engineering karo, beta. Future secure hoga.",
+   "fx": "none",
+   "sub": "Do engineering, son. Your future will be secure."
+  },
+  {
+   "image": "Young Rahul (young_rahul) arguing with his father (father) in the living room, expressing frustration.",
+   "speaker": "young_rahul",
+   "line": "Par Papa, mujhe engineering nahi karni!",
+   "fx": "none",
+   "sub": "But Papa, I don't want to do engineering!"
+  },
+  {
+   "image": "Father (father) looks away, his face etched with worry, but remaining firm.",
+   "speaker": "father",
+   "line": "Yeh tumhare bhale ke liye hai.",
+   "fx": "none",
+   "sub": "This is for your own good."
+  },
+  {
+   "image": "Rahul (narrator) now, looking at a framed photo of his father (father) on the table, a somber expression.",
+   "speaker": "narrator",
+   "line": "Unhone kabhi meri suni hi nahi.",
+   "fx": "none",
+   "sub": "He never listened to me."
+  },
+  {
+   "image": "Rahul (narrator) sitting in a modern office, looking bored at a computer screen with architectural designs.",
+   "speaker": "narrator",
+   "line": "Aaj main ek successful engineer hoon, par khush nahi.",
+   "fx": "none",
+   "sub": "Today I am a successful engineer, but not happy."
+  },
+  {
+   "image": "Rahul (narrator) in his old childhood bedroom, packing things into a box, feeling melancholic.",
+   "speaker": "narrator",
+   "line": "Papa ke baad ghar sambhalne aaya tha.",
+   "fx": "dust",
+   "sub": "I came to sort the house after Papa."
+  },
+  {
+   "image": "Close-up of Rahul's hand dusting off an old, wooden carving tool on a cluttered shelf.",
+   "speaker": "narrator",
+   "line": "Unka workshop, unki adhoori kahani.",
+   "fx": "dust",
+   "sub": "His workshop, his unfinished story."
+  },
+  {
+   "image": "Rahul (narrator) opens a dusty, old wooden chest in the corner of the workshop.",
+   "speaker": "narrator",
+   "line": "Phir mujhe woh purani chest mili.",
+   "fx": "dust",
+   "sub": "Then I found that old chest."
+  },
+  {
+   "image": "Close-up inside the chest: old, intricate wooden carvings, partially finished, covered in sawdust.",
+   "speaker": "narrator",
+   "line": "Usme the unke apne adhure sapne.",
+   "fx": "dust",
+   "sub": "Inside were his own unfinished dreams."
+  },
+  {
+   "image": "Rahul (narrator) picks up a small, beautifully carved bird, examining it with a thoughtful look.",
+   "speaker": "narrator",
+   "line": "Papa ek adbhut karigar the.",
+   "fx": "none",
+   "sub": "Papa was an amazing craftsman."
+  },
+  {
+   "image": "Rahul (narrator) finds a stack of faded black and white photographs under the carvings.",
+   "speaker": "narrator",
+   "line": "Aur un tasveeron mein...",
+   "fx": "none",
+   "sub": "And in those pictures..."
+  },
+  {
+   "image": "Close-up on a photo: A young Vijay (father) proudly displaying his carvings at an art exhibition.",
+   "speaker": "narrator",
+   "line": "Young Papa, ek award-winning artist.",
+   "fx": "none",
+   "sub": "Young Papa, an award-winning artist."
+  },
+  {
+   "image": "Rahul (narrator) stares at the photo, a look of surprise and dawning realization.",
+   "speaker": "narrator",
+   "line": "Yeh kya? Woh bhi artist the?",
+   "fx": "none",
+   "sub": "What? He was an artist too?"
+  },
+  {
+   "image": "Rahul (narrator) sits down, sifting through more photos of his father carving and sketching.",
+   "speaker": "narrator",
+   "line": "Unka passion, unki zindagi.",
+   "fx": "none",
+   "sub": "His passion, his life."
+  },
+  {
+   "image": "Rahul (narrator) finds a small, locked wooden diary tucked beneath the photos.",
+   "speaker": "narrator",
+   "line": "Phir mili woh purani diary.",
+   "fx": "none",
+   "sub": "Then I found that old diary."
+  },
+  {
+   "image": "Close-up of Rahul's trembling hands as he tries to open the diary, looking for a key.",
+   "speaker": "narrator",
+   "line": "Ek chhota sa taala laga tha uspar.",
+   "fx": "none",
+   "sub": "It had a small lock on it."
+  },
+  {
+   "image": "Rahul (narrator) finds a tiny, ornate key hidden in a compartment of the chest.",
+   "speaker": "narrator",
+   "line": "Key bhi wahi thi.",
+   "fx": "none",
+   "sub": "The key was also there."
+  },
+  {
+   "image": "Close-up of Rahul (narrator) carefully unlocking the diary, his face expectant.",
+   "speaker": "narrator",
+   "line": "Mera dil tezi se dhadak raha tha.",
+   "fx": "none",
+   "sub": "My heart was pounding rapidly."
+  },
+  {
+   "image": "First page of the diary: Elegant Hindi script, dated years ago.",
+   "speaker": "narrator",
+   "line": "Unhone sab kuch likha tha.",
+   "fx": "none",
+   "sub": "He had written everything."
+  },
+  {
+   "image": "Close-up on a page detailing his father's (father) struggle to choose between art and family responsibility.",
+   "speaker": "narrator",
+   "line": "Apni kala chhod di, mere liye.",
+   "fx": "none",
+   "sub": "He gave up his art, for me."
+  },
+  {
+   "image": "Rahul (narrator) turns a page, eyes scanning the words, his expression shifting to confusion.",
+   "speaker": "narrator",
+   "line": "Par phir, ek ajeeb entry thi.",
+   "fx": "none",
+   "sub": "But then, there was a strange entry."
+  },
+  {
+   "image": "Close-up on a diary entry mentioning 'Rahul's AAF application'.",
+   "speaker": "narrator",
+   "line": "'Rahul ki AAF application. Bahut paisa laga.'",
+   "fx": "none",
+   "sub": "'Rahul's AAF application. Cost a lot of money.'"
+  },
+  {
+   "image": "Rahul (narrator) looks up, bewildered. AAF Academy was the famous art school he dreamt of.",
+   "speaker": "narrator",
+   "line": "Yeh kaise ho sakta hai?",
+   "fx": "none",
+   "sub": "How can this be?"
+  },
+  {
+   "image": "Rahul (narrator) finds a folded, official-looking document deep inside the diary.",
+   "speaker": "narrator",
+   "line": "Aur uske andar, woh document.",
+   "fx": "none",
+   "sub": "And inside it, that document."
+  },
+  {
+   "image": "Close-up on the document: An application form for 'AAF Academy of Fine Arts' with 'REJECTED' stamped on it.",
+   "speaker": "narrator",
+   "line": "Meri AAF Academy ki application.",
+   "fx": "none",
+   "sub": "My AAF Academy application."
+  },
+  {
+   "image": "Rahul (narrator) looks at the rejection stamp, then at a receipt for an exorbitant 'application fee'.",
+   "speaker": "narrator",
+   "line": "Aur ek receipt. Fees bohot zyada thi.",
+   "fx": "none",
+   "sub": "And a receipt. The fees were very high."
+  },
+  {
+   "image": "Rahul (narrator) remembers his father's (father) stern face, then looks at the receipt, his confusion deepening.",
+   "speaker": "narrator",
+   "line": "Unhone toh mujhe roka tha.",
+   "fx": "none",
+   "sub": "He had stopped me."
+  },
+  {
+   "image": "Rahul (narrator) stands up abruptly, the diary and documents in hand, needing answers.",
+   "speaker": "narrator",
+   "line": "Maa ko yeh sab batana hoga.",
+   "fx": "none",
+   "sub": "I have to tell Maa all this."
+  },
+  {
+   "image": "Rahul (narrator) enters the living room, where his mother (mother) is sitting calmly.",
+   "speaker": "narrator",
+   "line": "Maa, yeh dekho! Papa ne kya kiya tha?",
+   "fx": "none",
+   "sub": "Maa, look at this! What did Papa do?"
+  },
+  {
+   "image": "Mother (mother) takes the diary and documents, her expression turning sad.",
+   "speaker": "mother",
+   "line": "Rahul, beta... ab tak pata nahi chala tha?",
+   "fx": "none",
+   "sub": "Rahul, son... you didn't know until now?"
+  },
+  {
+   "image": "Rahul (narrator) sits beside her, desperate for the truth, tears in his eyes.",
+   "speaker": "narrator",
+   "line": "Kya hai yeh sab, Maa?",
+   "fx": "none",
+   "sub": "What is all this, Maa?"
+  },
+  {
+   "image": "Mother (mother) gently places her hand on Rahul's (narrator) arm, her eyes filled with tears.",
+   "speaker": "mother",
+   "line": "Tumhare Papa ko sabse zyada tumhare sapne pyaare the.",
+   "fx": "none",
+   "sub": "Your Papa loved your dreams the most."
+  },
+  {
+   "image": "Flashback: Father (father) in his younger days, showing off his prized carvings at an exhibition.",
+   "speaker": "narrator",
+   "line": "Woh khud ek kalakaar the.",
+   "fx": "none",
+   "sub": "He himself was an artist."
+  },
+  {
+   "image": "Flashback: Father (father) looking worriedly at bills, then at young Rahul (young_rahul) happily sketching.",
+   "speaker": "narrator",
+   "line": "Par family ke liye unhone apna art chhod diya.",
+   "fx": "none",
+   "sub": "But for family, he gave up his art."
+  },
+  {
+   "image": "Mother (mother) narrates, looking at the diary with fondness and sorrow.",
+   "speaker": "mother",
+   "line": "Jab tumne AAF mein jaane ki baat ki...",
+   "fx": "none",
+   "sub": "When you talked about going to AAF..."
+  },
+  {
+   "image": "Flashback: Father (father) looking at a brochure for AAF Academy, his face a mix of hope and despair.",
+   "speaker": "mother",
+   "line": "Woh tumhara sapna poora karna chahte the.",
+   "fx": "none",
+   "sub": "He wanted to fulfill your dream."
+  },
+  {
+   "image": "Flashback: Father (father) showing a small, intricately carved statue to a buyer, looking sad as he hands it over.",
+   "speaker": "mother",
+   "line": "Unhone apni sabse pyari carvings bech di.",
+   "fx": "none",
+   "sub": "He sold his most beloved carvings."
+  },
+  {
+   "image": "Close-up on the receipt for the AAF application fee, then at the photo of father's award-winning carvings.",
+   "speaker": "mother",
+   "line": "Woh application fees bahut zyada thi.",
+   "fx": "none",
+   "sub": "Those application fees were very high."
+  },
+  {
+   "image": "Flashback: Father (father) silently sealing the application envelope, his face full of hope.",
+   "speaker": "mother",
+   "line": "Unhe laga tumhara admission ho jayega.",
+   "fx": "none",
+   "sub": "He thought you would get admission."
+  },
+  {
+   "image": "Flashback: Father (father) opening the rejection letter, his face collapsing in heartbreak.",
+   "speaker": "mother",
+   "line": "Lekin tum reject ho gaye.",
+   "fx": "rain",
+   "sub": "But you were rejected."
+  },
+  {
+   "image": "Rahul (narrator) looks utterly devastated, tears streaming down his face, clutching the rejection letter.",
+   "speaker": "narrator",
+   "line": "Maa, kya keh rahi ho?",
+   "fx": "rain",
+   "sub": "Maa, what are you saying?"
+  },
+  {
+   "image": "Mother (mother) takes Rahul's (narrator) hand, her voice soft with sorrow.",
+   "speaker": "mother",
+   "line": "Woh tumhara dil nahi todna chahte the.",
+   "fx": "rain",
+   "sub": "He didn't want to break your heart."
+  },
+  {
+   "image": "Flashback: Father (father) looking at the rejection letter, then at young Rahul (young_rahul) sketching happily, a painful decision on his face.",
+   "speaker": "mother",
+   "line": "Unhone decide kiya, tumhe kabhi nahi batayenge.",
+   "fx": "rain",
+   "sub": "He decided, he would never tell you."
+  },
+  {
+   "image": "Flashback: Father (father) looking at the remaining money from the carvings sale, then at engineering college brochures.",
+   "speaker": "mother",
+   "line": "Jo paise bache, woh tumhari engineering ke liye lagaye.",
+   "fx": "none",
+   "sub": "Whatever money was left, he put for your engineering."
+  },
+  {
+   "image": "Mother (mother) softly touches Rahul's (narrator) cheek, tears in her eyes.",
+   "speaker": "mother",
+   "line": "Unka dil toot gaya tha, Rahul.",
+   "fx": "none",
+   "sub": "His heart was broken, Rahul."
+  },
+  {
+   "image": "Rahul (narrator) sobs uncontrollably, finally understanding the depth of his father's (father) sacrifice.",
+   "speaker": "narrator",
+   "line": "Maine unko kitna galat samjha.",
+   "fx": "rain",
+   "sub": "I misunderstood him so much."
+  },
+  {
+   "image": "Rahul (narrator) goes back to the empty workshop, looking at his father's (father) tools.",
+   "speaker": "narrator",
+   "line": "Unka gussa nahi, unka pyaar tha.",
+   "fx": "none",
+   "sub": "It wasn't his anger, it was his love."
+  },
+  {
+   "image": "Close-up of Rahul's (narrator) hand picking up a half-finished wooden carving, his father's last project.",
+   "speaker": "narrator",
+   "line": "Ek adhoora sapna, ek adhoora pyaar.",
+   "fx": "none",
+   "sub": "An unfinished dream, an unfinished love."
+  },
+  {
+   "image": "Rahul (narrator) sits at his father's (father) workbench, holding a carving tool, a look of resolve on his face.",
+   "speaker": "narrator",
+   "line": "Aaj main samajh gaya, Papa.",
+   "fx": "none",
+   "sub": "Today I understood, Papa."
+  },
+  {
+   "image": "Rahul (narrator) begins to carve, slowly, tentatively, in his father's (father) workshop.",
+   "speaker": "narrator",
+   "line": "Aapka sapna, ab mera bhi hai.",
+   "fx": "none",
+   "sub": "Your dream, now it's mine too."
+  },
+  {
+   "image": "Close-up on Rahul's (narrator) hands working the wood, then a slow pan to a framed photo of his father (father) smiling proudly.",
+   "speaker": "narrator",
+   "line": "Unhone sab kuch diya, bina bataye.",
+   "fx": "none",
+   "sub": "He gave everything, without telling."
+  },
+  {
+   "image": "Rahul (narrator) looks at the carving, then at the photo, a faint, sad smile on his face.",
+   "speaker": "narrator",
+   "line": "Unka pyaar, us hidden canvas mein tha.",
+   "fx": "none",
+   "sub": "His love, was in that hidden canvas."
+  },
+  {
+   "image": "Rahul (narrator) holds up a finished, small wooden sculpture, a beautiful bird taking flight.",
+   "speaker": "narrator",
+   "line": "Unki legacy, mere haathon mein.",
+   "fx": "none",
+   "sub": "His legacy, in my hands."
+  },
+  {
+   "image": "Rahul (narrator) places the carved bird next to his father's (father) photo, a single tear falling.",
+   "speaker": "narrator",
+   "line": "Shukriya, Papa.",
+   "fx": "rain",
+   "sub": "Thank you, Papa."
+  },
+  {
+   "image": "Close-up on the carved bird, then a slow zoom out to show Rahul's (narrator) hand covering his father's (father) photo lovingly.",
+   "speaker": "narrator",
+   "line": "Kya aapne kabhi apne parents ka aisa sacrifice dekha hai?",
+   "fx": "none",
+   "sub": "Have you ever seen such a sacrifice from your parents?"
+  }
+ ],
+ "caption": "My Father Hated My Art... Then I Found This.",
+ "slug": "2026-11-01_part3",
+ "story_no": 16,
+ "yt_title": "My Father Hated My Art... Then I Found This.",
+ "description": "I thought my father disapproved of my artistic dreams. His actions always confused me. \nYears later, a hidden discovery changed everything I knew about his love and sacrifice. \nWhat sacrifices have your parents made that you only realized later?",
+ "comment_question": "What sacrifices have your parents made that you only realized later?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiantwist",
+  "#parentslove",
+  "#sacrificingparent",
+  "#hiddenlove",
+  "#fatherslove",
+  "#unspokenwords",
+  "#artvsengineering",
+  "#familysecrets",
+  "#twistending"
+ ]
+}

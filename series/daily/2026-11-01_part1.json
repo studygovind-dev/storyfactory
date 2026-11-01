@@ -1,0 +1,441 @@
+{
+ "series": "Ember's Lasting Spark",
+ "episode": 1,
+ "title": "Ember's Lasting Spark",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A male storyteller, around 30, with a thoughtful and empathetic expression.",
+   "voice": "narrator_male"
+  },
+  "Arthur": {
+   "look": "Male, 70s, thin, stooped shoulders, weathered face with kind but sad eyes, short grey hair, often wears an old, slightly faded olive-green military jacket over a plaid shirt.",
+   "voice": "narrator_male"
+  },
+  "Ember": {
+   "look": "Small, scruffy terrier mix puppy, light brown/tan fur, big soulful dark eyes, floppy ears, thin build, often looks curious or gentle.",
+   "voice": "cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "HIS DOG REMEMBERED...",
+ "scenes": [
+  {
+   "image": "Close-up of Arthur, mid-70s, sitting in a dusty attic, holding a faded, creased photograph. His face is etched with profound sadness and loss.",
+   "speaker": "narrator",
+   "line": "His dog brought back a memory he'd buried.",
+   "fx": "dust"
+  },
+  {
+   "image": "Wide shot of Arthur's empty living room, sunlight cutting through dust motes. A worn armchair sits vacant beside a cold fireplace.",
+   "speaker": "narrator",
+   "line": "Arthur lived alone, surrounded by silence.",
+   "fx": "dust"
+  },
+  {
+   "image": "Close-up on Arthur's hands, trembling slightly as he pours a cup of tea, his movements slow and deliberate.",
+   "speaker": "narrator",
+   "line": "Years of quiet grief had settled upon him.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur stands at a window, looking out at a barren garden, his reflection ghostly in the glass. His shoulders are slumped.",
+   "speaker": "narrator",
+   "line": "He lost his wife, Eleanor, then his daughter, Lily.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur places a single wilting flower on a grave marked 'Lily'. His expression is one of deep sorrow.",
+   "speaker": "narrator",
+   "line": "Their names etched into cold stone.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur walks slowly through the cemetery, head bowed, the graves stretching out behind him.",
+   "speaker": "narrator",
+   "line": "He visited them daily, a silent ritual.",
+   "fx": "none"
+  },
+  {
+   "image": "Flashback: A happy photograph of young Lily hugging a scruffy brown dog, 'Spark'. Arthur, younger, smiles in the background.",
+   "speaker": "narrator",
+   "line": "Their beloved family dog, Spark, brought so much joy.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur, older, looking at an empty dog bed in his now-sparse living room, a pang of regret on his face.",
+   "speaker": "narrator",
+   "line": "After they left, Arthur couldn't keep Spark.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of Arthur's hand clenching, tears welling in his eyes. He looks at the empty space.",
+   "speaker": "narrator",
+   "line": "The memories were too painful to bear.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur walks along a quiet, tree-lined path near the cemetery, lost in thought, hands in his pockets.",
+   "speaker": "narrator",
+   "line": "One afternoon, his path took a detour.",
+   "fx": "none"
+  },
+  {
+   "image": "A small cardboard box, tucked beneath a bush, with a tiny, shivering puppy (Ember) visible inside. Her eyes look sad and scared.",
+   "speaker": "narrator",
+   "line": "A faint whimper caught his attention.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur kneels cautiously beside the box, his face a mixture of surprise and hesitation, looking at Ember.",
+   "speaker": "narrator",
+   "line": "Inside, a tiny, abandoned puppy.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of Ember's face, her big, soulful dark eyes staring up at Arthur, full of desperation.",
+   "speaker": "narrator",
+   "line": "Scruffy, small, shivering with cold and fear.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur slowly reaches out a hand, then pulls it back, a conflict playing on his face.",
+   "speaker": "narrator",
+   "line": "He hesitated, feeling the weight of responsibility.",
+   "fx": "none"
+  },
+  {
+   "image": "Ember lets out a tiny, pleading whimper, trying to push her head against Arthur's retreating hand.",
+   "speaker": "Ember",
+   "line": "Please, don't leave me alone here.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur's eyes widen slightly, a flicker of recognition in them as he truly looks at Ember.",
+   "speaker": "narrator",
+   "line": "Her eyes reminded him of Spark's.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur slowly reaches down again, gently stroking Ember's head. Ember leans into his touch.",
+   "speaker": "narrator",
+   "line": "A forgotten warmth spread through his chest.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur carefully picks up Ember, cradling her gently in his arms. Ember nestles against him, a look of relief on her face.",
+   "speaker": "narrator",
+   "line": "He couldn't leave her, not like this.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur walks away from the cemetery path, Ember tucked into his jacket, heading towards his home.",
+   "speaker": "narrator",
+   "line": "He carried her home, naming her Ember.",
+   "fx": "none"
+  },
+  {
+   "image": "Ember curled up asleep on an old blanket near the fireplace in Arthur's home, looking peaceful for the first time.",
+   "speaker": "narrator",
+   "line": "A tiny spark of life entered his quiet house.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur watches Ember eat from a bowl, a faint, almost imperceptible smile on his lips.",
+   "speaker": "narrator",
+   "line": "Ember began to fill the emptiness.",
+   "fx": "none"
+  },
+  {
+   "image": "Ember tries to play with Arthur's shoe, wagging her tail. Arthur stares, slightly surprised by her energy.",
+   "speaker": "narrator",
+   "line": "But sometimes, she stirred old pains.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur sits in his armchair, eyes closed, listening to Ember's soft snores, a pained expression on his face.",
+   "speaker": "narrator",
+   "line": "The echoes of Lily's laughter, Spark's barks.",
+   "fx": "none"
+  },
+  {
+   "image": "Ember playfully nuzzles Arthur's hand while he's reading a book. He looks down at her, a hint of affection.",
+   "speaker": "narrator",
+   "line": "Slowly, he started to open his heart.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur and Ember walking together in his garden. Ember is sniffing around intently, tail wagging.",
+   "speaker": "narrator",
+   "line": "Ember had a strange habit, though.",
+   "fx": "none"
+  },
+  {
+   "image": "Ember tugs gently at Arthur's pant leg, looking towards a neglected corner of the garden, near an old, decaying birdbath.",
+   "speaker": "narrator",
+   "line": "She kept pulling him towards the garden.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of the overgrown, forgotten corner of the garden, tangled weeds and bushes.",
+   "speaker": "narrator",
+   "line": "A neglected spot he never visited.",
+   "fx": "none"
+  },
+  {
+   "image": "Ember barks softly, pawing at the earth near the birdbath, then looks back at Arthur with an insistent expression.",
+   "speaker": "Ember",
+   "line": "There's something important here, Arthur!",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur shakes his head, trying to gently pull Ember away, a puzzled look on his face.",
+   "speaker": "narrator",
+   "line": "He dismissed it, just puppy curiosity.",
+   "fx": "none"
+  },
+  {
+   "image": "Ember lies down near the birdbath, nose twitching, then looks mournfully at Arthur, as if disappointed.",
+   "speaker": "narrator",
+   "line": "But Ember was persistent, day after day.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur, sitting on his porch, watches Ember intently digging a small hole near the birdbath. He looks intrigued, then concerned.",
+   "speaker": "narrator",
+   "line": "What was she searching for, so earnestly?",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up on Ember, digging with her paws, dirt flying, her tongue slightly out in concentration.",
+   "speaker": "narrator",
+   "line": "Her dedication was unsettling, yet compelling.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur slowly walks towards the birdbath, curiosity finally outweighing his reluctance. He eyes Ember, then the spot.",
+   "speaker": "narrator",
+   "line": "Finally, his own curiosity grew.",
+   "fx": "none"
+  },
+  {
+   "image": "Ember stops digging, looks up at Arthur with wide, expectant eyes, then nudges the partially dug earth with her nose.",
+   "speaker": "narrator",
+   "line": "He decided to follow her lead.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur kneels down, carefully clearing away some loose earth with his bare hands near where Ember was digging.",
+   "speaker": "narrator",
+   "line": "He started to gently dig himself.",
+   "fx": "none"
+  },
+  {
+   "image": "His fingers brush against something hard, metallic, beneath the soil. Arthur pauses, a look of apprehension.",
+   "speaker": "narrator",
+   "line": "Suddenly, his fingers met something solid.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur pulls out a small, mud-caked, waterproof container. He stares at it, bewildered, as Ember watches keenly.",
+   "speaker": "narrator",
+   "line": "A small, weathered container emerged.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of Arthur's trembling hands as he carefully wipes dirt from the container, his breath held.",
+   "speaker": "narrator",
+   "line": "His heart pounded with a strange premonition.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur struggles to open the container, a mix of hope and fear on his face. Ember sits beside him, watching intently.",
+   "speaker": "narrator",
+   "line": "What forgotten secret lay hidden inside?",
+   "fx": "none"
+  },
+  {
+   "image": "The container lid pops open. Arthur peers inside, his expression changing from confusion to utter disbelief.",
+   "speaker": "narrator",
+   "line": "He slowly pried open the lid.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up inside the container: a faded photograph, a tiny, tarnished silver locket, and a folded, yellowed letter.",
+   "speaker": "narrator",
+   "line": "Contents: a photo, a locket, a letter.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur picks up the faded photograph. It shows a young Lily, beaming, holding Spark, a puppy, in her arms. Spark looks incredibly similar to Ember.",
+   "speaker": "narrator",
+   "line": "The photo: Lily with Spark, as a puppy.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up on the locket. Arthur's thumb gently traces the faint, etched letters: 'L+S'.",
+   "speaker": "narrator",
+   "line": "The locket bore Lily's and Spark's initials.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur's eyes fill with tears as he looks from the locket to Ember, then back at the photo. Ember nuzzles his hand gently.",
+   "speaker": "narrator",
+   "line": "A flood of memories washed over him.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur carefully unfolds the yellowed letter, his hands shaking slightly, a look of profound wonder.",
+   "speaker": "narrator",
+   "line": "Then, he opened the handwritten letter.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of the letter's beginning: 'Dear Arthur, I know your pain...' The handwriting is old-fashioned, neat.",
+   "speaker": "narrator",
+   "line": "It was from Mrs. Gable, his old neighbor.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur reads, his eyes scanning the words quickly, his expression growing more astonished.",
+   "speaker": "narrator",
+   "line": "The letter explained everything.",
+   "fx": "none"
+  },
+  {
+   "image": "Animated graphic or transition showing Spark as a young dog, then one of his pups (Ember's parent), then Ember as a puppy.",
+   "speaker": "narrator",
+   "line": "Spark had a litter before Arthur gave him away.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up on Arthur's face, a single tear rolling down his cheek, a mix of grief and profound understanding.",
+   "speaker": "narrator",
+   "line": "Mrs. Gable had kept one of his descendants.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur's eyes wide with disbelief, looking at Ember, then back at the letter.",
+   "speaker": "narrator",
+   "line": "Ember was Spark's great-granddaughter.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of the letter's text, specifically where it mentions Arthur's visits to the cemetery and her hope.",
+   "speaker": "narrator",
+   "line": "Mrs. Gable saw his quiet grief.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur's face softens, a look of deep gratitude mixing with his tears. He clasps the letter to his chest.",
+   "speaker": "narrator",
+   "line": "She hoped Ember would bring him solace.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of Ember looking up at Arthur, her eyes seeming to understand his emotion, then licking his hand gently.",
+   "speaker": "Ember",
+   "line": "I'm here for you, always.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur pulls Ember into a tight hug, burying his face in her fur, sobbing openly for the first time in years.",
+   "speaker": "narrator",
+   "line": "Arthur broke down, years of pain releasing.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur, still teary-eyed, looks at Ember, a genuine, soft smile on his face, truly seeing her for the first time.",
+   "speaker": "narrator",
+   "line": "Ember wasn't just a puppy, she was family.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur sitting in his garden, now slightly tidier, Ember asleep on his lap, a peaceful expression on his face.",
+   "speaker": "narrator",
+   "line": "His garden bloomed, and so did his heart.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur and Ember walking side-by-side, no longer solitary, near the old cemetery path, but with lighter steps.",
+   "speaker": "narrator",
+   "line": "He found purpose in her companionship.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur throws a small ball for Ember in a sunny park, a joyous laugh escaping him as she chases it.",
+   "speaker": "narrator",
+   "line": "Ember filled his life with light.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of Arthur's hand gently petting Ember's head. Ember looks up at him with adoration.",
+   "speaker": "narrator",
+   "line": "A silent promise of enduring love.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur sits on the porch, Ember nestled beside him, both looking out at the sunset. Arthur's face is serene.",
+   "speaker": "narrator",
+   "line": "The old soldier found his spark again.",
+   "fx": "none"
+  },
+  {
+   "image": "Wide shot of Arthur's home, warm light emanating from the windows, a silhouette of Arthur and Ember visible inside.",
+   "speaker": "narrator",
+   "line": "Love, once lost, had found its way back.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up of the framed photograph of Lily and Spark, now proudly displayed on Arthur's mantelpiece, next to a sleeping Ember.",
+   "speaker": "narrator",
+   "line": "Ember, a living echo of pure love.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur gently kisses Ember's head. Ember looks up, content and loved.",
+   "speaker": "narrator",
+   "line": "A bond woven by fate and kindness.",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur, smiling genuinely, watches Ember play in the sunlight in his now-well-tended garden.",
+   "speaker": "narrator",
+   "line": "His heart, finally at peace.",
+   "fx": "none"
+  },
+  {
+   "image": "Close-up on Ember, panting happily after playing, looking directly at the camera with bright, intelligent eyes.",
+   "speaker": "Ember",
+   "line": "Love always finds a way, doesn't it?",
+   "fx": "none"
+  },
+  {
+   "image": "Arthur and Ember sitting together on a bench, looking at a beautiful sunrise, both content.",
+   "speaker": "narrator",
+   "line": "Would you believe such a profound connection?",
+   "fx": "none"
+  }
+ ],
+ "caption": "Old Soldier Found a Puppy... It Led Him to a Hidden Family Secret 💔",
+ "slug": "2026-11-01_part1",
+ "story_no": 14,
+ "yt_title": "Old Soldier Found a Puppy... It Led Him to a Hidden Family Secret 💔",
+ "description": "An old soldier thought he had nothing left, until a scruffy puppy brought back a memory he'd buried deep.\nWhat this abandoned pup found in his garden would change his life forever.\nWould you believe such a profound connection?",
+ "comment_question": "Would you believe such a profound connection?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalstory",
+  "#dogstory",
+  "#rescuedog",
+  "#veteran",
+  "#loneliness",
+  "#healing",
+  "#familylove",
+  "#secondchance",
+  "#lostandfound"
+ ]
+}
