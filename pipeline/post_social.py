@@ -35,8 +35,9 @@ def check(r, what):
 TEST = os.environ.get("POST_TEST") == "1"  # upload but do not publish (for checking the setup)
 
 
-def post_facebook(video, ep, page, token):
-    """Chunked ("resumable") upload: the simple upload refuses files this big (error 413)."""
+def post_facebook(video, ep, page, token, hidden=False):
+    """Chunked ("resumable") upload: the simple upload refuses files this big (error 413).
+    hidden=True keeps the video unpublished (used to give Instagram a link to fetch)."""
     url = f"https://graph-video.facebook.com/{GRAPH.rsplit('/', 1)[1]}/{page}/videos"
     data = Path(video).read_bytes()
     s = check(requests.post(url, data={"access_token": token, "upload_phase": "start",
@@ -52,9 +53,11 @@ def post_facebook(video, ep, page, token):
     check(requests.post(url, data={"access_token": token, "upload_phase": "finish",
                                    "upload_session_id": s["upload_session_id"],
                                    "title": ep["yt_title"][:250], "description": caption(ep),
-                                   "published": "false" if TEST else "true"}, timeout=300),
+                                   "published": "false" if (TEST or hidden) else "true"}, timeout=300),
           "Facebook upload finish")
-    print(f"Facebook: {'uploaded (unpublished test)' if TEST else 'posted'} video {s.get('video_id')}")
+    if not hidden:
+        print(f"Facebook: {'uploaded (unpublished test)' if TEST else 'posted'} video {s.get('video_id')}")
+    return s["video_id"]
 
 
 def post_instagram(video, ep, page, token):
@@ -63,16 +66,21 @@ def post_instagram(video, ep, page, token):
                "Finding the Instagram account").get("instagram_business_account", {}).get("id")
     if not ig:
         raise RuntimeError("No Instagram account is linked to this Facebook Page.")
-    # 1. create a Reel container for a direct (resumable) upload of our file
+    # 1. Instagram's direct upload keeps failing, so put the reel on Facebook as a hidden
+    #    (unpublished) video and let Instagram fetch it from Facebook's own link.
+    vid = post_facebook(video, ep, page, token, hidden=True)
+    for _ in range(40):
+        src = requests.get(f"{GRAPH}/{vid}", params={"fields": "source", "access_token": token},
+                           timeout=60).json().get("source")
+        if src:
+            break
+        time.sleep(15)
+    else:
+        raise RuntimeError("Facebook did not give a link for the reel within 10 minutes.")
     c = check(requests.post(f"{GRAPH}/{ig}/media",
-                            data={"media_type": "REELS", "upload_type": "resumable",
-                                  "caption": caption(ep), "share_to_feed": "true",
-                                  "access_token": token}, timeout=60), "Instagram container")
-    data = Path(video).read_bytes()
-    check(requests.post(c["uri"], data=data, timeout=1800,
-                        headers={"Authorization": f"OAuth {token}", "offset": "0",
-                                 "file_size": str(len(data)),
-                                 "Content-Type": "application/octet-stream"}), "Instagram upload")
+                            data={"media_type": "REELS", "video_url": src, "caption": caption(ep),
+                                  "share_to_feed": "true", "access_token": token}, timeout=120),
+              "Instagram container")
     # 2. wait until Instagram has processed the video, then publish it
     for _ in range(60):
         st = check(requests.get(f"{GRAPH}/{c['id']}", params={"fields": "status_code,status",
