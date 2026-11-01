@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Writes today's 3 short videos with Gemini (free tier text model):
-  series/daily/<date>_part1.json  9 AM  realistic animal + human story in English
+  series/daily/<date>_part1.json  9 AM  realistic animal + human story in Hinglish (English subtitles)
   series/daily/<date>_part2.json  1 PM  funny cartoon story in Hinglish
   series/daily/<date>_part3.json  5 PM  realistic emotional story in Hinglish (English subtitles)
 
@@ -119,6 +119,8 @@ Rules:
   an empty chair), close-ups at emotional moments. The FIRST picture must be dramatic and
   instantly intriguing.{sub_rule}
 - "hook_text": 2-5 words shown big on screen in the first seconds (e.g. "SHE LEFT A NOTE...").
+- "title", "hook_text", "yt_title", "description", "comment_question" and hashtags are always in
+  plain ENGLISH, even when the spoken lines are Hinglish.
 - Pick each voice so it matches who is speaking: {voices}{talk_rule}
 - Each scene has "fx": the weather/atmosphere layer for that picture: rain, snow, dust
   (sunbeams, warm floating dust, fireflies, magic) or none. Use it where it adds feeling.
@@ -220,7 +222,9 @@ def slots(day):
     return [
         {"kind": ("It is an emotional, realistic ANIMAL + HUMAN story (wild or pet animal and people), "
                   "told mostly through pictures so anyone in the world can follow it."),
-         "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal"},
+         "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal", "hindi": True,
+         "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way "
+                  "Indians really talk)")},
         {"kind": "It is a FUNNY cartoon story: light, silly, relatable comedy with a punchline at the end.",
          "topic": FUNNY_TOPICS[d % len(FUNNY_TOPICS)], "style": CARTOON_STYLE,
          "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
