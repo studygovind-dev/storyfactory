@@ -60,6 +60,22 @@ def post_facebook(video, ep, page, token, hidden=False):
     return s["video_id"]
 
 
+def post_facebook_reel(video, ep, page, token):
+    """Facebook Reels (reach new people far more than normal Page videos)."""
+    url = f"{GRAPH}/{page}/video_reels"
+    s = check(requests.post(url, data={"upload_phase": "start", "access_token": token}, timeout=60),
+              "Facebook Reel start")
+    data = Path(video).read_bytes()
+    check(requests.post(s["upload_url"], data=data, timeout=1800,
+                        headers={"Authorization": f"OAuth {token}", "offset": "0",
+                                 "file_size": str(len(data))}), "Facebook Reel upload")
+    check(requests.post(url, data={"upload_phase": "finish", "video_id": s["video_id"],
+                                   "video_state": "DRAFT" if TEST else "PUBLISHED",
+                                   "description": caption(ep), "access_token": token}, timeout=120),
+          "Facebook Reel publish")
+    print(f"Facebook Reels: {'uploaded as draft (test)' if TEST else 'posted'} reel {s['video_id']}")
+
+
 def public_link(video):
     """Upload the file to the repo's 'reels' release (public repo) and return a direct link."""
     name = f"{int(time.time())}_{Path(video).parent.name}.mp4"
@@ -124,8 +140,9 @@ def post_all(video, ep):
     teaser = Path(video).with_name("teaser.mp4")  # Reels must be under 90 s
     jobs = [("Facebook", post_facebook, video, ep)]
     if teaser.exists():
-        jobs.append(("Instagram", post_instagram, teaser,
-                     {**ep, "yt_title": ep["yt_title"] + "\n\n▶️ Full story on our Facebook page & YouTube"}))
+        reel = {**ep, "yt_title": ep["yt_title"] + "\n\n▶️ Full story on our Facebook page & YouTube"}
+        jobs.append(("Instagram", post_instagram, teaser, reel))
+        jobs.append(("Facebook Reels", post_facebook_reel, teaser, reel))
     for name, fn, file, info in jobs:
         if os.environ.get("POST_ONLY") and os.environ["POST_ONLY"] != name:
             continue
