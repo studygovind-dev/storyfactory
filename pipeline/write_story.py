@@ -27,7 +27,7 @@ SCENES = 70                 # one line each, about 3 s -> 3.5-4 minute videos
 CARTOON_STYLE = ("3D animated movie still in the style of a Pixar film, cute expressive characters with big "
                  "eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16")
 REAL_STYLE = ("cinematic live-action film still, 35mm, shallow depth of field, realistic skin, "
-              "natural light, emotional mood, vertical 9:16")
+              "bright soft natural light, glowing fair skin, emotional mood, vertical 9:16")
 
 # Funny cartoon topics: a different one each day so all kinds of viewers are covered.
 FUNNY_TOPICS = [
@@ -112,6 +112,7 @@ Rules:
 - Family friendly: no gore, no sexual content.
 - 1 to 3 characters. Give each a fixed visual "look" (age, face, hair, clothing; for animals breed,
   colour, collar) so pictures stay consistent. Refer to them in "image" as [[key]].
+  Indian characters have fair, light wheatish skin and bright, soft lighting on the face.
 - "image" describes ONE {shot} (who, where, action, emotion on the face). No text or signs.
 - SILENT-MOVIE TEST: the story must be easy to follow with the sound OFF, even for someone who
   does not know the language. Every picture shows exactly what is happening: a clear action,

@@ -4,22 +4,19 @@
 # (workflow_dispatch) start within seconds. So this job sleeps until the next start time
 # (06:15, 10:15, 14:15 India time), starts "Daily story", then starts the next clock.
 # A run can last at most 6 hours, so long gaps are bridged by hopping to a fresh clock.
-# The schedule below only restarts the chain if it ever breaks; a newer clock replaces
-# an older one, so there is never more than one.
+# The next clock waits for the current one to finish (no cancelled runs, so no
+# failure e-mails). If the chain ever breaks, "Daily story"'s own schedule is the backup.
 name: Clock
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "5 18 * * *"   # 23:35 IST: restart the chain if it broke
-    - cron: "5 5 * * *"    # 10:35 IST
 
 permissions:
   actions: write
 
 concurrency:
   group: clock
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   tick:
