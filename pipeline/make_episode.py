@@ -72,7 +72,7 @@ def make_image_free(ep, i, scene, out):
     then falls back to the no-account server so the video still gets made."""
     global POLLEN_EMPTY
     prompt = (f"{ep['style']}. {expand(scene['image'], ep['characters'])}. "
-              "No text, no watermark, no logos.")
+              "Well-lit face, clear smooth skin, no dark spots. No text, no watermark, no logos.")
     key = "" if POLLEN_EMPTY else os.environ.get("POLLINATIONS_KEY", "").strip().lstrip("﻿")
     q = requests.utils.quote(prompt[:1500], safe="")
     if key:

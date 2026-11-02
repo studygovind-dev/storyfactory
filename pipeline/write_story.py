@@ -26,8 +26,9 @@ SCENES = 70                 # one line each, about 3 s -> 3.5-4 minute videos
 
 CARTOON_STYLE = ("3D animated movie still in the style of a Pixar film, cute expressive characters with big "
                  "eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16")
-REAL_STYLE = ("cinematic live-action film still, 35mm, shallow depth of field, realistic skin, "
-              "bright soft natural light, glowing fair skin, emotional mood, vertical 9:16")
+REAL_STYLE = ("natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, "
+              "beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), "
+              "natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16")
 
 # Funny cartoon topics: a different one each day so all kinds of viewers are covered.
 FUNNY_TOPICS = [
@@ -112,7 +113,9 @@ Rules:
 - Family friendly: no gore, no sexual content.
 - 1 to 3 characters. Give each a fixed visual "look" (age, face, hair, clothing; for animals breed,
   colour, collar) so pictures stay consistent. Refer to them in "image" as [[key]].
-  Indian characters have fair, light wheatish skin and bright, soft lighting on the face.
+  Indian characters have fair, light wheatish, clear skin and bright soft light on the face. Young women
+  look graceful and pretty: long soft wavy dark-brown hair, natural makeup, small bindi or earrings,
+  elegant pastel kurta or saree (or neat casual clothes in a city story).
 - "image" describes ONE {shot} (who, where, action, emotion on the face). No text or signs.
 - SILENT-MOVIE TEST: the story must be easy to follow with the sound OFF, even for someone who
   does not know the language. Every picture shows exactly what is happening: a clear action,
@@ -160,6 +163,11 @@ CARTOON_VOICES = {
     "narrator_male": "male storyteller (narrator)", "narrator_female": "female storyteller (narrator)",
     "cartoon_male": "funny cartoon voice for boys, kids and male animals (parrot, dog, cat...)",
     "cartoon_female": "funny cartoon voice for girls, baby girls and female animals",
+}
+ADULT_VOICES = {
+    "narrator_male": "male storyteller around 30 (narrator)",
+    "narrator_female": "female storyteller (narrator)",
+    "male_young": "man in his 20s", "female_young": "woman in her 20s",
 }
 REAL_VOICES = {
     "narrator_male": "male storyteller around 30 (narrator)",
@@ -226,7 +234,7 @@ def slots(day):
     return [
         {"kind": ("It is an emotional, realistic ANIMAL + HUMAN story (wild or pet animal and people), "
                   "told mostly through pictures so anyone in the world can follow it.") + lead,
-         "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal", "hindi": True,
+         "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal", "hindi": True, "talk": True,
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way "
                   "Indians really talk)")},
         {"kind": ("It is a FUNNY cartoon story: light, silly, relatable comedy with a punchline at the end."
@@ -235,12 +243,13 @@ def slots(day):
          "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
          "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
                     "a narrator line now and then to move the story on."),
-         "hindi_voices": True, "mood": "funny",
+         "hindi_voices": True, "mood": "funny", "talk": True,
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way young "
                   "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')")},
         {"kind": ("It is an emotional, realistic story with a twist ending, set in India with Indian "
-                  "characters." + lead),
+                  "characters. Mature, adult tone: grown-up dialogue, never childish or baby talk." + lead),
          "topic": REAL_TOPICS[(2 * d + 1) % len(REAL_TOPICS)], **real, "hindi": True,
+         "voices": ADULT_VOICES,  # human drama / romance: grown-up voices only, no cute voices
          "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way "
                   "Indians really talk, e.g. 'Maa, main sach bol raha hoon, please trust me.')")},
     ]
@@ -265,7 +274,7 @@ def main():
                                shot=slot["shot"], n=SCENES, speech=slot["speech"],
                                voices="; ".join(f"{k} = {v}" for k, v in slot["voices"].items()),
                                sub_rule=(SUB_RULE if slot.get("hindi") else "") + (SAY_RULE if hinglish else ""),
-                               talk_rule=TALK_RULE,
+                               talk_rule=TALK_RULE if slot.get("talk") else "",
                                sub_field=(', "sub": "<English translation>"' if slot.get("hindi") else "")
                                + (', "say": "<same line in Devanagari>"' if hinglish else ""),
                                history="\n".join("- " + h for h in history[-90:]) or "none")
