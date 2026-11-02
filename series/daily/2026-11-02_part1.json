@@ -1,0 +1,601 @@
+{
+ "series": "The Baby Dragon's Secret Burden",
+ "episode": 1,
+ "title": "The Baby Dragon's Secret Burden",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Riya, a kind young woman in her early 20s, with expressive brown eyes, long wavy hair in a loose braid, wearing a soft teal tunic and dark trousers. Her face shows deep empathy.",
+   "voice": "hindi_narrator_female"
+  },
+  "ignis": {
+   "look": "Ignis, a palm-sized baby dragon with glistening iridescent green scales, large, tearful golden eyes, tiny translucent wings, and delicate claws. It emits faint, wispy smoke.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "SHE HEARD THE DRAGON CRY",
+ "scenes": [
+  {
+   "image": "Extreme close-up on Riya's intensely focused face, eyes wide, a single tear escaping, as if hearing something incredible and heartbreaking. Her hand is pressed to her ear.",
+   "speaker": "narrator",
+   "line": "Logon ko lagta main sab kuchh samjhti hoon.",
+   "fx": "none",
+   "sub": "People think I understand everything.",
+   "say": "लोगों को लगता मैं सब कुछ समझती हूँ।"
+  },
+  {
+   "image": "Riya, younger, maybe 10-12 years old, kneeling beside a small, whimpering stray puppy on a park bench, gently stroking its head. Her face is sad but determined.",
+   "speaker": "narrator",
+   "line": "Bachpan se hi, main sun sakti thi unki awazein.",
+   "fx": "none",
+   "sub": "Since childhood, I could hear their voices.",
+   "say": "बचपन से ही, मैं सुन सकती थी उनकी आवाज़ें।"
+  },
+  {
+   "image": "Riya, now as a young woman, holding a fussy baby, looking directly at the baby with a knowing, gentle smile. The baby looks calm.",
+   "speaker": "narrator",
+   "line": "Jo chhote the, bol nahi paate the apne dil ki.",
+   "fx": "none",
+   "sub": "What the little ones couldn't say from their heart.",
+   "say": "जो छोटे थे, बोल नहीं पाते थे अपने दिल की।"
+  },
+  {
+   "image": "Riya in a uniform, smiling warmly, holding hands with a happy toddler in a bright, modern playroom.",
+   "speaker": "narrator",
+   "line": "Babies ho ya pets, main thi unki khaas nanny.",
+   "fx": "none",
+   "sub": "Be it babies or pets, I was their special nanny.",
+   "say": "बेबीज़ हो या पेट्स, मैं थी उनकी ख़ास नैनी।"
+  },
+  {
+   "image": "Riya walking through a lush, green, slightly magical-looking forest path, dappled sunlight filtering through trees. She looks thoughtful.",
+   "speaker": "narrator",
+   "line": "Phir ek din, mili mujhe ek bahut special job.",
+   "fx": "none",
+   "sub": "Then one day, I got a very special job.",
+   "say": "फिर एक दिन, मिली मुझे एक बहुत स्पेशल जॉब।"
+  },
+  {
+   "image": "An imposing, ancient-looking stone gate with intricate carvings, leading into a hidden sanctuary in a valley.",
+   "speaker": "narrator",
+   "line": "Himalay mein ek rahasyamayi Dragon Sanctuary mein.",
+   "fx": "dust",
+   "sub": "In a mysterious Dragon Sanctuary in the Himalayas.",
+   "say": "हिमालय में एक रहस्यमयी ड्रैगन सैंक्चुअरी में।"
+  },
+  {
+   "image": "Riya standing respectfully in front of a stern-looking man (Mr. Anand) in a uniform, who points towards a distant building.",
+   "speaker": "narrator",
+   "line": "Mr. Anand ne mujhe wahan bulaya tha, emergency mein.",
+   "fx": "none",
+   "sub": "Mr. Anand had called me there, in an emergency.",
+   "say": "मिस्टर आनंद ने मुझे वहाँ बुलाया था, इमरजेंसी में।"
+  },
+  {
+   "image": "Close-up on a small, shimmering green dragon egg in an incubator, faint cracks visible, hinting at hatching.",
+   "speaker": "narrator",
+   "line": "Ek naya, bahut hi chhota baby dragon aaya tha.",
+   "fx": "none",
+   "sub": "A new, very tiny baby dragon had arrived.",
+   "say": "एक नया, बहुत ही छोटा बेबी ड्रैगन आया था।"
+  },
+  {
+   "image": "Riya's face, filled with wonder and excitement, looking at Ignis for the first time as it hatches.",
+   "speaker": "narrator",
+   "line": "Maine use pehli baar dekha, aur bas dekhti reh gayi.",
+   "fx": "none",
+   "sub": "I saw him for the first time, and just kept staring.",
+   "say": "मैंने उसे पहली बार देखा, और बस देखती रह गई।"
+  },
+  {
+   "image": "Ignis, just hatched, looking tiny and vulnerable, trying to stand, its eyes wide and golden.",
+   "speaker": "narrator",
+   "line": "Itna chhota, itna pyaara Ignis, mera dil khush ho gaya.",
+   "fx": "none",
+   "sub": "So small, so cute Ignis, my heart was happy.",
+   "say": "इतना छोटा, इतना प्यारा इग्निस, मेरा दिल खुश हो गया।"
+  },
+  {
+   "image": "Ignis in a specialized incubator, its tiny head down, whimpering, tears visibly forming in its golden eyes.",
+   "speaker": "narrator",
+   "line": "Par woh nanha Ignis har waqt rota hi rehta tha.",
+   "fx": "none",
+   "sub": "But that tiny Ignis kept crying all the time.",
+   "say": "पर वो नन्हा इग्निस हर वक्त रोता ही रहता था।"
+  },
+  {
+   "image": "Scientists and vets in lab coats examining Ignis's incubator with worried expressions. Riya stands nearby, looking concerned.",
+   "speaker": "narrator",
+   "line": "Doctors, scientists, sab baffled, koi samajh na paya.",
+   "fx": "none",
+   "sub": "Doctors, scientists, all baffled, no one understood.",
+   "say": "डॉक्टर्स, साइंटिस्ट्स, सब बैफल्ड, कोई समझ ना पाया।"
+  },
+  {
+   "image": "Close-up on Ignis's tear-streaked face, its tiny mouth open in a silent scream of distress.",
+   "speaker": "narrator",
+   "line": "Koi nahi samjha ki woh itna dukhi kyun tha.",
+   "fx": "none",
+   "sub": "No one understood why he was so sad.",
+   "say": "कोई नहीं समझा कि वो इतना दुखी क्यों था।"
+  },
+  {
+   "image": "Riya sitting by the incubator, her hand gently resting on the glass, looking at Ignis with deep sadness.",
+   "speaker": "narrator",
+   "line": "Main use chup karane ki koshish karti, par woh...",
+   "fx": "none",
+   "sub": "I tried to soothe him, but he...",
+   "say": "मैं उसे चुप कराने की कोशिश करती, पर वो..."
+  },
+  {
+   "image": "Ignis, slightly larger now, but still crying, huddled in a small, soft bed, looking utterly miserable.",
+   "speaker": "narrator",
+   "line": "Woh rota hi rehta tha, din ho ya raat, bas rota.",
+   "fx": "none",
+   "sub": "He kept crying, day or night, just crying.",
+   "say": "वो रोता ही रहता था, दिन हो या रात, बस रोता।"
+  },
+  {
+   "image": "Mr. Anand looking grim, pointing at some charts on a tablet, talking to other sanctuary staff. Riya watches anxiously.",
+   "speaker": "narrator",
+   "line": "Sanctuary ka future, Ignis ka jeevan, daav par the.",
+   "fx": "none",
+   "sub": "The sanctuary's future, Ignis's life, were at stake.",
+   "say": "सैंक्चुअरी का फ्यूचर, इग्निस का जीवन, दाँव पर थे।"
+  },
+  {
+   "image": "A close-up of a 'Dragon Conservation Fund' sign with a crack in it, hinting at financial trouble and desperation.",
+   "speaker": "narrator",
+   "line": "Yeh nanha Ignis hi hamari aakhri ummeed, last hope.",
+   "fx": "none",
+   "sub": "This tiny Ignis was our last hope, last hope.",
+   "say": "ये नन्हा इग्निस ही हमारी आख़िरी उम्मीद, लास्ट होप।"
+  },
+  {
+   "image": "Riya cradling Ignis gently, her eyes closed, concentrating intensely. Ignis still whimpering in her arms.",
+   "speaker": "narrator",
+   "line": "Maine use pyaar se apne kareeb rakha, hamesha.",
+   "fx": "none",
+   "sub": "I kept him close to me with love, always.",
+   "say": "मैंने उसे प्यार से अपने करीब रखा, हमेशा।"
+  },
+  {
+   "image": "Extreme close-up on Riya's ear, a small, worried frown on her face as she listens intently.",
+   "speaker": "narrator",
+   "line": "Uski chupi awaz sunne ki koshish karti main.",
+   "fx": "none",
+   "sub": "I tried to hear his hidden voice.",
+   "say": "उसकी छुपी आवाज़ सुनने की कोशिश करती मैं।"
+  },
+  {
+   "image": "Ignis clinging to Riya's shoulder, its small body trembling, tears streaming down its face.",
+   "speaker": "narrator",
+   "line": "Par uske dard bhare rone ki awaz ke siva kuchh na suna.",
+   "fx": "none",
+   "sub": "But I heard nothing but the sound of his painful crying.",
+   "say": "पर उसके दर्द भरे रोने की आवाज़ के सिवा कुछ ना सुना।"
+  },
+  {
+   "image": "Riya looking exhausted but determined, sitting by Ignis's bed late at night, a dim lamp on.",
+   "speaker": "narrator",
+   "line": "Main haar nahi maan sakti thi, yeh pakka tha.",
+   "fx": "none",
+   "sub": "I couldn't give up, that was for sure.",
+   "say": "मैं हार नहीं मान सकती थी, ये पक्का था।"
+  },
+  {
+   "image": "Close-up on Ignis's golden eyes, wide with fear, not just sadness. A subtle shift in expression.",
+   "speaker": "narrator",
+   "line": "Yeh sirf dard nahi tha, isme kuchh aur baat thi.",
+   "fx": "none",
+   "sub": "This wasn't just pain, there was something else in it.",
+   "say": "ये सिर्फ दर्द नहीं था, इसमें कुछ और बात थी।"
+  },
+  {
+   "image": "Riya looking up from Ignis, her eyes widening as if a new, terrifying thought has struck her.",
+   "speaker": "narrator",
+   "line": "Kuchh aur hi tha jo use andar se dara raha tha.",
+   "fx": "none",
+   "sub": "Something else was scaring him from within.",
+   "say": "कुछ और ही था जो उसे अंदर से डरा रहा था।"
+  },
+  {
+   "image": "Riya standing by a large map of the sanctuary, tracing a finger across it, deep in thought.",
+   "speaker": "narrator",
+   "line": "Maine sanctuary ka har kona dhyaan se dekha.",
+   "fx": "none",
+   "sub": "I carefully checked every corner of the sanctuary.",
+   "say": "मैंने सैंक्चुअरी का हर कोना ध्यान से देखा।"
+  },
+  {
+   "image": "Riya checking temperature gauges, air filters, food samples in Ignis's room. All seem normal.",
+   "speaker": "narrator",
+   "line": "Sab kuchh perfectly fine laga, bilkul normal.",
+   "fx": "none",
+   "sub": "Everything seemed perfectly fine, completely normal.",
+   "say": "सब कुछ परफ़ेक्ट्ली फाइन लगा, बिल्कुल नॉर्मल।"
+  },
+  {
+   "image": "Riya sitting outside Ignis's enclosure, looking defeated, her head in her hands.",
+   "speaker": "narrator",
+   "line": "Main uski wajah na dhoondh kar, paagal ho rahi thi.",
+   "fx": "none",
+   "sub": "Not finding its reason, I was going crazy.",
+   "say": "मैं उसकी वजह ना ढूँढ कर, पागल हो रही थी।"
+  },
+  {
+   "image": "Riya looks up, suddenly resolute, and walks back to Ignis's enclosure with renewed determination.",
+   "speaker": "narrator",
+   "line": "Bas ek aakhri umeed, ek aakhri koshish bachi.",
+   "fx": "none",
+   "sub": "Only a last hope, a last attempt remained.",
+   "say": "बस एक आख़िरी उम्मीद, एक आख़िरी कोशिश बची।"
+  },
+  {
+   "image": "Riya holds Ignis close to her chest, their eyes meeting. She closes her eyes, focusing intently. Ignis is still whimpering.",
+   "speaker": "narrator",
+   "line": "Maine Ignis ko dil se lagaaya, aankhon mein dekha.",
+   "fx": "none",
+   "sub": "I held Ignis close to my heart, looked into his eyes.",
+   "say": "मैंने इग्निस को दिल से लगाया, आँखों में देखा।"
+  },
+  {
+   "image": "Close-up on Riya's face, eyes closed, a flicker of understanding dawning. A faint glow around her head.",
+   "speaker": "narrator",
+   "line": "Aur phir... ek bahut hi choti, dheemi awaz suni.",
+   "fx": "none",
+   "sub": "And then... I heard a very tiny, faint voice.",
+   "say": "और फिर... एक बहुत ही छोटी, धीमी आवाज़ सुनी।"
+  },
+  {
+   "image": "Close-up on Ignis's face, its tears still flowing, but its expression is now one of desperate urgency. Its tiny mouth moves slightly.",
+   "speaker": "ignis",
+   "line": "Mitti mein... dushman chhupa hai! Khatra!",
+   "fx": "none",
+   "sub": "In the earth... the enemy is hidden! Danger!",
+   "say": "मिट्टी में... दुश्मन छुपा है! ख़तरा!"
+  },
+  {
+   "image": "Riya's eyes snap open, shock and confusion on her face. She looks around frantically.",
+   "speaker": "narrator",
+   "line": "Mitti? Dushman? Yeh baby dragon kya bol raha tha?",
+   "fx": "none",
+   "sub": "Earth? Enemy? What was this baby dragon saying?",
+   "say": "मिट्टी? दुश्मन? ये बेबी ड्रैगन क्या बोल रहा था?"
+  },
+  {
+   "image": "Riya looking down at Ignis, who is now nudging her hand towards the ground of its enclosure with its tiny head.",
+   "speaker": "narrator",
+   "line": "Usne apni choti claw se zameen ki taraf ishara kiya.",
+   "fx": "none",
+   "sub": "He pointed with his tiny claw towards the ground.",
+   "say": "उसने अपनी छोटी क्लॉ से ज़मीन की तरफ़ इशारा किया।"
+  },
+  {
+   "image": "Close-up of Ignis's tiny claw scratching at the soft earth inside its enclosure, revealing darker soil beneath.",
+   "speaker": "narrator",
+   "line": "Zameen ke andar... kuchh bahut hi ajab sa tha.",
+   "fx": "none",
+   "sub": "Inside the earth... something very strange was.",
+   "say": "ज़मीन के अंदर... कुछ बहुत ही अजब सा था।"
+  },
+  {
+   "image": "Riya looking intensely at the ground, a furrow in her brow, then scanning the surroundings. Everything seems normal.",
+   "speaker": "narrator",
+   "line": "Par bahar se to sab kuchh normal dikh raha tha.",
+   "fx": "none",
+   "sub": "But from the outside, everything looked normal.",
+   "say": "पर बाहर से तो सब कुछ नॉर्मल दिख रहा था।"
+  },
+  {
+   "image": "Close-up on Ignis, now crying with renewed intensity, its body shaking, eyes wide with terror.",
+   "speaker": "ignis",
+   "line": "Zeher hai... sab khatam... ho jayega jaldi!",
+   "fx": "none",
+   "sub": "It's poison... everything... will end soon!",
+   "say": "ज़हर है... सब ख़त्म... हो जाएगा जल्दी!"
+  },
+  {
+   "image": "Riya's face, horrified, understanding dawning, as she stands up abruptly, looking shocked.",
+   "speaker": "narrator",
+   "line": "Zeher? Yeh dragon itni badi baat kyun keh raha tha?",
+   "fx": "none",
+   "sub": "Poison? Why was this dragon saying such a big thing?",
+   "say": "ज़हर? ये ड्रैगन इतनी बड़ी बात क्यों कह रहा था?"
+  },
+  {
+   "image": "Riya runs towards Mr. Anand's office, looking urgent and desperate, Ignis still in her arms.",
+   "speaker": "narrator",
+   "line": "Main Mr. Anand ke office ki taraf tezi se bhagi.",
+   "fx": "none",
+   "sub": "I ran quickly towards Mr. Anand's office.",
+   "say": "मैं मिस्टर आनंद के ऑफ़िस की तरफ़ तेज़ी से भागी।"
+  },
+  {
+   "image": "Riya trying to explain animatedly to Mr. Anand, who looks skeptical but listens patiently, shaking his head.",
+   "speaker": "narrator",
+   "line": "Par woh meri baaton ko samjh nahi paaye the.",
+   "fx": "none",
+   "sub": "But he couldn't understand my words.",
+   "say": "पर वो मेरी बातों को समझ नहीं पाए थे।"
+  },
+  {
+   "image": "Mr. Anand shakes his head gently, indicating there's no visible problem. Riya looks desperate, on the verge of tears.",
+   "speaker": "narrator",
+   "line": "Unko koi abnormal signs kahin dikh nahi rahe the.",
+   "fx": "none",
+   "sub": "He couldn't see any abnormal signs anywhere.",
+   "say": "उनको कोई एबनॉर्मल साइंस कहीं दिख नहीं रहे थे।"
+  },
+  {
+   "image": "Close-up on Riya's tear-filled eyes, reflecting her frustration and Ignis's distress, a single tear rolls down her cheek.",
+   "speaker": "narrator",
+   "line": "Par Ignis ka rona sachha tha, main jaanti thi.",
+   "fx": "none",
+   "sub": "But Ignis's crying was true, I knew it.",
+   "say": "पर इग्निस का रोना सच्चा था, मैं जानती थी।"
+  },
+  {
+   "image": "Riya returns to Ignis's enclosure, looks at the ground, then notices a subtle discolouration of a small patch of moss.",
+   "speaker": "narrator",
+   "line": "Usne phir mujhe usi jagah ki zameen dikhayi.",
+   "fx": "none",
+   "sub": "He showed me the ground of that same spot again.",
+   "say": "उसने फिर मुझे उसी जगह की ज़मीन दिखाई।"
+  },
+  {
+   "image": "Close-up on the small patch of moss, now appearing slightly withered and discoloured, almost imperceptibly yellow.",
+   "speaker": "narrator",
+   "line": "Wahan ek chhota sa, peela, sookha hua spot dikha.",
+   "fx": "none",
+   "sub": "There, a small, yellow, withered spot was visible.",
+   "say": "वहाँ एक छोटा सा, पीला, सूखा हुआ स्पॉट दिखा।"
+  },
+  {
+   "image": "Riya kneeling, touching the withered moss with a hesitant finger. Her face shows sudden realization, eyes widening.",
+   "speaker": "narrator",
+   "line": "Maine use chhua... aur ekdum se sab kuchh samjh gayi.",
+   "fx": "none",
+   "sub": "I touched it... and suddenly understood everything.",
+   "say": "मैंने उसे छुआ... और एकदम से सब कुछ समझ गई।"
+  },
+  {
+   "image": "Flashback to Riya, as a child, touching a patch of dying grass, looking concerned, a sad expression on her face.",
+   "speaker": "narrator",
+   "line": "Mujhe apna bachpan yaad aaya, jab main sun sakti thi.",
+   "fx": "none",
+   "sub": "I remembered my childhood, when I could hear.",
+   "say": "मुझे अपना बचपन याद आया, जब मैं सुन सकती थी।"
+  },
+  {
+   "image": "Flashback image of a drawing Riya made as a child: a plant wilting, with tiny crying faces drawn around it.",
+   "speaker": "narrator",
+   "line": "Kaise pehle bhi plants, dukh mein rote hue lagte the.",
+   "fx": "none",
+   "sub": "How even plants seemed to cry in sorrow before.",
+   "say": "कैसे पहले भी प्लांट्स, दुख में रोते हुए लगते थे।"
+  },
+  {
+   "image": "Riya's face, now determined, looking directly at Ignis, who has stopped whimpering, watching her expectantly.",
+   "speaker": "narrator",
+   "line": "Ignis ne is hidden poison ko pehle hi detect kiya.",
+   "fx": "none",
+   "sub": "Ignis had detected this hidden poison already.",
+   "say": "इग्निस ने इस हिडन पॉइज़न को पहले ही डिटेक्ट किया।"
+  },
+  {
+   "image": "Riya is frantically digging a small hole in the ground with a hand trowel, near the discoloured moss, her face urgent.",
+   "speaker": "narrator",
+   "line": "Zameen ke andar, kuchh bahut hi khaas chhupa tha.",
+   "fx": "none",
+   "sub": "Inside the earth, something very special was hidden.",
+   "say": "ज़मीन के अंदर, कुछ बहुत ही ख़ास छुपा था।"
+  },
+  {
+   "image": "Close-up on Riya's hand pulling out a small, jagged rock that glows with a faint, unnatural green light.",
+   "speaker": "narrator",
+   "line": "Ek ajab sa, halka sa glowing patthar mila wahan.",
+   "fx": "none",
+   "sub": "A strange, faintly glowing stone was found there.",
+   "say": "एक अजब सा, हल्का सा ग्लोइंग पत्थर मिला वहाँ।"
+  },
+  {
+   "image": "Ignis, no longer crying, but looking at the glowing stone with wide, terrified golden eyes.",
+   "speaker": "ignis",
+   "line": "Bahut bada khatra... bahut zyada khatra!",
+   "fx": "none",
+   "sub": "Very big danger... too much danger!",
+   "say": "बहुत बड़ा ख़तरा... बहुत ज़्यादा ख़तरा!"
+  },
+  {
+   "image": "Riya, holding the glowing stone with a gloved hand, looking at it with horror, then glancing towards the distant mountains.",
+   "speaker": "narrator",
+   "line": "Yeh koi simple patthar nahi tha, kuchh aur tha.",
+   "fx": "none",
+   "sub": "This was not a simple stone, it was something else.",
+   "say": "ये कोई सिंपल पत्थर नहीं था, कुछ और था।"
+  },
+  {
+   "image": "Close-up on Mr. Anand's shocked face as Riya shows him the glowing stone. His mouth is slightly open in disbelief.",
+   "speaker": "narrator",
+   "line": "Mr. Anand ne jab dekha toh woh bhi hairan ho gaye.",
+   "fx": "none",
+   "sub": "When Mr. Anand saw it, he was also surprised.",
+   "say": "मिस्टर आनंद ने जब देखा तो वो भी हैरान हो गए।"
+  },
+  {
+   "image": "Scientists in hazmat suits carefully examining the stone in a lab, Riya and Mr. Anand watch from behind glass, looking worried.",
+   "speaker": "narrator",
+   "line": "Yeh ek bahut hi rare, zehreela toxic mineral nikla.",
+   "fx": "dust",
+   "sub": "This turned out to be a very rare, poisonous toxic mineral.",
+   "say": "ये एक बहुत ही रेयर, ज़हरीला टॉक्सिक मिनरल निकला।"
+  },
+  {
+   "image": "An aerial view of the sanctuary, with a red 'X' marking the spot where the stone was found, and arrows showing underground veins spreading.",
+   "speaker": "narrator",
+   "line": "Jo sanctuary ki zameen mein, dheere phail raha tha.",
+   "fx": "none",
+   "sub": "Which was slowly spreading in the sanctuary's ground.",
+   "say": "जो सैंक्चुअरी की ज़मीन में, धीरे फैल रहा था।"
+  },
+  {
+   "image": "Riya looking at Ignis, who is now calm and sitting happily on her shoulder, no longer crying, looking alert.",
+   "speaker": "narrator",
+   "line": "Sirf Ignis hi us khatre ko pehchan paaya, feel kar paaya.",
+   "fx": "none",
+   "sub": "Only Ignis could recognize that danger, could feel it.",
+   "say": "सिर्फ़ इग्निस ही उस ख़तरे को पहचान पाया, फील कर पाया।"
+  },
+  {
+   "image": "Ignis gently nuzzling Riya's cheek, a contented and relieved look on its face, its golden eyes peaceful.",
+   "speaker": "ignis",
+   "line": "Ab theek hai... sab theek hai, darr nahi.",
+   "fx": "none",
+   "sub": "Now it's fine... everything is fine, no fear.",
+   "say": "अब ठीक है... सब ठीक है, डर नहीं।"
+  },
+  {
+   "image": "Riya smiling, relief washing over her face, as Ignis rests peacefully in her hands, looking up at her.",
+   "speaker": "narrator",
+   "line": "Us nanhe dragon ne hamari sabki jaan bachayi.",
+   "fx": "none",
+   "sub": "That tiny dragon saved all our lives.",
+   "say": "उस नन्हे ड्रैगन ने हमारी सबकी जान बचाई।"
+  },
+  {
+   "image": "Sanctuary workers removing more glowing stones from the ground, wearing protective gear. The ground is being carefully excavated.",
+   "speaker": "narrator",
+   "line": "Sab log milkar is problem ko theek karne lage.",
+   "fx": "dust",
+   "sub": "Everyone started working together to fix this problem.",
+   "say": "सब लोग मिलकर इस प्रॉब्लम को ठीक करने लगे।"
+  },
+  {
+   "image": "A healthy, thriving Ignis, now a little bigger, flying short distances with confidence in a large, safe enclosure.",
+   "speaker": "narrator",
+   "line": "Ignis ab bilkul khush tha, bina darr ke ghoomta.",
+   "fx": "none",
+   "sub": "Ignis was now completely happy, roaming without fear.",
+   "say": "इग्निस अब बिल्कुल खुश था, बिना डर के घूमता।"
+  },
+  {
+   "image": "Riya watching Ignis fly, a proud, loving smile on her face, her eyes full of affection.",
+   "speaker": "narrator",
+   "line": "Uska har aansoo, uska har rona, ek badi warning.",
+   "fx": "none",
+   "sub": "His every tear, his every cry, was a big warning.",
+   "say": "उसका हर आँसू, उसका हर रोना, एक बड़ी वॉर्निंग।"
+  },
+  {
+   "image": "Riya kneeling, gently stroking Ignis as it lands on her arm. Their bond is clear, full of trust.",
+   "speaker": "narrator",
+   "line": "Meri special gift ne aaj sabhi ki jaan bacha li.",
+   "fx": "none",
+   "sub": "My special gift saved everyone's lives today.",
+   "say": "मेरी स्पेशल गिफ़्ट ने आज सभी की जान बचा ली।"
+  },
+  {
+   "image": "Mr. Anand shaking Riya's hand warmly, a grateful and respectful smile on his face.",
+   "speaker": "narrator",
+   "line": "Mr. Anand ne dil se mujhse dhanyawad kiya.",
+   "fx": "none",
+   "sub": "Mr. Anand thanked me from his heart.",
+   "say": "मिस्टर आनंद ने दिल से मुझसे धन्यवाद किया।"
+  },
+  {
+   "image": "A new, much larger sign for 'Himalayan Dragon Sanctuary' (without text, but implying grandeur), glowing softly, overlooking a peaceful valley.",
+   "speaker": "narrator",
+   "line": "Hamara pura sanctuary ab bahut safe aur protected tha.",
+   "fx": "none",
+   "sub": "Our entire sanctuary was now very safe and protected.",
+   "say": "हमारा पूरा सैंक्चुअरी अब बहुत सेफ़ और प्रोटेक्टेड था।"
+  },
+  {
+   "image": "Riya and Ignis, a bit older, sitting peacefully by a waterfall in the sanctuary. Ignis is contentedly perched on Riya's shoulder.",
+   "speaker": "narrator",
+   "line": "Hum dono ka bond, Ignis aur mera, aur gehra hua.",
+   "fx": "none",
+   "sub": "Our bond, Ignis's and mine, deepened further.",
+   "say": "हम दोनों का बॉन्ड, इग्निस और मेरा, और गहरा हुआ।"
+  },
+  {
+   "image": "Close-up on Ignis's calm, observant eyes, looking towards the horizon, no longer showing fear.",
+   "speaker": "narrator",
+   "line": "Ab woh bas dekhta, sunta, aur shaanti se baitha.",
+   "fx": "none",
+   "sub": "Now he just watched, listened, and sat peacefully.",
+   "say": "अब वो बस देखता, सुनता, और शांति से बैठा।"
+  },
+  {
+   "image": "Riya's hand gently caressing Ignis's head, both looking peaceful and connected.",
+   "speaker": "narrator",
+   "line": "Chup rehkar bhi woh bahut sari baatein keh deta.",
+   "fx": "none",
+   "sub": "Even in silence, he would say many things.",
+   "say": "चुप रहकर भी वो बहुत सारी बातें कह देता।"
+  },
+  {
+   "image": "Riya sitting with a group of happy children, showing them Ignis (safely in her arms). The children are awestruck and curious.",
+   "speaker": "narrator",
+   "line": "Main logon ko bhi sikhane lagi is chamatkar ke baare mein.",
+   "fx": "none",
+   "sub": "I started teaching people about this miracle too.",
+   "say": "मैं लोगों को भी सिखाने लगी इस चमत्कार के बारे में।"
+  },
+  {
+   "image": "Riya pointing to her ear, then to the children's hearts, encouraging them to listen with empathy.",
+   "speaker": "narrator",
+   "line": "Dil se suno un chhote-chhote jeevon ki awaaz ko.",
+   "fx": "none",
+   "sub": "Listen with your heart to the voices of those tiny beings.",
+   "say": "दिल से सुनो उन छोटे-छोटे जीवों की आवाज़ को।"
+  },
+  {
+   "image": "Close-up of Riya's hand holding Ignis's tiny claw, a symbol of trust, understanding, and connection.",
+   "speaker": "narrator",
+   "line": "Jo apni baatein kabhi bhi bol nahi paate humse.",
+   "fx": "none",
+   "sub": "Who can never speak their thoughts to us.",
+   "say": "जो अपनी बातें कभी भी बोल नहीं पाते हमसे।"
+  },
+  {
+   "image": "Riya looking directly at the camera with a gentle, knowing smile, Ignis perched calmly on her shoulder.",
+   "speaker": "narrator",
+   "line": "Unke andar chhupe secrets bahut zyada gehre hain.",
+   "fx": "none",
+   "sub": "The secrets hidden inside them are very deep.",
+   "say": "उनके अंदर छुपे सीक्रेट्स बहुत ज़्यादा गहरे हैं।"
+  },
+  {
+   "image": "A stunning wide shot of the Himalayan Dragon Sanctuary at sunset, with a faint, magical glow emanating from the central building. Riya and Ignis are tiny figures watching the sunset.",
+   "speaker": "narrator",
+   "line": "Aapko kya lagta hai, animals aur babies kya chhupate hain?",
+   "fx": "none",
+   "sub": "What do you think, what do animals and babies hide?",
+   "say": "आपको क्या लगता है, एनिमल्स और बेबीज़ क्या छुपाते हैं?"
+  }
+ ],
+ "caption": "This Nanny Heard A Baby Dragon's Secret Plea 🐉 (Emotional Story)",
+ "slug": "2026-11-02_part1",
+ "story_no": 17,
+ "yt_title": "This Nanny Heard A Baby Dragon's Secret Plea 🐉 (Emotional Story)",
+ "description": "Everyone thought the baby dragon was just sick, but this nanny heard a deeper cry. She had a gift no one else possessed. Could she uncover the truth before it was too late?\nWhat hidden messages do you think animals try to tell us?",
+ "comment_question": "What hidden messages do you think animals try to tell us?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#dragons",
+  "#babydragon",
+  "#animalcommunication",
+  "#nanny",
+  "#fantasy",
+  "#humananimalbond",
+  "#mystery",
+  "#hiddensecrets",
+  "#empathy"
+ ]
+}

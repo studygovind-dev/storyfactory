@@ -1,0 +1,545 @@
+{
+ "series": "The Secret Library",
+ "episode": 3,
+ "title": "The Secret Library",
+ "style": "cinematic live-action film still, 35mm, shallow depth of field, realistic skin, natural light, emotional mood, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, a young woman in her early twenties, expressive face, long dark hair often tied back, wears vibrant Indian kurti sets or simple sarees.",
+   "voice": "hindi_narrator_female"
+  },
+  "Rohan": {
+   "look": "A kind-faced young man, mid-twenties, well-built, with a warm smile, always wears neat casual shirts and jeans.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HE HAD A SECRET...",
+ "scenes": [
+  {
+   "image": "Close-up on Priya's tear-filled eyes, a single tear tracing down her cheek, looking heartbroken. Dark background, soft focus.",
+   "speaker": "narrator",
+   "line": "Mera boyfriend ek secret chupa raha tha. Bohot bada secret.",
+   "fx": "none",
+   "sub": "My boyfriend was hiding a secret. A very big secret.",
+   "say": "मेरा बॉयफ्रेंड एक सीक्रेट छुपा रहा था। बहुत बड़ा सीक्रेट।"
+  },
+  {
+   "image": "Priya and Rohan laughing together, holding hands, walking through a vibrant Indian market, sunlight filtering through.",
+   "speaker": "narrator",
+   "line": "Rohan aur main ek saal se saath the. Sab perfect tha.",
+   "fx": "none",
+   "sub": "Rohan and I had been together for a year. Everything was perfect.",
+   "say": "रोहन और मैं एक साल से साथ थे। सब परफेक्ट था।"
+  },
+  {
+   "image": "Priya showing Rohan a faded old photograph of a dilapidated building in a small village, both smiling nostalgically.",
+   "speaker": "narrator",
+   "line": "Bachpan mein, maine use ek sapna bataya tha.",
+   "fx": "none",
+   "sub": "In childhood, I had told him a dream.",
+   "say": "बचपन में, मैंने उसे एक सपना बताया था।"
+  },
+  {
+   "image": "Priya's younger self (flashback), sketching a detailed library on a piece of paper, eyes wide with hope.",
+   "speaker": "narrator",
+   "line": "Apne gaon mein ek library kholne ka sapna.",
+   "fx": "none",
+   "sub": "A dream of opening a library in my village.",
+   "say": "अपने गाँव में एक लाइब्रेरी खोलने का सपना।"
+  },
+  {
+   "image": "Rohan listening intently, holding Priya's hand, his expression warm and supportive. They are in a cozy cafe.",
+   "speaker": "narrator",
+   "line": "Usne kaha tha, 'Hum milkar pura karenge. Hamara sapna.'",
+   "fx": "none",
+   "sub": "He had said, 'We will fulfill it together. Our dream.'",
+   "say": "उसने कहा था, 'हम मिलकर पूरा करेंगे। हमारा सपना।'"
+  },
+  {
+   "image": "Priya and Rohan sitting on a bench, laughing, looking at a beautiful sunset over a lake. Peaceful moment.",
+   "speaker": "narrator",
+   "line": "Hamara pyaar, hamare plans, sab kuch pura lagta tha.",
+   "fx": "none",
+   "sub": "Our love, our plans, everything felt complete.",
+   "say": "हमारा प्यार, हमारे प्लांस, सब कुछ पूरा लगता था।"
+  },
+  {
+   "image": "Close-up of Rohan's hand gently tracing patterns on Priya's palm, a tender moment.",
+   "speaker": "narrator",
+   "line": "Uska touch, uski baatein, sab sukoon deti thi.",
+   "fx": "none",
+   "sub": "His touch, his words, everything brought peace.",
+   "say": "उसका टच, उसकी बातें, सब सुकून देती थी।"
+  },
+  {
+   "image": "Rohan holding Priya in a comforting hug, her head resting on his chest, both looking happy.",
+   "speaker": "narrator",
+   "line": "Woh sirf mera pyaar nahi, mera sab kuch tha.",
+   "fx": "none",
+   "sub": "He was not just my love, he was my everything.",
+   "say": "वो सिर्फ मेरा प्यार नहीं, मेरा सब कुछ था।"
+  },
+  {
+   "image": "Priya and Rohan walking hand-in-hand through a park, dappled sunlight, looking carefree.",
+   "speaker": "narrator",
+   "line": "Zindagi aisi hi achi chal rahi thi. Phir...",
+   "fx": "none",
+   "sub": "Life was going well like this. Then...",
+   "say": "ज़िंदगी ऐसी ही अच्छी चल रही थी। फिर..."
+  },
+  {
+   "image": "Rohan on his phone, looking tense, whispering into the receiver, back turned to Priya. Priya watches him, confused.",
+   "speaker": "narrator",
+   "line": "Rohan badalne laga. Uske phone calls, late nights.",
+   "fx": "none",
+   "sub": "Rohan started changing. His phone calls, late nights.",
+   "say": "रोहन बदलने लगा। उसके फोन कॉल्स, लेट नाइट्स।"
+  },
+  {
+   "image": "Priya at home, looking at an empty chair where Rohan usually sits, her face thoughtful and a little sad.",
+   "speaker": "narrator",
+   "line": "Woh ghar der se aata, kho jaata. Mujhse door.",
+   "fx": "none",
+   "sub": "He would come home late, lost. Away from me.",
+   "say": "वो घर देर से आता, खो जाता। मुझसे दूर।"
+  },
+  {
+   "image": "Priya trying to talk to Rohan, but he's distracted, staring blankly, deep in thought, not hearing her.",
+   "speaker": "narrator",
+   "line": "Meri baaton ka koi jawab nahi tha. Woh chup rehta.",
+   "fx": "none",
+   "sub": "There were no answers to my words. He stayed silent.",
+   "say": "मेरी बातों का कोई जवाब नहीं था। वो चुप रहता।"
+  },
+  {
+   "image": "Priya watching Rohan walk away from her in their apartment, looking hurt and isolated.",
+   "speaker": "narrator",
+   "line": "Ek deewar si ban gayi thi hamare beech.",
+   "fx": "none",
+   "sub": "A wall had formed between us.",
+   "say": "एक दीवार सी बन गई थी हमारे बीच।"
+  },
+  {
+   "image": "Close-up of Rohan's hand quickly putting away a wad of cash into his wallet, eyes darting nervously.",
+   "speaker": "narrator",
+   "line": "Ek din, maine uske purse mein bohot saare paise dekhe.",
+   "fx": "none",
+   "sub": "One day, I saw a lot of money in his purse.",
+   "say": "एक दिन, मैंने उसके पर्स में बहुत सारे पैसे देखे।"
+  },
+  {
+   "image": "Priya picking up a small, folded train ticket from Rohan's desk, her brow furrowed in suspicion, destination visible: a rural station.",
+   "speaker": "narrator",
+   "line": "Aur phir yeh train ticket. Gaon ki taraf. Mere gaon.",
+   "fx": "none",
+   "sub": "And then this train ticket. Towards the village. My village.",
+   "say": "और फिर यह ट्रेन टिकट। गाँव की तरफ। मेरे गाँव।"
+  },
+  {
+   "image": "Priya showing the ticket to her friend (off-screen), looking worried, asking for advice.",
+   "speaker": "narrator",
+   "line": "Mujhe kuch samajh nahi aa raha tha. Shak badhne laga.",
+   "fx": "none",
+   "sub": "I couldn't understand anything. Doubt started growing.",
+   "say": "मुझे कुछ समझ नहीं आ रहा था। शक बढ़ने लगा।"
+  },
+  {
+   "image": "Priya looking at Rohan's phone, seeing frequent calls to an unknown number. Her expression is anxious.",
+   "speaker": "narrator",
+   "line": "Anjaan numbers se call, aur messages. Kiske the woh?",
+   "fx": "none",
+   "sub": "Calls from unknown numbers, and messages. Whose were they?",
+   "say": "अनजान नंबर्स से कॉल, और मैसेजेस। किसके थे वो?"
+  },
+  {
+   "image": "Priya trying to make eye contact with Rohan, but he's avoiding it, looking down at his food during dinner.",
+   "speaker": "narrator",
+   "line": "Woh mujhse nazrein churata. Baat bhi nahi karta tha.",
+   "fx": "none",
+   "sub": "He avoided my gaze. Didn't even talk.",
+   "say": "वो मुझसे नज़रें चुराता। बात भी नहीं करता था।"
+  },
+  {
+   "image": "Priya looking distressed, holding her head in her hands, sitting alone on her bed.",
+   "speaker": "narrator",
+   "line": "Mera dil tootne laga. Kya woh jaa raha tha?",
+   "fx": "none",
+   "sub": "My heart started breaking. Was he leaving?",
+   "say": "मेरा दिल टूटने लगा। क्या वो जा रहा था?"
+  },
+  {
+   "image": "Priya confronting Rohan, her arms crossed, looking serious. Rohan avoids her gaze, looking uncomfortable.",
+   "speaker": "narrator",
+   "line": "Maine use pucha, 'Rohan, kya ho raha hai hamare beech?'",
+   "fx": "none",
+   "sub": "I asked him, 'Rohan, what is happening between us?'",
+   "say": "मैंने उसे पूछा, 'रोहन, क्या हो रहा है हमारे बीच?'"
+  },
+  {
+   "image": "Rohan looking stressed, running a hand through his hair, his face clouded with worry and guilt.",
+   "speaker": "Rohan",
+   "line": "Priya, please trust me. Kuch personal kaam hai, bas.",
+   "fx": "none",
+   "sub": "Priya, please trust me. It's just some personal work.",
+   "say": "प्रिया, प्लीज ट्रस्ट मी। कुछ पर्सनल काम है, बस।"
+  },
+  {
+   "image": "Priya staring at Rohan, her eyes narrowing with doubt, feeling betrayed despite his words. Tears well up.",
+   "speaker": "narrator",
+   "line": "Trust? Mujhse kuch chupa raha tha woh. Sach nahi bolta.",
+   "fx": "none",
+   "sub": "Trust? He was hiding something from me. Not telling truth.",
+   "say": "ट्रस्ट? मुझसे कुछ छुपा रहा था वो। सच नहीं बोलता।"
+  },
+  {
+   "image": "Close-up of Priya's face, a single tear running down her cheek, heartbroken expression.",
+   "speaker": "narrator",
+   "line": "Mujhe laga woh mujhe chhod dega. Ya kisi aur ke saath.",
+   "fx": "none",
+   "sub": "I thought he would leave me. Or with someone else.",
+   "say": "मुझे लगा वो मुझे छोड़ देगा। या किसी और के साथ।"
+  },
+  {
+   "image": "Priya secretly checking Rohan's phone while he's asleep, her face illuminated by the screen, looking guilty and desperate.",
+   "speaker": "narrator",
+   "line": "Mujhe shak tha, shayad kisi aur se milta tha.",
+   "fx": "none",
+   "sub": "I suspected, maybe he was meeting someone else.",
+   "say": "मुझे शक था, शायद किसी और से मिलता था।"
+  },
+  {
+   "image": "Close-up of Rohan's text messages: 'Milte hai sham ko, theek hai? Budget manage ho gaya.' Priya's hand trembles.",
+   "speaker": "narrator",
+   "line": "Yeh kya tha? 'Milte hai shaam ko'. Budget? Kisse?",
+   "fx": "none",
+   "sub": "What was this? 'Meet in the evening'. Budget? With whom?",
+   "say": "ये क्या था? 'मिलते है शाम को'। बजट? किससे?"
+  },
+  {
+   "image": "Priya looking determined and heartbroken, making a decision, wiping a tear from her eye. Close-up.",
+   "speaker": "narrator",
+   "line": "Bas, ab aur nahi. Maine peecha karne ka faisla kiya.",
+   "fx": "none",
+   "sub": "Enough, no more. I decided to follow him.",
+   "say": "बस, अब और नहीं। मैंने पीछा करने का फैसला किया।"
+  },
+  {
+   "image": "Rohan leaving the house early morning, looking furtive, carrying a small toolkit bag. Priya peeking from behind a curtain.",
+   "speaker": "narrator",
+   "line": "Subah jaldi woh nikla, chhup-chhup kar. Har roz.",
+   "fx": "none",
+   "sub": "Early morning he left, stealthily. Every day.",
+   "say": "सुबह जल्दी वो निकला, छुप-छुप कर। हर रोज़।"
+  },
+  {
+   "image": "Priya quickly gets ready, putting on a simple disguise (dupatta covering her head), looking determined.",
+   "speaker": "narrator",
+   "line": "Main bhi uske peeche, apni pehchan chhupa kar.",
+   "fx": "none",
+   "sub": "I also followed him, hiding my identity.",
+   "say": "मैं भी उसके पीछे, अपनी पहचान छुपा कर।"
+  },
+  {
+   "image": "Priya in an auto-rickshaw, keeping a discreet distance, watching Rohan walk ahead in a crowded street. Anxious face.",
+   "speaker": "narrator",
+   "line": "Pehle ek auto, phir dusra. Uske peeche-peeche.",
+   "fx": "none",
+   "sub": "First one auto, then another. Following him.",
+   "say": "पहले एक ऑटो, फिर दूसरा। उसके पीछे-पीछे।"
+  },
+  {
+   "image": "Rohan boarding a local bus, looking around cautiously. Priya quickly gets into another bus behind him, out of sight.",
+   "speaker": "narrator",
+   "line": "Usne bus li, main bhi usi bus mein chadh gayi.",
+   "fx": "none",
+   "sub": "He took a bus, I also got onto the same bus.",
+   "say": "उसने बस ली, मैं भी उसी बस में चढ़ गई।"
+  },
+  {
+   "image": "Priya peeking over a seat, watching Rohan staring out the window, lost in thought, looking stressed.",
+   "speaker": "narrator",
+   "line": "Har pal, mera dil tez dhadak raha tha. Kya dekhenge?",
+   "fx": "none",
+   "sub": "Every moment, my heart was beating fast. What will I see?",
+   "say": "हर पल, मेरा दिल तेज़ धड़क रहा था। क्या देखेंगे?"
+  },
+  {
+   "image": "The bus journey through rural landscapes, showing village fields and distant houses. Rohan is still looking out the window.",
+   "speaker": "narrator",
+   "line": "Shahron se door, gaon ki taraf. Wahi raasta.",
+   "fx": "none",
+   "sub": "Away from cities, towards the village. The same road.",
+   "say": "शहरों से दूर, गाँव की तरफ। वही रास्ता।"
+  },
+  {
+   "image": "Rohan getting off the bus at a dusty village stop, looking around, then walking down a narrow lane towards old buildings.",
+   "speaker": "narrator",
+   "line": "Woh gaon mein utra, usi gaon mein jahan mera sapna tha.",
+   "fx": "dust",
+   "sub": "He got off in the village, the same village where my dream was.",
+   "say": "वो गाँव में उतरा, उसी गाँव में जहाँ मेरा सपना था।"
+  },
+  {
+   "image": "Priya, hiding behind a cart, watching Rohan approach the old, dilapidated building she once showed him.",
+   "speaker": "narrator",
+   "line": "Woh ussi purani building ki taraf gaya. Dil darr se bhara.",
+   "fx": "none",
+   "sub": "He went towards that same old building. Heart filled with fear.",
+   "say": "वो उसी पुरानी बिल्डिंग की तरफ गया। दिल डर से भरा।"
+  },
+  {
+   "image": "Close-up of Priya's face, wide-eyed with shock and confusion, a gasp escaping her lips as Rohan enters the building.",
+   "speaker": "narrator",
+   "line": "Kya? Woh yahan kya kar raha tha? Ye mera gaon hai!",
+   "fx": "none",
+   "sub": "What? What was he doing here? This is my village!",
+   "say": "क्या? वो यहाँ क्या कर रहा था? ये मेरा गाँव है!"
+  },
+  {
+   "image": "Priya cautiously approaching the building's entrance, seeing the door slightly ajar. Her hand trembles as she pushes it open.",
+   "speaker": "narrator",
+   "line": "Dil mein darr liye, maine darwaza khola.",
+   "fx": "none",
+   "sub": "With fear in my heart, I opened the door.",
+   "say": "दिल में डर लिए, मैंने दरवाज़ा खोला।"
+  },
+  {
+   "image": "Inside the building, Rohan is sweeping dust, surrounded by construction tools. Other villagers are helping him. He's covered in dust.",
+   "speaker": "narrator",
+   "line": "Andar ka nazara dekh kar meri saansein ruk gayi.",
+   "fx": "dust",
+   "sub": "Seeing the sight inside, my breath stopped.",
+   "say": "अंदर का नज़ारा देख कर मेरी साँसें रुक गई।"
+  },
+  {
+   "image": "Close-up of Rohan, covered in dust, wiping sweat from his brow, but with a determined, hopeful look. He's mixing cement.",
+   "speaker": "narrator",
+   "line": "Woh jhadu laga raha tha, paseene mein latpat. Mazdoori?",
+   "fx": "dust",
+   "sub": "He was sweeping, drenched in sweat. Labour?",
+   "say": "वो झाड़ू लगा रहा था, पसीने में लथपथ। मज़दूरी?"
+  },
+  {
+   "image": "Priya looking around the dilapidated room, seeing old books piled in a corner, and a freshly painted wall. A blueprint is on a table.",
+   "speaker": "narrator",
+   "line": "Nayi deewar, kuch kitaabein, aur ek blueprint.",
+   "fx": "none",
+   "sub": "New wall, some books, and a blueprint.",
+   "say": "नई दीवार, कुछ किताबें, और एक ब्लूप्रिंट।"
+  },
+  {
+   "image": "Close-up of the blueprint, clearly showing a small, cozy library layout with bookshelves and reading nooks.",
+   "speaker": "narrator",
+   "line": "Yeh toh wahi blueprint tha jo maine socha tha!",
+   "fx": "none",
+   "sub": "This was the same blueprint I had imagined!",
+   "say": "यह तो वही ब्लूप्रिंट था जो मैंने सोचा था!"
+  },
+  {
+   "image": "Rohan looking up, startled, as he sees Priya standing at the doorway, his face a mix of surprise and slight panic.",
+   "speaker": "Rohan",
+   "line": "Priya? Tum yahan? Tumhe yeh sab nahi dekhna chahiye tha.",
+   "fx": "none",
+   "sub": "Priya? You here? You shouldn't have seen all this.",
+   "say": "प्रिया? तुम यहाँ? तुम्हें यह सब नहीं देखना चाहिए था।"
+  },
+  {
+   "image": "Priya's face, eyes wide, a mix of shock, confusion, and a dawning realization. Her mouth slightly open, tears forming.",
+   "speaker": "narrator",
+   "line": "Yeh kya tha? Main kuch samajh nahi pa rahi thi. Kya ho raha hai?",
+   "fx": "none",
+   "sub": "What was this? I couldn't understand anything. What is happening?",
+   "say": "यह क्या था? मैं कुछ समझ नहीं पा रही थी। क्या हो रहा है?"
+  },
+  {
+   "image": "Rohan walking towards Priya, hands covered in dust, a gentle, apologetic smile on his face, a little nervous.",
+   "speaker": "Rohan",
+   "line": "Sorry Priya, main tumhe surprise karna chahta tha. Pura surprise.",
+   "fx": "none",
+   "sub": "Sorry Priya, I wanted to surprise you. A complete surprise.",
+   "say": "सॉरी प्रिया, मैं तुम्हें सरप्राइज करना चाहता था। पूरा सरप्राइज।"
+  },
+  {
+   "image": "Close-up of Rohan's hands, worn and calloused, holding a small, hand-drawn sketch of the library, identical to Priya's childhood drawing.",
+   "speaker": "narrator",
+   "line": "Usne wahi sapna yaad dilaya jo maine bhula diya tha.",
+   "fx": "none",
+   "sub": "He reminded me of the dream I had forgotten.",
+   "say": "उसने वही सपना याद दिलाया जो मैंने भुला दिया था।"
+  },
+  {
+   "image": "Rohan looking at the old building, then back at Priya, his eyes full of earnestness.",
+   "speaker": "Rohan",
+   "line": "Yeh hamara sapna tha. Main isse pura karna chahta tha.",
+   "fx": "none",
+   "sub": "This was our dream. I wanted to fulfill it.",
+   "say": "यह हमारा सपना था। मैं इसे पूरा करना चाहता था।"
+  },
+  {
+   "image": "Priya looking at Rohan with tears streaming down her face, guilt and overwhelming love on her face. She reaches out.",
+   "speaker": "narrator",
+   "line": "Aur main uspe shak kar rahi thi. Kitni galat thi main.",
+   "fx": "none",
+   "sub": "And I was doubting him. How wrong I was.",
+   "say": "और मैं उसपे शक कर रही थी। कितनी गलत थी मैं।"
+  },
+  {
+   "image": "Rohan gently takes Priya's dusty hand, looking into her eyes with tenderness, wiping her tears with his thumb.",
+   "speaker": "Rohan",
+   "line": "Tumhari aankhon mein woh chamak dekhni thi. Yeh tumhara hai.",
+   "fx": "none",
+   "sub": "I wanted to see that sparkle in your eyes. This is yours.",
+   "say": "तुम्हारी आँखों में वो चमक देखनी थी। यह तुम्हारा है।"
+  },
+  {
+   "image": "Priya burying her face in Rohan's dusty shoulder, hugging him tightly, sobbing softly, a mix of relief and regret.",
+   "speaker": "narrator",
+   "line": "Main uske gale lag gayi, bohot roya. Maafi mangi.",
+   "fx": "none",
+   "sub": "I hugged him, cried a lot. Apologized.",
+   "say": "मैं उसके गले लग गई, बहुत रोया। माफी माँगी।"
+  },
+  {
+   "image": "Priya and Rohan, hand-in-hand, standing in the middle of the now clean and painted room. Bookshelves are visible, some new furniture.",
+   "speaker": "narrator",
+   "line": "Phir humne milkar kaam kiya. Har din, hamare sapne ke liye.",
+   "fx": "none",
+   "sub": "Then we worked together. Every day, for our dream.",
+   "say": "फिर हमने मिलकर काम किया। हर दिन, हमारे सपने के लिए।"
+  },
+  {
+   "image": "Rohan painting a wall, Priya arranging books on a shelf, both smiling happily at each other, covered in a bit of paint.",
+   "speaker": "narrator",
+   "line": "Mera sapna, ab hamara sapna tha. Uska sacrifice.",
+   "fx": "none",
+   "sub": "My dream, now it was our dream. His sacrifice.",
+   "say": "मेरा सपना, अब हमारा सपना था। उसका सैक्रिफाइस।"
+  },
+  {
+   "image": "Close-up of a small, elegantly hand-painted sign: 'Priya's Pustakalaya' (Priya's Library) over the entrance.",
+   "speaker": "narrator",
+   "line": "Usne uska naam bhi mere naam par rakha. Mere samman mein.",
+   "fx": "none",
+   "sub": "He even named it after me. In my honor.",
+   "say": "उसने उसका नाम भी मेरे नाम पर रखा। मेरे सम्मान में।"
+  },
+  {
+   "image": "Priya and Rohan, proudly standing outside the beautifully renovated library, holding hands, looking at the sign. Children are gathering nearby.",
+   "speaker": "narrator",
+   "line": "Hamari library khul gayi. Gaon mein rounak aa gayi.",
+   "fx": "none",
+   "sub": "Our library opened. The village became lively.",
+   "say": "हमारी लाइब्रेरी खुल गई। गाँव में रौनक आ गई।"
+  },
+  {
+   "image": "Children eagerly entering the library, looking excited, holding new books. Rohan and Priya watch them, smiling.",
+   "speaker": "narrator",
+   "line": "Bache khush the, bade bhi khush the. Hamara kaam.",
+   "fx": "none",
+   "sub": "Children were happy, elders were also happy. Our work.",
+   "say": "बच्चे खुश थे, बड़े भी खुश थे। हमारा काम।"
+  },
+  {
+   "image": "Priya, sitting inside the library, reading a book to a group of attentive children, her face glowing with happiness.",
+   "speaker": "narrator",
+   "line": "Meri zindagi ka sabse khoobsurat chapter. Sach ho gaya.",
+   "fx": "none",
+   "sub": "The most beautiful chapter of my life. Came true.",
+   "say": "मेरी ज़िंदगी का सबसे ख़ूबसूरत चैप्टर। सच हो गया।"
+  },
+  {
+   "image": "Rohan secretly watching Priya reading to kids, a soft, loving smile on his face, feeling proud and content.",
+   "speaker": "narrator",
+   "line": "Aur sab uske secret ki wajah se. Uska pyaar.",
+   "fx": "none",
+   "sub": "And all because of his secret. His love.",
+   "say": "और सब उसके सीक्रेट की वजह से। उसका प्यार।"
+  },
+  {
+   "image": "Priya and Rohan sitting close together on a bench outside the library, looking content. Sun is setting over the village.",
+   "speaker": "narrator",
+   "line": "Kuch secrets buray nahi hote. Kuch toh... pyaar hote hain.",
+   "fx": "none",
+   "sub": "Some secrets are not bad. Some are... love.",
+   "say": "कुछ सीक्रेट बुरे नहीं होते। कुछ तो... प्यार होते हैं।"
+  },
+  {
+   "image": "Close-up of Rohan's hand gently squeezing Priya's hand, a look of deep affection and understanding between them.",
+   "speaker": "Rohan",
+   "line": "Tumhe khush dekh kar, main khush hoon. Hamesha.",
+   "fx": "none",
+   "sub": "Seeing you happy, I am happy. Always.",
+   "say": "तुम्हें खुश देख कर, मैं खुश हूँ। हमेशा।"
+  },
+  {
+   "image": "Priya leaning her head on Rohan's shoulder, a serene smile on her face, looking out at the lively library.",
+   "speaker": "narrator",
+   "line": "Maine use galat samjha tha. Par usne mujhe galat sabit kiya.",
+   "fx": "none",
+   "sub": "I had misunderstood him. But he proved me wrong.",
+   "say": "मैंने उसे गलत समझा था। पर उसने मुझे गलत साबित किया।"
+  },
+  {
+   "image": "Close-up of Priya's face, a gentle, reflective smile, eyes shining with love and gratitude.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi, trust karna mushkil ho jaata hai. Par zaroori.",
+   "fx": "none",
+   "sub": "Sometimes, trusting becomes difficult. But necessary.",
+   "say": "कभी-कभी, ट्रस्ट करना मुश्किल हो जाता है। पर ज़रूरी।"
+  },
+  {
+   "image": "Priya's eyes looking directly at the camera, a thoughtful expression, a hint of a smile.",
+   "speaker": "narrator",
+   "line": "Par saccha pyaar hamesha apna raasta dhoondh leta hai.",
+   "fx": "none",
+   "sub": "But true love always finds its way.",
+   "say": "पर सच्चा प्यार हमेशा अपना रास्ता ढूँढ लेता है।"
+  },
+  {
+   "image": "Rohan and Priya smiling, holding hands, looking at the camera from the library doorway. Joyful expression.",
+   "speaker": "narrator",
+   "line": "Kya aapne kabhi apne partner par aise shak kiya hai?",
+   "fx": "none",
+   "sub": "Have you ever doubted your partner like this?",
+   "say": "क्या आपने कभी अपने पार्टनर पर ऐसे शक किया है?"
+  },
+  {
+   "image": "Priya (narrator) looking at the camera with a heartfelt expression.",
+   "speaker": "narrator",
+   "line": "Aapne kab apne partner ko galat samjha?",
+   "fx": "none",
+   "sub": "When did you misunderstand your partner?",
+   "say": "आपने कब अपने पार्टनर को गलत समझा?"
+  },
+  {
+   "image": "Text on screen: 'The Secret Library'. A final shot of the beautiful library exterior at sunset, children playing nearby.",
+   "speaker": "narrator",
+   "line": "Pyaar ke secret, sabse khoobsurat hote hain. Hai na?",
+   "fx": "none",
+   "sub": "Love's secrets are the most beautiful. Aren't they?",
+   "say": "प्यार के सीक्रेट, सबसे खूबसूरत होते हैं। है ना?"
+  }
+ ],
+ "caption": "My Boyfriend Was Hiding Something... Then I Saw The Truth 🤫",
+ "slug": "2026-11-02_part3",
+ "story_no": 19,
+ "yt_title": "My Boyfriend Was Hiding Something... Then I Saw The Truth 🤫",
+ "description": "I thought Rohan was cheating on me or leaving. His secrets were breaking my heart. But the truth was far more beautiful than I ever imagined. Would you have trusted him more?",
+ "comment_question": "Would you have trusted him more?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#lovestory",
+  "#twistending",
+  "#indiantale",
+  "#secretlove",
+  "#relationshipgoals",
+  "#surprise",
+  "#communitylibrary",
+  "#truelove",
+  "#sacrifice"
+ ]
+}

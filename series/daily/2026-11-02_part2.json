@@ -1,0 +1,599 @@
+{
+ "series": "Leo's Little Empire",
+ "episode": 2,
+ "title": "Leo's Little Empire",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_female"
+  },
+  "Anya": {
+   "look": "Young woman, 20s, bright eyes, curly brown hair tied in a messy bun. Wears a comfy, oversized yellow sweatshirt and ripped jeans. Energetic, often amused.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Leo": {
+   "look": "Toddler, 1 year old, chubby cheeks, big blue eyes. Always wears a tiny, impeccably neat blue button-up shirt and khaki shorts, even indoors. Looks innocent but has a shrewd gaze.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Priya": {
+   "look": "Woman, 30s, sleek black hair in a neat bob, stylish business casual dress. Looks stressed but loving.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Rahul": {
+   "look": "Man, 30s, neat beard, smart casual blue polo shirt. Looks slightly bewildered.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "THE TINY BOSS",
+ "scenes": [
+  {
+   "image": "[[Anya]] entering a lavish living room, looking bewildered. On the fancy coffee table, a baby bottle is perfectly centered next to a stack of neatly folded blueprints. Her eyes are wide.",
+   "speaker": "narrator",
+   "line": "Maine socha baby sit karna easy hoga, par yeh kuch aur hi nikla!",
+   "fx": "none",
+   "say": "मैंने सोचा बेबी सिट करना इजी होगा, पर ये कुछ और ही निकला!"
+  },
+  {
+   "image": "Close-up on [[Anya]]'s face, a secret, mischievous smile forming as she puts a finger to her lips. The sound of a baby babbling faintly in the background.",
+   "speaker": "narrator",
+   "line": "Anya ko ek secret gift mila tha, woh babies ki baat samajhti thi.",
+   "fx": "none",
+   "say": "अन्या को एक सीक्रेट गिफ्ट मिला था, वो बेबीज की बात समझती थी।"
+  },
+  {
+   "image": "[[Priya]], a busy mom, handing [[Anya]] a list of instructions, looking stressed. [[Rahul]] giving a quick wave behind her.",
+   "speaker": "Priya",
+   "line": "Anya, Leo bahut easy hai. Bas feed karna aur sulana.",
+   "fx": "none",
+   "say": "अन्या, लियो बहुत इजी है। बस फीड करना और सुलाना।"
+  },
+  {
+   "image": "[[Rahul]] whispering to [[Anya]], pointing towards the nursery door. He looks a bit tired.",
+   "speaker": "Rahul",
+   "line": "Haan, bas uska mood achha rakhna. Bahut smart hai.",
+   "fx": "none",
+   "say": "हाँ, बस उसका मूड अच्छा रखना। बहुत स्मार्ट है।"
+  },
+  {
+   "image": "[[Anya]] nodding confidently, holding the long instruction list. She winks playfully.",
+   "speaker": "Anya",
+   "line": "Don't worry, main sambhal lungi. Enjoy your dinner!",
+   "fx": "none",
+   "say": "डोंट वरी, मैं संभाल लूंगी। एंजॉय योर डिनर!"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] leaving, relief clear on their faces. The front door closing behind them.",
+   "speaker": "narrator",
+   "line": "Parents chale gaye. Ab bas Anya aur chhota Leo the.",
+   "fx": "none",
+   "say": "पेरेंट्स चले गए। अब बस अन्या और छोटा लियो थे।"
+  },
+  {
+   "image": "[[Anya]] walking into a perfectly organized nursery. [[Leo]] is sitting in his crib, looking stern, not smiling, holding a small, shiny 'tablet' toy.",
+   "speaker": "Anya",
+   "line": "Hello Leo! Kaise ho mere chhotu?",
+   "fx": "none",
+   "say": "हैलो लियो! कैसे हो मेरे छोटू?"
+  },
+  {
+   "image": "Close-up of [[Leo]]'s face, he slowly turns his head towards [[Anya]], a tiny, almost imperceptible smirk on his lips.",
+   "speaker": "Leo",
+   "line": "Ga-ga-goo! (Finally! She arrived. Let the games begin.)",
+   "fx": "none",
+   "say": "गा-गा-गू! (फाइनली! शी अराइव्ड। लेट द गेम्स बिगिन।)"
+  },
+  {
+   "image": "[[Anya]]'s eyes widen slightly. She heard his actual thought. She quickly composes herself.",
+   "speaker": "Anya",
+   "line": "Wait, did he just... talk? Like, really talk?",
+   "fx": "none",
+   "say": "वेट, डिड ही जस्ट... टॉक? लाइक, रियली टॉक?"
+  },
+  {
+   "image": "[[Leo]] making urgent babbling sounds, pointing his tiny finger towards a specific red block in a toy pile.",
+   "speaker": "Leo",
+   "line": "Baa-baa-boo! (Get the red block! Now! Don't dawdle.)",
+   "fx": "none",
+   "say": "बा-बा-बू! (गेट द रेड ब्लॉक! नाउ! डोंट ड्वॉडल।)"
+  },
+  {
+   "image": "[[Anya]] picking up the red block, looking confused. She thought she heard a command.",
+   "speaker": "Anya",
+   "line": "Okay, red block. Aisa laga jaise order de raha tha.",
+   "fx": "none",
+   "say": "ओके, रेड ब्लॉक। ऐसा लगा जैसे ऑर्डर दे रहा था।"
+  },
+  {
+   "image": "[[Leo]] on the floor, surrounded by toys, pointing to a 'mood chart' on the wall (with happy, sad, angry toy faces).",
+   "speaker": "Leo",
+   "line": "Goo-goo-gaa! (The happy toys go here! The sad ones there!)",
+   "fx": "none",
+   "say": "गू-गू-गा! (द हैप्पी टॉयज गो हियर! द सैड वन्स देअर!)"
+  },
+  {
+   "image": "[[Anya]] sorting toys by 'emotions', her eyebrows raised in disbelief. She's doing it, but looks puzzled.",
+   "speaker": "Anya",
+   "line": "Seriously? Toys ki feelings bhi samajhni padegi?",
+   "fx": "none",
+   "say": "सीरियसली? टॉयज की फीलिंग्स भी समझनी पड़ेगी?"
+  },
+  {
+   "image": "[[Leo]] crawling quickly towards the kitchen door, making determined babbling sounds.",
+   "speaker": "Leo",
+   "line": "Da-da-da! (Kitchen! Mission: secret snack patrol!)",
+   "fx": "none",
+   "say": "डा-डा-डा! (किचन! मिशन: सीक्रेट स्नैक पेट्रोल!)"
+  },
+  {
+   "image": "[[Anya]] following [[Leo]] into the kitchen, a mix of amusement and suspicion on her face. She sees him pointing to the top shelf.",
+   "speaker": "Anya",
+   "line": "Woh kya hai? Iske orders toh kuch alag hi hain.",
+   "fx": "none",
+   "say": "वो क्या है? इसके ऑर्डर्स तो कुछ अलग ही हैं।"
+  },
+  {
+   "image": "[[Leo]] in his high chair, banging his spoon, demanding something specific on the highest shelf. His expression is firm.",
+   "speaker": "Leo",
+   "line": "Goo-goo-gaga! (The sparkly banana chips! Only those!)",
+   "fx": "none",
+   "say": "गू-गू-गागा! (द स्पार्कली बनाना चिप्स! ओनली दोस!)"
+  },
+  {
+   "image": "[[Anya]] stretching to reach the top shelf, looking exasperated. The 'sparkly banana chips' are just regular banana chips.",
+   "speaker": "Anya",
+   "line": "Sparkly banana chips? Yeh toh normal waale hain na?",
+   "fx": "none",
+   "say": "स्पार्कली बनाना चिप्स? ये तो नॉर्मल वाले हैं ना?"
+  },
+  {
+   "image": "[[Leo]] pouting, shaking his head vehemently, refusing the regular chips. He crosses his arms.",
+   "speaker": "Leo",
+   "line": "Booh-booh! (No! Not shiny enough! You failed the test.)",
+   "fx": "none",
+   "say": "बू-बू! (नो! नॉट शाइनी इनफ! यू फेल्ड द टेस्ट।)"
+  },
+  {
+   "image": "[[Anya]] slumping against the counter, utterly defeated by the baby's precise snack demands. Her jaw drops slightly.",
+   "speaker": "Anya",
+   "line": "Mera dimaag ghum raha hai. Yeh kya ho raha hai?",
+   "fx": "none",
+   "say": "मेरा दिमाग घूम रहा है। ये क्या हो रहा है?"
+  },
+  {
+   "image": "[[Leo]] then points to the living room, specifically the remote control. His eyes are narrowed.",
+   "speaker": "Leo",
+   "line": "Baa-ga-boo! (Now, the TV remote. My stories are waiting.)",
+   "fx": "none",
+   "say": "बा-गा-बू! (नाउ, द टीवी रिमोट। माय स्टोरीज आर वेटिंग।)"
+  },
+  {
+   "image": "[[Anya]] handing him the remote, looking completely bewildered. He takes it with surprising dexterity.",
+   "speaker": "Anya",
+   "line": "Yeh toh kuch zyada hi control kar raha hai sab kuch.",
+   "fx": "none",
+   "say": "ये तो कुछ ज्यादा ही कंट्रोल कर रहा है सब कुछ।"
+  },
+  {
+   "image": "[[Leo]] on the floor, now using the remote. The TV screen (off-screen) shows a complex financial news channel, not cartoons.",
+   "speaker": "Leo",
+   "line": "Gaa-ga-goo! (The stock market report! Important stuff!)",
+   "fx": "none",
+   "say": "गा-गा-गू! (द स्टॉक मार्केट रिपोर्ट! इम्पोर्टेन्ट स्टफ!)"
+  },
+  {
+   "image": "[[Anya]] peeking at the TV, her eyes wide with shock. Financial news? From a baby?",
+   "speaker": "Anya",
+   "line": "Stocks? Yeh toh children's rhymes nahi hain!",
+   "fx": "none",
+   "say": "स्टॉक्स? ये तो चिल्ड्रन्स राइम्स नहीं हैं!"
+  },
+  {
+   "image": "[[Leo]] turns his head slowly, giving [[Anya]] a stern, almost disapproving look.",
+   "speaker": "Leo",
+   "line": "Boo-hoo-ga! (Silence! This is crucial data, Anya.)",
+   "fx": "none",
+   "say": "बू-हू-गा! (साइलेंस! दिस इज क्रूशियल डेटा, अन्या।)"
+  },
+  {
+   "image": "[[Anya]] looks genuinely scared, shrinking slightly. This baby is not messing around.",
+   "speaker": "Anya",
+   "line": "Okay, okay, sorry! Main chup rahungi. Boss, I mean Leo.",
+   "fx": "none",
+   "say": "ओके, ओके, सॉरी! मैं चुप रहूंगी। बॉस, आई मीन लियो।"
+  },
+  {
+   "image": "[[Leo]] then points to a vacuum cleaner in the corner, with an authoritative gesture.",
+   "speaker": "Leo",
+   "line": "Goo-goo-maa! (Clean up this mess! Now, swiftly.)",
+   "fx": "none",
+   "say": "गू-गू-मा! (क्लीन अप दिस मेस! नाउ, स्विफ्टली।)"
+  },
+  {
+   "image": "[[Anya]] hesitantly picks up the vacuum cleaner, her face a mask of confusion and slight fear. She was told just to babysit.",
+   "speaker": "Anya",
+   "line": "Babysitter ya house-help? Yeh toh totally confusing hai!",
+   "fx": "none",
+   "say": "बेबीसिटर या हाउस-हेल्प? ये तो टोटली कन्फ्यूजिंग है!"
+  },
+  {
+   "image": "While Anya is vacuuming, [[Leo]] secretly pulls a tiny, sleek tablet from under his high chair tray, hiding it from Anya.",
+   "speaker": "narrator",
+   "line": "Anya vacuum kar rahi thi, tabhi Leo ne kuch chhupaya.",
+   "fx": "none",
+   "say": "अन्या वैक्यूम कर रही थी, तभी लियो ने कुछ छुपाया।"
+  },
+  {
+   "image": "Close-up on [[Leo]]'s tiny fingers expertly swiping on the tablet screen. He looks intensely focused, a small headset on.",
+   "speaker": "Leo",
+   "line": "Goo-goo-gaa! (Confirm inventory update. Order more organic quinoa.)",
+   "fx": "none",
+   "say": "गू-गू-गा! (कन्फर्म इन्वेंटरी अपडेट। ऑर्डर मोर ऑर्गेनिक क्विनोआ।)"
+  },
+  {
+   "image": "[[Anya]] stops vacuuming, hearing a faint, high-pitched voice from Leo's direction. She slowly turns.",
+   "speaker": "Anya",
+   "line": "Yeh awaaz kahan se aa rahi hai? Aur quinoa?",
+   "fx": "none",
+   "say": "ये आवाज़ कहाँ से आ रही है? और क्विनोआ?"
+  },
+  {
+   "image": "[[Anya]] creeping closer to [[Leo]], who quickly shoves the tablet back under his high chair. He looks innocent again.",
+   "speaker": "Anya",
+   "line": "Leo, kya kar rahe the tum? Kuch sunai diya mujhe.",
+   "fx": "none",
+   "say": "लियो, क्या कर रहे थे तुम? कुछ सुनाई दिया मुझे।"
+  },
+  {
+   "image": "[[Leo]] gives [[Anya]] a wide, innocent smile, babbling sweetly, as if nothing happened. He holds a soft toy.",
+   "speaker": "Leo",
+   "line": "Dada-goo-goo! (Just playing with Mr. Bear, Anya.)",
+   "fx": "none",
+   "say": "दादा-गू-गू! (जस्ट प्लेइंग विद मिस्टर बेयर, अन्या।)"
+  },
+  {
+   "image": "[[Anya]]'s eyes narrow. She is suspicious. She glances at the high chair tray.",
+   "speaker": "Anya",
+   "line": "Mr. Bear, huh? Mujhe lagta hai Mr. Bear kuch aur hai.",
+   "fx": "none",
+   "say": "मिस्टर बेयर, हंह? मुझे लगता है मिस्टर बेयर कुछ और है।"
+  },
+  {
+   "image": "[[Anya]] pretends to be distracted, looking out the window, then quickly peeks under the high chair. Her eyes widen in shock.",
+   "speaker": "narrator",
+   "line": "Anya ne ek chance liya aur jhuk kar dekha.",
+   "fx": "none",
+   "say": "अन्या ने एक चांस लिया और झुक कर देखा।"
+  },
+  {
+   "image": "Close-up of a small, futuristic tablet hidden perfectly under the high chair tray. A spreadsheet is visible on its screen.",
+   "speaker": "narrator",
+   "line": "Wahan ek chhota, high-tech tablet tha!",
+   "fx": "none",
+   "say": "वहाँ एक छोटा, हाई-टेक टैबलेट था!"
+  },
+  {
+   "image": "[[Anya]]'s face, jaw dropped, eyes bugged out. Utter disbelief. She finally understands.",
+   "speaker": "Anya",
+   "line": "Oh my god! Yeh toh pura household manage kar raha hai!",
+   "fx": "none",
+   "say": "ओह माय गॉड! ये तो पूरा हाउसहोल्ड मैनेज कर रहा है!"
+  },
+  {
+   "image": "[[Leo]] on his high chair, his 'innocent' smile slowly fading as he realizes Anya saw the tablet. His eyes are now sharp.",
+   "speaker": "Leo",
+   "line": "Goo-goo-gaa? (You saw that, didn't you, Anya?)",
+   "fx": "none",
+   "say": "गू-गू-गा? (यू सॉ दैट, डिडन्ट यू, अन्या?)"
+  },
+  {
+   "image": "[[Anya]] pointing at the tablet, then at Leo, then at herself. Her expression is a mix of shock and dawning realization.",
+   "speaker": "Anya",
+   "line": "Tum... tum ho asli boss! Aur parents ko kuch nahi pata!",
+   "fx": "none",
+   "say": "तुम... तुम हो असली बॉस! और पेरेंट्स को कुछ नहीं पता!"
+  },
+  {
+   "image": "[[Leo]] sighs dramatically, rolling his eyes like an old man. He gestures for Anya to sit down.",
+   "speaker": "Leo",
+   "line": "Baa-ga-boo! (Of course! They're adorable, but clueless.)",
+   "fx": "none",
+   "say": "बा-गा-बू! (ऑफ कोर्स! दे आर अडोरेबल, बट क्लूलेस।)"
+  },
+  {
+   "image": "[[Anya]] sitting opposite Leo, still in shock. He leans forward conspiratorially.",
+   "speaker": "Leo",
+   "line": "Goo-goo-ma! (Now that you know, you're part of the team.)",
+   "fx": "none",
+   "say": "गू-गू-मा! (नाउ दैट यू नो, यू आर पार्ट ऑफ द टीम।)"
+  },
+  {
+   "image": "[[Anya]] looking from the tablet to Leo, a slow smile spreading across her face. This is incredible.",
+   "speaker": "Anya",
+   "line": "Team? Hum toh house-management kaafi kar lenge!",
+   "fx": "none",
+   "say": "टीम? हम तो हाउस-मैनेजमेंट काफ़ी कर लेंगे!"
+  },
+  {
+   "image": "[[Leo]] showing Anya a complex calendar on his tablet. It's full of appointments and tasks for the house.",
+   "speaker": "Leo",
+   "line": "Da-da-goo! (First, optimize the grocery budget. Project 'Banana Chips'.)",
+   "fx": "none",
+   "say": "डा-डा-गू! (फर्स्ट, ऑप्टिमाइज द ग्रोसरी बजट। प्रोजेक्ट 'बनाना चिप्स'।)"
+  },
+  {
+   "image": "[[Anya]] nodding enthusiastically, leaning in to see the tablet. Her initial fear replaced by excitement.",
+   "speaker": "Anya",
+   "line": "Banana chips mein sparkle add karte hain! Project 'Glittery Snacks'.",
+   "fx": "none",
+   "say": "बनाना चिप्स में स्पार्कल ऐड करते हैं! प्रोजेक्ट 'ग्लिटरी स्नैक्स'।"
+  },
+  {
+   "image": "[[Leo]] gives Anya a thumbs up, a rare, genuine smile on his face. He found a capable assistant.",
+   "speaker": "Leo",
+   "line": "Goo-goo-gaa! (Excellent! You're hired. Permanent position.)",
+   "fx": "none",
+   "say": "गू-गू-गा! (एक्सीलेंट! यू आर हायरर्ड। परमानेंट पोजीशन।)"
+  },
+  {
+   "image": "[[Anya]] and [[Leo]] side-by-side, both looking at the tablet intently, like co-CEOs, deep in discussion.",
+   "speaker": "narrator",
+   "line": "Aur aise shuru hui Anya aur Leo ki secret partnership.",
+   "fx": "none",
+   "say": "और ऐसे शुरू हुई अन्या और लियो की सीक्रेट पार्टनरशिप।"
+  },
+  {
+   "image": "A montage: [[Anya]] strategically placing a 'missing' toy for [[Leo]] to 'find' and give orders about. Both smiling.",
+   "speaker": "narrator",
+   "line": "Anya ne uske orders ko samjha aur uski help ki.",
+   "fx": "none",
+   "say": "अन्या ने उसके ऑर्डर्स को समझा और उसकी हेल्प की।"
+  },
+  {
+   "image": "Montage: [[Anya]] pretending to 'struggle' with a task, while [[Leo]] 'supervises' intently from his high chair, tablet glowing subtly.",
+   "speaker": "narrator",
+   "line": "Leo ne usse ghar ke saare raaz bataye.",
+   "fx": "none",
+   "say": "लियो ने उससे घर के सारे राज़ बताए।"
+  },
+  {
+   "image": "Montage: [[Anya]] and [[Leo]] share a secret high-five, looking sly, after 'successfully' reorganizing the pantry.",
+   "speaker": "narrator",
+   "line": "Unki bonding zabardast ho gayi thi.",
+   "fx": "none",
+   "say": "उनकी बॉन्डिंग ज़बरदस्त हो गई थी।"
+  },
+  {
+   "image": "Nighttime: [[Anya]] tucking [[Leo]] into bed. He's holding a small, disguised 'earpiece' in his hand, a tiny smile on his face.",
+   "speaker": "Leo",
+   "line": "Goo-goo-na! (Good night, Anya. Don't forget tomorrow's agenda.)",
+   "fx": "none",
+   "say": "गू-गू-ना! (गुड नाइट, अन्या। डोंट फॉरगेट टुमॉरोज़ एजेंडा।)"
+  },
+  {
+   "image": "[[Anya]] winking at [[Leo]], giving him a knowing nod. She feels like a co-manager, not just a babysitter.",
+   "speaker": "Anya",
+   "line": "Of course, boss! Kal subah milte hain.",
+   "fx": "none",
+   "say": "ऑफ कोर्स, बॉस! कल सुबह मिलते हैं।"
+  },
+  {
+   "image": "The front door opening. [[Priya]] and [[Rahul]] entering, looking tired but happy. [[Anya]] quickly hides her knowing smile.",
+   "speaker": "Priya",
+   "line": "Hum wapas aa gaye! Kaisa raha din, Anya?",
+   "fx": "none",
+   "say": "हम वापस आ गए! कैसा रहा दिन, अन्या?"
+  },
+  {
+   "image": "[[Anya]] puts on her innocent babysitter face, gesturing to the perfectly tidy living room. [[Leo]] is 'sleeping' in his crib.",
+   "speaker": "Anya",
+   "line": "Sab theek tha! Leo bahut sweet hai, so gaya.",
+   "fx": "none",
+   "say": "सब ठीक था! लियो बहुत स्वीट है, सो गया।"
+  },
+  {
+   "image": "[[Rahul]] smiling, looking around the clean house. He high-fives [[Anya]].",
+   "speaker": "Rahul",
+   "line": "Wow, ghar kitna saaf hai! Tum toh magic ho!",
+   "fx": "none",
+   "say": "वाह, घर कितना साफ़ है! तुम तो मैजिक हो!"
+  },
+  {
+   "image": "Close-up of [[Leo]] 'sleeping' in his crib, one eye subtly open, watching [[Anya]] with a triumphant smirk. The tiny headset is almost hidden.",
+   "speaker": "Leo",
+   "line": "Gaa-ga-goo! (Mission accomplished, Anya. Keep up the good work.)",
+   "fx": "none",
+   "say": "गा-गा-गू! (मिशन अकम्प्लिश्ड, अन्या। कीप अप द गुड वर्क।)"
+  },
+  {
+   "image": "[[Anya]] catching Leo's gaze, a secret understanding passing between them. She winks almost imperceptibly at him.",
+   "speaker": "Anya",
+   "line": "Ji sir! Aapke orders sir aankhon par!",
+   "fx": "none",
+   "say": "जी सर! आपके ऑर्डर्स सिर आँखों पर!"
+  },
+  {
+   "image": "[[Priya]] handing [[Anya]] payment, looking happy and oblivious.",
+   "speaker": "Priya",
+   "line": "Thank you so much! You're the best babysitter ever!",
+   "fx": "none",
+   "say": "थैंक यू सो मच! यू आर द बेस्ट बेबीसिटर एवर!"
+  },
+  {
+   "image": "[[Anya]] taking the money, but looking at [[Leo]] with a conspiratorial smirk. She has an inside joke now.",
+   "speaker": "Anya",
+   "line": "It's my pleasure! See you next time, I hope!",
+   "fx": "none",
+   "say": "इट्स माय प्लेज़र! सी यू नेक्स्ट टाइम, आई होप!"
+  },
+  {
+   "image": "[[Leo]] giving a tiny, almost royal nod from his crib. He already considers her indispensable.",
+   "speaker": "Leo",
+   "line": "Goo-goo-baa! (Indeed. My schedule demands your presence.)",
+   "fx": "none",
+   "say": "गू-गू-बा! (इंडीड़। माय शेड्यूल डिमांड्स योर प्रेज़ेंस।)"
+  },
+  {
+   "image": "[[Anya]] leaving the house, a huge, amused smile on her face. She feels a new kind of satisfaction.",
+   "speaker": "narrator",
+   "line": "Anya jaante thi ki uska next shift bahut busy hoga.",
+   "fx": "none",
+   "say": "अन्या जानते थी कि उसका नेक्स्ट शिफ्ट बहुत बिजी होगा।"
+  },
+  {
+   "image": "Close-up of [[Priya]] and [[Rahul]] looking at their sleeping baby, completely unaware of his secret life. They look loving.",
+   "speaker": "Priya",
+   "line": "Kitna masoom hai na? Din bhar bas khelta hai.",
+   "fx": "none",
+   "say": "कितना मासूम है ना? दिन भर बस खेलता है।"
+  },
+  {
+   "image": "[[Rahul]] nodding, oblivious. He gently pats Leo's head.",
+   "speaker": "Rahul",
+   "line": "Haan, chhota sa cute baccha! Ghar mein aur kya karta hoga.",
+   "fx": "none",
+   "say": "हाँ, छोटा सा क्यूट बच्चा! घर में और क्या करता होगा।"
+  },
+  {
+   "image": "Zoom out to show the entire living room. The blueprints are still on the coffee table, next to the baby bottle.",
+   "speaker": "narrator",
+   "line": "Par Leo ka 'khel' toh bahut bada tha.",
+   "fx": "none",
+   "say": "पर लियो का 'खेल' तो बहुत बड़ा था।"
+  },
+  {
+   "image": "Close-up on the blueprints on the coffee table: they are detailed floor plans, with 'PROJECT LEO: PHASE 2' written on them.",
+   "speaker": "narrator",
+   "line": "Woh toh pura ghar chala raha tha!",
+   "fx": "none",
+   "say": "वो तो पूरा घर चला रहा था!"
+  },
+  {
+   "image": "[[Anya]] walking away from the house, looking back with a knowing, conspiratorial smile. She's found her calling.",
+   "speaker": "Anya",
+   "line": "Kaun kehta hai babies sirf rote hain? Yeh toh business karte hain!",
+   "fx": "none",
+   "say": "कौन कहता है बेबीज सिर्फ रोते हैं? ये तो बिजनेस करते हैं!"
+  },
+  {
+   "image": "[[Leo]] in his crib, looking directly at the camera with a sly, confident wink. The tiny tablet briefly flashes under his high chair.",
+   "speaker": "Leo",
+   "line": "Goo-goo-gaa! (Don't tell anyone, okay? It's our secret!)",
+   "fx": "none",
+   "say": "गू-गू-गा! (डोंट टेल एनीवन, ओके? इट्स आवर सीक्रेट!)"
+  },
+  {
+   "image": "Close-up on a notepad on the kitchen counter, where 'Today's Agenda' is written in neat adult handwriting, but with tiny, careful baby hand-drawn stars next to each task.",
+   "speaker": "narrator",
+   "line": "Anya ne finally asli ghar ka boss dhund liya tha.",
+   "fx": "none",
+   "say": "अन्या ने फाइनली असली घर का बॉस ढूंढ लिया था।"
+  },
+  {
+   "image": "[[Anya]]'s face, a wide grin. She holds up a tiny gold star sticker, looking proud.",
+   "speaker": "Anya",
+   "line": "Promotion mil gaya! Assistant Manager of Chaos, I mean, Home!",
+   "fx": "none",
+   "say": "प्रमोशन मिल गया! असिस्टेंट मैनेजर ऑफ केओस, आई मीन, होम!"
+  },
+  {
+   "image": "[[Leo]] on his high chair, looking at a wall calendar with a tiny pen, meticulously ticking off tasks. He looks very serious.",
+   "speaker": "Leo",
+   "line": "Goo-goo-gaa! (Next on the agenda: parental supervision. They need guidance.)",
+   "fx": "none",
+   "say": "गू-गू-गा! (नेक्स्ट ऑन द एजेंडा: पैरेंटल सुपरविजन। दे नीड गाइडेंस।)"
+  },
+  {
+   "image": "[[Anya]] peeking around the corner, trying to stifle her laughter. She can't believe this baby.",
+   "speaker": "Anya",
+   "line": "Parents ko guidance? Yeh toh next level hai!",
+   "fx": "none",
+   "say": "पेरेंट्स को गाइडेंस? ये तो नेक्स्ट लेवल है!"
+  },
+  {
+   "image": "A wide shot of the living room, clean and organized. The parents are on the sofa, scrolling phones, completely oblivious.",
+   "speaker": "narrator",
+   "line": "Unhe kya pata, unka chhota sa beta mastermind hai.",
+   "fx": "none",
+   "say": "उन्हें क्या पता, उनका छोटा सा बेटा मास्टरमाइंड है।"
+  },
+  {
+   "image": "Close-up on [[Leo]]'s tablet, which now shows a 'performance review' for his parents, with green checkmarks for 'Loving' and red crosses for 'Awareness'.",
+   "speaker": "Leo",
+   "line": "Boo-hoo-gaa! (Still needs improvement in 'Following Directives'.)",
+   "fx": "none",
+   "say": "बू-हू-गा! (स्टिल नीड्स इम्प्रूवमेंट इन 'फॉलोइंग डायरेक्टिव्स'।)"
+  },
+  {
+   "image": "[[Anya]] shaking her head, smiling fondly at the scene. She grabs a snack for herself.",
+   "speaker": "Anya",
+   "line": "Sabko lagta hai baby innocent hai. Par yeh toh CEO hai!",
+   "fx": "none",
+   "say": "सबको लगता है बेबी इनोसेंट है। पर ये तो सीईओ है!"
+  },
+  {
+   "image": "[[Leo]] looking at [[Anya]] with a very serious, calculating expression, as if assessing her loyalty.",
+   "speaker": "Leo",
+   "line": "Goo-goo-ma! (Remember, Anya. Loose lips sink ships. And high chairs.)",
+   "fx": "none",
+   "say": "गू-गू-मा! (रिमेंबर, अन्या। लूज़ लिप्स सिंक शिप्स। एंड हाई चेयर्स।)"
+  },
+  {
+   "image": "[[Anya]] puts a finger to her lips, making a zipping motion. She totally gets it.",
+   "speaker": "Anya",
+   "line": "My lips are sealed, Leo. Your secret is safe with me.",
+   "fx": "none",
+   "say": "माय लिप्स आर सील्ड, लियो। योर सीक्रेट इज सेफ विथ मी।"
+  },
+  {
+   "image": "[[Leo]] giving a tiny nod of approval, then going back to his tablet. The 'Project Leo' blueprints are visible on a side table.",
+   "speaker": "narrator",
+   "line": "Anya ko uska naya role mil gaya tha.",
+   "fx": "none",
+   "say": "अन्या को उसका नया रोल मिल गया था।"
+  },
+  {
+   "image": "[[Anya]] walking past the parents, who are still oblivious. She winks at the camera.",
+   "speaker": "Anya",
+   "line": "Next time when a baby cries, maybe he's just giving orders!",
+   "fx": "none",
+   "say": "नेक्स्ट टाइम व्हेन अ बेबी क्राइज, मेबी ही इज जस्ट गिविंग ऑर्डर्स!"
+  },
+  {
+   "image": "Close-up of [[Leo]]'s tiny feet dangling from his high chair. He's wearing tiny, perfectly polished shoes.",
+   "speaker": "narrator",
+   "line": "Ghar ka asli boss toh wahi tha.",
+   "fx": "none",
+   "say": "घर का असली बॉस तो वही था।"
+  },
+  {
+   "image": "[[Anya]] leaving the house, looking over her shoulder with a playful smile. She has a tiny badge on her sweater that says 'Assistant Manager'.",
+   "speaker": "Anya",
+   "line": "Toh aapko kya lagta hai, ghar ka asli boss kaun tha?",
+   "fx": "none",
+   "say": "तो आपको क्या लगता है, घर का असली बॉस कौन था?"
+  }
+ ],
+ "caption": "This Babysitter Understood Baby Talk... And Found A Secret!",
+ "slug": "2026-11-02_part2",
+ "story_no": 18,
+ "yt_title": "This Babysitter Understood Baby Talk... And Found A Secret!",
+ "description": "This new babysitter thought she just had to watch a cute baby, but he had other plans.\nShe understood his babbling and uncovered his shocking little secret!\nWho do YOU think is the real boss of the house?",
+ "comment_question": "Who do YOU think is the real boss of the house?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnycartoons",
+  "#babysitting",
+  "#babyboss",
+  "#relatablecomedy",
+  "#comedy",
+  "#indiangirl",
+  "#shortstory",
+  "#unexpectedtwist",
+  "#cutebaby"
+ ]
+}
