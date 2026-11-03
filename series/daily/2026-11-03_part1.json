@@ -1,0 +1,645 @@
+{
+ "series": "The Lion's Secret Echo",
+ "episode": 1,
+ "title": "The Lion's Secret Echo",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, a young woman in her early twenties, fair skin, long soft wavy dark-brown hair, expressive eyes, kind smile. Wears a light blue floral kurta and simple silver earrings. Natural makeup.",
+   "voice": "hindi_female_young"
+  },
+  "Raj": {
+   "look": "An old, majestic African lion. Muzzle slightly greyed, wise, profoundly sad eyes. Powerful build but moves slowly.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Meera": {
+   "look": "Kind middle-aged woman, fair skin, practical, wears a green zoo uniform with a name tag.",
+   "voice": "hindi_narrator_female"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "I HEAR SECRETS...",
+ "scenes": [
+  {
+   "image": "Close-up of Priya, thoughtful, slightly wistful smile, looking directly at camera, soft lighting on her face.",
+   "speaker": "narrator",
+   "line": "Main secrets sun sakti hoon, jo koi nahi sunta.",
+   "fx": "none",
+   "sub": "I can hear secrets no one else can.",
+   "say": "मैं सीक्रेट्स सुन सकती हूँ, जो कोई नहीं सुनता।"
+  },
+  {
+   "image": "Priya sitting on a park bench, a squirrel chattering happily on a tree branch nearby, she smiles gently at it.",
+   "speaker": "narrator",
+   "line": "Animals mujhse apni baatein karte hain, always.",
+   "fx": "none",
+   "sub": "Animals always talk to me about their feelings.",
+   "say": "एनिमल्स मुझसे अपनी बातें करते हैं, आलवेज़।"
+  },
+  {
+   "image": "Priya walking through a bustling zoo entrance, looking excited, sunlight dappling through trees.",
+   "speaker": "narrator",
+   "line": "Par zoo mein, ek alag hi kahani mili mujhe.",
+   "fx": "none",
+   "sub": "But at the zoo, I found a different story.",
+   "say": "पर ज़ू में, एक अलग ही कहानी मिली मुझे।"
+  },
+  {
+   "image": "Wide shot of a spacious but contained lion enclosure, with rock formations and a small pool.",
+   "speaker": "narrator",
+   "line": "Wahan tha Raj, ek bohot purana aur majestic lion.",
+   "fx": "none",
+   "sub": "There was Raj, a very old and majestic lion.",
+   "say": "वहाँ था राज, एक बहुत पुराना और मैजेस्टिक लायन।"
+  },
+  {
+   "image": "Close-up of Raj [[Raj]] lying down, head on paws, eyes looking distant and profoundly sad, a fly buzzing nearby.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein bohot gehri udasi thi.",
+   "fx": "none",
+   "sub": "There was deep sadness in his eyes.",
+   "say": "उसकी आँखों में बहुत गहरी उदासी थी।"
+  },
+  {
+   "image": "Priya [[narrator]] standing near the enclosure barrier, looking at Raj with concern, a frown on her face.",
+   "speaker": "narrator",
+   "line": "Uska dard, main apne dil mein mehsoos kar rahi thi.",
+   "fx": "none",
+   "sub": "His pain, I felt it in my heart.",
+   "say": "उसका दर्द, मैं अपने दिल में महसूस कर रही थी।"
+  },
+  {
+   "image": "Raj [[Raj]] lifts his head slowly, looking directly at Priya, a glimmer of something in his eyes.",
+   "speaker": "narrator",
+   "line": "Uski awaaz mere andar goonj rahi thi, par dhundli.",
+   "fx": "none",
+   "sub": "His voice echoed inside me, but it was muffled.",
+   "say": "उसकी आवाज़ मेरे अंदर गूँज रही थी, पर धुंधली।"
+  },
+  {
+   "image": "Priya [[narrator]] takes a step closer, hand gently resting on the railing, eyes fixed on Raj.",
+   "speaker": "narrator",
+   "line": "Mujhe uski baat poori sunni thi, uska raaz.",
+   "fx": "none",
+   "sub": "I needed to hear his full story, his secret.",
+   "say": "मुझे उसकी बात पूरी सुननी थी, उसका राज़।"
+  },
+  {
+   "image": "Raj [[Raj]] lets out a soft, mournful sigh, almost like a whimper, then lowers his head again.",
+   "speaker": "Raj",
+   "line": "Akelepan... woh bachcha... meri galti...",
+   "fx": "none",
+   "sub": "Loneliness... that child... my mistake...",
+   "say": "अकेलेपन... वो बच्चा... मेरी गलती..."
+  },
+  {
+   "image": "Priya [[narrator]] looks shocked, her hand flying to her mouth, eyes wide with understanding and alarm.",
+   "speaker": "narrator",
+   "line": "Bachcha? Galti? Kya keh raha tha woh?",
+   "fx": "none",
+   "sub": "Child? Mistake? What was he saying?",
+   "say": "बच्चा? गलती? क्या कह रहा था वो?"
+  },
+  {
+   "image": "Priya [[narrator]] approaches Meera [[Meera]], the zookeeper, who is cleaning nearby.",
+   "speaker": "narrator",
+   "line": "Maine Meera Aunty se Raj ke baare mein poocha.",
+   "fx": "none",
+   "sub": "I asked Meera Aunty about Raj.",
+   "say": "मैंने मीरा आंटी से राज के बारे में पूछा।"
+  },
+  {
+   "image": "Meera [[Meera]] smiles sadly, wiping her hands on her uniform.",
+   "speaker": "Meera",
+   "line": "Raj bohot saalon pehle rescue hua tha jungle se.",
+   "fx": "none",
+   "sub": "Raj was rescued from the jungle many years ago.",
+   "say": "राज बहुत सालों पहले रेस्क्यू हुआ था जंगल से।"
+  },
+  {
+   "image": "Meera [[Meera]] gestures vaguely towards Raj, a pensive look on her face.",
+   "speaker": "Meera",
+   "line": "Uski family thi wahan, par alag ho gaya.",
+   "fx": "none",
+   "sub": "He had a family there, but got separated.",
+   "say": "उसकी फैमिली थी वहाँ, पर अलग हो गया।"
+  },
+  {
+   "image": "Priya [[narrator]] listens intently, nodding, her gaze drifting back to Raj.",
+   "speaker": "narrator",
+   "line": "Par udasi uski sirf family loss ki nahi thi.",
+   "fx": "none",
+   "sub": "But his sadness wasn't just from family loss.",
+   "say": "पर उदासी उसकी सिर्फ फैमिली लॉस की नहीं थी।"
+  },
+  {
+   "image": "Close-up of Raj [[Raj]] shifting restlessly, his eyes darting around the enclosure, then settling on Priya.",
+   "speaker": "Raj",
+   "line": "Woh din... jungle mein... woh chhota sa chehra.",
+   "fx": "none",
+   "sub": "That day... in the jungle... that little face.",
+   "say": "वो दिन... जंगल में... वो छोटा सा चेहरा।"
+  },
+  {
+   "image": "Priya [[narrator]] closes her eyes for a moment, concentrating, trying to piece together the whispers.",
+   "speaker": "narrator",
+   "line": "Mujhe aur sunna tha, uske past mein kya hua tha.",
+   "fx": "none",
+   "sub": "I needed to hear more, what happened in his past.",
+   "say": "मुझे और सुनना था, उसके पास्ट में क्या हुआ था।"
+  },
+  {
+   "image": "Priya [[narrator]] visits the zoo daily, sitting quietly by Raj's enclosure, watching him.",
+   "speaker": "narrator",
+   "line": "Har din, main uske paas jaati, usse sunne.",
+   "fx": "none",
+   "sub": "Every day, I went to him, to listen.",
+   "say": "हर दिन, मैं उसके पास जाती, उससे सुनने।"
+  },
+  {
+   "image": "Raj [[Raj]] slowly approaches the barrier, looking at Priya with growing curiosity, less guarded.",
+   "speaker": "narrator",
+   "line": "Dheere-dheere, usne mujh par trust karna shuru kiya.",
+   "fx": "none",
+   "sub": "Slowly, he started to trust me.",
+   "say": "धीरे-धीरे, उसने मुझ पर ट्रस्ट करना शुरू किया।"
+  },
+  {
+   "image": "Close-up of Priya [[narrator]] smiling gently at Raj, a bond forming between them.",
+   "speaker": "narrator",
+   "line": "Uski awaaz ab clearer ho rahi thi, dil cheerne wali.",
+   "fx": "none",
+   "sub": "His voice was becoming clearer now, heartbreaking.",
+   "say": "उसकी आवाज़ अब क्लियर हो रही थी, दिल चीरने वाली।"
+  },
+  {
+   "image": "Raj [[Raj]] rubs his head gently against the metal fence near Priya, his eyes still sad but softer.",
+   "speaker": "Raj",
+   "line": "Woh bachcha... woh akela tha... main tha wahan.",
+   "fx": "none",
+   "sub": "That child... he was alone... I was there.",
+   "say": "वो बच्चा... वो अकेला था... मैं था वहाँ।"
+  },
+  {
+   "image": "Priya [[narrator]] gasps softly, a hand over her mouth, understanding dawning.",
+   "speaker": "narrator",
+   "line": "Ek bachcha jungle mein? Raj ne kya kiya?",
+   "fx": "none",
+   "sub": "A child in the jungle? What did Raj do?",
+   "say": "एक बच्चा जंगल में? राज ने क्या किया?"
+  },
+  {
+   "image": "Raj [[Raj]] pulls back slightly, a flicker of fear and guilt in his eyes.",
+   "speaker": "Raj",
+   "line": "Main usse bachana chahta tha, par... pakad liya.",
+   "fx": "none",
+   "sub": "I wanted to save him, but... I was caught.",
+   "say": "मैं उसे बचाना चाहता था, पर... पकड़ लिया।"
+  },
+  {
+   "image": "Priya [[narrator]] looks determined, pulling out her phone and searching for old news articles.",
+   "speaker": "narrator",
+   "line": "Mujhe uski kahani ka sach pata karna hi tha.",
+   "fx": "none",
+   "sub": "I had to find the truth of his story.",
+   "say": "मुझे उसकी कहानी का सच पता करना ही था।"
+  },
+  {
+   "image": "Close-up of Priya's phone screen, showing a blurry old newspaper headline: 'Child Lost in Forest, Lion Sighting'.",
+   "speaker": "narrator",
+   "line": "Mili mujhe ek purani news, ek missing bachche ki.",
+   "fx": "none",
+   "sub": "I found an old news article, about a missing child.",
+   "say": "मिली मुझे एक पुरानी न्यूज़, एक मिसिंग बच्चे की।"
+  },
+  {
+   "image": "Priya [[narrator]] looks at the screen with intense focus, scrolling through search results.",
+   "speaker": "narrator",
+   "line": "Rescuers ne Raj ko pakda tha, bachcha mila tha.",
+   "fx": "none",
+   "sub": "Rescuers caught Raj, the child was found.",
+   "say": "रेस्क्यूअर्स ने राज को पकड़ा था, बच्चा मिला था।"
+  },
+  {
+   "image": "Raj [[Raj]] paces restlessly in his enclosure, head down, appearing deeply troubled.",
+   "speaker": "Raj",
+   "line": "Us din... main theek se protect nahi kar paya.",
+   "fx": "none",
+   "sub": "That day... I couldn't protect him properly.",
+   "say": "उस दिन... मैं ठीक से प्रोटेक्ट नहीं कर पाया।"
+  },
+  {
+   "image": "Priya [[narrator]] reads another article on her phone, her brow furrowed in concentration.",
+   "speaker": "narrator",
+   "line": "Logon ne socha lion ne bachche par attack kiya.",
+   "fx": "none",
+   "sub": "People thought the lion attacked the child.",
+   "say": "लोगों ने सोचा लायन ने बच्चे पर अटैक किया।"
+  },
+  {
+   "image": "Close-up of Priya's face, a look of dawning horror and injustice.",
+   "speaker": "narrator",
+   "line": "Par Raj ki awaaz kuch aur hi keh rahi thi.",
+   "fx": "none",
+   "sub": "But Raj's voice was saying something else.",
+   "say": "पर राज की आवाज़ कुछ और ही कह रही थी।"
+  },
+  {
+   "image": "Priya [[narrator]] visits the zoo archives, a dusty room, looking through old documents.",
+   "speaker": "narrator",
+   "line": "Mujhe aur detail chahiye thi, ek-ek word.",
+   "fx": "none",
+   "sub": "I needed more details, every single word.",
+   "say": "मुझे और डिटेल चाहिए थी, एक-एक वर्ड।"
+  },
+  {
+   "image": "Priya [[narrator]] finds a faded report, pointing to a section about 'protective animal behavior'.",
+   "speaker": "narrator",
+   "line": "Ek old forest report mili, kuch alag likha tha.",
+   "fx": "none",
+   "sub": "I found an old forest report, something different was written.",
+   "say": "एक ओल्ड फॉरेस्ट रिपोर्ट मिली, कुछ अलग लिखा था।"
+  },
+  {
+   "image": "Close-up of the report, words like 'child unharmed', 'lion kept other predators away' visible.",
+   "speaker": "narrator",
+   "line": "Raj ne us bachche ko protect kiya tha! Hero tha woh!",
+   "fx": "none",
+   "sub": "Raj protected that child! He was a hero!",
+   "say": "राज ने उस बच्चे को प्रोटेक्ट किया था! हीरो था वो!"
+  },
+  {
+   "image": "Priya [[narrator]] looks up from the report, tears welling in her eyes, overcome with emotion.",
+   "speaker": "narrator",
+   "line": "Kitni badi galatfehmi, kitna dard Raj ne jhela.",
+   "fx": "none",
+   "sub": "What a huge misunderstanding, how much pain Raj endured.",
+   "say": "कितनी बड़ी गलतफ़हमी, कितना दर्द राज ने झेला।"
+  },
+  {
+   "image": "Priya [[narrator]] is now determined, making phone calls, searching social media intensely.",
+   "speaker": "narrator",
+   "line": "Mujhe us bachche ko dhoondhna tha, ab woh bada hoga.",
+   "fx": "none",
+   "sub": "I had to find that child, he would be grown now.",
+   "say": "मुझे उस बच्चे को ढूँढना था, अब वो बड़ा होगा।"
+  },
+  {
+   "image": "Close-up of Priya's computer screen, showing a profile picture of a young man, 'Aarav Sharma'.",
+   "speaker": "narrator",
+   "line": "Aur finally, mujhe woh mil gaya - Aarav Sharma.",
+   "fx": "none",
+   "sub": "And finally, I found him - Aarav Sharma.",
+   "say": "और फाइनली, मुझे वो मिल गया - आरव शर्मा।"
+  },
+  {
+   "image": "A split screen: one side Raj [[Raj]] looking mournful, the other side a photo of a smiling Aarav.",
+   "speaker": "narrator",
+   "line": "Ek ka dard, doosre ki anjaan khushi.",
+   "fx": "none",
+   "sub": "One's pain, the other's unknown happiness.",
+   "say": "एक का दर्द, दूसरे की अनजान खुशी।"
+  },
+  {
+   "image": "Priya [[narrator]] quickly arranges a video call with Aarav, looking anxious.",
+   "speaker": "narrator",
+   "line": "Maine use sari kahani batayi, Raj ke baare mein.",
+   "fx": "none",
+   "sub": "I told him the whole story, about Raj.",
+   "say": "मैंने उसे सारी कहानी बताई, राज के बारे में।"
+  },
+  {
+   "image": "Priya [[narrator]] stands by Raj's enclosure, holding her phone, a video call active with Aarav.",
+   "speaker": "narrator",
+   "line": "Aur phir, woh pal aaya, jiska intezaar tha.",
+   "fx": "none",
+   "sub": "And then, the moment arrived, I was waiting for.",
+   "say": "और फिर, वो पल आया, जिसका इंतज़ार था।"
+  },
+  {
+   "image": "Priya [[narrator]] holds her phone towards Raj [[Raj]], showing Aarav's smiling face on video call.",
+   "speaker": "narrator",
+   "line": "Dekho Raj, yeh hai Aarav, bilkul safe aur khush.",
+   "fx": "none",
+   "sub": "Look Raj, this is Aarav, perfectly safe and happy.",
+   "say": "देखो राज, ये है आरव, बिलकुल सेफ और खुश।"
+  },
+  {
+   "image": "Close-up of Raj [[Raj]]'s eyes, wide with disbelief and then a profound, trembling relief.",
+   "speaker": "Raj",
+   "line": "Aarav... woh... sahi hai...?",
+   "fx": "none",
+   "sub": "Aarav... he... is okay...?",
+   "say": "आरव... वो... सही है...?"
+  },
+  {
+   "image": "On the phone screen, Aarav waves and smiles, speaking to Raj through Priya's phone.",
+   "speaker": "narrator",
+   "line": "Thank you, mere sher. Tumne meri jaan bachayi thi.",
+   "fx": "none",
+   "sub": "Thank you, my lion. You saved my life.",
+   "say": "थैंक यू, मेरे शेर। तुमने मेरी जान बचाई थी।"
+  },
+  {
+   "image": "Raj [[Raj]] nuzzles the phone, a soft, purring sound, tears visibly forming in his ancient eyes.",
+   "speaker": "Raj",
+   "line": "Maine usse protect kiya... maine sach mein kiya.",
+   "fx": "none",
+   "sub": "I protected him... I really did.",
+   "say": "मैंने उसे प्रोटेक्ट किया... मैंने सच में किया।"
+  },
+  {
+   "image": "Priya [[narrator]] gently strokes Raj's head through the bars, her own eyes filled with tears of joy.",
+   "speaker": "narrator",
+   "line": "Haan Raj, tum hero ho, ek saccha protector.",
+   "fx": "none",
+   "sub": "Yes Raj, you are a hero, a true protector.",
+   "say": "हाँ राज, तुम हीरो हो, एक सच्चा प्रोटेक्टर।"
+  },
+  {
+   "image": "Raj [[Raj]] finally lies down, but this time with a peaceful expression, eyes closed, a faint smile.",
+   "speaker": "narrator",
+   "line": "Saalon ka bojh, finally uske dil se utar gaya.",
+   "fx": "none",
+   "sub": "Years of burden, finally lifted from his heart.",
+   "say": "सालों का बोझ, फाइनली उसके दिल से उतर गया।"
+  },
+  {
+   "image": "Priya [[narrator]] sits beside the enclosure, watching Raj, a serene smile on her face.",
+   "speaker": "narrator",
+   "line": "Uski udasi ki jagah ab sukoon tha, sachai ka sukoon.",
+   "fx": "none",
+   "sub": "In place of sadness, there was peace, the peace of truth.",
+   "say": "उसकी उदासी की जगह अब सुकून था, सच्चाई का सुकून।"
+  },
+  {
+   "image": "Meera [[Meera]] walks by, notices Raj's peaceful demeanor and Priya's happy face, smiles curiously.",
+   "speaker": "narrator",
+   "line": "Koi nahi samajh paya, kya hua tha.",
+   "fx": "none",
+   "sub": "No one understood what had happened.",
+   "say": "कोई नहीं समझ पाया, क्या हुआ था।"
+  },
+  {
+   "image": "Close-up of Raj [[Raj]]'s face, now calm, eyes looking towards the sky, no longer sad.",
+   "speaker": "narrator",
+   "line": "Par Raj ko apni sacchai mil gayi thi.",
+   "fx": "none",
+   "sub": "But Raj had found his truth.",
+   "say": "पर राज को अपनी सच्चाई मिल गई थी।"
+  },
+  {
+   "image": "Priya [[narrator]] looks at the camera, a thoughtful, compassionate expression.",
+   "speaker": "narrator",
+   "line": "Har awaaz mein ek kahani hoti hai, sunne wala chahiye.",
+   "fx": "none",
+   "sub": "Every voice has a story, it just needs a listener.",
+   "say": "हर आवाज़ में एक कहानी होती है, सुनने वाला चाहिए।"
+  },
+  {
+   "image": "Priya [[narrator]] closes her eyes, a gentle breeze rustling her hair, lost in thought.",
+   "speaker": "narrator",
+   "line": "Kya aap bhi kabhi kisi ki unsuni kahani sunenge?",
+   "fx": "none",
+   "sub": "Would you also listen to someone's unheard story?",
+   "say": "क्या आप भी कभी किसी की अनसुनी कहानी सुनेंगे?"
+  },
+  {
+   "image": "Priya [[narrator]] looks directly at the camera with a warm, inviting smile, soft sunlight on her face.",
+   "speaker": "narrator",
+   "line": "Kyunki sabhi ke paas kehne ko kuch hota hai.",
+   "fx": "none",
+   "sub": "Because everyone has something to say.",
+   "say": "क्योंकि सभी के पास कहने को कुछ होता है।"
+  },
+  {
+   "image": "Close-up on Raj [[Raj]]'s eyes, no longer clouded with sorrow, but peaceful and wise.",
+   "speaker": "Raj",
+   "line": "Shanti... aakhir mil hi gayi.",
+   "fx": "none",
+   "sub": "Peace... finally found.",
+   "say": "शांति... आखिर मिल ही गयी।"
+  },
+  {
+   "image": "Priya [[narrator]] smiles, looking from Raj to the camera.",
+   "speaker": "narrator",
+   "line": "Yeh thi Raj ki kahani, jo main sun saki.",
+   "fx": "none",
+   "sub": "This was Raj's story, which I could hear.",
+   "say": "यह थी राज की कहानी, जो मैं सुन सकी।"
+  },
+  {
+   "image": "Wide shot of Priya [[narrator]] walking away from the enclosure, turning back one last time to smile at Raj.",
+   "speaker": "narrator",
+   "line": "Aur uski aankhon mein ab sirf sukoon tha.",
+   "fx": "none",
+   "sub": "And in his eyes, there was now only peace.",
+   "say": "और उसकी आँखों में अब सिर्फ सुकून था।"
+  },
+  {
+   "image": "Priya [[narrator]] holds her hand to her heart, a deeply satisfied expression.",
+   "speaker": "narrator",
+   "line": "Kitna zaruri hai, kisi ke dard ko samajhna.",
+   "fx": "none",
+   "sub": "How important it is, to understand someone's pain.",
+   "say": "कितना ज़रूरी है, किसी के दर्द को समझना।"
+  },
+  {
+   "image": "A close up of Raj [[Raj]] sleeping soundly, a gentle breeze rustling the leaves nearby.",
+   "speaker": "narrator",
+   "line": "Raj ki nind ab gehri aur shaant thi.",
+   "fx": "none",
+   "sub": "Raj's sleep was now deep and peaceful.",
+   "say": "राज की नींद अब गहरी और शांत थी।"
+  },
+  {
+   "image": "Priya [[narrator]] is walking through the zoo, looking contemplative, her gift a heavy but rewarding burden.",
+   "speaker": "narrator",
+   "line": "Duniya mein kitne aise raaz chhipe hain?",
+   "fx": "none",
+   "sub": "How many such secrets are hidden in the world?",
+   "say": "दुनिया में कितने ऐसे राज़ छिपे हैं?"
+  },
+  {
+   "image": "Priya [[narrator]] pauses, looking at a small bird chirping on a branch, a soft smile.",
+   "speaker": "narrator",
+   "line": "Har jeev ki apni ek awaaz hoti hai.",
+   "fx": "none",
+   "sub": "Every creature has its own voice.",
+   "say": "हर जीव की अपनी एक आवाज़ होती है।"
+  },
+  {
+   "image": "Priya [[narrator]] looks at the camera with a knowing look, then winks playfully.",
+   "speaker": "narrator",
+   "line": "Bas sunne ki zaroorat hoti hai.",
+   "fx": "none",
+   "sub": "It just needs to be heard.",
+   "say": "बस सुनने की ज़रूरत होती है।"
+  },
+  {
+   "image": "A beautiful shot of the sun setting over the zoo, casting long shadows, hinting at the end of the day.",
+   "speaker": "narrator",
+   "line": "Raj ki kahani ne mujhe bahut kuch sikhaya.",
+   "fx": "none",
+   "sub": "Raj's story taught me a lot.",
+   "say": "राज की कहानी ने मुझे बहुत कुछ सिखाया।"
+  },
+  {
+   "image": "Priya [[narrator]] turns to walk away, a confident stride, looking over her shoulder one last time.",
+   "speaker": "narrator",
+   "line": "Kahan hai aapki unsuni kahani?",
+   "fx": "none",
+   "sub": "Where is your unheard story?",
+   "say": "कहाँ है आपकी अनसुनी कहानी?"
+  },
+  {
+   "image": "Close-up of Priya's [[narrator]] hand, holding a small silver locket, symbolic of secrets.",
+   "speaker": "narrator",
+   "line": "Kya aap bhi kisi ka raaz sunna chahte ho?",
+   "fx": "none",
+   "sub": "Do you also want to hear someone's secret?",
+   "say": "क्या आप भी किसी का राज़ सुनना चाहते हो?"
+  },
+  {
+   "image": "Priya [[narrator]] looks directly into the camera, a final compelling gaze.",
+   "speaker": "narrator",
+   "line": "Batao, kaun si kahani aapko sunni hai?",
+   "fx": "none",
+   "sub": "Tell me, which story do you want to hear?",
+   "say": "बताओ, कौन सी कहानी आपको सुननी है?"
+  },
+  {
+   "image": "Raj [[Raj]] lifts his head, lets out a soft, contented sigh, looking towards Priya with gratitude.",
+   "speaker": "Raj",
+   "line": "Azaad... ab main azaad hoon.",
+   "fx": "none",
+   "sub": "Free... now I am free.",
+   "say": "आज़ाद... अब मैं आज़ाद हूँ।"
+  },
+  {
+   "image": "Priya [[narrator]] smiles brightly, a genuine, joyful expression, looking at Raj.",
+   "speaker": "narrator",
+   "line": "Aapki ruh ko sukoon mil gaya, Raj.",
+   "fx": "none",
+   "sub": "Your soul found peace, Raj.",
+   "say": "आपकी रूह को सुकून मिल गया, राज।"
+  },
+  {
+   "image": "Meera [[Meera]] is seen in the background, also smiling, observing Raj's calm behavior.",
+   "speaker": "narrator",
+   "line": "Sabko Raj mein badlav dikh raha tha.",
+   "fx": "none",
+   "sub": "Everyone could see the change in Raj.",
+   "say": "सबको राज में बदलाव दिख रहा था।"
+  },
+  {
+   "image": "Close-up of Raj [[Raj]] closing his eyes, peaceful, sunlight warming his fur.",
+   "speaker": "narrator",
+   "line": "Dard ka ghaav bhar gaya tha.",
+   "fx": "none",
+   "sub": "The wound of pain had healed.",
+   "say": "दर्द का घाव भर गया था।"
+  },
+  {
+   "image": "Priya [[narrator]] is walking through a vibrant market, looking thoughtful.",
+   "speaker": "narrator",
+   "line": "Kitne log hain jo apna dard chhupate hain?",
+   "fx": "none",
+   "sub": "How many people hide their pain?",
+   "say": "कितने लोग हैं जो अपना दर्द छुपाते हैं?"
+  },
+  {
+   "image": "Priya [[narrator]] looks up at the sky, a pensive yet hopeful expression.",
+   "speaker": "narrator",
+   "line": "Hum sab ko sunne ki power deni chahiye.",
+   "fx": "none",
+   "sub": "We should all give the power to listen.",
+   "say": "हम सब को सुनने की पावर देनी चाहिए।"
+  },
+  {
+   "image": "Priya [[narrator]] smiles, looking at a child laughing nearby.",
+   "speaker": "narrator",
+   "line": "Chhote se bachche se, bade janwar tak.",
+   "fx": "none",
+   "sub": "From a small child, to a big animal.",
+   "say": "छोटे से बच्चे से, बड़े जानवर तक।"
+  },
+  {
+   "image": "A close-up of Priya's [[narrator]] hand gently touching a plant, feeling its 'life'.",
+   "speaker": "narrator",
+   "line": "Har kisi ke paas ek kahani hai.",
+   "fx": "none",
+   "sub": "Everyone has a story.",
+   "say": "हर किसी के पास एक कहानी है।"
+  },
+  {
+   "image": "Priya [[narrator]] stands tall, a beacon of empathy, looking towards a bright future.",
+   "speaker": "narrator",
+   "line": "Bas thoda dhyan aur pyaar chahiye.",
+   "fx": "none",
+   "sub": "Just a little attention and love is needed.",
+   "say": "बस थोड़ा ध्यान और प्यार चाहिए।"
+  },
+  {
+   "image": "Raj [[Raj]] is now playing gently with a ball in his enclosure, a rare sight for Meera [[Meera]], who watches happily.",
+   "speaker": "narrator",
+   "line": "Raj ab ek naya jeevan jee raha tha.",
+   "fx": "none",
+   "sub": "Raj was now living a new life.",
+   "say": "राज अब एक नया जीवन जी रहा था।"
+  },
+  {
+   "image": "Priya [[narrator]] looks at her reflection, then winks at herself playfully.",
+   "speaker": "narrator",
+   "line": "Kya meri gift, ek blessing hai ya curse?",
+   "fx": "none",
+   "sub": "Is my gift, a blessing or a curse?",
+   "say": "क्या मेरी गिफ्ट, एक ब्लेसिंग है या कर्स?"
+  },
+  {
+   "image": "Priya [[narrator]] smiles, a sparkle in her eyes, looking directly at the camera.",
+   "speaker": "narrator",
+   "line": "I think, it's a blessing.",
+   "fx": "none",
+   "sub": "I think, it's a blessing.",
+   "say": "आई थिंक, इट्स अ ब्लेसिंग।"
+  },
+  {
+   "image": "Raj [[Raj]] is looking towards the sky, his silhouette against a beautiful sunset, looking majestic and free.",
+   "speaker": "narrator",
+   "line": "Raj ki aatma ab azaad thi.",
+   "fx": "none",
+   "sub": "Raj's soul was now free.",
+   "say": "राज की आत्मा अब आज़ाद थी।"
+  },
+  {
+   "image": "Priya [[narrator]] offers a small, hopeful wave to the camera, walking into the distance.",
+   "speaker": "narrator",
+   "line": "Har dil mein ek raaz hai. Kya sunoge?",
+   "fx": "none",
+   "sub": "Every heart holds a secret. Will you listen?",
+   "say": "हर दिल में एक राज़ है। क्या सुनोगे?"
+  }
+ ],
+ "caption": "She Heard The Old Lion's Secret... And It Broke Her Heart 💔",
+ "slug": "2026-11-03_part1",
+ "story_no": 20,
+ "yt_title": "She Heard The Old Lion's Secret... And It Broke Her Heart 💔",
+ "description": "I hear secrets no one else can, especially from animals. But this old zoo lion held a heartbreaking secret from his wild past. Would you have believed Priya?",
+ "comment_question": "Would you have believed Priya?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalspeech",
+  "#lionstory",
+  "#zoostory",
+  "#hiddenhero",
+  "#animalrescue",
+  "#untoldstory",
+  "#emotional",
+  "#humananimalbond",
+  "#truthrevealed"
+ ]
+}

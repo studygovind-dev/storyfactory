@@ -1,0 +1,539 @@
+{
+ "series": "Mithu's Grumpy Kingdom",
+ "episode": 2,
+ "title": "Mithu's Grumpy Kingdom",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A friendly, warm male storyteller voice.",
+   "voice": "hindi_narrator_male"
+  },
+  "Mithu": {
+   "look": "A fluffy, ginger tabby cat with big, expressive green eyes, wearing a tiny, slightly crooked blue bow tie. He has a perpetually annoyed, grumpy expression, often with narrowed eyes and a slight frown. His fur is sleek and well-groomed.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Priya": {
+   "look": "Young woman, late 20s, light wheatish skin, long soft wavy dark-brown hair tied in a loose, elegant bun. She wears minimal, natural makeup, small gold hoop earrings, and a elegant pastel green kurta with white palazzo pants. Her expression is usually gentle and loving.",
+   "voice": "hindi_narrator_male"
+  },
+  "Rohit": {
+   "look": "Young man, late 20s, fair skin, short neat black hair, clean-shaven. He wears a casual light blue button-down shirt and dark jeans. His expression is often relaxed, with a good-natured smile.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "MY CAT TALKS?!",
+ "scenes": [
+  {
+   "image": "Extreme close-up of [[Mithu]]'s face, eyes wide in exasperation, mouth open mid-complaint. Dramatic lighting emphasizes his grumpy expression.",
+   "speaker": "Mithu",
+   "line": "Yeh family toh meri life hell bana degi!",
+   "fx": "none",
+   "say": "ये फैमिली तो मेरी लाइफ हेल बना देगी!"
+  },
+  {
+   "image": "[[Mithu]] sitting upright on a plush sofa, looking annoyed towards [[Priya]], who is out of frame. His tiny blue bow tie is slightly crooked.",
+   "speaker": "narrator",
+   "line": "Meet Mithu, the grumpiest cat in the world.",
+   "fx": "none",
+   "say": "मीट मिठु, द ग्रंपिएस्ट कैट इन द वर्ल्ड।"
+  },
+  {
+   "image": "[[Priya]] cooing at [[Mithu]], gently stroking his head with a loving smile. [[Mithu]] looks away disdainfully, his ears slightly flattened.",
+   "speaker": "Priya",
+   "line": "Aww, mera cutie pie! Kitna handsome hai tu!",
+   "fx": "none",
+   "say": "आव, मेरा क्यूटी पाई! कितना हैंडसम है तू!"
+  },
+  {
+   "image": "Close-up of [[Mithu]] rolling his eyes dramatically, looking at the camera as if sharing a secret with the audience.",
+   "speaker": "Mithu",
+   "line": "Cutie pie? Mai ek dignified sher hoon!",
+   "fx": "none",
+   "say": "क्यूटी पाई? मैं एक डिग्निफाइड शेर हूँ!"
+  },
+  {
+   "image": "[[Rohit]] dangling a fluffy feather toy in front of [[Mithu]]. [[Mithu]] bats at it half-heartedly with a bored, unimpressed expression.",
+   "speaker": "Rohit",
+   "line": "Priya, dekho Mithu kitna playful ho raha hai!",
+   "fx": "none",
+   "say": "प्रिया, देखो मिठु कितना प्लेफुल हो रहा है!"
+  },
+  {
+   "image": "[[Mithu]] collapses onto the floor, feigning utter exhaustion, one paw dramatically covering his eyes in protest.",
+   "speaker": "Mithu",
+   "line": "Playful? Bhai, yeh toh torture hai mere liye.",
+   "fx": "none",
+   "say": "प्लेफुल? भाई, ये तो टॉर्चर है मेरे लिए।"
+  },
+  {
+   "image": "Close-up of a bowl of premium cat food. [[Mithu]]'s nose is wrinkled as he sniffs it disdainfully, turning his head away.",
+   "speaker": "narrator",
+   "line": "His complaints ranged from food...",
+   "fx": "none",
+   "say": "हिज कंप्लेंट्स रेंजेड फ्रॉम फूड..."
+  },
+  {
+   "image": "[[Mithu]] pushing the food bowl away with a paw, his face scrunched up in deep offense, looking at the camera.",
+   "speaker": "Mithu",
+   "line": "Phir se chicken? Kya inke paas aur kuch nahi?",
+   "fx": "none",
+   "say": "फिर से चिकन? क्या इनके पास और कुछ नहीं?"
+  },
+  {
+   "image": "[[Mithu]] trying to nap on a sun-drenched window sill, his eyes squinted tightly against a bright beam of sunlight.",
+   "speaker": "narrator",
+   "line": "...to the morning sun.",
+   "fx": "dust",
+   "say": "...टू द मॉर्निंग सन।"
+  },
+  {
+   "image": "Close-up of [[Mithu]] covering his eyes with his paw, a strong beam of sun hitting his annoyed face.",
+   "speaker": "Mithu",
+   "line": "Ugh, yeh suraj seedha meri aankhon mein!",
+   "fx": "dust",
+   "say": "उह, ये सूरज सीधा मेरी आँखों में!"
+  },
+  {
+   "image": "[[Priya]] holding a fluffy white towel, smiling sweetly, while [[Mithu]] peeks out from behind a plush sofa, eyes wide with horror.",
+   "speaker": "Priya",
+   "line": "Mithu, time for your bath, my sweet!",
+   "fx": "none",
+   "say": "मिठु, टाइम फॉर योर बाथ, माय स्वीट!"
+  },
+  {
+   "image": "[[Mithu]] frantically trying to escape [[Priya]]'s gentle but firm grasp, paws flailing dramatically in mid-air.",
+   "speaker": "Mithu",
+   "line": "Bath? Yeh toh insaani saazish hai!",
+   "fx": "none",
+   "say": "बाथ? ये तो इंसानी साज़िश है!"
+  },
+  {
+   "image": "[[Rohit]] trying to calm a struggling [[Mithu]], who is now dripping wet and looking absolutely furious.",
+   "speaker": "Rohit",
+   "line": "Relax, buddy, it's just water.",
+   "fx": "none",
+   "say": "रिलैक्स, बडी, इट्स जस्ट वॉटर।"
+  },
+  {
+   "image": "[[Mithu]] standing on the bathroom floor, wet and his fur puffed up, glaring accusingly at [[Rohit]] with narrowed eyes.",
+   "speaker": "Mithu",
+   "line": "Just water? Meri fur kharab ho jaayegi!",
+   "fx": "none",
+   "say": "जस्ट वॉटर? मेरी फर खराब हो जाएगी!"
+  },
+  {
+   "image": "[[Priya]] and [[Rohit]] cuddling [[Mithu]] tightly, both smiling. [[Mithu]] looks stiff and uncomfortable, but doesn't actually try to leave.",
+   "speaker": "narrator",
+   "line": "The couple adored Mithu, despite his grumbles.",
+   "fx": "none",
+   "say": "द कपल अडोर्ड मिठु, डेस्पाइट हिज ग्रंबल्स।"
+  },
+  {
+   "image": "Close-up of [[Mithu]] looking annoyed by the affection, but a tiny, almost invisible smile plays on his lips, hidden from the owners.",
+   "speaker": "Mithu",
+   "line": "Ah, yeh over-affectionate insaan!",
+   "fx": "none",
+   "say": "आह, ये ओवर-अफेक्शनट इंसान!"
+  },
+  {
+   "image": "[[Priya]] kissing [[Mithu]] on the head, her eyes full of love. [[Mithu]] twitches his ears in a show of annoyance.",
+   "speaker": "Priya",
+   "line": "He's so cute even when he's grumpy.",
+   "fx": "none",
+   "say": "ही इज सो क्यूट इवन व्हेन ही इज ग्रंपी।"
+  },
+  {
+   "image": "[[Rohit]] laughing softly, gently scratching [[Mithu]] behind the ears. [[Mithu]] leans into the scratch slightly, despite his grumpy face.",
+   "speaker": "Rohit",
+   "line": "Our little King Mithu, always demanding.",
+   "fx": "none",
+   "say": "आर लिटिल किंग मिठु, ऑलवेज़ डिमांडिंग।"
+  },
+  {
+   "image": "[[Mithu]] looking thoughtfully at [[Priya]] and [[Rohit]], a hint of grudging affection visible in his otherwise annoyed eyes.",
+   "speaker": "Mithu",
+   "line": "King toh mai hoon hi. Par ye log...",
+   "fx": "none",
+   "say": "किंग तो मैं हूँ ही। पर ये लोग..."
+  },
+  {
+   "image": "[[Mithu]] shrugs his shoulders cartoonishly, looking directly at the camera with a comical expression of judgment.",
+   "speaker": "Mithu",
+   "line": "...inka taste thoda off hai, I guess.",
+   "fx": "none",
+   "say": "...इनका टेस्ट थोड़ा ऑफ है, आई गेस।"
+  },
+  {
+   "image": "[[Priya]] proudly holding up a small, colourful, jingling cat toy mouse. [[Mithu]] eyes it with extreme suspicion from his perch on the sofa.",
+   "speaker": "narrator",
+   "line": "One day, a new 'problem' arrived.",
+   "fx": "none",
+   "say": "वन डे, अ न्यू 'प्रॉब्लम' अराइव्ड।"
+  },
+  {
+   "image": "[[Priya]] gently placing the jingling toy mouse near [[Mithu]]. [[Mithu]] sniffs it delicately, then recoils in distaste.",
+   "speaker": "Priya",
+   "line": "Look Mithu, a new friend for you!",
+   "fx": "none",
+   "say": "लुक मिठु, अ न्यू फ्रेंड फॉर यू!"
+  },
+  {
+   "image": "[[Mithu]] batting the toy mouse away dismissively with a paw, his face scrunched up in comical disgust and offense.",
+   "speaker": "Mithu",
+   "line": "Yeh kya plastic ka tukda? Meri insult!",
+   "fx": "none",
+   "say": "ये क्या प्लास्टिक का टुकड़ा? मेरी इंसल्ट!"
+  },
+  {
+   "image": "[[Rohit]] nudging the toy mouse towards [[Mithu]] with his foot, trying to encourage him to play, smiling playfully.",
+   "speaker": "Rohit",
+   "line": "Come on, Mithu, play with it!",
+   "fx": "none",
+   "say": "कम ऑन, मिठु, प्ले विथ इट!"
+  },
+  {
+   "image": "[[Mithu]] sitting upright, looking intellectually superior with a snooty expression, as if reading an invisible book.",
+   "speaker": "Mithu",
+   "line": "No thanks. Mai toh Aristotle ki essays padhta hoon.",
+   "fx": "none",
+   "say": "नो थैंक्स। मैं तो एरिस्टोटल की एस्सेज़ पढ़ता हूँ।"
+  },
+  {
+   "image": "[[Priya]] looking a little disappointed, picking up the rejected toy mouse, shrugging her shoulders.",
+   "speaker": "Priya",
+   "line": "He's just not feeling it today.",
+   "fx": "none",
+   "say": "ही इज जस्ट नॉट फीलिंग इट टुडे।"
+  },
+  {
+   "image": "[[Mithu]] looking smug, giving a triumphant little flick of his tail, watching [[Priya]] walk away with the toy.",
+   "speaker": "Mithu",
+   "line": "Kabhi feel nahi karunga, Priya ji.",
+   "fx": "none",
+   "say": "कभी फील नहीं करूँगा, प्रिया जी।"
+  },
+  {
+   "image": "The toy mouse magically appearing on [[Mithu]]'s favourite sleeping spot, right next to his face, as he tries to nap.",
+   "speaker": "narrator",
+   "line": "But the toy kept reappearing.",
+   "fx": "none",
+   "say": "बट द टॉय केप्ट रिअपीयरिंग।"
+  },
+  {
+   "image": "[[Mithu]] waking up with a startled gasp, glaring at the toy mouse as if it's a personal enemy and a violation of his space.",
+   "speaker": "Mithu",
+   "line": "Yeh toh stalker nikla! Meri privacy ka kya?",
+   "fx": "none",
+   "say": "ये तो स्टॉकर निकला! मेरी प्राइवेसी का क्या?"
+  },
+  {
+   "image": "[[Rohit]] shrugging to [[Priya]], both looking at [[Mithu]] from a distance, who is now aggressively ignoring the toy.",
+   "speaker": "Rohit",
+   "line": "Maybe he just needs some space.",
+   "fx": "none",
+   "say": "मेबी ही जस्ट नीड्स सम स्पेस।"
+  },
+  {
+   "image": "Close-up of [[Mithu]] making a very serious, determined face, as if planning a grand strategy for rebellion.",
+   "speaker": "narrator",
+   "line": "Mithu decided to take drastic action.",
+   "fx": "none",
+   "say": "मिठु डिसाइडेड टू टेक ड्रास्टिक एक्शन।"
+  },
+  {
+   "image": "[[Mithu]] gathering all his toys, even old ones, and vigorously pushing them into a messy pile on the living room floor.",
+   "speaker": "Mithu",
+   "line": "Ab inko asli gussa dekhna padega!",
+   "fx": "none",
+   "say": "अब इनको असली गुस्सा देखना पड़ेगा!"
+  },
+  {
+   "image": "[[Priya]] looking horrified, hands clasped, as [[Mithu]] makes a mess, pushing cushions off the sofa onto his toy pile.",
+   "speaker": "Priya",
+   "line": "Mithu, what are you doing? My decor!",
+   "fx": "none",
+   "say": "मिठु, व्हाट आर यू डूइंग? माय डेकोर!"
+  },
+  {
+   "image": "[[Mithu]] standing triumphantly atop the pile of cushions and toys, looking defiant with a paw raised.",
+   "speaker": "Mithu",
+   "line": "Yeh toh mera protest hai, na samajh insaan!",
+   "fx": "none",
+   "say": "ये तो मेरा प्रोटेस्ट है, ना समझ इंसान!"
+  },
+  {
+   "image": "[[Rohit]] trying to hold back a chuckle, covering his mouth slightly, watching [[Mithu]]'s dramatic antics.",
+   "speaker": "Rohit",
+   "line": "He's having a tantrum, is he?",
+   "fx": "none",
+   "say": "ही इज हैविंग अ टेंट्रम, इज ही?"
+  },
+  {
+   "image": "[[Mithu]] strikes a comical revolutionary pose, one paw raised high in the air, looking utterly serious.",
+   "speaker": "Mithu",
+   "line": "Tantrum? Mai toh revolution laa raha hoon!",
+   "fx": "none",
+   "say": "टेंट्रम? मैं तो रेवोल्यूशन ला रहा हूँ!"
+  },
+  {
+   "image": "[[Priya]] holding up a tiny, colourful knitted sweater for a cat, smiling brightly, while [[Mithu]] peeks from behind a plant with terror in his eyes.",
+   "speaker": "narrator",
+   "line": "But Priya had a different idea.",
+   "fx": "none",
+   "say": "बट प्रिया हैड अ डिफरेंट आइडिया।"
+  },
+  {
+   "image": "[[Priya]] approaching [[Mithu]] with the dreaded sweater, her face full of excited anticipation.",
+   "speaker": "Priya",
+   "line": "It's a sweater! For my little baby!",
+   "fx": "none",
+   "say": "इट्स अ स्वेटर! फॉर माय लिटिल बेबी!"
+  },
+  {
+   "image": "[[Mithu]] running away frantically, looking over his shoulder at the colourful knitted sweater with a look of pure dread.",
+   "speaker": "Mithu",
+   "line": "Sweater? Mai toh fashion icon hoon!",
+   "fx": "none",
+   "say": "स्वेटर? मैं तो फैशन आइकन हूँ!"
+  },
+  {
+   "image": "[[Mithu]] hiding completely under the bed, only his wide, fearful eyes peeking out, refusing to come out.",
+   "speaker": "Mithu",
+   "line": "Yeh toh meri image kharab kar dega!",
+   "fx": "none",
+   "say": "ये तो मेरी इमेज खराब कर देगा!"
+  },
+  {
+   "image": "[[Rohit]] trying to coax [[Mithu]] out from under the bed with a treat, kneeling down. [[Mithu]] glares, refusing the offering.",
+   "speaker": "Rohit",
+   "line": "Come on, Mithu, it's cute!",
+   "fx": "none",
+   "say": "कम ऑन, मिठु, इट्स क्यूट!"
+  },
+  {
+   "image": "Close-up of [[Mithu]] shaking his head vehemently from under the bed, his mouth forming a firm 'no' (cartoonishly).",
+   "speaker": "Mithu",
+   "line": "No amount of treat will make me wear that!",
+   "fx": "none",
+   "say": "नो अमाउंट ऑफ ट्रीट विल मेक मी वियर दैट!"
+  },
+  {
+   "image": "[[Mithu]] following [[Priya]] around the living room, constantly meowing (implied talking), one paw on his hip (cartoonishly).",
+   "speaker": "narrator",
+   "line": "Mithu's complaints escalated to a new level.",
+   "fx": "none",
+   "say": "मिठुज कंप्लेंट्स एस्केलेटेड टू अ न्यू लेवल।"
+  },
+  {
+   "image": "[[Mithu]] pointing a paw at a dripping kitchen tap, looking severely disappointed and judgmental at [[Priya]].",
+   "speaker": "Mithu",
+   "line": "Pani ka tap खुला reh gaya! Kitni wasteful ho!",
+   "fx": "none",
+   "say": "पानी का टैप खुला रह गया! कितनी वेस्टफुल हो!"
+  },
+  {
+   "image": "[[Priya]] quickly turning off the tap, looking a bit flustered and apologetic to [[Mithu]].",
+   "speaker": "Priya",
+   "line": "Oh, I'm so sorry, Mithu!",
+   "fx": "none",
+   "say": "ओह, आई एम सो सॉरी, मिठु!"
+  },
+  {
+   "image": "[[Mithu]] standing by a light switch, looking up at a lit bulb in an empty room, shaking his head in disapproval.",
+   "speaker": "Mithu",
+   "line": "Lights on? Jab koi room mein nahi hai?",
+   "fx": "none",
+   "say": "लाइट्स ऑन? जब कोई रूम में नहीं है?"
+  },
+  {
+   "image": "[[Rohit]] rushing to switch off the light, looking sheepish and embarrassed by [[Mithu]]'s observation.",
+   "speaker": "Rohit",
+   "line": "Oops, my bad, buddy.",
+   "fx": "none",
+   "say": "ऊप्स, माय बैड, बडी।"
+  },
+  {
+   "image": "[[Mithu]] sitting on the kitchen counter, overseeing [[Priya]] cooking, with a scrutinizing and critical look on his face.",
+   "speaker": "narrator",
+   "line": "Mithu was now a full-time critic.",
+   "fx": "dust",
+   "say": "मिठु वॉज़ नाउ अ फुल-टाइम क्रिटिक।"
+  },
+  {
+   "image": "[[Mithu]] making a precise gesture with his paw, as if balancing spices, looking like a master chef advising [[Priya]].",
+   "speaker": "Mithu",
+   "line": "Namak kam hai, Priya. Aur haldi thodi zyada.",
+   "fx": "none",
+   "say": "नमक कम है, प्रिया। और हल्दी थोड़ी ज्यादा।"
+  },
+  {
+   "image": "[[Priya]] looking surprised but nodding attentively, adjusting the spices in her cooking, while [[Rohit]] watches, amused.",
+   "speaker": "Priya",
+   "line": "Oh, really? Okay, I'll fix it!",
+   "fx": "none",
+   "say": "ओह, रियली? ओके, आई विल फिक्स इट!"
+  },
+  {
+   "image": "[[Mithu]] sitting quietly on the sofa, looking out the window, unusually pensive and still, with a subtle golden light.",
+   "speaker": "narrator",
+   "line": "One evening, something changed.",
+   "fx": "dust",
+   "say": "वन इवनिंग, समथिंग चेंज्ड।"
+  },
+  {
+   "image": "[[Mithu]] looking around the quiet living room, a subtle sense of unease creeping onto his face, confused by the silence.",
+   "speaker": "Mithu",
+   "line": "Aaj kitni shanti hai. Yeh log chup kyun hain?",
+   "fx": "none",
+   "say": "आज कितनी शांति है। ये लोग चुप क्यूँ हैं?"
+  },
+  {
+   "image": "[[Priya]] whispering to [[Rohit]], both watching [[Mithu]] from a distance, looking genuinely worried about his unusual silence.",
+   "speaker": "Priya",
+   "line": "Rohit, Mithu isn't complaining today.",
+   "fx": "none",
+   "say": "प्रिया, मिठु इजन्ट कंप्लेनिंग टुडे।"
+  },
+  {
+   "image": "[[Rohit]] gently approaching [[Mithu]], who doesn't react or complain, looking deep in thought. Rohit's face shows concern.",
+   "speaker": "Rohit",
+   "line": "He seems... quiet. Is he okay?",
+   "fx": "none",
+   "say": "ही सीम्स... क्वाइट। इज ही ओके?"
+  },
+  {
+   "image": "Close-up of [[Mithu]] looking confused, scratching his ear with a paw, genuinely wondering what's wrong with his humans.",
+   "speaker": "Mithu",
+   "line": "Koi galti toh nahi kar di maine?",
+   "fx": "none",
+   "say": "कोई गलती तो नहीं कर दी मैंने?"
+  },
+  {
+   "image": "[[Mithu]] trying to playfully bat at [[Rohit]]'s shoelace, but [[Rohit]] is engrossed in his phone, not noticing [[Mithu]].",
+   "speaker": "narrator",
+   "line": "No complaints meant no attention.",
+   "fx": "none",
+   "say": "नो कंप्लेंट्स मेंट नो अटेंशन।"
+  },
+  {
+   "image": "[[Mithu]] looking directly at [[Rohit]]'s phone, then back at [[Rohit]]'s face with a frustrated, ignored expression.",
+   "speaker": "Mithu",
+   "line": "Arre, ignore mat karo! Mujhe daanto!",
+   "fx": "none",
+   "say": "अरे, इग्नोर मत करो! मुझे डाँटो!"
+  },
+  {
+   "image": "[[Priya]] saying this hopefully, but also looking a bit sad that her grumpy cat isn't grumpy anymore.",
+   "speaker": "Priya",
+   "line": "Maybe he's finally matured.",
+   "fx": "none",
+   "say": "मेबी ही इज़ फाइनली मैच्योर्ड।"
+  },
+  {
+   "image": "[[Mithu]] throwing his paws up in exasperation, his face showing clear boredom and feeling utterly ignored.",
+   "speaker": "Mithu",
+   "line": "Mature? Mai toh bored ho raha hoon!",
+   "fx": "none",
+   "say": "मैच्योर? मैं तो बोर हो रहा हूँ!"
+  },
+  {
+   "image": "[[Rohit]] observing [[Mithu]] with a sympathetic expression. [[Mithu]] genuinely looks deflated and sad.",
+   "speaker": "Rohit",
+   "line": "He looks... sad.",
+   "fx": "none",
+   "say": "ही लुक्स... सैड।"
+  },
+  {
+   "image": "[[Priya]] and [[Rohit]] looking at each other across the room, a secret, knowing smile passing between them.",
+   "speaker": "narrator",
+   "line": "Priya and Rohit exchanged a knowing glance.",
+   "fx": "none",
+   "say": "प्रिया एंड रोहित एक्सेंज्ड अ नोइंग ग्लांस।"
+  },
+  {
+   "image": "[[Priya]] walks up to [[Mithu]], kneels down, and looks him directly in the eyes with a warm, mischievous smile.",
+   "speaker": "Priya",
+   "line": "Okay, that's enough.",
+   "fx": "none",
+   "say": "ओके, दैट्स इनफ।"
+  },
+  {
+   "image": "[[Rohit]] joins [[Priya]], both looking at [[Mithu]] with mischievous grins, as if about to share a secret.",
+   "speaker": "Rohit",
+   "line": "Time for the big reveal, buddy.",
+   "fx": "none",
+   "say": "टाइम फॉर द बिग रिवील, बडी।"
+  },
+  {
+   "image": "[[Mithu]] looks between [[Priya]] and [[Rohit]], a sudden spark of curiosity and confusion in his wide eyes.",
+   "speaker": "Mithu",
+   "line": "Reveal? Kya chal raha hai?",
+   "fx": "none",
+   "say": "रिवील? क्या चल रहा है?"
+  },
+  {
+   "image": "Close-up of [[Mithu]]'s face, his eyes wide, jaw drops cartoonishly, a look of utter shock and disbelief frozen on his features.",
+   "speaker": "Priya",
+   "line": "Mithu, we know you talk.",
+   "fx": "none",
+   "say": "मिठु, वी नो यू टॉक।"
+  },
+  {
+   "image": "[[Mithu]] frantically pointing at himself with one paw, then at [[Priya]] and [[Rohit]] with the other, in utter disbelief.",
+   "speaker": "Mithu",
+   "line": "Kya?! Kaise?! Impossible!",
+   "fx": "none",
+   "say": "क्या?! कैसे?! इम्पॉसिबल!"
+  },
+  {
+   "image": "[[Rohit]] winks at [[Mithu]], smiling warmly, confirming the secret understanding.",
+   "speaker": "Rohit",
+   "line": "Aur humein tumhari complaints bahut pasand hain!",
+   "fx": "none",
+   "say": "और हमें तुम्हारी कंप्लेंट्स बहुत पसंद हैं!"
+  },
+  {
+   "image": "[[Mithu]]'s expression shifts from shock to a comical mixture of embarrassment and indignant betrayal, a slight blush on his cheeks.",
+   "speaker": "Mithu",
+   "line": "Matlab, you guys were pretending?",
+   "fx": "none",
+   "say": "मतलब, यू गाइज़ वर प्रिटेंडिंग?"
+  },
+  {
+   "image": "[[Priya]] picking up a flustered [[Mithu]] and hugging him tightly. [[Mithu]] looks surprised but a tiny, secret smile forms on his face, secretly pleased.",
+   "speaker": "Priya",
+   "line": "Your grumbles are our daily entertainment, silly.",
+   "fx": "none",
+   "say": "योर ग्रंबल्स आर आर डेली एंटरटेनमेंट, सिली।"
+  },
+  {
+   "image": "[[Mithu]], now comfortably in [[Priya]]'s arms, looks directly at the camera with a half-annoyed, half-loving smirk. He still has his bow tie.",
+   "speaker": "Mithu",
+   "line": "Ugh, insaan! Kya aapka pet bhi complain karta hai?",
+   "fx": "none",
+   "say": "उह, इंसान! क्या आपका पेट भी कंप्लेन करता है?"
+  }
+ ],
+ "caption": "This Grumpy Cat Complained ALL Day... Then His Owners Revealed Their Secret 😼",
+ "slug": "2026-11-03_part2",
+ "story_no": 21,
+ "yt_title": "This Grumpy Cat Complained ALL Day... Then His Owners Revealed Their Secret 😼",
+ "description": "Meet Mithu, the world's grumpiest talking cat whose daily life is a string of complaints. But what if his sweet owners aren't as clueless as he thinks? A hilarious twist will leave you purring! Kya aapka pet bhi Mithu ki tarah complain karta hai? Tell us in the comments!",
+ "comment_question": "Kya aapka pet bhi Mithu ki tarah complain karta hai?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnycat",
+  "#talkingcat",
+  "#petcomedy",
+  "#catlife",
+  "#catlover",
+  "#cutecat",
+  "#indianreels",
+  "#hinglish",
+  "#viralstory"
+ ]
+}

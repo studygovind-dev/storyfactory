@@ -1,0 +1,605 @@
+{
+ "series": "The Silent Donor",
+ "episode": 3,
+ "title": "The Silent Donor",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Ananya, 19, fair skin, long soft wavy dark-brown hair, expressive eyes, simple but neat pastel cotton kurta.",
+   "voice": "hindi_narrator_female"
+  },
+  "rohan": {
+   "look": "Rohan, 20, fair skin, short neat dark hair, well-dressed (casual but expensive, e.g., polo shirt, jeans), confident posture.",
+   "voice": "hindi_male_young"
+  },
+  "mother": {
+   "look": "Ananya's Ailing Mother, 40s, fair skin, tired but gentle face, simple saree, often sitting or lying down weakly.",
+   "voice": "hindi_female_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "THE ANONYMOUS GIFT",
+ "scenes": [
+  {
+   "image": "CLOSE UP on an anonymous bank draft for 50,000 rupees, placed on a simple wooden table, with a small, distinctive doodle (a stylized star with a small arrow) in the corner of a plain white envelope.",
+   "speaker": "narrator",
+   "line": "Woh fifty thousand ka draft, meri life badal di.",
+   "fx": "none",
+   "sub": "That fifty thousand draft changed my life.",
+   "say": "वो फिफ्टी थाउजेंड का ड्राफ्ट, मेरी लाइफ बदल दी।"
+  },
+  {
+   "image": "Ananya (19, fair skin, long soft wavy dark-brown hair, expressive eyes, simple but neat pastel cotton kurta) working busily at a small, cluttered kirana store counter, weighing rice into a bag. She looks tired but focused.",
+   "speaker": "narrator",
+   "line": "Mumbai ki garmi mein, mera din yahi shuru hota tha.",
+   "fx": "none",
+   "sub": "In Mumbai's heat, my day started here.",
+   "say": "मुंबई की गर्मी में, मेरा दिन यहीं शुरू होता था।"
+  },
+  {
+   "image": "Ananya in her small, crowded home, looking at a stack of engineering textbooks, a wistful look on her face. Her younger sister, Priya, 8, is playing quietly in the background.",
+   "speaker": "narrator",
+   "line": "Engineering mera sapna tha, bahut bada sapna.",
+   "fx": "none",
+   "sub": "Engineering was my dream, a very big dream.",
+   "say": "इंजीनियरिंग मेरा सपना था, बहुत बड़ा सपना।"
+  },
+  {
+   "image": "Ananya gently tending to her ailing mother (40s, tired but gentle face, simple saree), who is lying on a charpoy, looking weak. Ananya holds her hand.",
+   "speaker": "narrator",
+   "line": "Maa ki health aur Priya ka future, meri zimmedari thi.",
+   "fx": "none",
+   "sub": "Mom's health and Priya's future, that was my responsibility.",
+   "say": "माँ की हेल्थ और प्रिया का फ्यूचर, मेरी ज़िम्मेदारी थी।"
+  },
+  {
+   "image": "Ananya quickly wiping sweat from her brow, looking determined, as she handles multiple customers at the kirana store.",
+   "speaker": "narrator",
+   "line": "Din bhar shop par, raat bhar kitabon mein.",
+   "fx": "none",
+   "sub": "All day at the shop, all night in books.",
+   "say": "दिन भर शॉप पर, रात भर किताबों में।"
+  },
+  {
+   "image": "Ananya studying late at night by a dim lamp, surrounded by open books, looking exhausted.",
+   "speaker": "narrator",
+   "line": "Har rupaiya bahut mushkil se kamaati thi.",
+   "fx": "none",
+   "sub": "Every rupee, I earned with great difficulty.",
+   "say": "हर रुपया बहुत मुश्किल से कमाती थी।"
+  },
+  {
+   "image": "Rohan (20, fair skin, short neat dark hair, well-dressed, confident posture) entering the kirana store, looking impatient, phone to his ear, not making eye contact with Ananya.",
+   "speaker": "narrator",
+   "line": "Rohan bhi customer tha, uska alag hi attitude tha.",
+   "fx": "none",
+   "sub": "Rohan was also a customer, he had a different attitude.",
+   "say": "रोहन भी कस्टमर था, उसका अलग ही एटीट्यूड था।"
+  },
+  {
+   "image": "Close up of Rohan's expensive watch, tapping impatiently on the counter. Ananya's hand, slightly scarred, reaches for a bag of chips.",
+   "speaker": "narrator",
+   "line": "Hamesha jaldi mein, hamesha phone par.",
+   "fx": "none",
+   "sub": "Always in a hurry, always on the phone.",
+   "say": "हमेशा जल्दी में, हमेशा फ़ोन पर।"
+  },
+  {
+   "image": "Ananya handing Rohan his groceries. He takes them without looking at her, a slight frown on his face.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi, comments bhi karta tha.",
+   "fx": "none",
+   "sub": "Sometimes, he would make comments too.",
+   "say": "कभी कभी, कमेंट्स भी करता था।"
+  },
+  {
+   "image": "Close up on Ananya's face, a flicker of annoyance and hurt in her eyes, as she watches Rohan walk away.",
+   "speaker": "narrator",
+   "line": "Mujhe lagta tha, kitna ghamandi ladka hai yeh.",
+   "fx": "none",
+   "sub": "I used to think, what an arrogant boy he is.",
+   "say": "मुझे लगता था, कितना घमंडी लड़का है ये।"
+  },
+  {
+   "image": "Rohan getting into a sleek, expensive car outside the kirana store, looking effortlessly cool. Ananya watches him from the doorway, her expression a mix of envy and resignation.",
+   "speaker": "narrator",
+   "line": "Uski life toh kitni easy lagti thi mujhe.",
+   "fx": "none",
+   "sub": "His life seemed so easy to me.",
+   "say": "उसकी लाइफ तो कितनी इजी लगती थी मुझे।"
+  },
+  {
+   "image": "Ananya holding her mother's hand, who is looking weak. Mother is smiling weakly at Ananya.",
+   "speaker": "mother",
+   "line": "Beti, himmat mat harna.",
+   "fx": "none",
+   "sub": "Daughter, don't lose courage.",
+   "say": "बेटी, हिम्मत मत हारना।"
+  },
+  {
+   "image": "Ananya looking at an application form for an engineering entrance exam coaching class. The fee section is highlighted. She looks worried.",
+   "speaker": "narrator",
+   "line": "Entrance exam ke forms, aur fees, mera sir dard the.",
+   "fx": "none",
+   "sub": "Entrance exam forms, and fees, were my headache.",
+   "say": "एंट्रेंस एग्जाम के फॉर्म्स, और फीस, मेरा सिर दर्द थे।"
+  },
+  {
+   "image": "Ananya counting a small stack of crumpled notes and coins on the counter of the kirana store, looking disheartened.",
+   "speaker": "narrator",
+   "line": "Meri savings kam pad rahi thi, bahut kam.",
+   "fx": "none",
+   "sub": "My savings were falling short, very short.",
+   "say": "मेरी सेविंग्स कम पड़ रही थी, बहुत कम।"
+  },
+  {
+   "image": "Ananya looking at a medicine strip with a high price tag, her face filled with concern.",
+   "speaker": "narrator",
+   "line": "Maa ki dawaaiyon ka kharcha bhi badh gaya tha.",
+   "fx": "none",
+   "sub": "Mom's medicine expenses had also increased.",
+   "say": "माँ की दवाइयों का खर्चा भी बढ़ गया था।"
+  },
+  {
+   "image": "Ananya sitting dejectedly on a stool in the kirana store, head in her hands.",
+   "speaker": "narrator",
+   "line": "Raat ko neend nahi aati thi soch soch kar.",
+   "fx": "none",
+   "sub": "I couldn't sleep at night, thinking about it.",
+   "say": "रात को नींद नहीं आती थी सोच सोच कर।"
+  },
+  {
+   "image": "Ananya talking to the kirana store owner (male, 50s, slightly stern), pleadingly. He shakes his head no.",
+   "speaker": "narrator",
+   "line": "Maine extra hours maange, par malik ne mana kar diya.",
+   "fx": "none",
+   "sub": "I asked for extra hours, but the owner refused.",
+   "say": "मैंने एक्स्ट्रा आवर्स माँगे, पर मालिक ने मना कर दिया।"
+  },
+  {
+   "image": "Ananya trying to sell some old books on a street corner, but passersby ignore her. Her face shows growing despair.",
+   "speaker": "narrator",
+   "line": "Apni purani kitaabein bechi, par kuch mila nahi.",
+   "fx": "none",
+   "sub": "I sold my old books, but got nothing much.",
+   "say": "अपनी पुरानी किताबें बेची, पर कुछ मिला नहीं।"
+  },
+  {
+   "image": "Close up on Ananya's mother's face, looking pale and weak, a thermometer in her mouth.",
+   "speaker": "narrator",
+   "line": "Maa ki tabiyat phir se kharab ho gayi.",
+   "fx": "none",
+   "sub": "Mom's health worsened again.",
+   "say": "माँ की तबियत फिर से खराब हो गयी।"
+  },
+  {
+   "image": "Ananya sitting beside her mother, comforting her, tears welling up in her eyes.",
+   "speaker": "narrator",
+   "line": "Lag raha tha, ab sab khatam ho jayega.",
+   "fx": "none",
+   "sub": "It felt like, everything would end now.",
+   "say": "लग रहा था, अब सब ख़त्म हो जाएगा।"
+  },
+  {
+   "image": "Ananya sweeping the floor of the kirana store, looking lost in thought, a broom in her hand. Rohan walks past her, not noticing, chatting loudly on his phone.",
+   "speaker": "narrator",
+   "line": "Rohan us din bhi aaya tha, phone par chillate hue.",
+   "fx": "none",
+   "sub": "Rohan came that day too, shouting on his phone.",
+   "say": "रोहन उस दिन भी आया था, फ़ोन पर चिल्लाते हुए।"
+  },
+  {
+   "image": "Close up of Rohan's hands, signing a large bill. He doodles quickly on the receipt with a pen, a small star-with-arrow symbol. Ananya is watching his hands.",
+   "speaker": "narrator",
+   "line": "Apne bills par hamesha kuch na kuch banata tha.",
+   "fx": "none",
+   "sub": "He always drew something on his bills.",
+   "say": "अपने बिल्स पर हमेशा कुछ न कुछ बनाता था।"
+  },
+  {
+   "image": "Ananya looking out of the kirana store, watching Rohan's car drive away, a bitter expression on her face.",
+   "speaker": "narrator",
+   "line": "Uski zindagi itni befikri se bhari thi.",
+   "fx": "none",
+   "sub": "His life was so carefree.",
+   "say": "उसकी ज़िन्दगी इतनी बेफिक्री से भरी थी।"
+  },
+  {
+   "image": "Ananya at her study table, trying to focus on a textbook, but her eyes are blurry with tears.",
+   "speaker": "narrator",
+   "line": "Meri dreams toh door ki baat thi.",
+   "fx": "none",
+   "sub": "My dreams were a distant matter.",
+   "say": "मेरी ड्रीम्स तो दूर की बात थी।"
+  },
+  {
+   "image": "Ananya holding a small, delicate gold chain, looking at it with immense sadness. It's her grandmother's.",
+   "speaker": "narrator",
+   "line": "Ek din, maine apni Dadi ki chain uthai.",
+   "fx": "none",
+   "sub": "One day, I picked up my grandmother's chain.",
+   "say": "एक दिन, मैंने अपनी दादी की चेन उठाई।"
+  },
+  {
+   "image": "Close up of the gold chain in Ananya's trembling hand, her knuckles white.",
+   "speaker": "narrator",
+   "line": "Yeh akhri sahara tha, Maa ki nishani.",
+   "fx": "none",
+   "sub": "This was the last resort, Mom's keepsake.",
+   "say": "यह आखरी सहारा था, माँ की निशानी।"
+  },
+  {
+   "image": "Ananya's mother looking at Ananya with concern, sensing her distress.",
+   "speaker": "mother",
+   "line": "Ananya, kya hua?",
+   "fx": "none",
+   "sub": "Ananya, what happened?",
+   "say": "अनन्‍या, क्या हुआ?"
+  },
+  {
+   "image": "Ananya quickly hides the chain, forcing a smile.",
+   "speaker": "narrator",
+   "line": "Maine Maa ko kuch bataya nahi.",
+   "fx": "none",
+   "sub": "I didn't tell Mom anything.",
+   "say": "मैंने माँ को कुछ बताया नहीं।"
+  },
+  {
+   "image": "Ananya walking through a busy market street, looking hesitant and lost.",
+   "speaker": "narrator",
+   "line": "Dil pathar karke, mein us dukaan ki taraf chali.",
+   "fx": "none",
+   "sub": "With a heavy heart, I walked towards that shop.",
+   "say": "दिल पत्थर करके, मैं उस दुकान की तरफ चली।"
+  },
+  {
+   "image": "Close up on a pawn shop sign, slightly dingy and unwelcoming.",
+   "speaker": "narrator",
+   "line": "Jahan sapne bikte hain, ya tukdon mein badalte hain.",
+   "fx": "none",
+   "sub": "Where dreams are sold, or broken into pieces.",
+   "say": "जहाँ सपने बिकते हैं, या टुकड़ों में बदलते हैं।"
+  },
+  {
+   "image": "Ananya inside the pawn shop, the shopkeeper (male, 60s, grumpy) examining the gold chain under a magnifying glass. Ananya looks anxious.",
+   "speaker": "narrator",
+   "line": "Dukaan wale ne chain ko dekha, aur sir hilaya.",
+   "fx": "none",
+   "sub": "The shopkeeper looked at the chain, and shook his head.",
+   "say": "दुकान वाले ने चेन को देखा, और सिर हिलाया।"
+  },
+  {
+   "image": "Close up on Ananya's face, her hopes visibly draining away.",
+   "speaker": "narrator",
+   "line": "Jo price usne bataya, woh bahut kam tha.",
+   "fx": "none",
+   "sub": "The price he quoted was very little.",
+   "say": "जो प्राइस उसने बताया, वो बहुत कम था।"
+  },
+  {
+   "image": "Ananya's hand clutching the chain tightly, tears streaming down her face. The shopkeeper looks indifferent.",
+   "speaker": "narrator",
+   "line": "Meri aankhon se aansu behte rahe.",
+   "fx": "none",
+   "sub": "Tears kept flowing from my eyes.",
+   "say": "मेरी आँखों से आँसू बहते रहे।"
+  },
+  {
+   "image": "Ananya running out of the pawn shop, distressed, into the bustling street.",
+   "speaker": "narrator",
+   "line": "Main bhaag kar wahan se nikal gayi.",
+   "fx": "dust",
+   "sub": "I ran out of there.",
+   "say": "मैं भाग कर वहां से निकल गई।"
+  },
+  {
+   "image": "Ananya sitting alone on a park bench, sobbing uncontrollably, the gold chain still clutched in her hand.",
+   "speaker": "narrator",
+   "line": "Mera future, meri family, sab andhere mein tha.",
+   "fx": "none",
+   "sub": "My future, my family, all were in darkness.",
+   "say": "मेरा फ्यूचर, मेरी फैमिली, सब अँधेरे में था।"
+  },
+  {
+   "image": "Ananya back at home, opening the door to find a plain white envelope slipped under it. She looks curious.",
+   "speaker": "narrator",
+   "line": "Agle din, ghar par ek anokha letter mila.",
+   "fx": "none",
+   "sub": "The next day, I found a strange letter at home.",
+   "say": "अगले दिन, घर पर एक अनोखा लेटर मिला।"
+  },
+  {
+   "image": "Close up of the envelope, Ananya's hand carefully picking it up. No sender address.",
+   "speaker": "narrator",
+   "line": "Koi naam nahi, koi address nahi.",
+   "fx": "none",
+   "sub": "No name, no address.",
+   "say": "कोई नाम नहीं, कोई एड्रेस नहीं।"
+  },
+  {
+   "image": "Ananya sitting at her table, opening the envelope. Her expression is a mix of confusion and trepidation.",
+   "speaker": "narrator",
+   "line": "Maine darrte darrte use khola.",
+   "fx": "none",
+   "sub": "I opened it fearfully.",
+   "say": "मैंने डरते डरते उसे खोला।"
+  },
+  {
+   "image": "Close up on the contents: a crisp bank draft for 50,000 rupees and a short, printed note.",
+   "speaker": "narrator",
+   "line": "Andar ek bank draft tha, poore fifty thousand ka.",
+   "fx": "none",
+   "sub": "Inside was a bank draft, for a full fifty thousand.",
+   "say": "अंदर एक बैंक ड्राफ्ट था, पूरे फिफ्टी थाउजेंड का।"
+  },
+  {
+   "image": "Ananya's eyes widening in shock and disbelief, holding the draft.",
+   "speaker": "narrator",
+   "line": "Meri aankhein phati reh gayi!",
+   "fx": "none",
+   "sub": "My eyes popped open!",
+   "say": "मेरी आँखें फटी रह गईं!"
+  },
+  {
+   "image": "Close up on the note and the bank draft. The note reads: \"For your dreams. Don't give up.\" Below it, a small, stylized star with an arrow doodle.",
+   "speaker": "narrator",
+   "line": "Note par likha tha, \"Apne sapnon ke liye.\"",
+   "fx": "none",
+   "sub": "The note said, \"For your dreams.\"",
+   "say": "नोट पर लिखा था, \"अपने सपनों के लिए।\""
+  },
+  {
+   "image": "Ananya staring intensely at the doodle on the note, a flicker of recognition in her eyes.",
+   "speaker": "narrator",
+   "line": "Phir meri nazar us chote se doodle par padi.",
+   "fx": "none",
+   "sub": "Then my gaze fell upon that small doodle.",
+   "say": "फिर मेरी नज़र उस छोटे से डूडल पर पड़ी।"
+  },
+  {
+   "image": "Flashback: Rohan's hand drawing the same star-with-arrow doodle on a grocery bill at the kirana store counter. Ananya is in the background, watching.",
+   "speaker": "narrator",
+   "line": "Yeh wahi tha, jo Rohan bills par banata tha.",
+   "fx": "none",
+   "sub": "This was it, what Rohan used to draw on bills.",
+   "say": "यह वही था, जो रोहन बिल्स पर बनाता था।"
+  },
+  {
+   "image": "Ananya's face, a mix of shock, confusion, and a dawning realization. Her mouth slightly agape.",
+   "speaker": "narrator",
+   "line": "Rohan? Woh jo hamesha ghamandi lagta tha?",
+   "fx": "none",
+   "sub": "Rohan? The one who always seemed arrogant?",
+   "say": "रोहन? वो जो हमेशा घमंडी लगता था?"
+  },
+  {
+   "image": "Ananya slowly shaking her head, tears welling up again, but this time of overwhelming gratitude and disbelief.",
+   "speaker": "narrator",
+   "line": "Meri saari soch galat thi, poori tarah.",
+   "fx": "none",
+   "sub": "All my thoughts were wrong, completely.",
+   "say": "मेरी सारी सोच गलत थी, पूरी तरह।"
+  },
+  {
+   "image": "Ananya clutching the draft and the note to her chest, overwhelmed.",
+   "speaker": "narrator",
+   "line": "Uss arrogant ladke ne meri madad ki.",
+   "fx": "none",
+   "sub": "That arrogant boy helped me.",
+   "say": "उस एरोगेंट लड़के ने मेरी मदद की।"
+  },
+  {
+   "image": "Ananya looking out the window towards the general direction of Rohan's house (implied by the direction of her gaze).",
+   "speaker": "narrator",
+   "line": "Woh chupchap mera farishta ban gaya tha.",
+   "fx": "none",
+   "sub": "He had quietly become my angel.",
+   "say": "वो चुपचाप मेरा फरिश्ता बन गया था।"
+  },
+  {
+   "image": "Ananya's mother, looking surprised but happy, as Ananya shows her the bank draft.",
+   "speaker": "mother",
+   "line": "Yeh kaisa chamatkar?",
+   "fx": "none",
+   "sub": "What kind of miracle is this?",
+   "say": "यह कैसा चमत्कार?"
+  },
+  {
+   "image": "Ananya smiling through her tears, hugging her mother tightly. Priya is also in the frame, looking curious.",
+   "speaker": "narrator",
+   "line": "Chamatkar nahi, Maa, yeh insaniyat hai.",
+   "fx": "none",
+   "sub": "Not a miracle, Mom, this is humanity.",
+   "say": "चमत्कार नहीं, माँ, ये इंसानियत है।"
+  },
+  {
+   "image": "Ananya holding the bank draft and the note, her expression filled with gratitude and newfound hope.",
+   "speaker": "narrator",
+   "line": "Maine use kabhi thank you nahi kaha.",
+   "fx": "none",
+   "sub": "I never said thank you to him.",
+   "say": "मैंने उसे कभी थैंक यू नहीं कहा।"
+  },
+  {
+   "image": "Ananya at the kirana store, watching Rohan from a distance as he picks up his groceries, still on his phone, oblivious. Ananya's expression is now one of profound understanding and respect.",
+   "speaker": "narrator",
+   "line": "Woh aaj bhi aata hai, apni duniya mein rehta hai.",
+   "fx": "none",
+   "sub": "He comes even today, lives in his own world.",
+   "say": "वो आज भी आता है, अपनी दुनिया में रहता है।"
+  },
+  {
+   "image": "Close up of Rohan's hand, placing money on the counter, next to a bill with his familiar doodle on it.",
+   "speaker": "narrator",
+   "line": "Aur apne bills par, wahi doodle banata hai.",
+   "fx": "none",
+   "sub": "And on his bills, he draws the same doodle.",
+   "say": "और अपने बिल्स पर, वही डूडल बनाता है।"
+  },
+  {
+   "image": "Ananya smiling softly as she sees the doodle. No bitterness, only warmth.",
+   "speaker": "narrator",
+   "line": "Ab woh doodle mujhe ghamand nahi lagta.",
+   "fx": "none",
+   "sub": "Now that doodle doesn't seem arrogant to me.",
+   "say": "अब वो डूडल मुझे घमंड नहीं लगता।"
+  },
+  {
+   "image": "Ananya confidently filling out her exam application form, the bank draft next to it.",
+   "speaker": "narrator",
+   "line": "Uske paison se maine exam fees bhari.",
+   "fx": "none",
+   "sub": "With his money, I paid the exam fees.",
+   "say": "उसके पैसों से मैंने एग्जाम फीस भरी।"
+  },
+  {
+   "image": "Ananya studying diligently, surrounded by books, a focused and determined expression.",
+   "speaker": "narrator",
+   "line": "Poori lagan se padhai ki, din raat.",
+   "fx": "none",
+   "sub": "I studied with full dedication, day and night.",
+   "say": "पूरी लगन से पढ़ाई की, दिन रात।"
+  },
+  {
+   "image": "Ananya looking at her mother, who is now looking healthier and smiling.",
+   "speaker": "narrator",
+   "line": "Maa ki tabiyat bhi sudhar gayi thi.",
+   "fx": "none",
+   "sub": "Mom's health had also improved.",
+   "say": "माँ की तबियत भी सुधर गई थी।"
+  },
+  {
+   "image": "Ananya in a college uniform, smiling brightly, holding a certificate. She's graduated.",
+   "speaker": "narrator",
+   "line": "Aaj, main ek successful engineer hoon.",
+   "fx": "none",
+   "sub": "Today, I am a successful engineer.",
+   "say": "आज, मैं एक सक्सेसफुल इंजीनियर हूँ।"
+  },
+  {
+   "image": "Ananya standing in a modern office, looking professional and confident.",
+   "speaker": "narrator",
+   "line": "Apni family ko proud feel karati hoon.",
+   "fx": "none",
+   "sub": "I make my family feel proud.",
+   "say": "अपनी फैमिली को प्राउड फील कराती हूँ।"
+  },
+  {
+   "image": "Ananya looking at a framed photo of her happy family (mother and sister), a contented smile on her face.",
+   "speaker": "narrator",
+   "line": "Unke chehre par khushi dekh kar sukoon milta hai.",
+   "fx": "none",
+   "sub": "Seeing happiness on their faces brings me peace.",
+   "say": "उनके चेहरे पर खुशी देख कर सुकून मिलता है।"
+  },
+  {
+   "image": "Ananya secretly watching Rohan from the kirana store again, as he walks away after shopping. This time, she offers a small, respectful namaste gesture, which he doesn't see.",
+   "speaker": "narrator",
+   "line": "Rohan ko dekhti hoon, aur chupchap shukriya karti hoon.",
+   "fx": "none",
+   "sub": "I see Rohan, and quietly thank him.",
+   "say": "रोहन को देखती हूँ, और चुपचाप शुक्रिया करती हूँ।"
+  },
+  {
+   "image": "Ananya placing a donation envelope into a charity box, a thoughtful expression on her face. The envelope has a small star-with-arrow doodle drawn on it.",
+   "speaker": "narrator",
+   "line": "Ab main bhi wahi karti hoon, jo usne kiya.",
+   "fx": "none",
+   "sub": "Now I also do what he did.",
+   "say": "अब मैं भी वही करती हूँ, जो उसने किया।"
+  },
+  {
+   "image": "Close up of the donation envelope, showing the doodle clearly.",
+   "speaker": "narrator",
+   "line": "Chupchap, bina kisi pehchan ke.",
+   "fx": "none",
+   "sub": "Silently, without any recognition.",
+   "say": "चुपचाप, बिना किसी पहचान के।"
+  },
+  {
+   "image": "Ananya looking at a group of young students studying under a streetlight, a look of empathy and resolve on her face.",
+   "speaker": "narrator",
+   "line": "Kyunki har struggle karne wale ko ek madadgar chahiye.",
+   "fx": "none",
+   "sub": "Because every struggling person needs a helper.",
+   "say": "क्योंकि हर स्ट्रगल करने वाले को एक मददगार चाहिए।"
+  },
+  {
+   "image": "Ananya smiling gently, her eyes reflecting warmth and wisdom.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi, jo sabse mushkil lagta hai, wahi sabse accha hota hai.",
+   "fx": "none",
+   "sub": "Sometimes, what seems most difficult, is actually the best.",
+   "say": "कभी कभी, जो सबसे मुश्किल लगता है, वही सबसे अच्छा होता है।"
+  },
+  {
+   "image": "Ananya walking confidently, looking ahead, a determined yet serene expression.",
+   "speaker": "narrator",
+   "line": "Life mein aise mod aate hain, jo sab badal dete hain.",
+   "fx": "none",
+   "sub": "In life, such turns come, that change everything.",
+   "say": "लाइफ में ऐसे मोड़ आते हैं, जो सब बदल देते हैं।"
+  },
+  {
+   "image": "Ananya holding her younger sister's hand, Priya (now a young teenager, 13-14), walking together, both smiling happily.",
+   "speaker": "narrator",
+   "line": "Aur kuch log aate hain, jo farishte ban jaate hain.",
+   "fx": "none",
+   "sub": "And some people come, who become angels.",
+   "say": "और कुछ लोग आते हैं, जो फरिश्ते बन जाते हैं।"
+  },
+  {
+   "image": "Ananya sitting at a desk, looking at a photo of a happy family (hers: mother and sister), a contented smile on her face.",
+   "speaker": "narrator",
+   "line": "Unki goodness kabhi dikhti nahi, par feel hoti hai.",
+   "fx": "none",
+   "sub": "Their goodness is sometimes unseen, but felt.",
+   "say": "उनकी गुडनेस कभी दिखती नहीं, पर फील होती है।"
+  },
+  {
+   "image": "Ananya looking directly into the camera, a thoughtful expression.",
+   "speaker": "narrator",
+   "line": "Hamari soch aksar galat hoti hai.",
+   "fx": "none",
+   "sub": "Our thinking is often wrong.",
+   "say": "हमारी सोच अक्सर गलत होती है।"
+  },
+  {
+   "image": "Ananya, a slight, knowing smile on her face.",
+   "speaker": "narrator",
+   "line": "Judgements humein sach dekhne nahi dete.",
+   "fx": "none",
+   "sub": "Judgements don't let us see the truth.",
+   "say": "जजमेंट्स हमें सच देखने नहीं देते।"
+  },
+  {
+   "image": "Ananya, looking empathetic, slightly leaning forward towards the camera.",
+   "speaker": "narrator",
+   "line": "Kya aapko bhi aise log mile hain?",
+   "fx": "none",
+   "sub": "Have you also met such people?",
+   "say": "क्या आपको भी ऐसे लोग मिले हैं?"
+  }
+ ],
+ "caption": "Rich Customer Insulted Me… Then I Saw His Secret Note 🤫",
+ "slug": "2026-11-03_part3",
+ "story_no": 22,
+ "yt_title": "Rich Customer Insulted Me… Then I Saw His Secret Note 🤫",
+ "description": "I worked tirelessly at a grocery store, saving for my engineering dreams, but life kept pulling me down. Just when I thought all hope was lost, an unexpected gesture from a surprising source changed everything. What would you do if your biggest critic became your silent savior?",
+ "comment_question": "Would you have ever guessed Rohan was the one?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiastory",
+  "#studentlife",
+  "#struggle",
+  "#twistending",
+  "#kindness",
+  "#inspiration",
+  "#unexpected",
+  "#mumbai",
+  "#dreams"
+ ]
+}
