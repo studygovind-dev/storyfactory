@@ -1,0 +1,605 @@
+{
+ "series": "The Street Dog's Warning",
+ "episode": 1,
+ "title": "The Street Dog's Warning",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, 20s, graceful and pretty. Long soft wavy dark-brown hair, natural makeup, small gold earrings, elegant pastel green cotton kurta with white embroidery, light wheatish skin. Expressive and warm.",
+   "voice": "hindi_narrator_female"
+  },
+  "Rohan": {
+   "look": "Young boy, 9 years old, slightly thin but bright-eyed. Short, neat black hair. Wearing a simple blue t-shirt and grey shorts. Fair skin, innocent expression.",
+   "voice": "hindi_male_young"
+  },
+  "Kodi": {
+   "look": "Medium-sized stray dog, mixed breed. Light brown fur, dark expressive eyes, a small tear in one ear. No collar, but looks well-cared for due to Rohan's feeding.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "HE SPOKE.",
+ "scenes": [
+  {
+   "image": "Close-up of Rohan's face, eyes wide with terror, looking up at Priya. His hands are trembling slightly. Evening light from a window. His expression is one of pure shock.",
+   "speaker": "narrator",
+   "line": "Woh din main apni life mein kabhi bhool nahi paati.",
+   "fx": "none",
+   "sub": "I can never forget that day in my life.",
+   "say": "वो दिन मैं अपनी लाइफ में कभी भूल नहीं पाती।"
+  },
+  {
+   "image": "Priya (narrator) in her kitchen, looking out the window with a soft, slightly worried expression, stirring a cup of tea.",
+   "speaker": "narrator",
+   "line": "Mera chhota bhai, Rohan, ghar mein bohot akela rehta tha.",
+   "fx": "none",
+   "sub": "My little brother, Rohan, used to be very lonely at home.",
+   "say": "मेरा छोटा भाई, रोहन, घर में बहुत अकेला रहता था।"
+  },
+  {
+   "image": "Rohan sitting alone on a park bench, looking down at his feet, an empty space next to him. He looks lost in thought.",
+   "speaker": "narrator",
+   "line": "School ke baad, uske paas khelne ke liye koi nahi tha.",
+   "fx": "none",
+   "sub": "After school, he had no one to play with.",
+   "say": "स्कूल के बाद, उसके पास खेलने के लिए कोई नहीं था।"
+  },
+  {
+   "image": "A stray dog, Kodi, cautiously approaching Rohan in the park. Kodi is looking at him with curious, soft eyes, wagging his tail slightly.",
+   "speaker": "narrator",
+   "line": "Phir ek din, Kodi, ek stray dog, uski life mein aaya.",
+   "fx": "none",
+   "sub": "Then one day, Kodi, a stray dog, came into his life.",
+   "say": "फिर एक दिन, कोडी, एक स्ट्रे डॉग, उसकी लाइफ में आया।"
+  },
+  {
+   "image": "Rohan, smiling gently, sharing his roti with Kodi. Kodi is eating carefully from his hand, looking up trustingly.",
+   "speaker": "narrator",
+   "line": "Kodi, ek bohot pyaara sa wafadaar stray dog.",
+   "fx": "none",
+   "sub": "Kodi, a very lovely, loyal stray dog.",
+   "say": "कोडी, एक बहुत प्यारा सा वफादार स्ट्रे डॉग।"
+  },
+  {
+   "image": "Rohan petting Kodi, who is leaning into his hand, eyes closed in contentment. They are sitting on the grass.",
+   "speaker": "narrator",
+   "line": "Unki friendship bohot gehri aur khaas ban gayi.",
+   "fx": "none",
+   "sub": "Their friendship became very deep and special.",
+   "say": "उनकी फ्रेंडशिप बहुत गहरी और खास बन गई।"
+  },
+  {
+   "image": "Close-up of Kodi's intelligent, watchful eyes. He looks observant and protective.",
+   "speaker": "narrator",
+   "line": "Kodi Rohan ka sabse achcha aur sacha dost ban gaya.",
+   "fx": "none",
+   "sub": "Kodi became Rohan's best and true friend.",
+   "say": "कोडी रोहन का सबसे अच्छा और सच्चा दोस्त बन गया।"
+  },
+  {
+   "image": "Priya watching Rohan and Kodi playing together in the distance in a park, a small, relieved smile on her face.",
+   "speaker": "narrator",
+   "line": "Main khush thi Rohan ko har din itna khush dekhkar.",
+   "fx": "none",
+   "sub": "I was happy seeing Rohan so happy every day.",
+   "say": "मैं खुश थी रोहन को हर दिन इतना खुश देखकर।"
+  },
+  {
+   "image": "Rohan talking animatedly to Kodi, who is sitting attentively, head tilted, as if understanding every word.",
+   "speaker": "narrator",
+   "line": "Woh usse ghanto baatein karta tha, jaise ek insaan se.",
+   "fx": "none",
+   "sub": "He would talk to him for hours, as if to a person.",
+   "say": "वो उससे घंटों बातें करता था, जैसे एक इंसान से।"
+  },
+  {
+   "image": "Priya walking past a dilapidated, old building on the edge of town, looking a bit rundown and dusty. The building has visible wear and tear.",
+   "speaker": "narrator",
+   "line": "Humara shehar purana tha, aur buildings bhi kaafi thi.",
+   "fx": "none",
+   "sub": "Our city was old, and the buildings were quite old too.",
+   "say": "हमारा शहर पुराना था, और बिल्डिंग्स भी काफी थी।"
+  },
+  {
+   "image": "Rohan rushing into the house, breathless, grabbing Priya's arm. His face is excited, but also a little scared and urgent.",
+   "speaker": "Rohan",
+   "line": "Didi, didi, suno! Aaj Kodi ne sach mein baat ki!",
+   "fx": "none",
+   "sub": "Sister, sister, listen! Today Kodi really spoke!",
+   "say": "दीदी, दीदी, सुनो! आज कोडी ने सच में बात की!"
+  },
+  {
+   "image": "Priya looking confused, then amused, gently patting Rohan's head, dismissing his excitement.",
+   "speaker": "narrator",
+   "line": "Maine socha woh bas mazak kar raha hai, jaisa aksar.",
+   "fx": "none",
+   "sub": "I thought he was just joking, as he often did.",
+   "say": "मैंने सोचा वो बस मज़ाक कर रहा है, जैसा अक्सर।"
+  },
+  {
+   "image": "Rohan looking frustrated, trying to explain with hand gestures. Kodi in the background, looking restless and pacing.",
+   "speaker": "Rohan",
+   "line": "Nahi, sach mein! Usne mujhe ek warning di thi!",
+   "fx": "none",
+   "sub": "No, really! He gave me a warning!",
+   "say": "नहीं, सच में! उसने मुझे एक वॉर्निंग दी थी!"
+  },
+  {
+   "image": "Close-up of Priya's face, a hint of concern but still disbelief, her eyebrows raised skeptically.",
+   "speaker": "narrator",
+   "line": "Warning? Ek doggy se? Yeh toh bilkul impossible hai.",
+   "fx": "none",
+   "sub": "A warning? From a doggy? This is absolutely impossible.",
+   "say": "वॉर्निंग? एक डॉगी से? ये तो बिल्कुल इम्पासिबल है।"
+  },
+  {
+   "image": "Kodi at the window, pawing at the glass, looking intensely at the dilapidated building outside. He looks agitated.",
+   "speaker": "narrator",
+   "line": "Par Kodi bohot zyada restless aur bechain lag raha tha.",
+   "fx": "none",
+   "sub": "But Kodi looked very restless and uneasy.",
+   "say": "पर कोडी बहुत ज़्यादा रेस्टलेस और बेचैन लग रहा था।"
+  },
+  {
+   "image": "Rohan trying to calm Kodi, who is whining softly and pacing nervously around the room.",
+   "speaker": "narrator",
+   "line": "Woh continuously low tone mein whine kar raha tha.",
+   "fx": "none",
+   "sub": "He was continuously whining in a low tone.",
+   "say": "वो कंटीन्यूअसली लो टोन में वाइन कर रहा था।"
+  },
+  {
+   "image": "Priya looking at Kodi, a slight frown on her face, but then shrugs it off, still not convinced.",
+   "speaker": "narrator",
+   "line": "Maine socha usko bohot zyada bhook lagi hogi.",
+   "fx": "none",
+   "sub": "I thought he must be very hungry.",
+   "say": "मैंने सोचा उसको बहुत ज़्यादा भूख लगी होगी।"
+  },
+  {
+   "image": "Rohan trying to pull Priya towards the window, pointing outside with a desperate look on his face.",
+   "speaker": "Rohan",
+   "line": "Didi, please! Woh purani building bohot dangerous hai!",
+   "fx": "none",
+   "sub": "Sister, please! That old building is very dangerous!",
+   "say": "दीदी, प्लीज! वो पुरानी बिल्डिंग बहुत डेंजरस है!"
+  },
+  {
+   "image": "Priya looking at the old building, then back at Rohan, skepticism still clear in her eyes.",
+   "speaker": "narrator",
+   "line": "Woh old building? Kya danger hoga bhala uss mein?",
+   "fx": "none",
+   "sub": "That old building? What danger could there possibly be in it?",
+   "say": "वो ओल्ड बिल्डिंग? क्या डेंजर होगा भला उस में?"
+  },
+  {
+   "image": "Kodi staring intently at the old building, his ears perked up, a worried and focused expression on his face.",
+   "speaker": "narrator",
+   "line": "Par Kodi ki aankhon mein mujhe gehra darr dikh raha tha.",
+   "fx": "none",
+   "sub": "But I could see deep fear in Kodi's eyes.",
+   "say": "पर कोडी की आँखों में मुझे गहरा डर दिख रहा था।"
+  },
+  {
+   "image": "Rohan looking very serious, holding Kodi close, as if for comfort, his voice barely a whisper.",
+   "speaker": "Rohan",
+   "line": "Usne mujhe bola, \"Girne wala hai, door raho sab.\"",
+   "fx": "none",
+   "sub": "He told me, \"It's going to fall, everyone stay away.\"",
+   "say": "उसने मुझे बोला, \"गिरने वाला है, दूर रहो सब।\""
+  },
+  {
+   "image": "Priya, pouring tea, looking distracted, not really listening, her mind elsewhere.",
+   "speaker": "narrator",
+   "line": "Main uski baat sunkar bhi bilkul unsun kiya.",
+   "fx": "none",
+   "sub": "I heard his words but completely ignored them.",
+   "say": "मैं उसकी बात सुनकर भी बिल्कुल अनसुना किया।"
+  },
+  {
+   "image": "Kodi scratching frantically at the door, trying to get out, looking desperate and agitated.",
+   "speaker": "narrator",
+   "line": "Kodi ki halat aur bhi zyada kharab ho rahi thi.",
+   "fx": "none",
+   "sub": "Kodi's condition was getting even worse.",
+   "say": "कोडी की हालत और भी ज़्यादा खराब हो रही थी।"
+  },
+  {
+   "image": "Rohan looking pleadingly at Priya, pointing towards Kodi with earnest eyes.",
+   "speaker": "Rohan",
+   "line": "Didi, please, uski baat suno na, woh sach keh raha!",
+   "fx": "none",
+   "sub": "Sister, please, listen to him, he's telling the truth!",
+   "say": "दीदी, प्लीज, उसकी बात सुनो ना, वो सच कह रहा!"
+  },
+  {
+   "image": "Priya trying to distract Rohan with a snack, avoiding his earnest gaze, a small, dismissive smile.",
+   "speaker": "narrator",
+   "line": "Maine socha bachcha bas imagination kar raha hai.",
+   "fx": "none",
+   "sub": "I thought the child was just imagining.",
+   "say": "मैंने सोचा बच्चा बस इमेजिनेशन कर रहा है।"
+  },
+  {
+   "image": "Close-up of cracks appearing on the old building's wall, almost imperceptible to the casual eye.",
+   "speaker": "narrator",
+   "line": "Humari society mein bohot saari buildings purani thi.",
+   "fx": "none",
+   "sub": "There were many old buildings in our society.",
+   "say": "हमारी सोसाइटी में बहुत सारी बिल्डिंग्स पुरानी थी।"
+  },
+  {
+   "image": "Kodi suddenly barking sharply and loudly at the building, his barks are different, almost rhythmic and urgent.",
+   "speaker": "narrator",
+   "line": "Kodi suddenly bohot zyada zor se barking karne laga.",
+   "fx": "none",
+   "sub": "Kodi suddenly started barking very loudly.",
+   "say": "कोडी सडनली बहुत ज़्यादा ज़ोर से बार्किंग करने लगा।"
+  },
+  {
+   "image": "Rohan jumping up, startled by Kodi's barks, looking towards the building with wide eyes.",
+   "speaker": "Rohan",
+   "line": "Dekho, woh kuch important keh raha hai mujhe!",
+   "fx": "none",
+   "sub": "Look, he's telling me something important!",
+   "say": "देखो, वो कुछ इम्पोर्टेंट कह रहा है मुझे!"
+  },
+  {
+   "image": "Priya looking annoyed, covering her ears playfully, trying to make light of the situation.",
+   "speaker": "narrator",
+   "line": "Bas karo, Kodi! Please stop barking like this!",
+   "fx": "none",
+   "sub": "Enough, Kodi! Please stop barking like this!",
+   "say": "बस करो, कोडी! प्लीज स्टॉप बार्किंग लाइक दिस!"
+  },
+  {
+   "image": "Kodi looking directly at Priya, a deep, frustrated gaze, almost as if he's trying to communicate with his eyes.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein gussa aur frustration saaf tha.",
+   "fx": "none",
+   "sub": "There was clear anger and frustration in his eyes.",
+   "say": "उसकी आँखों में गुस्सा और फ्रस्ट्रेशन साफ़ था।"
+  },
+  {
+   "image": "Kodi tugging at Rohan's pants, pulling him towards the door with more force and urgency.",
+   "speaker": "narrator",
+   "line": "Kodi Rohan ko darwaze ki taraf kheench raha tha.",
+   "fx": "none",
+   "sub": "Kodi was pulling Rohan towards the door.",
+   "say": "कोडी रोहन को दरवाज़े की तरफ खींच रहा था।"
+  },
+  {
+   "image": "Rohan looking confused, then worried, as he follows Kodi, trying to understand.",
+   "speaker": "Rohan",
+   "line": "Usne mujhse kaha, \"Sab ko jaldi se batao!\"",
+   "fx": "none",
+   "sub": "He told me, \"Tell everyone quickly!\"",
+   "say": "उसने मुझसे कहा, \"सब को जल्दी से बताओ!\""
+  },
+  {
+   "image": "Priya watching them, hands on her hips, her expression showing irritation but also a flicker of uneasiness.",
+   "speaker": "narrator",
+   "line": "Kitni zyada drama kar raha tha Kodi aaj.",
+   "fx": "none",
+   "sub": "How much drama Kodi was doing today.",
+   "say": "कितनी ज़्यादा ड्रामा कर रहा था कोडी आज।"
+  },
+  {
+   "image": "Kodi running to the old building, then back to Rohan, then to Priya, frantically, his movements desperate.",
+   "speaker": "narrator",
+   "line": "Woh building ki taraf bhaag raha tha, phir wapas.",
+   "fx": "none",
+   "sub": "He was running towards the building, then back.",
+   "say": "वो बिल्डिंग की तरफ भाग रहा था, फिर वापस।"
+  },
+  {
+   "image": "Rohan looking increasingly distressed, on the verge of tears, his face crumpled with worry.",
+   "speaker": "Rohan",
+   "line": "Didi, main sach bol raha hoon, please trust me!",
+   "fx": "none",
+   "sub": "Sister, I am telling the truth, please trust me!",
+   "say": "दीदी, मैं सच बोल रहा हूँ, प्लीज ट्रस्ट मी!"
+  },
+  {
+   "image": "Priya sighs, rubs her temples, a tiny flicker of unease now clearly visible on her face, making her stop.",
+   "speaker": "narrator",
+   "line": "Kuch toh sach mein gadbad lag rahi thi mujhe ab.",
+   "fx": "none",
+   "sub": "Something really felt wrong to me now.",
+   "say": "कुछ तो सच में गड़बड़ लग रही थी मुझे अब।"
+  },
+  {
+   "image": "Close-up of Priya's ear, her eyes wide, suggesting a very faint but distinct rumbling sound she just heard.",
+   "speaker": "narrator",
+   "line": "Ek halki si awaz suni maine, jaise building crack hui.",
+   "fx": "none",
+   "sub": "I heard a faint sound, like the building cracked.",
+   "say": "एक हल्की सी आवाज़ सुनी मैंने, जैसे बिल्डिंग क्रैक हुई।"
+  },
+  {
+   "image": "Kodi barking furiously, eyes fixed on the building, his voice desperate and clear.",
+   "speaker": "Kodi",
+   "line": "Jaldi! Yahan se khatra hai! Door jaao sab!",
+   "fx": "none",
+   "sub": "Hurry! There's danger here! Everyone go away!",
+   "say": "जल्दी! यहाँ से खतरा है! दूर जाओ सब!"
+  },
+  {
+   "image": "Priya's eyes widen slightly, she looks around confused, trying to process what she just heard.",
+   "speaker": "narrator",
+   "line": "Kya woh sach mein Kodi ki awaz thi jo maine suni thi?",
+   "fx": "none",
+   "sub": "Was that really Kodi's voice that I heard?",
+   "say": "क्या वो सच में कोडी की आवाज़ थी जो मैंने सुनी थी?"
+  },
+  {
+   "image": "Rohan nodding vigorously, pointing at Kodi with a mixture of terror and 'I told you so' on his face.",
+   "speaker": "Rohan",
+   "line": "Haan! Wahi toh main itni der se aapko bol raha hoon!",
+   "fx": "none",
+   "sub": "Yes! That's what I've been telling you all this time!",
+   "say": "हाँ! वही तो मैं इतनी देर से आपको बोल रहा हूँ!"
+  },
+  {
+   "image": "Close-up of Priya's face, her mouth slightly open, eyes wide with pure shock and dawning realization. Her disbelief crumbles.",
+   "speaker": "narrator",
+   "line": "Main poori tarah shocked thi. Maine uski baat sun li!",
+   "fx": "none",
+   "sub": "I was completely shocked. I understood his words!",
+   "say": "मैं पूरी तरह शॉक्ड थी। मैंने उसकी बात सुन ली!"
+  },
+  {
+   "image": "Kodi looking directly at Priya, his expression urgent and wise, as if waiting for her to act.",
+   "speaker": "Kodi",
+   "line": "Sab ko nikalo, abhi ke abhi! Der mat karo!",
+   "fx": "none",
+   "sub": "Get everyone out, right now! Don't delay!",
+   "say": "सब को निकालो, अभी के अभी! देर मत करो!"
+  },
+  {
+   "image": "Priya grabs Rohan's hand tightly, her face now full of fear and determination, pulling him towards the door.",
+   "speaker": "narrator",
+   "line": "Meri body mein ek thandak si daud gayi.",
+   "fx": "none",
+   "sub": "A chill ran through my body.",
+   "say": "मेरी बॉडी में एक ठंडक सी दौड़ गई।"
+  },
+  {
+   "image": "She looks at the old building, and a visible crack suddenly widens a bit more, plaster crumbling to the ground below.",
+   "speaker": "narrator",
+   "line": "Building mein bade bade cracks dikhne lage the.",
+   "fx": "none",
+   "sub": "Large cracks had started appearing in the building.",
+   "say": "बिल्डिंग में बड़े बड़े क्रैक्स दिखने लगे थे।"
+  },
+  {
+   "image": "Priya runs out of the house, pulling Rohan along, shouting with all her might, panic in her voice.",
+   "speaker": "narrator",
+   "line": "Bhaago! Bhaago sab! Woh building girne wali hai!",
+   "fx": "none",
+   "sub": "Run! Everyone run! That building is going to collapse!",
+   "say": "भागो! भागो सब! वो बिल्डिंग गिरने वाली है!"
+  },
+  {
+   "image": "Neighbors looking confused, some annoyed, as Priya shouts, but a few start to look towards the building.",
+   "speaker": "narrator",
+   "line": "Log pehle meri baat pe bilkul believe nahi kar rahe the.",
+   "fx": "none",
+   "sub": "People didn't believe my words at first.",
+   "say": "लोग पहले मेरी बात पे बिल्कुल बिलीव नहीं कर रहे थे।"
+  },
+  {
+   "image": "Kodi barks loudly again, pointing frantically at the building, his voice desperate and clear.",
+   "speaker": "Kodi",
+   "line": "Jaldi! Bahar niklo sab! Yeh bahut khatarnak hai!",
+   "fx": "none",
+   "sub": "Hurry! Everyone get out! This is very dangerous!",
+   "say": "जल्दी! बाहर निकलो सब! ये बहुत खतरनाक है!"
+  },
+  {
+   "image": "A few neighbors, seeing Kodi's frantic state and Priya's terror, finally start to move, their faces etched with fear.",
+   "speaker": "narrator",
+   "line": "Kodi ki urgency ne sab logon ko bohot hila diya.",
+   "fx": "none",
+   "sub": "Kodi's urgency really shook everyone.",
+   "say": "कोडी की अर्जेन्सी ने सब लोगों को बहुत हिला दिया।"
+  },
+  {
+   "image": "Close-up of the ground, showing it visibly shaking, dust rising from the tremors.",
+   "speaker": "narrator",
+   "line": "Aur phir, poori zameen buri tarah hilne lagi.",
+   "fx": "none",
+   "sub": "And then, the entire ground started shaking badly.",
+   "say": "और फिर, पूरी ज़मीन बुरी तरह हिलने लगी।"
+  },
+  {
+   "image": "People running in panic, looking back at the building with terror as they flee, shouting warnings.",
+   "speaker": "narrator",
+   "line": "Sab log bahar apni jaan bachane bhaag rahe the.",
+   "fx": "none",
+   "sub": "Everyone was running outside to save their lives.",
+   "say": "सब लोग बाहर अपनी जान बचाने भाग रहे थे।"
+  },
+  {
+   "image": "The old building begins to visibly crumble, large sections falling, dust rising in plumes.",
+   "speaker": "narrator",
+   "line": "Bohat zyada loud awazein aane lagi building se.",
+   "fx": "dust",
+   "sub": "Very loud noises started coming from the building.",
+   "say": "बहुत ज़्यादा लाउड आवाज़ें आने लगी बिल्डिंग से।"
+  },
+  {
+   "image": "Priya pushing an old man out of the way just in time, her face strained with effort and fear.",
+   "speaker": "narrator",
+   "line": "Chalo chalo! Jaldi karo sab! Yahan se niklo!",
+   "fx": "dust",
+   "sub": "Come on, come on! Everyone hurry! Get out of here!",
+   "say": "चलो चलो! जल्दी करो सब! यहाँ से निकलो!"
+  },
+  {
+   "image": "Rohan is clinging to Kodi, who is barking, herding people away from the falling debris, guiding them to safety.",
+   "speaker": "narrator",
+   "line": "Kodi ne apni intelligence se sab ko safe rakha.",
+   "fx": "dust",
+   "sub": "Kodi kept everyone safe with his intelligence.",
+   "say": "कोडी ने अपनी इंटेलिजेंस से सब को सेफ रखा।"
+  },
+  {
+   "image": "The entire building collapses into a heap of rubble and dust. A dramatic shot showing the aftermath.",
+   "speaker": "narrator",
+   "line": "Aur phir, woh poori building zor se gir gayi.",
+   "fx": "dust",
+   "sub": "And then, that entire building collapsed loudly.",
+   "say": "और फिर, वो पूरी बिल्डिंग ज़ोर से गिर गई।"
+  },
+  {
+   "image": "Close-up of Priya, Rohan, and Kodi, all covered in dust, but safe. Priya is hugging Rohan tightly, relief washing over her face.",
+   "speaker": "narrator",
+   "line": "Hum sab bilkul safe the, thank god ka shukriya.",
+   "fx": "dust",
+   "sub": "We were all completely safe, thank goodness.",
+   "say": "हम सब बिल्कुल सेफ थे, थैंक गॉड का शुक्रिया।"
+  },
+  {
+   "image": "Neighbors standing in disbelief, staring at the collapsed building, their faces showing shock and gratitude.",
+   "speaker": "narrator",
+   "line": "Pura neighborhood iss hadse se bahut shocked tha.",
+   "fx": "dust",
+   "sub": "The whole neighborhood was very shocked by this incident.",
+   "say": "पूरा नेबरहुड इस हादसे से बहुत शॉक्ड था।"
+  },
+  {
+   "image": "Priya looking at Kodi with immense gratitude and awe, her eyes shining with tears.",
+   "speaker": "narrator",
+   "line": "Woh humara hero tha. Humara jaanbachaane wala dog.",
+   "fx": "none",
+   "sub": "He was our hero. Our lifesaver dog.",
+   "say": "वो हमारा हीरो था। हमारा जान बचाने वाला डॉग।"
+  },
+  {
+   "image": "Rohan gently stroking Kodi's head, tears in his eyes, but smiling. Kodi licks his hand.",
+   "speaker": "Rohan",
+   "line": "Thank you, Kodi. Aapne meri baat suni.",
+   "fx": "none",
+   "sub": "Thank you, Kodi. You listened to me.",
+   "say": "थैंक यू, कोडी। आपने मेरी बात सुनी।"
+  },
+  {
+   "image": "Kodi licking Rohan's face, a happy, content doggy smile, his tail wagging gently.",
+   "speaker": "Kodi",
+   "line": "Tumhe bachana toh bas mera farz aur kaam tha.",
+   "fx": "none",
+   "sub": "Saving you was just my duty and job.",
+   "say": "तुम्हें बचाना तो बस मेरा फ़र्ज़ और काम था।"
+  },
+  {
+   "image": "Priya kneeling down, hugging Kodi tightly, who is happily wagging his tail and nuzzling her.",
+   "speaker": "narrator",
+   "line": "Maine usse kas kar gale laga liya, bohot pyaar se.",
+   "fx": "none",
+   "sub": "I hugged him tightly, with much love.",
+   "say": "मैंने उसे कस कर गले लगा लिया, बहुत प्यार से।"
+  },
+  {
+   "image": "News reporters interviewing people near the collapsed site, but Kodi is the focus of admiration, being petted by many.",
+   "speaker": "narrator",
+   "line": "Kodi ki yeh incredible kahani jald hi viral ho gayi.",
+   "fx": "none",
+   "sub": "Kodi's incredible story soon went viral.",
+   "say": "कोडी की ये इनक्रेडिबल कहानी जल्द ही वायरल हो गई।"
+  },
+  {
+   "image": "Rohan sitting happily with Kodi, who is wearing a new, soft collar. They are surrounded by grateful neighbors.",
+   "speaker": "narrator",
+   "line": "Ab Kodi bilkul bhi lonely nahi tha, hum sab uske saath.",
+   "fx": "none",
+   "sub": "Now Kodi was not lonely at all, we were all with him.",
+   "say": "अब कोडी बिल्कुल भी लोन्ली नहीं था, हम सब उसके साथ।"
+  },
+  {
+   "image": "Priya looking at Rohan and Kodi playing, a look of profound realization and happiness on her face.",
+   "speaker": "narrator",
+   "line": "Aur Rohan bhi ab kabhi akela nahi rehta tha.",
+   "fx": "none",
+   "sub": "And Rohan also was never alone anymore.",
+   "say": "और रोहन भी अब कभी अकेला नहीं रहता था।"
+  },
+  {
+   "image": "Close-up of Priya's hand gently petting Kodi, her eyes soft with affection and deep understanding.",
+   "speaker": "narrator",
+   "line": "Woh hum sab ka pyaara hero ban gaya tha.",
+   "fx": "none",
+   "sub": "He had become everyone's beloved hero.",
+   "say": "वो हम सब का प्यारा हीरो बन गया था।"
+  },
+  {
+   "image": "Priya and Rohan sharing a knowing look, understanding their shared secret about Kodi's special ability.",
+   "speaker": "narrator",
+   "line": "Uski baat sunna bohot zyada hi zaruri tha.",
+   "fx": "none",
+   "sub": "Listening to him was extremely important.",
+   "say": "उसकी बात सुनना बहुत ज़्यादा ही ज़रूरी था।"
+  },
+  {
+   "image": "Kodi happily playing with Rohan in a park, a bright sunbeam on them, symbolizing hope and new beginnings.",
+   "speaker": "narrator",
+   "line": "Kodi ne hum sab ki poori life hi badal di.",
+   "fx": "none",
+   "sub": "Kodi changed all of our lives completely.",
+   "say": "कोडी ने हम सब की पूरी लाइफ ही बदल दी।"
+  },
+  {
+   "image": "Priya smiling, looking content and at peace, reflecting on the experience.",
+   "speaker": "narrator",
+   "line": "Maine seekha ki kabhi kisi ko judge mat karo.",
+   "fx": "none",
+   "sub": "I learned to never judge anyone.",
+   "say": "मैंने सीखा कि कभी किसी को जज मत करो।"
+  },
+  {
+   "image": "Close-up of Kodi's kind, intelligent eyes, looking wise and gentle.",
+   "speaker": "narrator",
+   "line": "Ek animal ki choti si voice bhi bohot important hoti hai.",
+   "fx": "none",
+   "sub": "Even a small voice of an animal is very important.",
+   "say": "एक एनिमल की छोटी सी वॉइस भी बहुत इम्पोर्टेंट होती है।"
+  },
+  {
+   "image": "Priya, Rohan, and Kodi sitting together in a peaceful moment, looking at the sunrise. A symbol of their deep bond.",
+   "speaker": "narrator",
+   "line": "Ab humara connection Kodi ke saath aur bhi deep tha.",
+   "fx": "none",
+   "sub": "Now our connection with Kodi was even deeper.",
+   "say": "अब हमारा कनेक्शन कोडी के साथ और भी डीप था।"
+  },
+  {
+   "image": "Close-up of Kodi's face, looking directly at the camera with a thoughtful, knowing expression.",
+   "speaker": "narrator",
+   "line": "Kya aapne bhi kabhi aisa kuch experience kiya hai life mein?",
+   "fx": "none",
+   "sub": "Have you also ever experienced anything like this in life?",
+   "say": "क्या आपने भी कभी ऐसा कुछ एक्सपीरियंस किया है लाइफ में?"
+  }
+ ],
+ "caption": "My Brother's Stray Dog Talked... It Saved Our Lives! 🐕",
+ "slug": "2026-11-04_part1",
+ "story_no": 23,
+ "yt_title": "My Brother's Stray Dog Talked... It Saved Our Lives! 🐕",
+ "description": "My little brother Rohan always fed the stray dog, Kodi, but what he heard one day changed everything. No one believed him until a whispered warning saved our entire neighborhood from disaster. Have you ever felt an animal was trying to tell you something important?",
+ "comment_question": "Have you ever felt an animal was trying to tell you something important?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalstory",
+  "#straydog",
+  "#talkingdog",
+  "#doglover",
+  "#heroicanimals",
+  "#brothersister",
+  "#indianstory",
+  "#supernatural",
+  "#faith"
+ ]
+}

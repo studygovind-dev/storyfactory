@@ -1,0 +1,625 @@
+{
+ "series": "The Marigold's Promise",
+ "episode": 3,
+ "title": "The Marigold's Promise",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Fair, light wheatish skin, long soft wavy dark-brown hair with a few loose strands, natural makeup, small pearl bindi, delicate silver earrings. She wears a simple but elegant pastel blue cotton kurta with intricate white embroidery, light blue palazzo pants. Kind, intelligent eyes.",
+   "voice": "hindi_female_young"
+  },
+  "kishanlal": {
+   "look": "Deeply wrinkled face, kind eyes that often hold a distant sadness. Thinning white hair, neatly combed. Simple white cotton dhoti, a plain white kurta, and old, round spectacles perched on his nose. Frail but with a surprising strength in his hands.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "A SILENT PROMISE",
+ "scenes": [
+  {
+   "image": "Close-up of [[kishanlal]]'s gnarled, weathered hands, gently holding a single, faded marigold flower. His face is not visible.",
+   "speaker": "narrator",
+   "line": "Yeh budha aadmi, sabne kaha woh bas akela hai.",
+   "fx": "none",
+   "sub": "This old man, everyone said he was just alone.",
+   "say": "ये बूढ़ा आदमी, सबने कहा वो बस अकेला है।"
+  },
+  {
+   "image": "[[narrator]] (Aarohi) watching from a distance, a worried, empathetic expression on her face, as [[kishanlal]] sits alone on a park bench, gazing blankly ahead.",
+   "speaker": "narrator",
+   "line": "Par mujhe uski aankhon mein kuch aur dikha.",
+   "fx": "none",
+   "sub": "But I saw something else in his eyes.",
+   "say": "पर मुझे उसकी आँखों में कुछ और दिखा।"
+  },
+  {
+   "image": "[[kishanlal]] slowly walking through a busy market street, shoulders slightly stooped, people bustling around him, ignoring his presence.",
+   "speaker": "narrator",
+   "line": "Har din, woh usi raste se guzarata tha.",
+   "fx": "none",
+   "sub": "Every day, he would pass by that same path.",
+   "say": "हर दिन, वो उसी रास्ते से गुजरता था।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, a thoughtful frown, as she observes [[kishanlal]] from her apartment window.",
+   "speaker": "narrator",
+   "line": "Uski tanhaai mujhe andar tak chubhti thi.",
+   "fx": "none",
+   "sub": "His loneliness pierced me deep inside.",
+   "say": "उसकी तन्हाई मुझे अंदर तक चुभती थी।"
+  },
+  {
+   "image": "[[narrator]] placing a small, neatly packed tiffin box with food on the park bench next to where [[kishanlal]] usually sits.",
+   "speaker": "narrator",
+   "line": "Ek din, maine uske liye khana chhoda.",
+   "fx": "none",
+   "sub": "One day, I left food for him.",
+   "say": "एक दिन, मैंने उसके लिए खाना छोड़ा।"
+  },
+  {
+   "image": "[[kishanlal]] arrives at the bench, notices the tiffin, but turns his head away, ignoring it. He looks tired.",
+   "speaker": "narrator",
+   "line": "Usne dekha, par nazar ghuma li.",
+   "fx": "none",
+   "sub": "He saw it, but looked away.",
+   "say": "उसने देखा, पर नज़र घुमा ली।"
+  },
+  {
+   "image": "Later, the tiffin box is still untouched on the bench. A stray dog sniffs at it.",
+   "speaker": "narrator",
+   "line": "Khana wahi pada raha, an-chhua.",
+   "fx": "none",
+   "sub": "The food remained there, untouched.",
+   "say": "खाना वही पड़ा रहा, अन-छुआ।"
+  },
+  {
+   "image": "[[narrator]] walking away from the park, her shoulders slumped in disappointment, looking back at the abandoned tiffin.",
+   "speaker": "narrator",
+   "line": "Mera dil thoda toot gaya tha.",
+   "fx": "none",
+   "sub": "My heart was a little broken.",
+   "say": "मेरा दिल थोड़ा टूट गया था।"
+  },
+  {
+   "image": "A close-up of a vibrant marigold flower in [[narrator]]'s hand, contrasting with her determined expression.",
+   "speaker": "narrator",
+   "line": "Par maine haar nahin maani.",
+   "fx": "none",
+   "sub": "But I did not give up.",
+   "say": "पर मैंने हार नहीं मानी।"
+  },
+  {
+   "image": "[[narrator]] placing a single marigold flower on the bench before [[kishanlal]] arrives.",
+   "speaker": "narrator",
+   "line": "Agli baar maine sirf ek phool rakha.",
+   "fx": "none",
+   "sub": "Next time, I just placed a flower.",
+   "say": "अगली बार मैंने सिर्फ एक फूल रखा।"
+  },
+  {
+   "image": "[[kishanlal]] sitting on the bench, slowly picking up the marigold, examining it with a faint, almost imperceptible smile.",
+   "speaker": "narrator",
+   "line": "Aur usne use uthaya. Ek halki muskaan.",
+   "fx": "none",
+   "sub": "And he picked it up. A faint smile.",
+   "say": "और उसने उसे उठाया। एक हल्की मुस्कान।"
+  },
+  {
+   "image": "[[narrator]] watching from behind a tree, a small, hopeful smile on her face.",
+   "speaker": "narrator",
+   "line": "Mera dil khushi se jhoom utha.",
+   "fx": "none",
+   "sub": "My heart danced with joy.",
+   "say": "मेरा दिल खुशी से झूम उठा।"
+  },
+  {
+   "image": "[[narrator]] approaching the bench cautiously, with a hesitant, warm smile.",
+   "speaker": "narrator",
+   "line": "Maine phir usse baat karne ki koshish ki.",
+   "fx": "none",
+   "sub": "I then tried to talk to him.",
+   "say": "मैंने फिर उससे बात करने की कोशिश की।"
+  },
+  {
+   "image": "[[kishanlal]] looks at her, then down at the flower, not speaking but not turning away. His expression is conflicted.",
+   "speaker": "narrator",
+   "line": "Woh kuchh nahin bola, bas dekhta raha.",
+   "fx": "none",
+   "sub": "He said nothing, just kept looking.",
+   "say": "वो कुछ नहीं बोला, बस देखता रहा।"
+  },
+  {
+   "image": "Overhead shot of [[kishanlal]] slowly walking away from the park, holding the marigold gently.",
+   "speaker": "narrator",
+   "line": "Phir woh dheere se chala gaya.",
+   "fx": "none",
+   "sub": "Then he slowly walked away.",
+   "say": "फिर वो धीरे से चला गया।"
+  },
+  {
+   "image": "A slightly older woman (a passerby) with a disapproving look, shaking her head at [[narrator]].",
+   "speaker": "narrator",
+   "line": "Logon ne kaha, 'Chhod do use.'",
+   "fx": "none",
+   "sub": "People said, 'Leave him alone.'",
+   "say": "लोगों ने कहा, 'छोड़ दो उसे।'"
+  },
+  {
+   "image": "[[narrator]] looking determined, clutching the straps of her bag, ignoring the passerby.",
+   "speaker": "narrator",
+   "line": "Par maine socha, kuch toh hai.",
+   "fx": "none",
+   "sub": "But I thought, there is something.",
+   "say": "पर मैंने सोचा, कुछ तो है।"
+  },
+  {
+   "image": "[[kishanlal]] is seen entering a narrow, overgrown alleyway behind the park, almost hidden.",
+   "speaker": "narrator",
+   "line": "Ek shaam, maine uska peecha kiya.",
+   "fx": "none",
+   "sub": "One evening, I followed him.",
+   "say": "एक शाम, मैंने उसका पीछा किया।"
+  },
+  {
+   "image": "[[narrator]] peeking from behind a wall, watching [[kishanlal]] disappear into the alley, intrigued.",
+   "speaker": "narrator",
+   "line": "Woh ek chhoti si gali mein ghusa.",
+   "fx": "none",
+   "sub": "He entered a small alley.",
+   "say": "वो एक छोटी सी गली में घुसा।"
+  },
+  {
+   "image": "[[kishanlal]] is now in a neglected, small, hidden patch of land behind the buildings, near a very old banyan tree. The land is overgrown.",
+   "speaker": "narrator",
+   "line": "Wahan ek chhota, bhoola hua baag tha.",
+   "fx": "none",
+   "sub": "There was a small, forgotten garden.",
+   "say": "वहाँ एक छोटा, भूला हुआ बाग़ था।"
+  },
+  {
+   "image": "Close-up of [[kishanlal]]'s hands gently clearing some weeds from around a tiny, struggling marigold plant in the neglected patch.",
+   "speaker": "narrator",
+   "line": "Woh wahan marigold ke paudhe laga raha tha.",
+   "fx": "none",
+   "sub": "He was planting marigold saplings there.",
+   "say": "वो वहाँ मैरीगोल्ड के पौधे लगा रहा था।"
+  },
+  {
+   "image": "[[narrator]]'s face, wide-eyed, a mixture of surprise and profound curiosity, watching him from her hiding spot.",
+   "speaker": "narrator",
+   "line": "Meri aankhon mein hairani thi.",
+   "fx": "none",
+   "sub": "There was surprise in my eyes.",
+   "say": "मेरी आँखों में हैरानी थी।"
+  },
+  {
+   "image": "[[kishanlal]] sitting on a stone, looking at the overgrown patch with a wistful, distant expression.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein ek gehra dard tha.",
+   "fx": "none",
+   "sub": "There was a deep pain in his eyes.",
+   "say": "उसकी आँखों में एक गहरा दर्द था।"
+  },
+  {
+   "image": "[[narrator]] slowly stepping out from behind the wall, approaching him cautiously.",
+   "speaker": "narrator",
+   "line": "Maine use pukaara, \"Chacha ji!\"",
+   "fx": "none",
+   "sub": "I called him, \"Uncle!\"",
+   "say": "मैंने उसे पुकारा, \"चाचा जी!\""
+  },
+  {
+   "image": "[[kishanlal]] turning sharply, startled, dropping something from his hand, a look of fear on his face.",
+   "speaker": "narrator",
+   "line": "Woh chaunk utha, kuch gira diya.",
+   "fx": "none",
+   "sub": "He was startled, dropped something.",
+   "say": "वो चौंक उठा, कुछ गिरा दिया।"
+  },
+  {
+   "image": "Close-up of a small, old, silver locket lying on the ground, slightly open, revealing a faded photograph inside.",
+   "speaker": "narrator",
+   "line": "Zameen par ek purana locket pada tha.",
+   "fx": "none",
+   "sub": "An old locket lay on the ground.",
+   "say": "ज़मीन पर एक पुराना लॉकेट पड़ा था।"
+  },
+  {
+   "image": "[[kishanlal]] quickly reaching for the locket, trying to cover it with his hand, panic in his eyes.",
+   "speaker": "narrator",
+   "line": "Usne use jhat se chhipana chaha.",
+   "fx": "none",
+   "sub": "He quickly tried to hide it.",
+   "say": "उसने उसे झट से छिपाना चाहा।"
+  },
+  {
+   "image": "[[narrator]]'s hand reaching for the locket just as [[kishanlal]]'s hand covers it. Their fingers touch.",
+   "speaker": "narrator",
+   "line": "Par maine ek jhalak dekh li thi.",
+   "fx": "none",
+   "sub": "But I had seen a glimpse.",
+   "say": "पर मैंने एक झलक देख ली थी।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s eyes, wide with recognition and shock.",
+   "speaker": "narrator",
+   "line": "Meri aankhon mein aansu bhar aaye.",
+   "fx": "none",
+   "sub": "My eyes welled up with tears.",
+   "say": "मेरी आँखों में आँसू भर आए।"
+  },
+  {
+   "image": "Extreme close-up of the faded photograph inside the locket: A younger, smiling man (Aarohi's father) with a younger [[kishanlal]] beside him, both standing in a vibrant marigold garden.",
+   "speaker": "narrator",
+   "line": "Yeh toh mere Papa the! Unki tasveer!",
+   "fx": "none",
+   "sub": "This was my Papa! His photograph!",
+   "say": "ये तो मेरे पापा थे! उनकी तस्वीर!"
+  },
+  {
+   "image": "[[narrator]] looking at [[kishanlal]] with profound shock and dawning realization. His face is now resigned, sad, and vulnerable.",
+   "speaker": "narrator",
+   "line": "Aur unke bagal mein... Kishanlal Chacha?",
+   "fx": "none",
+   "sub": "And beside him... Kishanlal Uncle?",
+   "say": "और उनके बगल में... किशनलाल चाचा?"
+  },
+  {
+   "image": "[[kishanlal]] slowly lowering his hand from the locket, defeated, his gaze fixed on the ground.",
+   "speaker": "narrator",
+   "line": "Usne sirf sar jhuka liya.",
+   "fx": "none",
+   "sub": "He just bowed his head.",
+   "say": "उसने सिर्फ सर झुका लिया।"
+  },
+  {
+   "image": "[[narrator]] kneeling beside him, tears streaming down her face, looking at the locket.",
+   "speaker": "narrator",
+   "line": "Yeh chacha aur Papa ka baag tha.",
+   "fx": "none",
+   "sub": "This was uncle's and Papa's garden.",
+   "say": "ये चाचा और पापा का बाग़ था।"
+  },
+  {
+   "image": "Flashback: A younger [[kishanlal]] and [[narrator]]'s father (both in their 20s) laughing together while planting marigold saplings in the same patch of land, which is well-maintained.",
+   "speaker": "narrator",
+   "line": "Bachpan mein Papa ne bataya tha.",
+   "fx": "none",
+   "sub": "Papa had told me in childhood.",
+   "say": "बचपन में पापा ने बताया था।"
+  },
+  {
+   "image": "Flashback: [[narrator]]'s father and young [[kishanlal]] shaking hands firmly, a serious yet warm expression on their faces, in front of the blooming garden.",
+   "speaker": "narrator",
+   "line": "Ek vaada, ek gehra dostana rishta.",
+   "fx": "none",
+   "sub": "A promise, a deep friendship.",
+   "say": "एक वादा, एक गहरा दोस्ताना रिश्ता।"
+  },
+  {
+   "image": "Flashback: [[narrator]]'s father looking at a small, young Aarohi (toddler) with immense love, [[kishanlal]] standing nearby, observing.",
+   "speaker": "narrator",
+   "line": "Jab Papa chhod kar chale gaye...",
+   "fx": "none",
+   "sub": "When Papa left us...",
+   "say": "जब पापा छोड़ कर चले गए..."
+  },
+  {
+   "image": "Flashback: [[kishanlal]] (younger) at a distance, watching Aarohi's family from afar, a look of profound sadness and resolve.",
+   "speaker": "narrator",
+   "line": "Chacha ne hamein door se dekha.",
+   "fx": "none",
+   "sub": "Uncle watched us from afar.",
+   "say": "चाचा ने हमें दूर से देखा।"
+  },
+  {
+   "image": "Flashback: [[kishanlal]] (younger) discreetly leaving groceries at Aarohi's family's doorstep, then quickly disappearing.",
+   "speaker": "narrator",
+   "line": "Humare liye madad bhi bhejte the.",
+   "fx": "none",
+   "sub": "He even sent help for us.",
+   "say": "हमारे लिए मदद भी भेजते थे।"
+  },
+  {
+   "image": "Back to present. [[kishanlal]] finally looking up at [[narrator]], his eyes brimming with tears.",
+   "speaker": "kishanlal",
+   "line": "Main bas tumhein dekhta raha, Aarohi.",
+   "fx": "none",
+   "sub": "I just kept watching you, Aarohi.",
+   "say": "मैं बस तुम्हें देखता रहा, आरोही।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s hand gently clasping [[kishanlal]]'s trembling hand. Both have tears in their eyes.",
+   "speaker": "narrator",
+   "line": "Uski awaaz mein saalon ki tanhaai thi.",
+   "fx": "none",
+   "sub": "In his voice was the loneliness of years.",
+   "say": "उसकी आवाज़ में सालों की तन्हाई थी।"
+  },
+  {
+   "image": "[[kishanlal]] now with a small, tender smile, looking at [[narrator]], a sense of relief on his face.",
+   "speaker": "kishanlal",
+   "line": "Tum bilkul apne Papa jaisi ho.",
+   "fx": "none",
+   "sub": "You are exactly like your Papa.",
+   "say": "तुम बिल्कुल अपने पापा जैसी हो।"
+  },
+  {
+   "image": "[[narrator]] hugging [[kishanlal]] tightly, both crying. The locket is visible in his hand.",
+   "speaker": "narrator",
+   "line": "Us pal, meri duniya badal gayi.",
+   "fx": "none",
+   "sub": "In that moment, my world changed.",
+   "say": "उस पल, मेरी दुनिया बदल गई।"
+  },
+  {
+   "image": "[[narrator]] and [[kishanlal]] sitting together on the ground in the neglected garden, looking at the faded photograph in the locket.",
+   "speaker": "narrator",
+   "line": "Yeh marigold ka vaada zinda tha.",
+   "fx": "none",
+   "sub": "This marigold's promise was alive.",
+   "say": "ये मैरीगोल्ड का वादा ज़िंदा था।"
+  },
+  {
+   "image": "Close-up of [[narrator]] and [[kishanlal]]'s hands together, planting a new marigold sapling in the garden. Both are smiling faintly.",
+   "speaker": "narrator",
+   "line": "Ab hum us baag ko sanwarte hain.",
+   "fx": "none",
+   "sub": "Now we tend that garden.",
+   "say": "अब हम उस बाग़ को सँवारते हैं।"
+  },
+  {
+   "image": "A wide shot of the formerly neglected garden, now slowly coming to life with newly planted marigolds and some other small plants, looked after by both of them.",
+   "speaker": "narrator",
+   "line": "Marigold ke paudhe phir se khil rahe hain.",
+   "fx": "none",
+   "sub": "Marigold plants are blooming again.",
+   "say": "मैरीगोल्ड के पौधे फिर से खिल रहे हैं।"
+  },
+  {
+   "image": "[[narrator]] watering the marigolds, a peaceful smile on her face.",
+   "speaker": "narrator",
+   "line": "Har phool mein Papa ki yaad hai.",
+   "fx": "none",
+   "sub": "In every flower is Papa's memory.",
+   "say": "हर फूल में पापा की याद है।"
+  },
+  {
+   "image": "[[kishanlal]] sitting on the bench, watching [[narrator]] with a serene, happy smile, no longer lonely.",
+   "speaker": "narrator",
+   "line": "Chacha ab akele nahin hain.",
+   "fx": "none",
+   "sub": "Uncle is no longer alone.",
+   "say": "चाचा अब अकेले नहीं हैं।"
+  },
+  {
+   "image": "Close-up of a vibrant, healthy marigold in full bloom, glistening with dew.",
+   "speaker": "narrator",
+   "line": "Unka vaada poora ho gaya hai.",
+   "fx": "none",
+   "sub": "His promise has been fulfilled.",
+   "say": "उनका वादा पूरा हो गया है।"
+  },
+  {
+   "image": "[[narrator]] and [[kishanlal]] sitting side-by-side on a bench in the now flourishing garden, both looking at the marigolds with contentment. Sunset light.",
+   "speaker": "narrator",
+   "line": "Ek anjaani dosti, ek nayi zindagi.",
+   "fx": "none",
+   "sub": "An unknown friendship, a new life.",
+   "say": "एक अनजानी दोस्ती, एक नई ज़िंदगी।"
+  },
+  {
+   "image": "[[narrator]] looking directly at the camera, a warm, heartfelt smile.",
+   "speaker": "narrator",
+   "line": "Kya aap ne bhi aisi anjaani dosti dekhi hai?",
+   "fx": "none",
+   "sub": "Have you also seen such unknown friendships?",
+   "say": "क्या आपने भी ऐसी अनजानी दोस्ती देखी है?"
+  },
+  {
+   "image": "Close-up of [[kishanlal]]'s face, a gentle, grateful smile, tears in his eyes as he looks at [[narrator]].",
+   "speaker": "kishanlal",
+   "line": "Tumne mujhe mera parivaar wapas diya.",
+   "fx": "none",
+   "sub": "You gave me my family back.",
+   "say": "तुमने मुझे मेरा परिवार वापस दिया।"
+  },
+  {
+   "image": "[[narrator]] holding [[kishanlal]]'s hand, smiling reassuringly, a loving expression.",
+   "speaker": "narrator",
+   "line": "Aap mera parivaar hain, Chacha.",
+   "fx": "none",
+   "sub": "You are my family, Uncle.",
+   "say": "आप मेरा परिवार हैं, चाचा।"
+  },
+  {
+   "image": "Shot of the vibrant marigold garden, blooming under warm sunlight, with [[narrator]] and [[kishanlal]]'s silhouettes in the background.",
+   "speaker": "narrator",
+   "line": "Marigold ka vaada, hamesha zinda rahega.",
+   "fx": "none",
+   "sub": "The marigold's promise will live forever.",
+   "say": "मैरीगोल्ड का वादा, हमेशा ज़िंदा रहेगा।"
+  },
+  {
+   "image": "Close-up of a single, perfect marigold flower, glistening.",
+   "speaker": "narrator",
+   "line": "Har phool mein ek kahani chhupi hoti hai.",
+   "fx": "none",
+   "sub": "In every flower, a story is hidden.",
+   "say": "हर फूल में एक कहानी छुपी होती है।"
+  },
+  {
+   "image": "[[narrator]] looking thoughtful, a slight breeze gently moving her hair.",
+   "speaker": "narrator",
+   "line": "Sirf dekhne wali aankhen honi chahiye.",
+   "fx": "none",
+   "sub": "Only eyes that can see are needed.",
+   "say": "सिर्फ देखने वाली आँखें होनी चाहिए।"
+  },
+  {
+   "image": "[[kishanlal]] watering the marigolds, a peaceful smile on his face, sunbeams filtering through the leaves.",
+   "speaker": "narrator",
+   "line": "Uski muskaan, meri sabse badi khushi.",
+   "fx": "none",
+   "sub": "His smile, my greatest joy.",
+   "say": "उसकी मुस्कान, मेरी सबसे बड़ी खुशी।"
+  },
+  {
+   "image": "[[narrator]] placing her hand over her heart, a look of deep emotion.",
+   "speaker": "narrator",
+   "line": "Dil se dil ka rishta, sabse anmol hota hai.",
+   "fx": "none",
+   "sub": "A connection from heart to heart, is most precious.",
+   "say": "दिल से दिल का रिश्ता, सबसे अनमोल होता है।"
+  },
+  {
+   "image": "Wide shot of the lush, vibrant marigold garden, full of life, with [[narrator]] and [[kishanlal]] tending to it happily in the distance.",
+   "speaker": "narrator",
+   "line": "Humne milkar ek nayi shuruaat ki.",
+   "fx": "dust",
+   "sub": "Together, we started anew.",
+   "say": "हमने मिलकर एक नई शुरुआत की।"
+  },
+  {
+   "image": "Close-up of a marigold bloom, with a single dewdrop reflecting the sunlight.",
+   "speaker": "narrator",
+   "line": "Zindagi mein ummeed kabhi nahin khoni chahiye.",
+   "fx": "none",
+   "sub": "One should never lose hope in life.",
+   "say": "ज़िंदगी में उम्मीद कभी नहीं खोनी चाहिए।"
+  },
+  {
+   "image": "[[kishanlal]] leaning against the banyan tree, watching the blooming garden, a serene expression.",
+   "speaker": "narrator",
+   "line": "Tanhaai bhi kabhi kabhi rishta banati hai.",
+   "fx": "none",
+   "sub": "Loneliness sometimes creates bonds.",
+   "say": "तन्हाई भी कभी कभी रिश्ता बनाती है।"
+  },
+  {
+   "image": "[[narrator]] and [[kishanlal]] sharing a cup of chai on the bench, chatting and laughing softly.",
+   "speaker": "narrator",
+   "line": "Ab humara har din khushiyon se bhara hai.",
+   "fx": "none",
+   "sub": "Now every day of ours is filled with joy.",
+   "say": "अब हमारा हर दिन खुशियों से भरा है।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s smiling face, looking at [[kishanlal]] fondly.",
+   "speaker": "narrator",
+   "line": "Uska vaada, meri zindagi ka sabse bada tohfa.",
+   "fx": "none",
+   "sub": "His promise, my life's greatest gift.",
+   "say": "उसका वादा, मेरी ज़िंदगी का सबसे बड़ा तोहफ़ा।"
+  },
+  {
+   "image": "[[kishanlal]] picking a fresh marigold and offering it to [[narrator]], who accepts it with a grateful smile.",
+   "speaker": "kishanlal",
+   "line": "Yeh phool tumhare liye, Aarohi.",
+   "fx": "none",
+   "sub": "This flower is for you, Aarohi.",
+   "say": "ये फूल तुम्हारे लिए, आरोही।"
+  },
+  {
+   "image": "[[narrator]] holding the marigold close to her heart, eyes closed in peace.",
+   "speaker": "narrator",
+   "line": "Thank you, Chacha, sab kuchh ke liye.",
+   "fx": "none",
+   "sub": "Thank you, Uncle, for everything.",
+   "say": "थैंक यू, चाचा, सब कुछ के लिए।"
+  },
+  {
+   "image": "The locket is shown again, now clean and polished, lying open in the middle of a bed of blooming marigolds.",
+   "speaker": "narrator",
+   "line": "Uss locket ne puri kahani bata di.",
+   "fx": "none",
+   "sub": "That locket told the whole story.",
+   "say": "उस लॉकेट ने पूरी कहानी बता दी।"
+  },
+  {
+   "image": "[[narrator]] and [[kishanlal]] walking hand-in-hand through the blooming garden, a path of marigolds stretching ahead.",
+   "speaker": "narrator",
+   "line": "Rishtey chhupe nahin reh sakte zyada der tak.",
+   "fx": "dust",
+   "sub": "Relationships cannot stay hidden for too long.",
+   "say": "रिश्ते छुपे नहीं रह सकते ज़्यादा देर तक।"
+  },
+  {
+   "image": "Close-up of [[kishanlal]]'s peaceful face, looking up at the sky, a slight smile. No more sadness.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein ab shanti hai.",
+   "fx": "none",
+   "sub": "There is peace in his eyes now.",
+   "say": "उसकी आँखों में अब शांति है।"
+  },
+  {
+   "image": "[[narrator]] lovingly adjusting [[kishanlal]]'s spectacles, a tender gesture.",
+   "speaker": "narrator",
+   "line": "Maine use apna parivaar maan liya.",
+   "fx": "none",
+   "sub": "I accepted him as my family.",
+   "say": "मैंने उसे अपना परिवार मान लिया।"
+  },
+  {
+   "image": "A close-up of [[narrator]] and [[kishanlal]]'s hands entwined, showing the bond.",
+   "speaker": "narrator",
+   "line": "Dosti ka matlab maine aaj samjha.",
+   "fx": "none",
+   "sub": "I understood the meaning of friendship today.",
+   "say": "दोस्ती का मतलब मैंने आज समझा।"
+  },
+  {
+   "image": "Wide shot of the beautiful, thriving marigold garden, bathed in golden light.",
+   "speaker": "narrator",
+   "line": "Yeh baag sirf phool nahin, kahani hai.",
+   "fx": "none",
+   "sub": "This garden isn't just flowers, it's a story.",
+   "say": "ये बाग़ सिर्फ फूल नहीं, कहानी है।"
+  },
+  {
+   "image": "[[narrator]] smiling warmly at the camera, then glancing at [[kishanlal]] with affection.",
+   "speaker": "narrator",
+   "line": "Har dil mein ek chhupi dastaan hoti hai.",
+   "fx": "none",
+   "sub": "Every heart holds a hidden tale.",
+   "say": "हर दिल में एक छुपी दास्तान होती है।"
+  },
+  {
+   "image": "[[kishanlal]] offering a marigold to a young child passing by, who smiles and takes it.",
+   "speaker": "narrator",
+   "line": "Ab woh sabse baat karta hai, hansata hai.",
+   "fx": "none",
+   "sub": "Now he talks to everyone, makes them laugh.",
+   "say": "अब वो सबसे बात करता है, हँसाता है।"
+  },
+  {
+   "image": "[[narrator]] and [[kishanlal]] sitting on the park bench together, no longer isolated, but sharing a moment, surrounded by faint glowing fireflies.",
+   "speaker": "narrator",
+   "line": "Kya aap ne bhi aisi anjaani dosti dekhi hai?",
+   "fx": "none",
+   "sub": "Have you also seen such unknown friendships?",
+   "say": "क्या आपने भी ऐसी अनजानी दोस्ती देखी है?"
+  }
+ ],
+ "caption": "I helped a lonely old man... His secret broke my heart 💔",
+ "slug": "2026-11-04_part3",
+ "story_no": 25,
+ "yt_title": "I helped a lonely old man... His secret broke my heart 💔",
+ "description": "Everyone called him just 'the old man,' but I saw a story in his eyes. I wanted to help, but he was distant. What I uncovered was a silent promise from the past, a connection that broke my heart and healed it.\nHave you ever discovered a hidden truth about someone close?",
+ "comment_question": "Have you ever discovered a hidden truth about someone close?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiastory",
+  "#heartwarming",
+  "#familysecret",
+  "#twistending",
+  "#oldman",
+  "#friendshipgoals",
+  "#indianculture",
+  "#unexpectedbond",
+  "#marigold"
+ ]
+}

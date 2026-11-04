@@ -1,0 +1,525 @@
+{
+ "series": "The Sizzling Secret of Chhotu",
+ "episode": 2,
+ "title": "The Sizzling Secret of Chhotu",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A kind and engaging male storyteller.",
+   "voice": "hindi_narrator_male"
+  },
+  "Priya": {
+   "look": "Young woman, late 20s. Long, soft wavy dark-brown hair, natural makeup, small bindi, delicate silver earrings, wearing an elegant pastel blue kurta with white embroidery and white leggings. Fair skin with bright soft light on her face, graceful features, expressive eyes.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Mom": {
+   "look": "Priya's mother, Mrs. Sharma, 50s. Traditional Indian mother, grey streaked dark hair neatly tied in a bun, small gold earrings, wearing a beautiful maroon and gold silk saree. Warm, expressive face with gentle smile lines, fair skin with bright soft light on her face.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Chhotu": {
+   "look": "Baby dragon, small, about the size of a housecat. Vibrant green scales, tiny bat-like wings, large innocent golden eyes that sparkle, a small snout, no collar. Adorable and clumsy.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "DRAGON IN KITCHEN?!",
+ "scenes": [
+  {
+   "image": "Close-up of [[Priya]] opening a fridge, face frozen in shocked horror. A puff of smoke billows out. [[Chhotu]]'s green face peeks playfully from behind a milk carton inside.",
+   "speaker": "Priya",
+   "line": "My kitchen became a fire hazard overnight!",
+   "fx": "dust",
+   "say": "माय किचन बन गई आग का अड्डा एक ही रात में!"
+  },
+  {
+   "image": "Flashback. [[Priya]], much younger, cradling a tiny, palm-sized, adorable [[Chhotu]] with wide, innocent eyes. She smiles softly at him.",
+   "speaker": "narrator",
+   "line": "Remember Chhotu? My adorable baby dragon.",
+   "fx": "none",
+   "say": "याद है छोटू? मेरा प्यारा सा बेबी ड्रैगन."
+  },
+  {
+   "image": "[[Priya]] bringing [[Chhotu]] home in a small basket. [[Mom]] stands at the door, arms crossed, looking skeptical but a little amused.",
+   "speaker": "Mom",
+   "line": "Yeh kya naya balak le aayi ho, Priya?",
+   "fx": "none",
+   "say": "ये क्या नया बालक ले आई हो, प्रिया?"
+  },
+  {
+   "image": "[[Priya]] kneeling, pleading with [[Mom]], who is still looking unsure. [[Chhotu]] yawns adorably in the basket.",
+   "speaker": "Priya",
+   "line": "Mom, he needs a home. He's so cute!",
+   "fx": "none",
+   "say": "मॉम, ही नीड्स अ होम. ही इज सो क्यूट!"
+  },
+  {
+   "image": "[[Mom]] finally gives in, a small smile on her face, patting [[Chhotu]] gently as he nuzzles her hand.",
+   "speaker": "Mom",
+   "line": "Thik hai, par kitchen mein nahi, haan?",
+   "fx": "none",
+   "say": "ठीक है, पर किचन में नहीं, हाँ?"
+  },
+  {
+   "image": "[[Chhotu]] as a slightly bigger baby dragon, exploring the living room. He looks curious and playful, sniffing furniture.",
+   "speaker": "narrator",
+   "line": "Chhotu was sweet, but very curious, especially about food.",
+   "fx": "none",
+   "say": "छोटू था स्वीट, पर बहुत क्यूरियस, एस्पेशली अबाउट फूड."
+  },
+  {
+   "image": "[[Chhotu]] sitting innocently on the kitchen counter, looking at a plate of samosas. [[Mom]] is stirring a pot, back turned.",
+   "speaker": "Chhotu",
+   "line": "Mmm, smells nice! Kya ban raha hai?",
+   "fx": "none",
+   "say": "मम, स्मेलस नाइस! क्या बन रहा है?"
+  },
+  {
+   "image": "[[Mom]] turns around to find one samosa missing. [[Chhotu]] has a tiny crumb on his mouth, looking guilty.",
+   "speaker": "Mom",
+   "line": "Chhotu, yeh samosa kahan gaya?",
+   "fx": "none",
+   "say": "छोटू, ये समोसा कहाँ गया?"
+  },
+  {
+   "image": "[[Chhotu]] quickly points a tiny claw towards the door, trying to blame an imaginary culprit. [[Mom]] raises an eyebrow.",
+   "speaker": "Chhotu",
+   "line": "Woh... woh bahar se ud gaya!",
+   "fx": "none",
+   "say": "वो... वो बाहर से उड़ गया!"
+  },
+  {
+   "image": "[[Priya]] laughing, picking up [[Chhotu]]. He looks pleased with himself. [[Mom]] shakes her head, smiling.",
+   "speaker": "Priya",
+   "line": "He's too clever, Mom. Our little thief.",
+   "fx": "none",
+   "say": "ही इज टू क्लेवर, मॉम. आवर लिटिल थीफ."
+  },
+  {
+   "image": "[[Priya]] trying to teach [[Chhotu]] to stay out of the kitchen. He looks bored, his eyes fixed on a bowl of fruit.",
+   "speaker": "Priya",
+   "line": "No kitchen, Chhotu. Only living room for you.",
+   "fx": "none",
+   "say": "नो किचन, छोटू. ओनली लिविंग रूम फॉर यू."
+  },
+  {
+   "image": "[[Chhotu]] peeks from behind the kitchen door frame, his eyes wide and curious, watching [[Priya]] chop vegetables.",
+   "speaker": "Chhotu",
+   "line": "But... what is happening in there?",
+   "fx": "none",
+   "say": "बट... व्हॉट इज हैप्पेनिंग इन देयर?"
+  },
+  {
+   "image": "[[Chhotu]] now sitting on a stool, watching [[Mom]] roll rotis. He looks utterly fascinated, tilting his head.",
+   "speaker": "narrator",
+   "line": "His curiosity grew daily, especially for cooking.",
+   "fx": "none",
+   "say": "हिज़ क्यूरिओसिटी ग्रू डेली, एस्पेशली फॉर कुकिंग."
+  },
+  {
+   "image": "[[Mom]] is making roti on the tawa. [[Chhotu]] approaches stealthily, a tiny puff of smoke escaping his nostrils.",
+   "speaker": "Chhotu",
+   "line": "Can I... help with the heat?",
+   "fx": "none",
+   "say": "कैन आय... हेल्प विथ द हीट?"
+  },
+  {
+   "image": "Close-up of a roti on the tawa, perfectly browned on one side. [[Chhotu]] looks proud, a tiny smile.",
+   "speaker": "Mom",
+   "line": "Arre, this roti is perfectly cooked, Chhotu!",
+   "fx": "none",
+   "say": "अरे, दिस रोटी इज परफ़ेक्ट्ली कुक्ड, छोटू!"
+  },
+  {
+   "image": "Next roti, [[Chhotu]] blows a slightly stronger puff of fire. The roti is now partially burnt, smoke rising.",
+   "speaker": "Priya",
+   "line": "Oh no, Chhotu! Thoda zyaada ho gaya.",
+   "fx": "none",
+   "say": "ओह नो, छोटू! थोड़ा ज़्यादा हो गया."
+  },
+  {
+   "image": "[[Mom]] is frantically fanning smoke away from her face, looking exasperated. [[Chhotu]] looks apologetic.",
+   "speaker": "Mom",
+   "line": "Mera pura kitchen dhuyein se bhar gaya!",
+   "fx": "dust",
+   "say": "मेरा पूरा किचन धुएँ से भर गया!"
+  },
+  {
+   "image": "[[Chhotu]] trying to help dry wet dishes on the counter, accidentally singes a dishcloth. He looks surprised.",
+   "speaker": "Chhotu",
+   "line": "Oops! That was... unexpected.",
+   "fx": "none",
+   "say": "ऊप्स! दैट वॉज... अनएक्सपेक्टेड."
+  },
+  {
+   "image": "A small pile of burnt kitchen towels. [[Priya]] picks one up, shaking her head. [[Chhotu]] hides his face behind his wings.",
+   "speaker": "Priya",
+   "line": "Chhotu, no more 'helping' with drying.",
+   "fx": "none",
+   "say": "छोटू, नो मोर 'हेल्पिंग' विथ ड्राइंग."
+  },
+  {
+   "image": "[[Mom]] preparing spices. [[Chhotu]] sneezes, a tiny flame igniting a small bowl of turmeric, which flares up.",
+   "speaker": "Mom",
+   "line": "Arre, mera masala! Jal gaya!",
+   "fx": "none",
+   "say": "अरे, मेरा मसाला! जल गया!"
+  },
+  {
+   "image": "Close-up of a frying pan, its base melted into a bizarre, distorted shape. [[Mom]] holds it up, aghast.",
+   "speaker": "Mom",
+   "line": "Meri nayi kadhai! Iska kya hoga ab?",
+   "fx": "none",
+   "say": "मेरी नई कड़ाही! इसका क्या होगा अब?"
+  },
+  {
+   "image": "[[Priya]] tries to explain to [[Mom]], gesturing apologetically. [[Chhotu]] looks downcast, sitting on the floor.",
+   "speaker": "Priya",
+   "line": "Mom, he didn't mean it. It was an accident.",
+   "fx": "none",
+   "say": "मॉम, ही डिडंट मीन इट. इट वाज़ एन एक्सीडेंट."
+  },
+  {
+   "image": "[[Mom]] sighs dramatically, putting the melted pan down. She looks at [[Chhotu]] with a mix of frustration and fondness.",
+   "speaker": "Mom",
+   "line": "Accident? Yeh toh roz ka drama ho gaya!",
+   "fx": "none",
+   "say": "एक्सीडेंट? ये तो रोज़ का ड्रामा हो गया!"
+  },
+  {
+   "image": "[[Priya]] and [[Mom]] looking at a 'Dragon Training' book. [[Chhotu]] looks suspicious, eyeing them from a distance.",
+   "speaker": "narrator",
+   "line": "They decided Chhotu needed some serious training.",
+   "fx": "none",
+   "say": "उन्होंने डिसाइड किया छोटू को सीरियस ट्रेनिंग चाहिए."
+  },
+  {
+   "image": "[[Priya]] holding a sign 'No Fire in Kitchen'. [[Chhotu]] looks at the sign, then mischievously at the stove.",
+   "speaker": "Priya",
+   "line": "Samajh gaya, Chhotu? No fire, okay?",
+   "fx": "none",
+   "say": "समझ गया, छोटू? नो फायर, ओके?"
+  },
+  {
+   "image": "[[Chhotu]] trying to pick up a utensil with his tiny claws, but it slips and clatters loudly.",
+   "speaker": "Chhotu",
+   "line": "Uff, too heavy! My wings need practice.",
+   "fx": "none",
+   "say": "उफ़्फ़, टू हेवी! माय विंग्स नीड प्रैक्टिस."
+  },
+  {
+   "image": "A trail of flour on the kitchen floor, leading to [[Chhotu]] who is covered in flour, looking like a ghost.",
+   "speaker": "Mom",
+   "line": "Chhotu, yeh aata kaise phail gaya?",
+   "fx": "none",
+   "say": "छोटू, ये आटा कैसे फैल गया?"
+  },
+  {
+   "image": "[[Chhotu]] sneezes again, a small fiery puff. It singes [[Priya]]'s hair slightly. She jumps back in surprise.",
+   "speaker": "Priya",
+   "line": "Agh! Mera baal jalne wala tha!",
+   "fx": "none",
+   "say": "आह! मेरा बाल जलने वाला था!"
+  },
+  {
+   "image": "[[Mom]] tries to make a chapati, but [[Chhotu]] quickly blows fire, crisping it to a cracker. [[Mom]] stares at it in disbelief.",
+   "speaker": "Mom",
+   "line": "Yeh toh papad ban gaya! Not a roti!",
+   "fx": "none",
+   "say": "ये तो पापड़ बन गया! नॉट अ रोटी!"
+  },
+  {
+   "image": "[[Priya]] and [[Mom]] whispering urgently, looking stressed. [[Chhotu]] watches them, puzzled.",
+   "speaker": "Priya",
+   "line": "Mom, masi aa rahi hain. What about Chhotu?",
+   "fx": "none",
+   "say": "मॉम, मासी आ रही हैं. व्हॉट अबाउट छोटू?"
+  },
+  {
+   "image": "[[Mom]] frantically tries to hide a burnt pot in a cupboard. [[Chhotu]] tries to peek out, but [[Priya]] gently pushes him back.",
+   "speaker": "Mom",
+   "line": "Jaldi karo, sab chupao! No dragon evidence!",
+   "fx": "none",
+   "say": "जल्दी करो, सब छुपाओ! नो ड्रैगन एविडेंस!"
+  },
+  {
+   "image": "The front door opens, a stern-looking Masi (aunt) enters. [[Priya]] and [[Mom]] force smiles, looking nervous.",
+   "speaker": "narrator",
+   "line": "Kya ho raha hai, Sharma ji? Kitchen se dhuan?",
+   "fx": "none",
+   "say": "क्या हो रहा है, शर्मा जी? किचन से धुआँ?"
+  },
+  {
+   "image": "[[Chhotu]] is hiding under the dining table, looking tiny and scared. He lets out a tiny, involuntary puff of smoke.",
+   "speaker": "Chhotu",
+   "line": "Oh no, I made a small smoke cloud!",
+   "fx": "dust",
+   "say": "ओह नो, आय मेड अ स्मॉल स्मोक क्लाउड!"
+  },
+  {
+   "image": "Masi sniffs the air, suspicious. [[Mom]] quickly distracts her, offering tea with an overly sweet smile.",
+   "speaker": "Mom",
+   "line": "Arre kuch nahi, Masi. Chhoti si gadbad.",
+   "fx": "none",
+   "say": "अरे कुछ नहीं, मासी. छोटी सी गड़बड़."
+  },
+  {
+   "image": "A close-up of a kitchen counter, covered in spilled spices, burnt flour, and a singed recipe book. Utter chaos.",
+   "speaker": "narrator",
+   "line": "The kitchen was a war zone. Chhotu's accidents escalated.",
+   "fx": "none",
+   "say": "द किचन वाज़ अ वॉर ज़ोन. छोटू के एक्सीडेंट्स एस्केलेटेड."
+  },
+  {
+   "image": "[[Priya]] trying to clean up, looking exhausted. [[Chhotu]] comes up to her, looking genuinely sad.",
+   "speaker": "Chhotu",
+   "line": "I am so sorry, Priya. I can't help it.",
+   "fx": "none",
+   "say": "आय एम सो सॉरी, प्रिया. आय कांट हेल्प इट."
+  },
+  {
+   "image": "[[Priya]] hugs [[Chhotu]], looking conflicted. She loves him, but the chaos is too much.",
+   "speaker": "Priya",
+   "line": "It's okay, Chhotu. We will figure this out.",
+   "fx": "none",
+   "say": "इट्स ओके, छोटू. वी विल फिगर दिस आउट."
+  },
+  {
+   "image": "[[Mom]] holding her head, looking utterly defeated. The kitchen behind her is a mess.",
+   "speaker": "Mom",
+   "line": "Mujhe lagta hai Chhotu ko kahin aur rehna chahiye.",
+   "fx": "none",
+   "say": "मुझे लगता है छोटू को कहीं और रहना चाहिए."
+  },
+  {
+   "image": "[[Priya]]'s face falls, looking heartbroken. [[Chhotu]]'s eyes fill with tears, hearing Mom.",
+   "speaker": "Priya",
+   "line": "No, Mom! We can't send him away!",
+   "fx": "none",
+   "say": "नो, मॉम! वी कांट सेंड हिम अवे!"
+  },
+  {
+   "image": "[[Priya]] desperately trying to brainstorm ideas, pacing around the messy kitchen. [[Chhotu]] watches her intently.",
+   "speaker": "Priya",
+   "line": "There must be a way! Koi solution hoga!",
+   "fx": "none",
+   "say": "देयर मस्ट बी अ वे! कोई सॉल्यूशन होगा!"
+  },
+  {
+   "image": "[[Mom]] is trying to cook dinner, carefully avoiding [[Chhotu]] who is sitting quietly in a corner, looking sad.",
+   "speaker": "Mom",
+   "line": "Aaj ke liye to kitchen mein mat aana, beta.",
+   "fx": "none",
+   "say": "आज के लिए तो किचन में मत आना, बेटा."
+  },
+  {
+   "image": "[[Mom]] is attempting to roast peanuts on the stove. They are cooking slowly.",
+   "speaker": "narrator",
+   "line": "Mom was roasting peanuts for Priya's favourite snack.",
+   "fx": "none",
+   "say": "मॉम रोस्ट कर रही थी पीनट्स प्रिया के फेवरेट स्नैक के लिए."
+  },
+  {
+   "image": "[[Mom]] gets distracted by a phone call, stepping away from the stove.",
+   "speaker": "Mom",
+   "line": "Hello? Haan, didi! Kya haal hai?",
+   "fx": "none",
+   "say": "हैलो? हाँ, दीदी! क्या हाल है?"
+  },
+  {
+   "image": "[[Chhotu]] watches the peanuts, then looks at the slow cooking. His eyes light up mischievously.",
+   "speaker": "Chhotu",
+   "line": "Too slow! I can help speed things up!",
+   "fx": "none",
+   "say": "टू स्लो! आय कैन हेल्प स्पीड थिंग्स अप!"
+  },
+  {
+   "image": "[[Chhotu]] carefully blows a controlled, small puff of fire onto the peanuts, turning them perfectly golden.",
+   "speaker": "Chhotu",
+   "line": "Perfectly roasted, just like that!",
+   "fx": "none",
+   "say": "परफेक्ट्ली रोस्टेड, जस्ट लाइक दैट!"
+  },
+  {
+   "image": "[[Priya]] walks into the kitchen, smells the perfect aroma, picks up a peanut. Her eyes widen in surprise.",
+   "speaker": "Priya",
+   "line": "Wow! Yeh peanuts toh perfect hain!",
+   "fx": "none",
+   "say": "वाह! ये पीनट्स तो परफ़ेक्ट हैं!"
+  },
+  {
+   "image": "[[Mom]] comes back, sees the perfectly roasted peanuts, looks confused. [[Chhotu]] tries to look innocent.",
+   "speaker": "Mom",
+   "line": "Maine toh abhi kiya bhi nahi! Kaise hue?",
+   "fx": "none",
+   "say": "मैंने तो अभी किया भी नहीं! कैसे हुए?"
+  },
+  {
+   "image": "[[Priya]] watches [[Chhotu]]'s happy, proud face. A sudden realization dawns on her.",
+   "speaker": "Priya",
+   "line": "Mom... he wasn't making chaos...",
+   "fx": "none",
+   "say": "मॉम... ही वॉजंट मेकिंग केऑस..."
+  },
+  {
+   "image": "Close-up of [[Chhotu]]'s face, now looking determined and focused. He's blowing a tiny, precise flame at a small piece of paneer.",
+   "speaker": "narrator",
+   "line": "Chhotu wasn't clumsy. He was trying to cook!",
+   "fx": "none",
+   "say": "छोटू क्लम्ज़ी नहीं था. ही वॉज ट्राइंग टू कुक!"
+  },
+  {
+   "image": "Flashback to the burnt roti, but now from [[Chhotu]]'s perspective. He's trying to make it crispy.",
+   "speaker": "Chhotu",
+   "line": "Crunchy roti is the best roti!",
+   "fx": "none",
+   "say": "क्रंची रोटी इज द बेस्ट रोटी!"
+  },
+  {
+   "image": "Flashback to the melted pan. [[Chhotu]] is trying to 'melt' the spices to mix them better, looking confused at the pan.",
+   "speaker": "Chhotu",
+   "line": "Spice paste needs melting, right?",
+   "fx": "none",
+   "say": "स्पाइस पेस्ट नीड्स मेल्टिंग, राइट?"
+  },
+  {
+   "image": "[[Priya]]'s face, a slow smile spreading. She looks at [[Chhotu]] with new understanding and affection.",
+   "speaker": "Priya",
+   "line": "He just wants to help with the cooking!",
+   "fx": "none",
+   "say": "ही जस्ट वांट्स टू हेल्प विथ द कुकिंग!"
+  },
+  {
+   "image": "[[Mom]] looks skeptical, then sees [[Chhotu]] blowing a small flame at a potato, perfectly browning it for aloo tikki.",
+   "speaker": "Mom",
+   "line": "Toh yeh sab 'accidents' uski help thi?",
+   "fx": "none",
+   "say": "तो ये सब 'एक्सीडेंट्स' उसकी हेल्प थी?"
+  },
+  {
+   "image": "[[Priya]] shows [[Mom]] a perfectly baked naan bread, lightly charred from [[Chhotu]]'s breath. Both look impressed.",
+   "speaker": "Priya",
+   "line": "Look, Mom! Perfect tandoori naan at home!",
+   "fx": "none",
+   "say": "लुक, मॉम! परफ़ेक्ट तंदूरी नान ऐट होम!"
+  },
+  {
+   "image": "[[Chhotu]] is now enthusiastically blowing flames at a metal skewer with paneer tikka, perfectly charring it.",
+   "speaker": "Chhotu",
+   "line": "More fire! More flavour! Yum yum!",
+   "fx": "none",
+   "say": "मोर फायर! मोर फ्लेवर! यम यम!"
+  },
+  {
+   "image": "[[Mom]] tasting a piece of paneer tikka. Her eyes widen, a look of pure delight on her face.",
+   "speaker": "Mom",
+   "line": "Wah! Yeh toh restaurant se bhi behtar hai!",
+   "fx": "none",
+   "say": "वाह! ये तो रेस्टोरेंट से भी बेहतर है!"
+  },
+  {
+   "image": "[[Priya]], [[Mom]], and [[Chhotu]] all laughing in the kitchen. The kitchen is now clean, but with some special dragon-proof tools.",
+   "speaker": "narrator",
+   "line": "Chhotu wasn't a problem, he was a solution!",
+   "fx": "dust",
+   "say": "छोटू प्रॉब्लम नहीं था, ही वॉज अ सॉल्यूशन!"
+  },
+  {
+   "image": "[[Chhotu]] wearing a tiny chef's hat, proudly overseeing a pot bubbling with a perfectly cooked biryani, a small flame under it.",
+   "speaker": "Chhotu",
+   "line": "Chef Chhotu's special biryani, coming up!",
+   "fx": "dust",
+   "say": "शेफ छोटू'स स्पेशल बिरयानी, कमिंग अप!"
+  },
+  {
+   "image": "[[Mom]] is stirring a pot, [[Priya]] is chopping, [[Chhotu]] is meticulously charring a piece of chicken. They work in harmony.",
+   "speaker": "Priya",
+   "line": "Our little fire chef, the best helper ever!",
+   "fx": "none",
+   "say": "आवर लिटिल फायर शेफ, द बेस्ट हेल्पर एवर!"
+  },
+  {
+   "image": "Close-up of a perfectly grilled chicken tikka, lightly smoked, steam rising. It looks absolutely delicious.",
+   "speaker": "narrator",
+   "line": "Who knew a baby dragon could cook such amazing food?",
+   "fx": "none",
+   "say": "कौन जानता था एक बेबी ड्रैगन इतना अमेजिंग फूड बना सकता है?"
+  },
+  {
+   "image": "[[Mom]] looking at [[Chhotu]] with immense pride, patting his head. He purrs happily.",
+   "speaker": "Mom",
+   "line": "Mera Chhotu toh master chef ban gaya!",
+   "fx": "none",
+   "say": "मेरा छोटू तो मास्टर शेफ बन गया!"
+  },
+  {
+   "image": "[[Priya]] holding up a menu board that says 'Chhotu's Dragon Bites'. [[Chhotu]] is beside her, flexing his tiny biceps.",
+   "speaker": "Priya",
+   "line": "Now our kitchen is famous for its fiery dishes!",
+   "fx": "none",
+   "say": "नाउ आवर किचन इज फेमस फॉर इट्स फायरी डिशेस!"
+  },
+  {
+   "image": "[[Chhotu]] proudly presenting a plate of perfectly roasted papad to [[Priya]] and [[Mom]]. They clap for him.",
+   "speaker": "Chhotu",
+   "line": "My speciality! Extra crispy papad!",
+   "fx": "none",
+   "say": "माय स्पेशलिटी! एक्स्ट्रा क्रिस्पी पापड़!"
+  },
+  {
+   "image": "[[Priya]] and [[Mom]] smiling at [[Chhotu]], who is now happily charring a marshmallow on a stick with a tiny flame.",
+   "speaker": "Priya",
+   "line": "From chaos to culinary genius, what a journey!",
+   "fx": "none",
+   "say": "फ्रॉम केऑस टू कुलीनरी जीनियस, व्हॉट अ जर्नी!"
+  },
+  {
+   "image": "[[Mom]] holding a perfect tandoori roti, showing it to the camera with a proud smile. [[Chhotu]] is perched on her shoulder.",
+   "speaker": "Mom",
+   "line": "Ab har din party! Thanks to Chhotu!",
+   "fx": "none",
+   "say": "अब हर दिन पार्टी! थैंक्स टू छोटू!"
+  },
+  {
+   "image": "[[Priya]] holding [[Chhotu]] up, who is wearing his chef's hat. He blows a tiny, happy flame towards the camera.",
+   "speaker": "Priya",
+   "line": "Who needs a microwave when you have a dragon?",
+   "fx": "none",
+   "say": "कौन नीड्स अ माइक्रोवेव व्हेन यू हैव अ ड्रैगन?"
+  },
+  {
+   "image": "[[Chhotu]] sitting on the kitchen counter, looking very pleased with himself, surrounded by perfectly cooked Indian dishes.",
+   "speaker": "Chhotu",
+   "line": "Cooking is my passion. And my superpower!",
+   "fx": "none",
+   "say": "कुकिंग इज माय पैशन. एंड माय सुपरपावर!"
+  },
+  {
+   "image": "[[Priya]] and [[Mom]] giving a thumbs-up to the camera, smiling broadly. [[Chhotu]] is next to them, striking a chef pose.",
+   "speaker": "narrator",
+   "line": "So, what's the funniest thing your pet has ever done?",
+   "fx": "dust",
+   "say": "सो, व्हॉट्स द फनीएस्ट थिंग योर पेट हैज़ एवर डन?"
+  }
+ ],
+ "caption": "My Baby Dragon Set My Kitchen on Fire! 🔥",
+ "slug": "2026-11-04_part2",
+ "story_no": 24,
+ "yt_title": "My Baby Dragon Set My Kitchen on Fire! 🔥",
+ "description": "This is what happens when you adopt a baby dragon with a taste for spice! My kitchen became a hilarious battleground of fire and curry. You won't believe the twist at the end!\nWhat's the funniest thing your pet has ever done?",
+ "comment_question": "What's the funniest thing your pet has ever done?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#babydragon",
+  "#indianfamily",
+  "#kitchenchaos",
+  "#funnyanimals",
+  "#petadventures",
+  "#hilarity",
+  "#relatablecomedy",
+  "#comedygold",
+  "#unexpectedtwist"
+ ]
+}
