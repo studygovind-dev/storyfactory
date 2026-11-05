@@ -1,0 +1,476 @@
+{
+ "series": "Dada Ji's Talking Doggo",
+ "episode": 2,
+ "title": "Dada Ji's Talking Doggo",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_female"
+  },
+  "Riya": {
+   "look": "young woman, graceful, fair skin, long wavy dark-brown hair tied in a loose bun, small silver hoop earrings, wearing a pastel yellow cotton kurta with white embroidery and straight pants. Expressive brown eyes.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Dada Ji": {
+   "look": "elderly man, kind wrinkled face, white mustache, spectacles perched on his nose, balding with white hair on sides, wearing a traditional light blue checked shirt and white dhoti. Always has a gentle smile.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Chintu": {
+   "look": "fluffy white Pomeranian dog, small, with big curious black eyes and a bright red collar. His tail wags constantly.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "HE TALKS TO HIM?!",
+ "scenes": [
+  {
+   "image": "[[Riya]] peeking from behind a doorframe, wide-eyed and shocked expression. [[Dada Ji]] is animatedly talking to [[Chintu]] who sits on his lap, looking engaged. Bright sunlight through a window.",
+   "speaker": "Riya",
+   "line": "Yeh pakka dog hai ya philosopher?",
+   "fx": "none",
+   "say": "ये पक्का डॉग है या फिलॉसफर?"
+  },
+  {
+   "image": "Close-up of [[Dada Ji]] smiling warmly at [[Chintu]], who is gazing intently at Dada Ji, head slightly tilted. Both look very comfortable together.",
+   "speaker": "narrator",
+   "line": "Dada Ji aur Chintu ki jodi best thi.",
+   "fx": "none",
+   "say": "दादा जी और चिंटू की जोड़ी बेस्ट थी।"
+  },
+  {
+   "image": "[[Riya]] smiles lovingly as she hugs [[Dada Ji]] in his living room. [[Chintu]] is playfully tugging at Riya's kurta string.",
+   "speaker": "narrator",
+   "line": "Riya apne Dada Ji se milne roz aati thi.",
+   "fx": "none",
+   "say": "रिया अपने दादा जी से मिलने रोज़ आती थी।"
+  },
+  {
+   "image": "[[Dada Ji]] offering [[Chintu]] a biscuit from a plate. Chintu eagerly takes it. Riya watches, amused.",
+   "speaker": "narrator",
+   "line": "Chintu unka pyaara companion tha, ekdum shararti.",
+   "fx": "none",
+   "say": "चिंटू उनका प्यारा कंपैनियन था, एकदम शरारती।"
+  },
+  {
+   "image": "[[Riya]] laughs, covering her mouth, as [[Dada Ji]] tells a funny story. [[Chintu]] is asleep at Dada Ji's feet.",
+   "speaker": "narrator",
+   "line": "Dada Ji thode eccentric the, par sabse pyaare.",
+   "fx": "none",
+   "say": "दादा जी थोड़े एक्सेंट्रिक थे, पर सबसे प्यारे।"
+  },
+  {
+   "image": "[[Dada Ji]] gestures with his hand, looking serious. [[Chintu]] is on his lap, nodding subtly.",
+   "speaker": "Dada Ji",
+   "line": "Chintu bol raha tha, aaj ghar mein khichdi banegi.",
+   "fx": "none",
+   "say": "चिंटू बोल रहा था, आज घर में खिचड़ी बनेगी।"
+  },
+  {
+   "image": "[[Riya]] stands beside them, a confused smile on her face, scratching her head.",
+   "speaker": "Riya",
+   "line": "Dada Ji, aap mazaak kar rahe ho na?",
+   "fx": "none",
+   "say": "दादा जी, आप मज़ाक कर रहे हो ना?"
+  },
+  {
+   "image": "[[Dada Ji]] looks at [[Riya]] with a knowing smile, gently stroking [[Chintu]].",
+   "speaker": "Dada Ji",
+   "line": "Arey, woh sach mein baat karta hai, Riya.",
+   "fx": "none",
+   "say": "अरे, वो सच में बात करता है, रिया।"
+  },
+  {
+   "image": "Close-up of [[Chintu]] looking innocent, head tilted, with a questioning look in his eyes.",
+   "speaker": "Chintu",
+   "line": "Woof! (main toh chup hi tha).",
+   "fx": "none",
+   "say": "वूफ! (मैं तो चुप ही था)।"
+  },
+  {
+   "image": "[[Riya]] looks skeptical, hands on her hips, watching [[Dada Ji]] and [[Chintu]].",
+   "speaker": "Riya",
+   "line": "Mujhe toh kuch sunai nahi deta, Dada Ji.",
+   "fx": "none",
+   "say": "मुझे तो कुछ सुनाई नहीं देता, दादा जी।"
+  },
+  {
+   "image": "[[Dada Ji]] shrugs playfully, making a funny face at [[Riya]].",
+   "speaker": "Dada Ji",
+   "line": "Uski special language hai, sirf main samjhta hoon.",
+   "fx": "none",
+   "say": "उसकी स्पेशल लैंग्वेज है, सिर्फ मैं समझता हूं।"
+  },
+  {
+   "image": "[[Riya]] kneels down, trying to coax [[Chintu]] to speak, holding a treat. Chintu looks away dismissively.",
+   "speaker": "Riya",
+   "line": "Chintu, batao toh, tum baat karte ho kya?",
+   "fx": "none",
+   "say": "चिंटू, बताओ तो, तुम बात करते हो क्या?"
+  },
+  {
+   "image": "Close-up of [[Chintu]] yawning widely, showing no interest in Riya's question.",
+   "speaker": "Chintu",
+   "line": "Yawn... boring baatein nahi karta main.",
+   "fx": "none",
+   "say": "यॉन... बोरिंग बातें नहीं करता मैं।"
+  },
+  {
+   "image": "[[Riya]] looks disappointed, standing up. [[Dada Ji]] chuckles softly.",
+   "speaker": "Riya",
+   "line": "Dekho, Dada Ji! Chintu toh kuch nahi bol raha.",
+   "fx": "none",
+   "say": "देखो, दादा जी! चिंटू तो कुछ नहीं बोल रहा।"
+  },
+  {
+   "image": "[[Dada Ji]] pats [[Chintu]]'s head. Chintu wags his tail at Dada Ji.",
+   "speaker": "Dada Ji",
+   "line": "Woh sirf mujhse comfort feel karta hai.",
+   "fx": "none",
+   "say": "वो सिर्फ मुझसे कंफर्ट फील करता है।"
+  },
+  {
+   "image": "[[Riya]] searching frantically for her keys on a table, looking stressed.",
+   "speaker": "Riya",
+   "line": "Meri chaabiyan kahaan gayin? Oh no!",
+   "fx": "none",
+   "say": "मेरी चाबियां कहां गईं? ओह नो!"
+  },
+  {
+   "image": "[[Dada Ji]] points towards a flower pot with a gentle smile. [[Chintu]] is sitting by the pot.",
+   "speaker": "Dada Ji",
+   "line": "Chintu bol raha hai, flower pot ke neeche dekho.",
+   "fx": "none",
+   "say": "चिंटू बोल रहा है, फ्लावर पॉट के नीचे देखो।"
+  },
+  {
+   "image": "[[Riya]] looks at the flower pot, then at Dada Ji, surprised. She slowly picks up the pot.",
+   "speaker": "Riya",
+   "line": "Flower pot ke neeche? Pakka?",
+   "fx": "none",
+   "say": "फ्लावर पॉट के नीचे? पक्का?"
+  },
+  {
+   "image": "Close-up of [[Riya]]'s hand discovering her keys under the pot, expression of shock.",
+   "speaker": "Riya",
+   "line": "Meri chaabiyan! Yeh kaise pata chala?",
+   "fx": "none",
+   "say": "मेरी चाबियां! ये कैसे पता चला?"
+  },
+  {
+   "image": "[[Dada Ji]] winks at [[Riya]], a playful glint in his eyes. [[Chintu]] gives a smug look.",
+   "speaker": "Dada Ji",
+   "line": "Chintu toh sab jaanta hai, meri bacchi.",
+   "fx": "none",
+   "say": "चिंटू तो सब जानता है, मेरी बच्ची।"
+  },
+  {
+   "image": "[[Riya]] now looks thoughtful and a bit suspicious, observing [[Dada Ji]] and [[Chintu]] from a distance.",
+   "speaker": "Riya",
+   "line": "Yeh coincidence nahi ho sakta hai.",
+   "fx": "none",
+   "say": "ये कोइंसिडेंस नहीं हो सकता है।"
+  },
+  {
+   "image": "[[Dada Ji]] and [[Chintu]] are sitting on the couch, Dada Ji reading a newspaper, Chintu alert.",
+   "speaker": "Dada Ji",
+   "line": "Chintu bol raha hai, Riya ko samosa chahiye.",
+   "fx": "none",
+   "say": "चिंटू बोल रहा है, रिया को समोसा चाहिए।"
+  },
+  {
+   "image": "[[Riya]] in the kitchen, about to pick up a samosa she had just bought, freezes, eyes wide.",
+   "speaker": "Riya",
+   "line": "What? Main toh abhi soch rahi thi!",
+   "fx": "none",
+   "say": "व्हाट? मैं तो अभी सोच रही थी!"
+  },
+  {
+   "image": "[[Riya]] paces back and forth, looking genuinely worried. Her hands are pressed to her temples.",
+   "speaker": "Riya",
+   "line": "Dada Ji ko doctor ki zaroorat hai, shayad.",
+   "fx": "none",
+   "say": "दादा जी को डॉक्टर की ज़रूरत है, शायद।"
+  },
+  {
+   "image": "[[Dada Ji]] looks slightly hurt, turning his head away from [[Riya]]. [[Chintu]] whines softly.",
+   "speaker": "Dada Ji",
+   "line": "Tumhe mujhpar bharosa nahi hai?",
+   "fx": "none",
+   "say": "तुम्हें मुझपर भरोसा नहीं है?"
+  },
+  {
+   "image": "[[Riya]] sighs, feeling guilty but still confused. She looks at the ceiling, thinking.",
+   "speaker": "Riya",
+   "line": "Mujhe iska solution dhundhna padega.",
+   "fx": "none",
+   "say": "मुझे इसका सलूशन ढूँढना पड़ेगा।"
+  },
+  {
+   "image": "[[Riya]] secretly unpacking small, discreet camera boxes. A determined look on her face.",
+   "speaker": "narrator",
+   "line": "Riya ne ek plan banaya.",
+   "fx": "none",
+   "say": "रिया ने एक प्लान बनाया।"
+  },
+  {
+   "image": "[[Riya]] carefully placing a miniature camera behind a potted plant in the living room.",
+   "speaker": "Riya",
+   "line": "Ab pata chalega asliyat.",
+   "fx": "none",
+   "say": "अब पता चलेगा असलियत।"
+  },
+  {
+   "image": "[[Riya]] setting up another tiny camera on a bookshelf, blending it with books. Intense focus.",
+   "speaker": "narrator",
+   "line": "Usne ghar mein hidden cameras laga diye.",
+   "fx": "none",
+   "say": "उसने घर में हिडन कैमरा लगा दिए।"
+  },
+  {
+   "image": "[[Dada Ji]] is offering a piece of apple to [[Chintu]]. Dada Ji is smiling, talking.",
+   "speaker": "Dada Ji",
+   "line": "Kaisa laga Chintu? Tasty hai na?",
+   "fx": "none",
+   "say": "कैसा लगा चिंटू? टेस्टी है ना?"
+  },
+  {
+   "image": "[[Chintu]] takes the apple piece, looks up at Dada Ji, seeming to reply with subtle movements.",
+   "speaker": "Chintu",
+   "line": "Bohat accha hai, Dada Ji! Thank you!",
+   "fx": "none",
+   "say": "बहुत अच्छा है, दादा जी! थैंक यू!"
+  },
+  {
+   "image": "[[Dada Ji]] laughs heartily, patting [[Chintu]]'s head. Chintu wags his tail vigorously.",
+   "speaker": "Dada Ji",
+   "line": "Tum kitne cute ho, Chintu!",
+   "fx": "none",
+   "say": "तुम कितने क्यूट हो, चिंटू!"
+  },
+  {
+   "image": "Later, [[Riya]] is hunched over her laptop, reviewing the camera footage, a serious expression.",
+   "speaker": "narrator",
+   "line": "Riya ne footage check karna shuru kiya.",
+   "fx": "none",
+   "say": "रिया ने फुटेज चेक करना शुरू किया।"
+  },
+  {
+   "image": "Close-up of the laptop screen, showing [[Dada Ji]] talking and reacting, but [[Chintu]] sitting silently.",
+   "speaker": "narrator",
+   "line": "Dada Ji toh poori baat kar rahe the.",
+   "fx": "none",
+   "say": "दादा जी तो पूरी बात कर रहे थे।"
+  },
+  {
+   "image": "Close-up of the laptop screen, [[Chintu]] on screen, mouth closed, silent. Riya's hand points at the screen, bewildered.",
+   "speaker": "Riya",
+   "line": "Par Chintu... Chintu toh chup hai!",
+   "fx": "none",
+   "say": "पर चिंटू... चिंटू तो चुप है!"
+  },
+  {
+   "image": "[[Riya]] rewinds the video, playing it again, her eyes wide with disbelief. She pinches herself.",
+   "speaker": "Riya",
+   "line": "Kya meri aankhon ko dhokha ho raha hai?",
+   "fx": "none",
+   "say": "क्या मेरी आँखों को धोखा हो रहा है?"
+  },
+  {
+   "image": "[[Riya]] furiously clicking through different camera angles on her laptop. All show the same thing.",
+   "speaker": "narrator",
+   "line": "Usne har angle se dekha, par results same.",
+   "fx": "none",
+   "say": "उसने हर एंगल से देखा, पर रिजल्ट्स सेम।"
+  },
+  {
+   "image": "[[Riya]] frustrated, pulling her hair gently, looking up at the ceiling in despair.",
+   "speaker": "Riya",
+   "line": "Dada Ji toh bilkul normal dikh rahe hain.",
+   "fx": "none",
+   "say": "दादा जी तो बिलकुल नॉर्मल दिख रहे हैं।"
+  },
+  {
+   "image": "Close-up of [[Dada Ji]] on screen, laughing at something Chintu 'said'. His reaction is genuine.",
+   "speaker": "narrator",
+   "line": "Unka reaction real tha, pura believe kar rahe the.",
+   "fx": "none",
+   "say": "उनका रिएक्शन रियल था, पूरा बिलीव कर रहे थे।"
+  },
+  {
+   "image": "[[Riya]] holding her head in her hands, utterly confused. She looks like she's about to cry.",
+   "speaker": "Riya",
+   "line": "Toh kya woh sach mein...",
+   "fx": "none",
+   "say": "तो क्या वो सच में..."
+  },
+  {
+   "image": "[[Dada Ji]] is watering plants in the garden, humming. [[Chintu]] is sniffing around a rose bush.",
+   "speaker": "narrator",
+   "line": "Agle din, Riya ne Dada Ji ko confront kiya.",
+   "fx": "none",
+   "say": "अगले दिन, रिया ने दादा जी को कंफ्रंट किया।"
+  },
+  {
+   "image": "[[Riya]] holds up her laptop, showing the video to [[Dada Ji]]. Dada Ji looks at the screen, then at Riya.",
+   "speaker": "Riya",
+   "line": "Dada Ji, yeh dekho video. Chintu toh chup hai.",
+   "fx": "none",
+   "say": "दादा जी, ये देखो वीडियो। चिंटू तो चुप है।"
+  },
+  {
+   "image": "[[Dada Ji]] takes off his spectacles, sighs sadly, looking at [[Chintu]].",
+   "speaker": "Dada Ji",
+   "line": "Main janta tha tum yeh karogi, Riya.",
+   "fx": "none",
+   "say": "मैं जनता था तुम ये करोगी, रिया।"
+  },
+  {
+   "image": "[[Chintu]] looks up at [[Dada Ji]] with a concerned expression, then glances at Riya disapprovingly.",
+   "speaker": "Chintu",
+   "line": "Isne cameras lagaye? Dada Ji, yeh toh galat hai.",
+   "fx": "none",
+   "say": "इसने कैमरा लगाए? दादा जी, ये तो गलत है।"
+  },
+  {
+   "image": "[[Dada Ji]] puts a hand on [[Chintu]]'s head, a reassuring smile. [[Riya]] looks utterly baffled.",
+   "speaker": "Dada Ji",
+   "line": "Chintu, use sunai nahi deta, ya samajh nahi aata.",
+   "fx": "none",
+   "say": "चिंटू, उसे सुनाई नहीं देता, या समझ नहीं आता।"
+  },
+  {
+   "image": "[[Riya]]'s jaw drops. Her eyes are wide as she stares between Dada Ji and Chintu.",
+   "speaker": "Riya",
+   "line": "Wait! Aap abhi bhi usse baat kar rahe ho?",
+   "fx": "none",
+   "say": "वेट! आप अभी भी उससे बात कर रहे हो?"
+  },
+  {
+   "image": "Close-up of [[Chintu]] looking directly at Dada Ji, mouth closed, yet an expression of speaking.",
+   "speaker": "Chintu",
+   "line": "Riya ko toh pakka nahi sunega.",
+   "fx": "none",
+   "say": "रिया को तो पक्का नहीं सुनेगा।"
+  },
+  {
+   "image": "[[Dada Ji]] smiles at [[Riya]], a hint of mischief. He translates for Chintu.",
+   "speaker": "Dada Ji",
+   "line": "Woh keh raha hai, tumhein sunai nahi dega.",
+   "fx": "none",
+   "say": "वो कह रहा है, तुम्हें सुनाई नहीं देगा।"
+  },
+  {
+   "image": "[[Riya]] throws her hands up in exasperation, but a tiny hint of wonder appears in her eyes.",
+   "speaker": "Riya",
+   "line": "Toh sach mein woh baat karta hai?",
+   "fx": "none",
+   "say": "तो सच में वो बात करता है?"
+  },
+  {
+   "image": "[[Chintu]] huffs, looking annoyed at Riya, then lovingly at Dada Ji.",
+   "speaker": "Chintu",
+   "line": "Dada Ji hi hain jo mujhe sunte hain.",
+   "fx": "none",
+   "say": "दादा जी ही हैं जो मुझे सुनते हैं।"
+  },
+  {
+   "image": "[[Dada Ji]] looks at [[Riya]], then back at [[Chintu]], sharing a secret smile.",
+   "speaker": "Dada Ji",
+   "line": "Usko recording pasand nahi aati.",
+   "fx": "none",
+   "say": "उसको रिकॉर्डिंग पसंद नहीं आती।"
+  },
+  {
+   "image": "Close-up of [[Riya]]'s face, her confusion slowly turning into grudging acceptance and a little smile.",
+   "speaker": "Riya",
+   "line": "Isliye woh videos mein chup rehta hai?",
+   "fx": "none",
+   "say": "इसलिए वो वीडियो में चुप रहता है?"
+  },
+  {
+   "image": "[[Chintu]] nods at Dada Ji, then gives Riya a sassy side-eye.",
+   "speaker": "Chintu",
+   "line": "Aur mujhe Riya ke questions bhi boring lagte hain.",
+   "fx": "none",
+   "say": "और मुझे रिया के क्वेश्चंस भी बोरिंग लगते हैं।"
+  },
+  {
+   "image": "[[Dada Ji]] laughs out loud, covering his mouth. [[Riya]] gasps, a playful angry expression.",
+   "speaker": "Dada Ji",
+   "line": "Chintu keh raha hai, tumhare questions boring hain.",
+   "fx": "none",
+   "say": "चिंटू कह रहा है, तुम्हारे क्वेश्चंस बोरिंग हैं।"
+  },
+  {
+   "image": "[[Riya]] makes a face at [[Chintu]], who sticks his tongue out playfully at her.",
+   "speaker": "Riya",
+   "line": "Hey! Tum kitne mean ho, Chintu!",
+   "fx": "none",
+   "say": "हे! तुम कितने मीन हो, चिंटू!"
+  },
+  {
+   "image": "[[Dada Ji]] gently pats [[Chintu]], who rests his head on Dada Ji's lap, looking content.",
+   "speaker": "Dada Ji",
+   "line": "Ab toh maan gayi na, meri bacchi?",
+   "fx": "none",
+   "say": "अब तो मान गई ना, मेरी बच्ची?"
+  },
+  {
+   "image": "[[Riya]] shrugs, a defeated but amused smile on her face. She looks at Dada Ji with affection.",
+   "speaker": "Riya",
+   "line": "Kya kar sakte hain, Dada Ji.",
+   "fx": "none",
+   "say": "क्या कर सकते हैं, दादा जी।"
+  },
+  {
+   "image": "[[Chintu]] wags his tail happily, looking at Dada Ji. Dada Ji smiles warmly at him.",
+   "speaker": "Chintu",
+   "line": "Mera secret sirf Dada Ji ke liye hai.",
+   "fx": "none",
+   "say": "मेरा सीक्रेट सिर्फ दादा जी के लिए है।"
+  },
+  {
+   "image": "[[Riya]] sighs, then smiles, accepting the quirky reality. She shakes her head playfully.",
+   "speaker": "Riya",
+   "line": "Yeh duniya bhi kitni ajeeb hai.",
+   "fx": "none",
+   "say": "यह दुनिया भी कितनी अजीब है।"
+  },
+  {
+   "image": "[[Dada Ji]] and [[Chintu]] share a loving, knowing look. Riya watches them, smiling.",
+   "speaker": "narrator",
+   "line": "Aur Chintu ka raaz, unka raaz hi raha.",
+   "fx": "none",
+   "say": "और चिंटू का राज़, उनका राज़ ही रहा।"
+  },
+  {
+   "image": "[[Riya]] smiles and shrugs at the camera, then points to herself with a question mark expression.",
+   "speaker": "Riya",
+   "line": "Would you believe your grandpa?",
+   "fx": "none",
+   "say": "वुड यू बिलीव योर ग्रैंडपा?"
+  }
+ ],
+ "caption": "My Grandpa's Dog Only Talks To Him... And Nobody Believes Me 🐶",
+ "slug": "2026-11-05_part2",
+ "story_no": 27,
+ "yt_title": "My Grandpa's Dog Only Talks To Him... And Nobody Believes Me 🐶",
+ "description": "My grandpa's dog, Chintu, claims to talk, but only to my grandpa!\nI tried everything to prove it, but the twist left me speechless.\nHave you ever had a pet with a secret talent?",
+ "comment_question": "Would you believe your grandpa?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnydog",
+  "#talkinganimals",
+  "#grandpalove",
+  "#petstories",
+  "#mysterysolved",
+  "#relatablecomedy",
+  "#indiashorts",
+  "#comedyreels",
+  "#unexpectedtwist"
+ ]
+}

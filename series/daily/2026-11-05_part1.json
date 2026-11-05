@@ -1,0 +1,609 @@
+{
+ "series": "The Ranger's Secret Language",
+ "episode": 1,
+ "title": "The Ranger's Secret Language",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young Indian woman, early 20s, fair skin, long wavy dark-brown hair tied back, earnest eyes, wearing a neat forest ranger uniform (khaki shirt, dark green trousers), a small silver earring.",
+   "voice": "hindi_narrator_female"
+  },
+  "Aarohi": {
+   "look": "Young Indian woman, early 20s, fair skin, long wavy dark-brown hair tied back, earnest eyes, wearing a neat forest ranger uniform (khaki shirt, dark green trousers), a small silver earring.",
+   "voice": "hindi_narrator_female"
+  },
+  "Shadow": {
+   "look": "Large, majestic grey wolf, scarred but noble face, piercing yellow eyes.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Rakesh Sir": {
+   "look": "Middle-aged Indian man, kind but stern face, short grey hair, wearing a slightly worn but clean ranger uniform.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "SHE HEARD THEM.",
+ "scenes": [
+  {
+   "image": "Aarohi, a young Indian woman in her early 20s, stands alone in a misty pine forest, her back to the camera. Her ranger uniform is visible. She looks towards the dense trees, a sense of intense focus and solitude about her.",
+   "speaker": "Aarohi",
+   "line": "Logo ko lagta tha main paagal hoon.",
+   "fx": "dust",
+   "sub": "People thought I was crazy.",
+   "say": "लोगों को लगता था मैं पागल हूँ।"
+  },
+  {
+   "image": "A young Aarohi, perhaps 8 years old, with long dark-brown hair, crouching low in a sun-dappled forest, whispering softly to a deer. The deer is calm, looking at her with gentle eyes.",
+   "speaker": "Aarohi",
+   "line": "Bachpan se hi, janwaron se judav tha.",
+   "fx": "dust",
+   "sub": "Since childhood, I felt connected to animals.",
+   "say": "बचपन से ही, जानवरों से जुड़ाव था।"
+  },
+  {
+   "image": "Close-up on Aarohi's ear, then slowly zooming to her thoughtful, earnest eyes. She looks as if listening intently to something far away, a hint of wonder and secret knowledge in her gaze.",
+   "speaker": "Aarohi",
+   "line": "Unki aawazein mujhe sunai deti thi.",
+   "fx": "none",
+   "sub": "I could hear their voices.",
+   "say": "उनकी आवाज़ें मुझे सुनाई देती थी।"
+  },
+  {
+   "image": "Aarohi at a bustling forest ranger station, looking at topographical maps pinned to a wall. Other rangers are busy around her, but none are directly interacting with her, a subtle sense of her being an outsider.",
+   "speaker": "Aarohi",
+   "line": "Main ek forest ranger ban gayi.",
+   "fx": "none",
+   "sub": "I became a forest ranger.",
+   "say": "मैं एक फ़ॉरेस्ट रेंजर बन गई।"
+  },
+  {
+   "image": "Aarohi, in her full ranger uniform, walking through a vibrant, green forest, a serene smile on her face. Her hand gently brushes against a tree trunk as she passes.",
+   "speaker": "Aarohi",
+   "line": "Yeh mera ghar, mera sukoon tha.",
+   "fx": "none",
+   "sub": "This was my home, my peace.",
+   "say": "ये मेरा घर, मेरा सुकून था।"
+  },
+  {
+   "image": "Close-up on Aarohi's face, now with a hint of sadness and frustration, as if reflecting on past rejections or misunderstandings.",
+   "speaker": "Aarohi",
+   "line": "Par koi meri baat nahi manta tha.",
+   "fx": "none",
+   "sub": "But no one believed me.",
+   "say": "पर कोई मेरी बात नहीं मानता था।"
+  },
+  {
+   "image": "A bulletin board at the ranger station, covered with notices. A prominent 'Missing Wildlife' poster with a picture of a wolf is tacked prominently in the center.",
+   "speaker": "Aarohi",
+   "line": "Pichle saal, sardi bahut gehri thi.",
+   "fx": "none",
+   "sub": "Last year, winter was very harsh.",
+   "say": "पिछले साल, सर्दी बहुत गहरी थी।"
+  },
+  {
+   "image": "A wide shot of a dense pine forest engulfed in deep, undisturbed snow. Bare branches laden with white, creating a desolate yet beautiful landscape.",
+   "speaker": "Aarohi",
+   "line": "Bhayanak barafbaari ne sab kuch dhak liya.",
+   "fx": "snow",
+   "sub": "Terrible snowfall covered everything.",
+   "say": "भयानक बर्फ़बारी ने सब कुछ ढक लिया।"
+  },
+  {
+   "image": "A close-up of a local newspaper headline: 'Wolf Pack Vanishes in Himalayan Foothills - Conservationists Worried'.",
+   "speaker": "Aarohi",
+   "line": "Ek wolf pack ka pata nahi chal raha tha.",
+   "fx": "none",
+   "sub": "A wolf pack was missing.",
+   "say": "एक वुल्फ़ पैक का पता नहीं चल रहा था।"
+  },
+  {
+   "image": "Aarohi looking out a snow-dusted window of the ranger station, her face etched with deep worry and concern, a hand pressed gently against the cold glass.",
+   "speaker": "Aarohi",
+   "line": "Mere andar ek bechaini thi.",
+   "fx": "snow",
+   "sub": "There was an unease within me.",
+   "say": "मेरे अंदर एक बेचैनी थी।"
+  },
+  {
+   "image": "Rakesh Sir, a middle-aged ranger, stands sternly, pointing a finger at a map laid out on a table, looking directly at Aarohi who listens respectfully but with a hint of defiance.",
+   "speaker": "Rakesh Sir",
+   "line": "Rakesh Sir ne kaha, 'Namumkin hai Aarohi!'",
+   "fx": "none",
+   "sub": "Rakesh Sir said, 'Impossible, Aarohi!'",
+   "say": "राकेश सर ने कहा, 'नामुमकिन है आरोही!'"
+  },
+  {
+   "image": "Close-up on Aarohi's face, her jaw set with determination, eyes unwavering, as if hearing an inner call that overrides external doubts.",
+   "speaker": "Aarohi",
+   "line": "Par mujhe unki awaaz sunai de rahi thi.",
+   "fx": "none",
+   "sub": "But I could hear their voice.",
+   "say": "पर मुझे उनकी आवाज़ सुनाई दे रही थी।"
+  },
+  {
+   "image": "Flashback: A young Aarohi, perhaps 10, sitting cross-legged on the floor, mesmerized by a large, realistic drawing of a majestic wolf in an open book. Her expression is one of fascination.",
+   "speaker": "Aarohi",
+   "line": "Wolf pack mushkil mein tha, main jaanti thi.",
+   "fx": "none",
+   "sub": "The wolf pack was in trouble, I knew.",
+   "say": "वुल्फ़ पैक मुश्किल में था, मैं जानती थी।"
+  },
+  {
+   "image": "Aarohi, in her small ranger cabin, quickly pulling on a heavy, insulated jacket and lacing up sturdy snow boots. Her backpack is already packed by her side.",
+   "speaker": "Aarohi",
+   "line": "Main chupke se nikal gayi raat mein.",
+   "fx": "none",
+   "sub": "I slipped out quietly in the night.",
+   "say": "मैं चुपके से निकल गई रात में।"
+  },
+  {
+   "image": "A wide shot of Aarohi, a small silhouette, trekking alone through deep, untouched snow in a moonlit forest. Her breath visibly plumes in the cold air.",
+   "speaker": "Aarohi",
+   "line": "Thand bahut zyada thi, rasta mushkil.",
+   "fx": "snow",
+   "sub": "It was very cold, the path difficult.",
+   "say": "ठंड बहुत ज़्यादा थी, रास्ता मुश्किल।"
+  },
+  {
+   "image": "Close-up of Aarohi's gloved hand gently touching the rough bark of a towering pine tree. Her head is slightly tilted, eyes closed, as if receiving guidance.",
+   "speaker": "Aarohi",
+   "line": "Ped mujhe rasta bata rahe the.",
+   "fx": "snow",
+   "sub": "The trees were showing me the way.",
+   "say": "पेड़ मुझे रास्ता बता रहे थे।"
+  },
+  {
+   "image": "Close-up on the snow-covered ground, revealing distinct, fresh wolf paw prints leading off into the distance.",
+   "speaker": "Aarohi",
+   "line": "Phir mujhe nishaan mile, taaze nishaan.",
+   "fx": "snow",
+   "sub": "Then I found tracks, fresh tracks.",
+   "say": "फिर मुझे निशान मिले, ताज़े निशान।"
+  },
+  {
+   "image": "Aarohi, her face slightly flushed from exertion, following the wolf tracks with a renewed sense of purpose. A determined, hopeful expression on her face.",
+   "speaker": "Aarohi",
+   "line": "Dil mein ek umeed ki kiran jagi.",
+   "fx": "snow",
+   "sub": "A ray of hope sparked in my heart.",
+   "say": "दिल में एक उम्मीद की किरण जगी।"
+  },
+  {
+   "image": "A dramatic shot of a deep, snow-covered ravine or cliff edge, looking treacherous and dangerous. The terrain is rocky and icy.",
+   "speaker": "Aarohi",
+   "line": "Wo ek gehri khaai ki taraf ja rahe the.",
+   "fx": "snow",
+   "sub": "They were heading towards a deep ravine.",
+   "say": "वो एक गहरी खाई की तरफ़ जा रहे थे।"
+  },
+  {
+   "image": "Close-up of Aarohi's face, her eyes wide with shock and concern, reflecting the sudden realization of extreme danger.",
+   "speaker": "Aarohi",
+   "line": "Mere dil ki dhadkan tez ho gayi.",
+   "fx": "snow",
+   "sub": "My heart started beating fast.",
+   "say": "मेरे दिल की धड़कन तेज़ हो गई।"
+  },
+  {
+   "image": "Aarohi carefully peers over the edge of the ravine, her hand gripping a rock for support. Her eyes scan the perilous drop below.",
+   "speaker": "Aarohi",
+   "line": "Neeche ek chhota den dikha.",
+   "fx": "snow",
+   "sub": "Below, I saw a small den.",
+   "say": "नीचे एक छोटा डेन दिखा।"
+  },
+  {
+   "image": "A wide shot of Shadow, the majestic grey alpha wolf, lying injured and weak inside a small, snowy den. Two small wolf pups huddle close to him, looking cold and vulnerable.",
+   "speaker": "Aarohi",
+   "line": "Andar Shadow, alpha wolf, zakhmi tha.",
+   "fx": "snow",
+   "sub": "Inside, Shadow, the alpha wolf, was injured.",
+   "say": "अंदर शैडो, अल्फ़ा वुल्फ़, ज़ख़्मी था।"
+  },
+  {
+   "image": "Close-up of Shadow's eyes, filled with pain, desperation, and a flicker of recognition as he looks towards Aarohi.",
+   "speaker": "Shadow",
+   "line": "Aarohi, hamari madad karo!",
+   "fx": "snow",
+   "sub": "Aarohi, help us!",
+   "say": "आरोही, हमारी मदद करो!"
+  },
+  {
+   "image": "Close-up of Aarohi's face, tears welling in her eyes, reflecting the raw emotion of hearing Shadow's plea. She is deeply affected.",
+   "speaker": "Aarohi",
+   "line": "Uski awaaz mere dimaag mein goonji.",
+   "fx": "snow",
+   "sub": "His voice echoed in my mind.",
+   "say": "उसकी आवाज़ मेरे दिमाग़ में गूँजी।"
+  },
+  {
+   "image": "Aarohi fumbles with her walkie-talkie, trying desperately to get a signal, but the device only emits static. Frustration is clear on her face.",
+   "speaker": "Aarohi",
+   "line": "Signal nahi tha, main akeli thi.",
+   "fx": "snow",
+   "sub": "No signal, I was alone.",
+   "say": "सिग्नल नहीं था, मैं अकेली थी।"
+  },
+  {
+   "image": "Aarohi, with a heavy rope tied securely, begins to carefully rappel down the treacherous, icy slope of the ravine towards the den. Her determination is visible.",
+   "speaker": "Aarohi",
+   "line": "Mujhe un tak pahunchna hi tha.",
+   "fx": "snow",
+   "sub": "I had to reach them.",
+   "say": "मुझे उन तक पहुँचना ही था।"
+  },
+  {
+   "image": "Close-up of Aarohi's gloved hands gripping the icy rope, knuckles white. Her face is out of frame, but the tension and effort are palpable.",
+   "speaker": "Aarohi",
+   "line": "Har kadam ek chunauti thi.",
+   "fx": "snow",
+   "sub": "Every step was a challenge.",
+   "say": "हर कदम एक चुनौती थी।"
+  },
+  {
+   "image": "Aarohi finally reaches the den entrance, looking exhausted but with a visible sigh of relief. Snowflakes dust her uniform.",
+   "speaker": "Aarohi",
+   "line": "Main neeche pahunch gayi, mushkil se.",
+   "fx": "snow",
+   "sub": "I reached the bottom, with difficulty.",
+   "say": "मैं नीचे पहुँच गई, मुश्किल से।"
+  },
+  {
+   "image": "Aarohi slowly enters the dark, cold den, her flashlight beam cutting through the gloom to reveal the huddled wolves. She moves cautiously.",
+   "speaker": "Aarohi",
+   "line": "Andar andhera aur thand thi.",
+   "fx": "snow",
+   "sub": "Inside it was dark and cold.",
+   "say": "अंदर अंधेरा और ठंड थी।"
+  },
+  {
+   "image": "Close-up of a tiny wolf pup, shivering and whimpering softly, its eyes wide with fear and hunger, looking up at Aarohi's approaching form.",
+   "speaker": "narrator",
+   "line": "Thand lag rahi hai, bhookh bhi.",
+   "fx": "snow",
+   "sub": "It's cold, and I'm hungry too.",
+   "say": "ठंड लग रही है, भूख भी।"
+  },
+  {
+   "image": "Aarohi gently reaches out a gloved hand towards the whimpering pup, a warm, reassuring smile on her face, trying to offer comfort.",
+   "speaker": "Aarohi",
+   "line": "Maine unhe tasalli di, 'Main hoon yahan'.",
+   "fx": "snow",
+   "sub": "I comforted them, 'I'm here'.",
+   "say": "मैंने उन्हें तसल्ली दी, 'मैं हूँ यहाँ'।"
+  },
+  {
+   "image": "Aarohi, kneeling, quickly unzips her backpack and pulls out a compact first aid kit, her movements efficient and focused.",
+   "speaker": "Aarohi",
+   "line": "Shadow ka zakhm gehra tha.",
+   "fx": "snow",
+   "sub": "Shadow's wound was deep.",
+   "say": "शैडो का ज़ख़्म गहरा था।"
+  },
+  {
+   "image": "Close-up of Aarohi's gentle hands carefully cleaning and bandaging Shadow's injured leg. Shadow's head is resting near her, his eyes watchful but calm.",
+   "speaker": "Aarohi",
+   "line": "Wo mujhe bharose se dekh raha tha.",
+   "fx": "snow",
+   "sub": "He was looking at me with trust.",
+   "say": "वो मुझे भरोसे से देख रहा था।"
+  },
+  {
+   "image": "Shadow gently rests his head on Aarohi's lap, his eyes conveying deep gratitude. Aarohi smiles, stroking his fur gently.",
+   "speaker": "Shadow",
+   "line": "Dhanyavaad, tumne jaan bachayi.",
+   "fx": "none",
+   "sub": "Thank you, you saved our lives.",
+   "say": "धन्यवाद, तुमने जान बचाई।"
+  },
+  {
+   "image": "Aarohi carefully breaks an energy bar and offers small pieces to the hungry pups, who eagerly gobble them up. She watches them with tenderness.",
+   "speaker": "Aarohi",
+   "line": "Pups ko thodi energy mil gayi.",
+   "fx": "none",
+   "sub": "The pups got a little energy.",
+   "say": "पप्स को थोड़ी एनर्जी मिल गई।"
+  },
+  {
+   "image": "Aarohi looks up towards the small opening of the den, where snow is still falling. Her face shows renewed worry about how to escape this trap.",
+   "speaker": "Aarohi",
+   "line": "Par bahar nikalna kaise?",
+   "fx": "snow",
+   "sub": "But how to get out?",
+   "say": "पर बाहर निकलना कैसे?"
+  },
+  {
+   "image": "Shadow, despite his injury, struggles to lift his head and looks intently towards a narrow, almost hidden crack in the rocks at the back of the den.",
+   "speaker": "Shadow",
+   "line": "Ek raasta hai, peeche se.",
+   "fx": "none",
+   "sub": "There's a way, from behind.",
+   "say": "एक रास्ता है, पीछे से।"
+  },
+  {
+   "image": "Close-up of Aarohi's eyes widening in surprise, then quickly shifting to understanding. Her mouth forms a silent 'Oh'.",
+   "speaker": "Aarohi",
+   "line": "Uski baat sun kar main hairan thi.",
+   "fx": "none",
+   "sub": "Hearing his words, I was surprised.",
+   "say": "उसकी बात सुनकर मैं हैरान थी।"
+  },
+  {
+   "image": "Aarohi looks from the crack back to Shadow, a knowing smile now on her face. A moment of shared understanding between human and wolf.",
+   "speaker": "Aarohi",
+   "line": "Wo sach mein bol raha tha.",
+   "fx": "none",
+   "sub": "He was truly speaking.",
+   "say": "वो सच में बोल रहा था।"
+  },
+  {
+   "image": "Aarohi gestures towards the narrow crack, encouraging the wolves to follow her. Shadow, though limping, begins to move cautiously with the pups.",
+   "speaker": "Aarohi",
+   "line": "Maine pack ko rasta dikhaya.",
+   "fx": "none",
+   "sub": "I showed the pack the way.",
+   "say": "मैंने पैक को रास्ता दिखाया।"
+  },
+  {
+   "image": "The wolf pack, led by Aarohi, carefully navigating through a tight, rocky, snow-dusted passage. The space looks just big enough for them to squeeze through.",
+   "speaker": "Aarohi",
+   "line": "Wo chhupa hua passage tha.",
+   "fx": "snow",
+   "sub": "It was a hidden passage.",
+   "say": "वो छुपा हुआ पैसेज था।"
+  },
+  {
+   "image": "Aarohi emerges from the passage into a sheltered, less snowy area on a mountain ledge, followed by Shadow and the pups. Relief floods her face.",
+   "speaker": "Aarohi",
+   "line": "Hum surakshit bahar nikal aaye.",
+   "fx": "snow",
+   "sub": "We came out safely.",
+   "say": "हम सुरक्षित बाहर निकल आए।"
+  },
+  {
+   "image": "Aarohi holds her phone up to the sky, desperately searching for signal. Suddenly, the signal bars appear, and she makes a frantic, relieved call.",
+   "speaker": "Aarohi",
+   "line": "Maine madad ke liye call kiya.",
+   "fx": "none",
+   "sub": "I called for help.",
+   "say": "मैंने मदद के लिए कॉल किया।"
+  },
+  {
+   "image": "A helicopter descends, rotors kicking up snow, as a team of rangers, including Rakesh Sir, rush towards Aarohi and the wolf pack. Their faces show awe and disbelief.",
+   "speaker": "Aarohi",
+   "line": "Rakesh Sir aur team pahunch gaye.",
+   "fx": "snow",
+   "sub": "Rakesh Sir and the team arrived.",
+   "say": "राकेश सर और टीम पहुँच गए।"
+  },
+  {
+   "image": "Close-up of Rakesh Sir's face, a mix of disbelief, wonder, and respect as he looks from the rescued wolf pack to Aarohi.",
+   "speaker": "Rakesh Sir",
+   "line": "Tumne ye kaise kiya, Aarohi?",
+   "fx": "snow",
+   "sub": "How did you do this, Aarohi?",
+   "say": "तुमने ये कैसे किया, आरोही?"
+  },
+  {
+   "image": "Aarohi smiles, looking at Shadow, who gives a small, almost imperceptible nod towards her. She then looks back at Rakesh Sir, a knowing look in her eyes.",
+   "speaker": "Aarohi",
+   "line": "Maine kaha, 'Unhone rasta bataya'.",
+   "fx": "none",
+   "sub": "I said, 'They showed the way'.",
+   "say": "मैंने कहा, 'उन्होंने रास्ता बताया'।"
+  },
+  {
+   "image": "A local news reporter, microphone in hand, interviews Aarohi in front of the ranger station. Other reporters and cameras are visible in the background.",
+   "speaker": "Aarohi",
+   "line": "Khabar jungle ki aag ki tarah phail gayi.",
+   "fx": "none",
+   "sub": "The news spread like wildfire.",
+   "say": "ख़बर जंगल की आग की तरह फैल गई।"
+  },
+  {
+   "image": "A close-up of a newspaper headline: 'The Whisperer of the Wild Saves Wolves! Ranger's Incredible Connection to Animals'.",
+   "speaker": "Aarohi",
+   "line": "Log mujhe 'Jungle Ki Awaz' kehne lage.",
+   "fx": "none",
+   "sub": "People started calling me 'Voice of the Jungle'.",
+   "say": "लोग मुझे 'जंगल की आवाज़' कहने लगे।"
+  },
+  {
+   "image": "Aarohi, looking confident and poised, stands on a small stage, addressing a large crowd of villagers, conservationists, and media. Her voice is strong.",
+   "speaker": "Aarohi",
+   "line": "Meri baat ab sab sunte the.",
+   "fx": "none",
+   "sub": "Now everyone listened to me.",
+   "say": "मेरी बात अब सब सुनते थे।"
+  },
+  {
+   "image": "A wide shot of a lush, protected forest area, with newly erected signs promoting wildlife conservation and respect for nature. Animals are seen in the distance.",
+   "speaker": "Aarohi",
+   "line": "Maine janwaron ke haq ki ladai ladi.",
+   "fx": "none",
+   "sub": "I fought for animal rights.",
+   "say": "मैंने जानवरों के हक़ की लड़ाई लड़ी।"
+  },
+  {
+   "image": "Aarohi, now respected, teaches a group of younger rangers about animal behavior in the field. They listen intently to her every word, taking notes.",
+   "speaker": "Aarohi",
+   "line": "Ab sab unki baatein samajhne lage.",
+   "fx": "none",
+   "sub": "Now everyone started understanding their 'talk'.",
+   "say": "अब सब उनकी बातें समझने लगे।"
+  },
+  {
+   "image": "Close-up of Aarohi's happy, fulfilled face, a gentle smile gracing her lips, eyes sparkling with inner peace and purpose.",
+   "speaker": "Aarohi",
+   "line": "Meri zindagi poori tarah badal gayi.",
+   "fx": "none",
+   "sub": "My life completely changed.",
+   "say": "मेरी ज़िंदगी पूरी तरह बदल गई।"
+  },
+  {
+   "image": "Aarohi walks leisurely through a beautiful forest path. Shadow, now fully recovered, walks calmly by her side, a loyal companion.",
+   "speaker": "Aarohi",
+   "line": "Shadow aur main, acche dost ban gaye.",
+   "fx": "dust",
+   "sub": "Shadow and I became good friends.",
+   "say": "शैडो और मैं, अच्छे दोस्त बन गए।"
+  },
+  {
+   "image": "Close-up of Shadow gently nuzzling Aarohi's hand. Aarohi's eyes are closed in contentment, accepting his affection.",
+   "speaker": "Shadow",
+   "line": "Shukriya, meri dost.",
+   "fx": "none",
+   "sub": "Thank you, my friend.",
+   "say": "शुक्रिया, मेरी दोस्त।"
+  },
+  {
+   "image": "Aarohi, with a serene expression, looks around at the peaceful forest, taking in the beauty of nature, feeling connected to everything.",
+   "speaker": "Aarohi",
+   "line": "Maine sabko sikhaya sunna.",
+   "fx": "none",
+   "sub": "I taught everyone to listen.",
+   "say": "मैंने सबको सिखाया सुनना।"
+  },
+  {
+   "image": "A family of deer gracefully drinking from a clear, flowing stream in a sun-drenched forest. The scene is calm and idyllic.",
+   "speaker": "Aarohi",
+   "line": "Duniya mein sirf insaan nahi bolte.",
+   "fx": "dust",
+   "sub": "Only humans don't speak in this world.",
+   "say": "दुनिया में सिर्फ़ इंसान नहीं बोलते।"
+  },
+  {
+   "image": "Close-up of Aarohi's gentle hands cupping a small, chirping bird. She looks at it with immense tenderness.",
+   "speaker": "Aarohi",
+   "line": "Har jeev ki apni kahani hoti hai.",
+   "fx": "none",
+   "sub": "Every creature has its own story.",
+   "say": "हर जीव की अपनी कहानी होती है।"
+  },
+  {
+   "image": "Aarohi closes her eyes, a contented, knowing smile playing on her lips, as if listening to many silent whispers.",
+   "speaker": "Aarohi",
+   "line": "Bas zaroorat hai unhe sunne ki.",
+   "fx": "none",
+   "sub": "All it needs is to listen to them.",
+   "say": "बस ज़रूरत है उन्हें सुनने की।"
+  },
+  {
+   "image": "Aarohi stands at a majestic viewpoint, overlooking a vast expanse of lush, green forest that stretches to the distant, hazy mountains.",
+   "speaker": "Aarohi",
+   "line": "Yeh jungle meri jaan hai.",
+   "fx": "none",
+   "sub": "This forest is my life.",
+   "say": "यह जंगल मेरी जान है।"
+  },
+  {
+   "image": "Sunbeams filter dramatically through the canopy of tall, ancient trees, creating ethereal shafts of light in the forest.",
+   "speaker": "Aarohi",
+   "line": "Aur main iski aawaz.",
+   "fx": "dust",
+   "sub": "And I am its voice.",
+   "say": "और मैं इसकी आवाज़।"
+  },
+  {
+   "image": "A montage: Quick cuts of different forest animals – a bear foraging, a squirrel scampering, a hawk soaring – all living harmoniously.",
+   "speaker": "Aarohi",
+   "line": "Har din ek naya sabaq milta hai.",
+   "fx": "none",
+   "sub": "Every day I learn a new lesson.",
+   "say": "हर दिन एक नया सबक़ मिलता है।"
+  },
+  {
+   "image": "Aarohi gently pats a friendly horse in a sunny meadow. The horse leans into her touch, showing affection.",
+   "speaker": "Aarohi",
+   "line": "Jaanwar sabse sachche saathi hain.",
+   "fx": "none",
+   "sub": "Animals are the truest companions.",
+   "say": "जानवर सबसे सच्चे साथी हैं।"
+  },
+  {
+   "image": "Close-up of Aarohi's hands gently touching the rich, dark soil of the forest floor, feeling its texture.",
+   "speaker": "Aarohi",
+   "line": "Dharti bhi humse baatein karti hai.",
+   "fx": "none",
+   "sub": "The Earth also talks to us.",
+   "say": "धरती भी हमसे बातें करती है।"
+  },
+  {
+   "image": "Aarohi looks up at the vast blue sky, a serene and contemplative expression on her face, as if listening to the wind.",
+   "speaker": "Aarohi",
+   "line": "Bas hum sunne wale bane.",
+   "fx": "none",
+   "sub": "We just need to be listeners.",
+   "say": "बस हम सुनने वाले बने।"
+  },
+  {
+   "image": "A cozy, rustic cabin, Aarohi's home, nestled deeply within the pine forest, smoke gently rising from its chimney.",
+   "speaker": "Aarohi",
+   "line": "Meri kahani ab sab jaante hain.",
+   "fx": "none",
+   "sub": "Everyone knows my story now.",
+   "say": "मेरी कहानी अब सब जानते हैं।"
+  },
+  {
+   "image": "Aarohi sits by a small, crackling campfire outside her cabin, looking into the flames, a pensive and thoughtful expression on her face.",
+   "speaker": "Aarohi",
+   "line": "Par sabse bada raaz toh woh tha...",
+   "fx": "none",
+   "sub": "But the biggest secret was...",
+   "say": "पर सबसे बड़ा राज़ तो वो था..."
+  },
+  {
+   "image": "Close-up on Aarohi's ear, then slowly pulling back to her face, a faint, knowing smile playing on her lips, her eyes holding a deep secret.",
+   "speaker": "Aarohi",
+   "line": "Ki woh awaazein... mere andar thi.",
+   "fx": "none",
+   "sub": "That those voices... were inside me.",
+   "say": "कि वो आवाज़ें... मेरे अंदर थी।"
+  },
+  {
+   "image": "Aarohi looks directly into the camera, her eyes full of wisdom and understanding, a gentle, knowing gaze that seems to invite the viewer into her secret.",
+   "speaker": "Aarohi",
+   "line": "Meri hi aatma ki awazein.",
+   "fx": "none",
+   "sub": "The voices of my own soul.",
+   "say": "मेरी ही आत्मा की आवाज़ें।"
+  },
+  {
+   "image": "Aarohi walks hand-in-hand with a small, curious girl (perhaps 6-7 years old, resembling a younger Aarohi) through a sun-dappled forest, pointing out a small bird in a tree. The girl looks up, fascinated.",
+   "speaker": "Aarohi",
+   "line": "Kya aap kabhi jungle ki baatein sunte ho?",
+   "fx": "dust",
+   "sub": "Do you ever listen to the jungle's talk?",
+   "say": "क्या आप कभी जंगल की बातें सुनते हो?"
+  },
+  {
+   "image": "A breathtaking wide shot of a sunset over the vast, peaceful forest. The sky is ablaze with warm colors, and the trees stand majestically under the fading light.",
+   "speaker": "Aarohi",
+   "line": "Kya unki khamoshi mein kuch dhundhte ho?",
+   "fx": "none",
+   "sub": "Do you find something in their silence?",
+   "say": "क्या उनकी खामोशी में कुछ ढूँढते हो?"
+  }
+ ],
+ "caption": "She Heard the Wolf's Call: Ranger's Unbelievable Secret 🌲",
+ "slug": "2026-11-05_part1",
+ "story_no": 26,
+ "yt_title": "She Heard the Wolf's Call: Ranger's Unbelievable Secret 🌲",
+ "description": "Everyone thought I was crazy for talking to animals, but I knew I could hear them. When a wolf pack vanished in a brutal winter, my secret gift became their only hope. Do you ever listen closely to the whispers of the wild?",
+ "comment_question": "Do you ever feel a deep connection to animals or nature?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalrescue",
+  "#forestranger",
+  "#wolfpack",
+  "#animalcommunication",
+  "#naturelover",
+  "#himalayas",
+  "#magicalrealism",
+  "#empathy",
+  "#wildlife"
+ ]
+}

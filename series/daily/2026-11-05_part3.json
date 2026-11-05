@@ -1,0 +1,609 @@
+{
+ "series": "The Unseen Masterpiece",
+ "episode": 3,
+ "title": "The Unseen Masterpiece",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, 20s, fair skin, long soft wavy dark-brown hair tied in a loose braid, simple blue cotton kurta, silver earrings. Her eyes hold warmth and a hint of sadness, reflecting her journey.",
+   "voice": "hindi_narrator_female"
+  },
+  "Meera": {
+   "look": "Young woman, 20s. As a child: same features but younger, often in simple village clothes. As a teen: slightly older, determined, still humble. As an adult: confident, elegant pastel saree or neat casuals, natural makeup, bindi. Her face is expressive, showing joy, struggle, and eventual profound sadness.",
+   "voice": "hindi_female_young"
+  },
+  "Ms. Sharma": {
+   "look": "Middle-aged woman, 50s, kind face, greying hair pulled back neatly, simple cotton saree, spectacles on her nose. Her smile is gentle but her eyes show deep understanding. Later, she appears paler, with subtle signs of weariness or illness.",
+   "voice": "hindi_female_young"
+  },
+  "Principal Kapoor": {
+   "look": "Elderly man, 60s, balding with grey hair on sides, simple white kurta, serious but gentle face, wears spectacles.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HER FINAL BRUSHSTROKE...",
+ "scenes": [
+  {
+   "image": "[[Meera]] (20s) in an elegant art gallery, looking at her acclaimed, vibrant painting. She holds a faded, small photograph of an older woman, her expression poignant.",
+   "speaker": "narrator",
+   "line": "Main aaj jo bhi hoon, bas ek insaan ki wajah se hoon.",
+   "fx": "none",
+   "sub": "Whatever I am today, it's because of one person.",
+   "say": "मैं आज जो भी हूँ, बस एक इंसान की वजह से हूँ।"
+  },
+  {
+   "image": "Close-up on the faded photograph held by [[Meera]], showing [[Ms. Sharma]] smiling gently, younger than in current time but clearly herself.",
+   "speaker": "narrator",
+   "line": "Woh meri art teacher thi, Ms. Sharma.",
+   "fx": "none",
+   "sub": "She was my art teacher, Ms. Sharma.",
+   "say": "वो मेरी आर्ट टीचर थी, मिस शर्मा।"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s eyes, welling up slightly, a mix of pride and profound sorrow.",
+   "speaker": "narrator",
+   "line": "Meri Maa ne bhi art ka sapna dekha tha.",
+   "fx": "none",
+   "sub": "My mother also dreamt of art.",
+   "say": "मेरी माँ ने भी आर्ट का सपना देखा था।"
+  },
+  {
+   "image": "Younger [[Meera]] (child, around 8), with rough clothes, sitting on the floor of a humble village home, drawing on a piece of scrap paper with intense focus.",
+   "speaker": "narrator",
+   "line": "Humare gaon mein, sapne chote hote the.",
+   "fx": "none",
+   "sub": "In our village, dreams were small.",
+   "say": "हमारे गाँव में, सपने छोटे होते थे।"
+  },
+  {
+   "image": "Young [[Meera]] (child) holding up a crude drawing of a flower, her face beaming with simple joy.",
+   "speaker": "narrator",
+   "line": "Par mujhe rangon se behad pyaar tha.",
+   "fx": "none",
+   "sub": "But I loved colors immensely.",
+   "say": "पर मुझे रंगों से बेहद प्यार था।"
+  },
+  {
+   "image": "Young [[Meera]] (child) surrounded by her drawings, spread on a dusty floor, completely absorbed.",
+   "speaker": "narrator",
+   "line": "Kagaz ke tukdon par duniya banati thi.",
+   "fx": "none",
+   "sub": "I used to create worlds on scraps of paper.",
+   "say": "कागज के टुकड़ों पर दुनिया बनाती थी।"
+  },
+  {
+   "image": "Young [[Meera]]'s parents (tired, older faces) looking disapprovingly at her scattered drawings and a small box of crayons.",
+   "speaker": "narrator",
+   "line": "Ghar mein koi nahi chahta tha main artist banu.",
+   "fx": "none",
+   "sub": "Nobody at home wanted me to become an artist.",
+   "say": "घर में कोई नहीं चाहता था मैं आर्टिस्ट बनूँ।"
+  },
+  {
+   "image": "Young [[Meera]] (child) looks dejected, clutching a small, broken crayon, her face sad and resigned.",
+   "speaker": "narrator",
+   "line": "Garibi thi, bade sapne dekhna paap tha.",
+   "fx": "none",
+   "sub": "There was poverty, big dreams were a sin.",
+   "say": "गरीबी थी, बड़े सपने देखना पाप था।"
+  },
+  {
+   "image": "[[Ms. Sharma]] (middle-aged) in a brightly lit classroom, observing young [[Meera]]'s drawing with a gentle, encouraging smile.",
+   "speaker": "narrator",
+   "line": "Tab Ma'am meri zindagi mein aayi.",
+   "fx": "none",
+   "sub": "Then Ma'am entered my life.",
+   "say": "तब मैम मेरी ज़िन्दगी में आई।"
+  },
+  {
+   "image": "Close-up on [[Ms. Sharma]]'s kind eyes, sparkling with warmth and wisdom, looking at a young student.",
+   "speaker": "narrator",
+   "line": "Unki aankhon mein alag chamak thi.",
+   "fx": "none",
+   "sub": "Her eyes held a unique sparkle.",
+   "say": "उनकी आँखों में अलग चमक थी।"
+  },
+  {
+   "image": "Young [[Meera]]'s face lighting up with wonder and gratitude as [[Ms. Sharma]] praises her drawing, her artwork visible.",
+   "speaker": "narrator",
+   "line": "Unhone mera talent sabse pehle pehchana.",
+   "fx": "none",
+   "sub": "She recognized my talent first.",
+   "say": "उन्होंने मेरा टैलेंट सबसे पहले पहचाना।"
+  },
+  {
+   "image": "Close-up on [[Ms. Sharma]]'s hand gently guiding young [[Meera]]'s hand as they paint on a small canvas, their brushes touching.",
+   "speaker": "narrator",
+   "line": "Meri adhoori drawings ko pura karti thi.",
+   "fx": "none",
+   "sub": "She would complete my unfinished drawings.",
+   "say": "मेरी अधूरी ड्रॉइंग्स को पूरा करती थी।"
+  },
+  {
+   "image": "[[Ms. Sharma]] looking intently at a vibrant drawing by young [[Meera]], her face impressed and thoughtful.",
+   "speaker": "narrator",
+   "line": "Ma'am ne mujhme ek alag spark dekha.",
+   "fx": "none",
+   "sub": "Ma'am saw a different spark in me.",
+   "say": "मैम ने मुझमें एक अलग स्पार्क देखा।"
+  },
+  {
+   "image": "Close-up on [[Ms. Sharma]]'s face, speaking earnestly to young [[Meera]], a warm, encouraging smile on her lips.",
+   "speaker": "Ms. Sharma",
+   "line": "Meera, tumhara junoon asli hai, aage badho.",
+   "fx": "none",
+   "sub": "Meera, your passion is real, move forward.",
+   "say": "मीरा, तुम्हारा जुनून असली है, आगे बढ़ो।"
+  },
+  {
+   "image": "Young [[Meera]] (teenager) looks up, her eyes wide with surprise and then fierce determination, clutching a small paintbrush like a treasure.",
+   "speaker": "narrator",
+   "line": "Pehli baar kisi ne mujh par trust kiya.",
+   "fx": "none",
+   "sub": "For the first time, someone trusted me.",
+   "say": "पहली बार किसी ने मुझ पर ट्रस्ट किया।"
+  },
+  {
+   "image": "[[Meera]] (teenager) sits dejectedly at her kitchen table, looking at a college brochure, her parents' worried faces in the background.",
+   "speaker": "narrator",
+   "line": "Maa-Papa college ki fees afford nahi kar sakte the.",
+   "fx": "none",
+   "sub": "Mom-Dad couldn't afford college fees.",
+   "say": "माँ-पापा कॉलेज की फीस अफोर्ड नहीं कर सकते थे।"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s father's face, stern and disapproving, shaking his head firmly.",
+   "speaker": "narrator",
+   "line": "Art school? Pagal ho gayi ho kya, Meera?",
+   "fx": "none",
+   "sub": "Art school? Have you gone mad, Meera?",
+   "say": "आर्ट स्कूल? पागल हो गयी हो क्या, मीरा?"
+  },
+  {
+   "image": "[[Meera]] (teenager) sitting on her bed, crying softly into her hands, feeling hopeless and trapped.",
+   "speaker": "narrator",
+   "line": "Main toh bas roti hi rahi, hopeless.",
+   "fx": "none",
+   "sub": "I just kept crying, hopeless.",
+   "say": "मैं तो बस रोती ही रही, होपलेस।"
+  },
+  {
+   "image": "[[Ms. Sharma]] (middle-aged) stands at the humble doorstep of [[Meera]]'s home, looking resolute and kind, a simple saree draped.",
+   "speaker": "narrator",
+   "line": "Ek din, Ma'am humare ghar aayi.",
+   "fx": "none",
+   "sub": "One day, Ma'am came to our house.",
+   "say": "एक दिन, मैम हमारे घर आई।"
+  },
+  {
+   "image": "Wide shot of [[Ms. Sharma]] earnestly speaking with [[Meera]]'s parents in their modest living room, her hands gesturing persuasively.",
+   "speaker": "narrator",
+   "line": "Unhone Mummy-Papa se ghanton baat ki.",
+   "fx": "none",
+   "sub": "She spoke with Mom-Dad for hours.",
+   "say": "उन्होंने मम्मी-पापा से घंटों बात की।"
+  },
+  {
+   "image": "Close-up on [[Ms. Sharma]] pointing to details on a scholarship application form, explaining patiently to [[Meera]]'s parents.",
+   "speaker": "narrator",
+   "line": "Ek scholarship form unhone samjhaya sabko.",
+   "fx": "none",
+   "sub": "She explained a scholarship form to everyone.",
+   "say": "एक स्कॉलरशिप फॉर्म उन्होंने समझाया सबको।"
+  },
+  {
+   "image": "[[Meera]]'s parents slowly nod, looking hesitant but finally agreeing, their faces showing resignation and a sliver of hope.",
+   "speaker": "narrator",
+   "line": "Maa-Papa finally agree ho gaye, miraculously.",
+   "fx": "none",
+   "sub": "Mom-Dad finally agreed, miraculously.",
+   "say": "माँ-पापा फाइनली एग्री हो गए, मिराक्यूलसली।"
+  },
+  {
+   "image": "[[Meera]] (teenager) joyfully embracing [[Ms. Sharma]], tears of gratitude streaming down her face, in the dim light of her home.",
+   "speaker": "narrator",
+   "line": "Mujhe laga meri life badal jayegi ab.",
+   "fx": "none",
+   "sub": "I thought my life would change now.",
+   "say": "मुझे लगा मेरी लाइफ बदल जाएगी अब।"
+  },
+  {
+   "image": "[[Meera]] (young adult, early 20s) packing a small, worn bag, looking hopeful but nervous, as she leaves her humble village behind.",
+   "speaker": "narrator",
+   "line": "Gaon chhod kar, bade shehar aa gayi.",
+   "fx": "none",
+   "sub": "Leaving the village, I came to the big city.",
+   "say": "गाँव छोड़ कर, बड़े शहर आ गयी।"
+  },
+  {
+   "image": "[[Meera]] (young adult) studying intensely by a single lamp in a cramped hostel room, surrounded by art books and sketches.",
+   "speaker": "narrator",
+   "line": "Hostel mein raat bhar padhai, din bhar art.",
+   "fx": "none",
+   "sub": "In the hostel, night-long studies, day-long art.",
+   "say": "हॉस्टल में रात भर पढाई, दिन भर आर्ट।"
+  },
+  {
+   "image": "[[Meera]] (young adult) struggling with a large, intimidating canvas in a brightly lit art studio, looking frustrated, paint on her face.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi toh haar maan leti thi.",
+   "fx": "none",
+   "sub": "Sometimes I would give up.",
+   "say": "कभी कभी तो हार मान लेती थी।"
+  },
+  {
+   "image": "[[Meera]] (young adult) making a phone call, looking slightly dejected, holding the phone away from her ear, a frown on her face.",
+   "speaker": "narrator",
+   "line": "Ma'am ko call karti, unka number busy aata.",
+   "fx": "none",
+   "sub": "I'd call Ma'am, her number would be busy.",
+   "say": "मैम को कॉल करती, उनका नंबर बिज़ी आता।"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s phone screen, showing 'Ms. Sharma' and a 'missed call' notification. Her thumb hovers over 'call again'.",
+   "speaker": "narrator",
+   "line": "Ek din toh phone hi nahi laga, dar gayi.",
+   "fx": "none",
+   "sub": "One day the phone didn't connect at all, I got scared.",
+   "say": "एक दिन तो फ़ोन ही नहीं लगा, डर गयी।"
+  },
+  {
+   "image": "[[Meera]] (young adult) looking out a window at a bustling city street, a longing expression on her face, feeling lonely.",
+   "speaker": "narrator",
+   "line": "Shehar mein, Ma'am ki awaaz sunne ko tarasti thi.",
+   "fx": "none",
+   "sub": "In the city, I yearned to hear Ma'am's voice.",
+   "say": "शहर में, मैम की आवाज़ सुनने को तरसती थी।"
+  },
+  {
+   "image": "[[Ms. Sharma]] (middle-aged) in her classroom, looking a little paler and more tired than before, but still smiling gently at a student's artwork.",
+   "speaker": "narrator",
+   "line": "Woh hamesha meri strength thi, door se bhi.",
+   "fx": "none",
+   "sub": "She was always my strength, even from afar.",
+   "say": "वो हमेशा मेरी स्ट्रेंथ थी, दूर से भी।"
+  },
+  {
+   "image": "[[Meera]] (now a successful artist, late 20s) confidently standing next to her vibrant, large painting in a prestigious art gallery, smiling.",
+   "speaker": "narrator",
+   "line": "Saalon ki mehnat rang layi, exhibition hit hui.",
+   "fx": "none",
+   "sub": "Years of hard work paid off, the exhibition was a hit.",
+   "say": "सालों की मेहनत रंग लाई, एग्ज़िबिशन हिट हुई।"
+  },
+  {
+   "image": "An art critic admiring [[Meera]]'s painting, his face reflecting awe. [[Meera]]'s name is subtly visible on a plaque.",
+   "speaker": "narrator",
+   "line": "Meri paintings ki sab taraf tareef hone lagi.",
+   "fx": "none",
+   "sub": "My paintings started getting praise everywhere.",
+   "say": "मेरी पेंटिंग्स की सब तरफ तारीफ़ होने लगी।"
+  },
+  {
+   "image": "[[Meera]] (successful artist) on a stage, elegantly dressed, accepting an international art award, a beaming smile on her face.",
+   "speaker": "narrator",
+   "line": "Mujhe international awards milne lage.",
+   "fx": "none",
+   "sub": "I started receiving international awards.",
+   "say": "मुझे इंटरनेशनल अवार्ड्स मिलने लगे।"
+  },
+  {
+   "image": "[[Meera]] (successful artist) looking at her award, a bittersweet expression on her face, a hint of sadness in her eyes despite the joy.",
+   "speaker": "narrator",
+   "line": "Par woh khushi adhoori thi unke bina.",
+   "fx": "none",
+   "sub": "But that happiness was incomplete without her.",
+   "say": "पर वो ख़ुशी अधूरी थी उनके बिना।"
+  },
+  {
+   "image": "[[Meera]] (current age) looking at a map of her old hometown, a determined and hopeful expression on her face, planning her trip.",
+   "speaker": "narrator",
+   "line": "Main unhe thank you bolne vapas aayi.",
+   "fx": "none",
+   "sub": "I came back to thank her.",
+   "say": "मैं उन्हें थैंक यू बोलने वापस आई।"
+  },
+  {
+   "image": "[[Meera]] (current age) walking through the familiar, slightly dilapidated gates of her old school, a mix of nostalgia and anticipation.",
+   "speaker": "narrator",
+   "line": "School gate par vahi purani yaadein taazi ho gayi.",
+   "fx": "none",
+   "sub": "At the school gate, old memories became fresh.",
+   "say": "स्कूल गेट पर वही पुरानी यादें ताज़ी हो गयी।"
+  },
+  {
+   "image": "[[Meera]] (current age) entering the old art classroom, now empty and quiet, looking around expectantly for [[Ms. Sharma]].",
+   "speaker": "narrator",
+   "line": "Art room khali tha, Ma'am kahin nahi thi.",
+   "fx": "none",
+   "sub": "The art room was empty, Ma'am was nowhere.",
+   "say": "आर्ट रूम खाली था, मैम कहीं नहीं थी।"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s face, confused and slightly worried, her brow furrowed as she searches the empty room.",
+   "speaker": "narrator",
+   "line": "Main Principal sir ke paas gayi.",
+   "fx": "none",
+   "sub": "I went to Principal sir.",
+   "say": "मैं प्रिंसिपल सर के पास गयी।"
+  },
+  {
+   "image": "[[Meera]] (current age) standing in front of [[Principal Kapoor]]'s desk in his office, looking hopeful and eager.",
+   "speaker": "Meera",
+   "line": "Principal sir, Ms. Sharma kahaan hai?",
+   "fx": "none",
+   "sub": "Principal sir, where is Ms. Sharma?",
+   "say": "प्रिंसिपल सर, मिस शर्मा कहाँ है?"
+  },
+  {
+   "image": "[[Principal Kapoor]]'s kind but serious face as he listens to [[Meera]], his expression slowly turning sad.",
+   "speaker": "Principal Kapoor",
+   "line": "Unka chehra udas ho gaya, \"Meera, beti...\"",
+   "fx": "none",
+   "sub": "His face became sad, \"Meera, my child...\"",
+   "say": "उनका चेहरा उदास हो गया, “मीरा, बेटी…”"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s face, her eager smile slowly fading, replaced by a growing sense of dread as she senses bad news.",
+   "speaker": "narrator",
+   "line": "Meri dhadkan tez ho gayi, darr gayi.",
+   "fx": "none",
+   "sub": "My heartbeat quickened, I got scared.",
+   "say": "मेरी धड़कन तेज़ हो गयी, डर गयी।"
+  },
+  {
+   "image": "Close-up on [[Principal Kapoor]]'s hands, fumbling slowly and hesitantly with a locked desk drawer.",
+   "speaker": "narrator",
+   "line": "Unhone ek purana drawer khola dheere se.",
+   "fx": "none",
+   "sub": "He slowly opened an old drawer.",
+   "say": "उन्होंने एक पुराना ड्रॉअर खोला धीरे से।"
+  },
+  {
+   "image": "Close-up on [[Principal Kapoor]] pulling out an old, slightly yellowed and wrinkled envelope from the drawer.",
+   "speaker": "narrator",
+   "line": "Ek purana, pila padha lifafa nikala.",
+   "fx": "none",
+   "sub": "He took out an old, yellowed envelope.",
+   "say": "एक पुराना, पीला पड़ा लिफाफा निकाला।"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s eyes, widening with apprehension, her breath held, as she looks at the envelope.",
+   "speaker": "narrator",
+   "line": "Meri saansein jaise ruk si gayi thi.",
+   "fx": "none",
+   "sub": "My breath seemed to stop.",
+   "say": "मेरी साँसें जैसे रुक सी गयी थी।"
+  },
+  {
+   "image": "[[Principal Kapoor]] handing the envelope to [[Meera]], his face full of sympathy and sadness.",
+   "speaker": "Principal Kapoor",
+   "line": "Yeh unhone tumhare liye chhod diya tha, beti.",
+   "fx": "none",
+   "sub": "She had left this for you, my child.",
+   "say": "यह उन्होंने तुम्हारे लिए छोड़ दिया था, बेटी।"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s trembling hands holding the letter, her knuckles white, her face etched with fear.",
+   "speaker": "narrator",
+   "line": "Mere haath kaanp rahe the, letter khola.",
+   "fx": "none",
+   "sub": "My hands were trembling, I opened the letter.",
+   "say": "मेरे हाथ काँप रहे थे, लेटर खोला।"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s face, tears instantly welling up as she reads the first few lines of the letter, shock and pain visible.",
+   "speaker": "narrator",
+   "line": "Pehli line padhi, meri aankhein bhar aayi.",
+   "fx": "none",
+   "sub": "I read the first line, my eyes filled up.",
+   "say": "पहली लाइन पढ़ी, मेरी आँखें भर आई।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] (middle-aged, but looking pale and tired) sitting by a window, writing the letter with a determined but weary expression.",
+   "speaker": "Ms. Sharma",
+   "line": "Meri Meera, mujhe pata tha tum karogi.",
+   "fx": "none",
+   "sub": "My Meera, I knew you would do it.",
+   "say": "मेरी मीरा, मुझे पता था तुम करोगी।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] in a doctor's office, looking worried and distressed as a doctor explains something gravely, charts visible.",
+   "speaker": "narrator",
+   "line": "Woh tab bimaar thi, yeh mujhe pata hi nahi tha.",
+   "fx": "none",
+   "sub": "She was ill then, I had no idea.",
+   "say": "वो तब बीमार थी, यह मुझे पता ही नहीं था।"
+  },
+  {
+   "image": "Close-up on the letter in [[Meera]]'s hands, a single tear falling onto the yellowed paper, blurring the ink.",
+   "speaker": "narrator",
+   "line": "Ankhon se aansu the, Ma'am ka letter bheega.",
+   "fx": "none",
+   "sub": "Tears in my eyes, Ma'am's letter got wet.",
+   "say": "आँखों से आँसू थे, मैम का लेटर भीगा।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] looking at an unfinished painting on an easel in her modest home, a sad, longing smile on her face.",
+   "speaker": "narrator",
+   "line": "Unke bhi artist banne ke sapne the.",
+   "fx": "none",
+   "sub": "She also had dreams of becoming an artist.",
+   "say": "उनके भी आर्टिस्ट बनने के सपने थे।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] quickly hiding a stack of medical reports beneath some papers on her desk, a worried expression on her face.",
+   "speaker": "narrator",
+   "line": "Unki bimari ka ilaaj bahot costly tha.",
+   "fx": "none",
+   "sub": "Her illness's treatment was very costly.",
+   "say": "उनकी बीमारी का इलाज बहुत कॉस्टली था।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] working late at night in the school office, looking exhausted but determined, meticulously filling out scholarship forms for Meera.",
+   "speaker": "narrator",
+   "line": "Phir bhi unhone meri fees bhari thi.",
+   "fx": "none",
+   "sub": "Still, she paid my fees.",
+   "say": "फिर भी उन्होंने मेरी फीस भरी थी।"
+  },
+  {
+   "image": "Close-up on [[Ms. Sharma]]'s hand, placing a stack of currency notes into an envelope, her face showing resolve mixed with weariness.",
+   "speaker": "narrator",
+   "line": "Apne medicines ke paiso se, mere liye.",
+   "fx": "none",
+   "sub": "With her medicine money, for me.",
+   "say": "अपने मेडिसिन्स के पैसों से, मेरे लिए।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] at a hospital reception, shaking her head at a form, looking resolute but also defeated, refusing treatment.",
+   "speaker": "narrator",
+   "line": "Unhone khud ki treatment chhodi thi.",
+   "fx": "none",
+   "sub": "She gave up her own treatment.",
+   "say": "उन्होंने खुद की ट्रीटमेंट छोड़ी थी।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] subtly wincing in pain while teaching a class, but quickly composing herself with a brave smile, hiding her suffering.",
+   "speaker": "narrator",
+   "line": "Mujhe aage badhane ke liye, mera future banane.",
+   "fx": "none",
+   "sub": "To push me forward, to build my future.",
+   "say": "मुझे आगे बढ़ाने के लिए, मेरा फ्यूचर बनाने।"
+  },
+  {
+   "image": "Close-up on [[Meera]]'s face (current age), tears streaming down, mouth slightly open in disbelief and profound pain, clutching the letter.",
+   "speaker": "narrator",
+   "line": "Main chillana chahti thi, par awaaz nahi thi.",
+   "fx": "none",
+   "sub": "I wanted to scream, but there was no voice.",
+   "say": "मैं चिल्लाना चाहती थी, पर आवाज़ नहीं थी।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] gently encouraging young [[Meera]] in the classroom, her eyes full of hope and a bittersweet longing for Meera's success.",
+   "speaker": "narrator",
+   "line": "Har hansi, har encouragement mein dard tha.",
+   "fx": "none",
+   "sub": "Every smile, every encouragement held pain.",
+   "say": "हर हँसी, हर एनकरेजमेंट में दर्द था।"
+  },
+  {
+   "image": "Close-up on a paragraph in the letter, explaining Ms. Sharma's illness and her decision to invest her last resources in Meera's scholarship.",
+   "speaker": "narrator",
+   "line": "Woh mera adhura sapna pura kar rahi thi.",
+   "fx": "none",
+   "sub": "She was fulfilling my unfinished dream.",
+   "say": "वो मेरा अधूरा सपना पूरा कर रही थी।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] looking at a photo of her younger self, holding a paintbrush, a wistful, longing expression on her face.",
+   "speaker": "narrator",
+   "line": "Unki life, meri art ban gayi thi.",
+   "fx": "none",
+   "sub": "Her life became my art.",
+   "say": "उनकी लाइफ, मेरी आर्ट बन गयी थी।"
+  },
+  {
+   "image": "Flashback: [[Ms. Sharma]] (looking very frail) smiling weakly at [[Principal Kapoor]], handing him the sealed letter for Meera, a final gesture.",
+   "speaker": "Ms. Sharma",
+   "line": "Meera, ab mera sapna tumhare rangon mein hai.",
+   "fx": "none",
+   "sub": "Meera, now my dream is in your colors.",
+   "say": "मीरा, अब मेरा सपना तुम्हारे रंगों में है।"
+  },
+  {
+   "image": "[[Meera]] (current age) sobbing quietly, clutching the letter to her chest, overwhelmed by the magnitude of Ms. Sharma's sacrifice.",
+   "speaker": "narrator",
+   "line": "Ma'am, aapne sab kuch mere naam kar diya.",
+   "fx": "none",
+   "sub": "Ma'am, you gave everything in my name.",
+   "say": "मैम, आपने सब कुछ मेरे नाम कर दिया।"
+  },
+  {
+   "image": "[[Principal Kapoor]] (current age) putting a comforting hand on [[Meera]]'s trembling shoulder, his face filled with quiet empathy.",
+   "speaker": "narrator",
+   "line": "Principal sir ne mere kandhe par haath rakha.",
+   "fx": "none",
+   "sub": "Principal sir put his hand on my shoulder.",
+   "say": "प्रिंसिपल सर ने मेरे कंधे पर हाथ रखा।"
+  },
+  {
+   "image": "[[Meera]] (current age) looking at her own hands, then at an imaginary paintbrush, understanding the immense weight and responsibility of her success.",
+   "speaker": "narrator",
+   "line": "Har brushstroke mein unka dedication chupa hai.",
+   "fx": "none",
+   "sub": "In every brushstroke, her dedication is hidden.",
+   "say": "हर ब्रशस्ट्रोक में उनका डेडिकेशन छुपा है।"
+  },
+  {
+   "image": "[[Meera]] (current age) leaving the school, looking profoundly changed, the setting sun casting long, emotional shadows behind her.",
+   "speaker": "narrator",
+   "line": "Aaj bhi, unki yaad mein, meri aankhein bhar aati hain.",
+   "fx": "none",
+   "sub": "Even today, in her memory, my eyes fill up.",
+   "say": "आज भी, उनकी याद में, मेरी आँखें भर आती हैं।"
+  },
+  {
+   "image": "[[Meera]] (current age) back in her art studio, looking at her most famous painting, her expression deep, reflective, and full of quiet reverence.",
+   "speaker": "narrator",
+   "line": "Yeh meri painting hai, unka last masterpiece.",
+   "fx": "none",
+   "sub": "This is my painting, her last masterpiece.",
+   "say": "यह मेरी पेंटिंग है, उनका लास्ट मास्टरपीस।"
+  },
+  {
+   "image": "Close-up on [[Meera]] gently placing [[Ms. Sharma]]'s faded photograph beside her vibrant painting on an easel.",
+   "speaker": "narrator",
+   "line": "Unki tasveer meri zindagi ka hissa hai.",
+   "fx": "none",
+   "sub": "Her picture is a part of my life.",
+   "say": "उनकी तस्वीर मेरी ज़िन्दगी का हिस्सा है।"
+  },
+  {
+   "image": "Close-up on the painting, then a slow pan to the faded photo, highlighting the connection between them.",
+   "speaker": "narrator",
+   "line": "Ek teacher, jisne sab kuch de diya.",
+   "fx": "none",
+   "sub": "A teacher, who gave everything.",
+   "say": "एक टीचर, जिसने सब कुछ दे दिया।"
+  },
+  {
+   "image": "[[Meera]] takes a deep breath, a single tear escaping, but also a newfound strength and resolve in her eyes, looking at her art.",
+   "speaker": "narrator",
+   "line": "Meri success unki sacrifice ki kahani hai.",
+   "fx": "none",
+   "sub": "My success is the story of her sacrifice.",
+   "say": "मेरी सक्सेस उनकी सैक्रिफाइस की कहानी है।"
+  },
+  {
+   "image": "[[Meera]] looking directly at the camera, a poignant, thoughtful expression, inviting engagement.",
+   "speaker": "narrator",
+   "line": "Kya aapne kabhi aise teacher ko thank you kiya hai?",
+   "fx": "none",
+   "sub": "Have you ever thanked such a teacher?",
+   "say": "क्या आपने कभी ऐसे टीचर को थैंक यू किया है?"
+  }
+ ],
+ "caption": "My Teacher's Secret Sacrifice: An Artist's Unseen Masterpiece 💔",
+ "slug": "2026-11-05_part3",
+ "story_no": 28,
+ "yt_title": "My Teacher's Secret Sacrifice: An Artist's Unseen Masterpiece 💔",
+ "description": "I owe everything to one person, my art teacher Ms. Sharma. I returned to thank her, only to uncover a heartbreaking truth about her silent sacrifice. \n\nHas a teacher ever changed your life so profoundly?",
+ "comment_question": "Kya aapne kabhi aise teacher ko thank you kiya hai?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indianteacher",
+  "#artinspiration",
+  "#teachersacrifice",
+  "#lifetransformation",
+  "#artistjourney",
+  "#unseenhero",
+  "#indianwomen",
+  "#heartbreakingstory",
+  "#gratitude"
+ ]
+}
