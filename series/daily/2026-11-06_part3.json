@@ -1,0 +1,553 @@
+{
+ "series": "The Foundation's Secret Heart",
+ "episode": 3,
+ "title": "The Foundation's Secret Heart",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A young woman, mid-20s, with warm, expressive dark-brown eyes and long, softly wavy hair. She has a small nose stud and often wears simple, neat pastel kurtis with jeans. Her face shows deep empathy and intelligence.",
+   "voice": "hindi_narrator_female"
+  },
+  "Arjun": {
+   "look": "A young man, mid-20s, tall with fair skin and kind, thoughtful eyes. Initially seen in simple, slightly worn dark t-shirts and faded jeans, he later appears sharp in a well-tailored suit. His expression can be earnest or subtly conflicted.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HIS BIGGEST LIE",
+ "scenes": [
+  {
+   "image": "[[narrator]] sits at a chai stall, looking thoughtful, then her eyes widen in surprise at something across the street. Evening light.",
+   "speaker": "narrator",
+   "line": "I loved his simple life. It was all a lie.",
+   "fx": "none",
+   "sub": "I loved his simple life. It was all a lie.",
+   "say": "आई लव्ड हिज सिंपल लाइफ. इट वॉज ऑल अ लाई."
+  },
+  {
+   "image": "[[narrator]], Riya, is seen inside a modest community center, helping a child with homework, smiling warmly.",
+   "speaker": "narrator",
+   "line": "My name is Riya. I work at a local community center.",
+   "fx": "none",
+   "sub": "My name is Riya. I work at a local community center.",
+   "say": "मेरा नाम रिया है. मैं एक लोकल कम्युनिटी सेंटर में काम करती हूँ."
+  },
+  {
+   "image": "[[Arjun]] in simple clothes, helps a chaiwala serve tea at a bustling stall, looking attentive and kind.",
+   "speaker": "narrator",
+   "line": "He first appeared at the chai stall, helping out, looking very simple.",
+   "fx": "none",
+   "sub": "He first appeared at the chai stall, helping out, looking very simple.",
+   "say": "वो पहले चाय की दुकान पर दिखा, मदद कर रहा था, बहुत सिंपल दिख रहा था."
+  },
+  {
+   "image": "[[narrator]] watches [[Arjun]] from a distance, a curious, gentle smile on her face.",
+   "speaker": "narrator",
+   "line": "I noticed his kind eyes, his patient smile.",
+   "fx": "none",
+   "sub": "I noticed his kind eyes, his patient smile.",
+   "say": "मैंने उसकी दयालु आँखें, उसकी धैर्यवान मुस्कान देखी."
+  },
+  {
+   "image": "[[narrator]] and [[Arjun]] are sitting at the chai stall, talking animatedly, a shared laugh between them.",
+   "speaker": "narrator",
+   "line": "Soon, we were talking daily. About life, dreams, helping people.",
+   "fx": "none",
+   "sub": "Soon, we were talking daily. About life, dreams, helping people.",
+   "say": "जल्द ही, हम रोज़ बातें करने लगे. ज़िंदगी, सपने, लोगों की मदद के बारे में."
+  },
+  {
+   "image": "Close-up on [[Arjun]]'s earnest face as he speaks, gesturing with his hands, at the community center.",
+   "speaker": "narrator",
+   "line": "Arjun spoke passionately about making a difference.",
+   "fx": "none",
+   "sub": "Arjun spoke passionately about making a difference.",
+   "say": "अर्जुन लोगों की मदद करने के बारे में जोश से बात करता था."
+  },
+  {
+   "image": "[[Arjun]] is gently comforting an elderly woman at the community center, his hand on her shoulder.",
+   "speaker": "narrator",
+   "line": "He spent hours at our center, helping the elderly.",
+   "fx": "none",
+   "sub": "He spent hours at our center, helping the elderly.",
+   "say": "वो हमारे सेंटर में घंटों बिताता, बुज़ुर्गों की मदद करता."
+  },
+  {
+   "image": "Close-up on [[narrator]]'s face, a look of growing admiration and affection.",
+   "speaker": "narrator",
+   "line": "I was truly impressed by his sincerity, his gentle heart.",
+   "fx": "none",
+   "sub": "I was truly impressed by his sincerity, his gentle heart.",
+   "say": "मैं उसकी ईमानदारी, उसके कोमल दिल से सच में प्रभावित थी."
+  },
+  {
+   "image": "A quick shot of [[Arjun]]'s worn, simple t-shirt, then a flicker of an expensive phone in his hand.",
+   "speaker": "narrator",
+   "line": "Sometimes, I noticed small details, a luxury phone.",
+   "fx": "none",
+   "sub": "Sometimes, I noticed small details, a luxury phone.",
+   "say": "कभी-कभी, मुझे छोटे डिटेल्स दिखते, एक लक्ज़री फ़ोन."
+  },
+  {
+   "image": "[[narrator]] shrugs slightly, dismissing a thought, a faint frown on her face.",
+   "speaker": "narrator",
+   "line": "But I dismissed them. Maybe a gift? A coincidence?",
+   "fx": "none",
+   "sub": "But I dismissed them. Maybe a gift? A coincidence?",
+   "say": "पर मैंने उन्हें अनदेखा किया. शायद कोई गिफ्ट? या बस इत्तेफ़ाक?"
+  },
+  {
+   "image": "[[narrator]] and [[Arjun]] are walking together through a market, laughing, looking very comfortable.",
+   "speaker": "narrator",
+   "line": "Our connection deepened. He felt like home.",
+   "fx": "none",
+   "sub": "Our connection deepened. He felt like home.",
+   "say": "हमारा रिश्ता गहरा हो गया. वो घर जैसा लगने लगा."
+  },
+  {
+   "image": "Close-up of [[Arjun]]'s hand holding a worn book, his expression thoughtful, at the center.",
+   "speaker": "narrator",
+   "line": "He shared stories of his 'struggles', inspiring me.",
+   "fx": "none",
+   "sub": "He shared stories of his 'struggles', inspiring me.",
+   "say": "उसने अपनी 'परेशानियों' की कहानियाँ बताईं, मुझे प्रेरित किया."
+  },
+  {
+   "image": "[[narrator]]'s face, a soft, dreamy smile, lost in thought about Arjun.",
+   "speaker": "narrator",
+   "line": "I started looking forward to his visits each day.",
+   "fx": "none",
+   "sub": "I started looking forward to his visits each day.",
+   "say": "मैं हर दिन उसके आने का इंतज़ार करने लगी थी."
+  },
+  {
+   "image": "[[Arjun]] is teaching children at the community center, patiently explaining something, kids are focused.",
+   "speaker": "narrator",
+   "line": "His genuine interest in people was truly moving.",
+   "fx": "none",
+   "sub": "His genuine interest in people was truly moving.",
+   "say": "लोगों में उसकी सच्ची दिलचस्पी बहुत दिल छू लेने वाली थी."
+  },
+  {
+   "image": "[[narrator]] and [[Arjun]] are sitting close, sharing a plate of pakoras, their shoulders almost touching.",
+   "speaker": "narrator",
+   "line": "I knew I was falling for this simple, kind man.",
+   "fx": "none",
+   "sub": "I knew I was falling for this simple, kind man.",
+   "say": "मैं इस साधारण, दयालु आदमी के प्यार में पड़ रही थी."
+  },
+  {
+   "image": "[[narrator]] is looking through a pamphlet for a foundation, her eyes lighting up with an idea.",
+   "speaker": "narrator",
+   "line": "Then I had an idea. A great opportunity for him.",
+   "fx": "none",
+   "sub": "Then I had an idea. A great opportunity for him.",
+   "say": "फिर मुझे एक ख़्याल आया. उसके लिए एक शानदार मौका."
+  },
+  {
+   "image": "[[narrator]] excitedly shows a brochure to [[Arjun]] at the chai stall. He looks at it, then at her, surprised.",
+   "speaker": "narrator",
+   "line": "I told him about the Rathore Charitable Foundation.",
+   "fx": "none",
+   "sub": "I told him about the Rathore Charitable Foundation.",
+   "say": "मैंने उसे राठौर चैरिटेबल फाउंडेशन के बारे में बताया."
+  },
+  {
+   "image": "Close-up on [[Arjun]]'s face, a flicker of surprise, then a carefully neutral expression.",
+   "speaker": "narrator",
+   "line": "He looked surprised, a little hesitant, then thoughtful.",
+   "fx": "none",
+   "sub": "He looked surprised, a little hesitant, then thoughtful.",
+   "say": "वो हैरान, थोड़ा झिझका हुआ, फिर विचारमग्न दिखा."
+  },
+  {
+   "image": "[[narrator]] leans forward, encouraging [[Arjun]], her expression earnest.",
+   "speaker": "narrator",
+   "line": "I said, 'Arjun, your passion is exactly what they need!'",
+   "fx": "none",
+   "sub": "I said, 'Arjun, your passion is exactly what they need!'",
+   "say": "मैंने कहा, 'अर्जुन, तुम्हारा जज़्बा वही है जो उन्हें चाहिए!'"
+  },
+  {
+   "image": "[[Arjun]] is looking down at the brochure, a slight frown of internal debate.",
+   "speaker": "Arjun",
+   "line": "Riya, yeh bahut bada naam hai. Main kaise karunga?",
+   "fx": "none",
+   "sub": "Riya, this is a big name. How can I do it?",
+   "say": "रिया, ये बहुत बड़ा नाम है. मैं कैसे करूँगा?"
+  },
+  {
+   "image": "[[narrator]] places a reassuring hand on [[Arjun]]'s arm, smiling confidently.",
+   "speaker": "narrator",
+   "line": "I encouraged him, 'Just apply, Arjun. Trust your heart.'",
+   "fx": "none",
+   "sub": "I encouraged him, 'Just apply, Arjun. Trust your heart.'",
+   "say": "मैंने उसे प्रोत्साहित किया, 'बस अप्लाई करो, अर्जुन. अपने दिल पर भरोसा करो.'"
+  },
+  {
+   "image": "[[Arjun]] looks up at [[narrator]], a strange, almost amused smile playing on his lips.",
+   "speaker": "narrator",
+   "line": "He finally agreed, with a look I didn't quite understand.",
+   "fx": "none",
+   "sub": "He finally agreed, with a look I didn't quite understand.",
+   "say": "वो आख़िरकार मान गया, एक ऐसी नज़र से जिसे मैं समझ नहीं पाई."
+  },
+  {
+   "image": "[[narrator]] and [[Arjun]] clink chai glasses together, celebrating, Riya looks genuinely happy.",
+   "speaker": "narrator",
+   "line": "I felt so proud, like I’d opened a door for him.",
+   "fx": "none",
+   "sub": "I felt so proud, like I’d opened a door for him.",
+   "say": "मैं बहुत गर्व महसूस कर रही थी, जैसे मैंने उसके लिए एक दरवाज़ा खोला हो."
+  },
+  {
+   "image": "Close-up of [[Arjun]]'s face, as he sips chai, his smile seems a little forced, a subtle knowing look in his eyes.",
+   "speaker": "narrator",
+   "line": "His smile was warm, but a hint of something else flickered.",
+   "fx": "none",
+   "sub": "His smile was warm, but a hint of something else flickered.",
+   "say": "उसकी मुस्कान गर्म थी, पर कुछ और भी झलक रहा था."
+  },
+  {
+   "image": "[[Arjun]] is now seen in slightly better, but still simple clothes, interacting with other volunteers at a modern foundation office.",
+   "speaker": "narrator",
+   "line": "Arjun started his volunteer work at the Foundation.",
+   "fx": "none",
+   "sub": "Arjun started his volunteer work at the Foundation.",
+   "say": "अर्जुन ने फाउंडेशन में अपना वॉलंटियर का काम शुरू किया."
+  },
+  {
+   "image": "[[narrator]] is talking on the phone at her community center, smiling, reacting to good news.",
+   "speaker": "narrator",
+   "line": "I heard glowing reports about his dedication, his ideas.",
+   "fx": "none",
+   "sub": "I heard glowing reports about his dedication, his ideas.",
+   "say": "मुझे उसकी लगन, उसके विचारों के बारे में अच्छी रिपोर्टें मिलीं."
+  },
+  {
+   "image": "[[Arjun]] in a slightly more formal, but still simple, shirt, presenting confidently to a small group of people.",
+   "speaker": "narrator",
+   "line": "He seemed more confident, flourishing in the new environment.",
+   "fx": "none",
+   "sub": "He seemed more confident, flourishing in the new environment.",
+   "say": "वो नए माहौल में ज़्यादा आत्मविश्वासी, फलता-फूलता दिख रहा था."
+  },
+  {
+   "image": "[[narrator]] is sitting opposite her boss (unseen), who gestures towards her with a smile. Riya looks surprised and pleased.",
+   "speaker": "narrator",
+   "line": "Then, a call from my boss. A surprise promotion!",
+   "fx": "none",
+   "sub": "Then, a call from my boss. A surprise promotion!",
+   "say": "फिर, मेरे बॉस का फोन आया. एक सरप्राइज प्रमोशन!"
+  },
+  {
+   "image": "Close-up on an official-looking document, showing Riya's name and new title: 'Volunteer Mentor'.",
+   "speaker": "narrator",
+   "line": "My new role: mentoring high-potential volunteers at the Foundation.",
+   "fx": "none",
+   "sub": "My new role: mentoring high-potential volunteers at the Foundation.",
+   "say": "मेरी नई भूमिका: फाउंडेशन में 'हाई-पोटेंशियल' वॉलंटियर्स को मेंटर करना."
+  },
+  {
+   "image": "[[narrator]] holds a file, her eyes widening as she reads a name on the cover. Shock on her face.",
+   "speaker": "narrator",
+   "line": "My first assignment… I saw the name. It was Arjun.",
+   "fx": "none",
+   "sub": "My first assignment… I saw the name. It was Arjun.",
+   "say": "मेरा पहला असाइनमेंट... मैंने नाम देखा. वो अर्जुन था."
+  },
+  {
+   "image": "Close-up on [[narrator]]'s face, a mix of shock, excitement, and a hint of confusion.",
+   "speaker": "narrator",
+   "line": "My heart raced. Conflicted, but strangely thrilled.",
+   "fx": "none",
+   "sub": "My heart raced. Conflicted, but strangely thrilled.",
+   "say": "मेरा दिल तेज़ धड़कने लगा. उलझन में थी, पर अजीब तरह से रोमांचित भी."
+  },
+  {
+   "image": "[[narrator]] sits across from [[Arjun]] in a formal office setting, both looking a little awkward but professional. He looks a little stunned.",
+   "speaker": "narrator",
+   "line": "We met officially. He was surprised, but recovered quickly.",
+   "fx": "none",
+   "sub": "We met officially. He was surprised, but recovered quickly.",
+   "say": "हम आधिकारिक तौर पर मिले. वो हैरान था, पर जल्दी संभल गया."
+  },
+  {
+   "image": "Close-up of [[narrator]] writing notes in a file, looking intently at [[Arjun]] (out of frame).",
+   "speaker": "narrator",
+   "line": "I observed him, noted every insight, filled out reports.",
+   "fx": "none",
+   "sub": "I observed him, noted every insight, filled out reports.",
+   "say": "मैंने उसे ऑब्ज़र्व किया, हर बात नोट की, रिपोर्टें भरीं."
+  },
+  {
+   "image": "[[Arjun]] is passionately explaining a concept to [[narrator]], who listens with an analytical but impressed expression.",
+   "speaker": "narrator",
+   "line": "His dedication was undeniable, his ideas sharp.",
+   "fx": "none",
+   "sub": "His dedication was undeniable, his ideas sharp.",
+   "say": "उसकी लगन निर्विवाद थी, उसके विचार तेज़ थे."
+  },
+  {
+   "image": "Close-up on [[narrator]]'s hand, gripping her pen tightly, her face showing internal struggle.",
+   "speaker": "narrator",
+   "line": "I struggled with my feelings. Was I mentoring or falling?",
+   "fx": "none",
+   "sub": "I struggled with my feelings. Was I mentoring or falling?",
+   "say": "मैं अपनी भावनाओं से जूझ रही थी. क्या मैं मेंटरिंग कर रही थी या प्यार में पड़ रही थी?"
+  },
+  {
+   "image": "[[narrator]] and [[Arjun]] are having an intense discussion, leaning in, their faces close, a professional but personal connection.",
+   "speaker": "narrator",
+   "line": "Our discussions were intense, blurring the lines.",
+   "fx": "none",
+   "sub": "Our discussions were intense, blurring the lines.",
+   "say": "हमारी चर्चाएँ तीव्र थीं, सीमाओं को मिटा रही थीं."
+  },
+  {
+   "image": "Close-up of [[narrator]]'s glowing report on Arjun, highlighting his exceptional potential.",
+   "speaker": "narrator",
+   "line": "My reports reflected his brilliance, his deep potential.",
+   "fx": "none",
+   "sub": "My reports reflected his brilliance, his deep potential.",
+   "say": "मेरी रिपोर्टें उसकी प्रतिभा, उसकी गहरी क्षमता को दर्शाती थीं."
+  },
+  {
+   "image": "[[narrator]] holds an elegant invitation card to the 'Rathore Foundation Gala'. Her expression is surprised.",
+   "speaker": "narrator",
+   "line": "Then, an invitation arrived: The Rathore Foundation Gala.",
+   "fx": "none",
+   "sub": "Then, an invitation arrived: The Rathore Foundation Gala.",
+   "say": "फिर, एक निमंत्रण आया: राठौर फाउंडेशन गाला."
+  },
+  {
+   "image": "[[narrator]] looks at her simple work clothes, then the elegant invitation, feeling out of place.",
+   "speaker": "narrator",
+   "line": "It was a grand event. I felt out of my depth.",
+   "fx": "none",
+   "sub": "It was a grand event. I felt out of my depth.",
+   "say": "ये एक भव्य कार्यक्रम था. मुझे अपनी जगह अजीब लगी."
+  },
+  {
+   "image": "Her boss (unseen) gestures firmly. [[narrator]] nods reluctantly, still looking unsure.",
+   "speaker": "narrator",
+   "line": "My boss insisted, 'Riya, you represent us there.'",
+   "fx": "none",
+   "sub": "My boss insisted, 'Riya, you represent us there.'",
+   "say": "मेरे बॉस ने ज़ोर दिया, 'रिया, तुम हमें वहाँ रिप्रेजेंट करोगी.'"
+  },
+  {
+   "image": "[[narrator]] picks out a simple, elegant saree from a rack, looking a little sad but determined.",
+   "speaker": "narrator",
+   "line": "I bought a simple saree, feeling a strange anticipation.",
+   "fx": "none",
+   "sub": "I bought a simple saree, feeling a strange anticipation.",
+   "say": "मैंने एक साधारण साड़ी ख़रीदी, एक अजीब सी उत्सुकता महसूस करते हुए."
+  },
+  {
+   "image": "[[narrator]] stands at the entrance of a magnificent, brightly lit ballroom, feeling overwhelmed, observing the opulent crowd.",
+   "speaker": "narrator",
+   "line": "The hall was opulent, glittering. I felt like an outsider.",
+   "fx": "none",
+   "sub": "The hall was opulent, glittering. I felt like an outsider.",
+   "say": "हॉल शानदार, जगमगाता हुआ था. मुझे एक बाहरी व्यक्ति जैसा लगा."
+  },
+  {
+   "image": "[[narrator]]'s eyes scan the crowd, then freeze on something on a stage far away.",
+   "speaker": "narrator",
+   "line": "Then, I saw him on stage. My breath caught.",
+   "fx": "none",
+   "sub": "Then, I saw him on stage. My breath caught.",
+   "say": "फिर, मैंने उसे स्टेज पर देखा. मेरी साँस अटक गई."
+  },
+  {
+   "image": "[[Arjun]] is on stage, in a sharp, expensive suit, looking polished and confident, smiling at the crowd.",
+   "speaker": "narrator",
+   "line": "Arjun, in a sharp suit, looking absolutely regal.",
+   "fx": "none",
+   "sub": "Arjun, in a sharp suit, looking absolutely regal.",
+   "say": "अर्जुन, एक शार्प सूट में, बिल्कुल शाही दिख रहा था."
+  },
+  {
+   "image": "A prominent, well-dressed man on stage gestures towards [[Arjun]], smiling proudly.",
+   "speaker": "narrator",
+   "line": "Please welcome, Arjun Rathore, our beloved heir!",
+   "fx": "none",
+   "sub": "Please welcome, Arjun Rathore, our beloved heir!",
+   "say": "प्लीज़ वेलकम, अर्जुन राठौर, हमारे प्यारे वारिस!"
+  },
+  {
+   "image": "Close-up on [[narrator]]'s face, eyes wide, mouth slightly open, a single tear rolling down her cheek. Her world shatters.",
+   "speaker": "narrator",
+   "line": "My world crumbled. He was the Rathore heir.",
+   "fx": "none",
+   "sub": "My world crumbled. He was the Rathore heir.",
+   "say": "मेरी दुनिया बिखर गई. वो राठौर परिवार का वारिस था."
+  },
+  {
+   "image": "[[Arjun]] on stage, his confident smile vanishing as he spots [[narrator]] in the crowd, his face now etched with horror and shock.",
+   "speaker": "narrator",
+   "line": "He saw me. His eyes wide, full of sudden horror.",
+   "fx": "none",
+   "sub": "He saw me. His eyes wide, full of sudden horror.",
+   "say": "उसने मुझे देखा. उसकी आँखें चौड़ी, अचानक डर से भरी हुई."
+  },
+  {
+   "image": "[[narrator]] turns abruptly, saree flowing, and rushes out of the ballroom, her face wet with tears.",
+   "speaker": "narrator",
+   "line": "I ran out, tears blurring my vision, my heart aching.",
+   "fx": "none",
+   "sub": "I ran out, tears blurring my vision, my heart aching.",
+   "say": "मैं बाहर भागी, आँसू मेरी नज़र धुंधला रहे थे, मेरा दिल दुख रहा था."
+  },
+  {
+   "image": "[[Arjun]], still in his suit, runs after her through the gala entrance, calling her name desperately.",
+   "speaker": "Arjun",
+   "line": "Riya! Riya, suno! Please, meri baat suno!",
+   "fx": "none",
+   "sub": "Riya! Riya, listen! Please, listen to me!",
+   "say": "रिया! रिया, सुनो! प्लीज़, मेरी बात सुनो!"
+  },
+  {
+   "image": "[[Arjun]] catches [[narrator]]'s arm outside the venue, a desperate look on his face, she pulls away slightly.",
+   "speaker": "narrator",
+   "line": "He caught up. His face desperate, pleading.",
+   "fx": "none",
+   "sub": "He caught up. His face desperate, pleading.",
+   "say": "वो पकड़ लिया. उसका चेहरा बेताब था, गिड़गिड़ाता हुआ."
+  },
+  {
+   "image": "Close-up on [[narrator]]'s tear-streaked face, eyes still accusing, looking at Arjun.",
+   "speaker": "narrator",
+   "line": "My voice broke, 'You lied to me, Arjun!'",
+   "fx": "none",
+   "sub": "My voice broke, 'You lied to me, Arjun!'",
+   "say": "मेरी आवाज़ टूट गई, 'तुमने मुझसे झूठ बोला, अर्जुन!'"
+  },
+  {
+   "image": "[[Arjun]] reaches out, then drops his hand, looking pained. City lights twinkle in the background.",
+   "speaker": "Arjun",
+   "line": "Riya, I had to understand. For our Foundation's work.",
+   "fx": "none",
+   "sub": "Riya, I had to understand. For our Foundation's work.",
+   "say": "रिया, मुझे समझना था. हमारे फाउंडेशन के काम के लिए."
+  },
+  {
+   "image": "Close-up on [[Arjun]]'s face, regret and love in his eyes, as he speaks earnestly.",
+   "speaker": "Arjun",
+   "line": "I fell for your real heart. Your kindness was true.",
+   "fx": "none",
+   "sub": "I fell for your real heart. Your kindness was true.",
+   "say": "मैं तुम्हारे सच्चे दिल पर मर मिटा. तुम्हारी दयालुता सच्ची थी."
+  },
+  {
+   "image": "[[narrator]] looks at him, her tears still flowing, but a new resolve in her eyes. She slowly opens her bag.",
+   "speaker": "narrator",
+   "line": "You lied to me. But… I also had a secret.",
+   "fx": "none",
+   "sub": "You lied to me. But… I also had a secret.",
+   "say": "तुमने मुझसे झूठ बोला. पर... मेरा भी एक राज़ था."
+  },
+  {
+   "image": "[[narrator]] pulls out a thick file, labelled with Arjun's name, from her elegant bag, and hands it to him.",
+   "speaker": "narrator",
+   "line": "She handed him the file. 'I was your mentor, Arjun.'",
+   "fx": "none",
+   "sub": "She handed him the file. 'I was your mentor, Arjun.'",
+   "say": "उसने उसे फाइल पकड़ा दी. 'मैं तुम्हारी मेंटर थी, अर्जुन.'"
+  },
+  {
+   "image": "Close-up on [[Arjun]]'s face as he takes the file, then reads the top page, his expression turning from shock to utter disbelief.",
+   "speaker": "narrator",
+   "line": "His eyes widened, reading his own volunteer report.",
+   "fx": "none",
+   "sub": "His eyes widened, reading his own volunteer report.",
+   "say": "उसकी आँखें फैल गईं, अपनी वॉलंटियर रिपोर्ट पढ़ते हुए."
+  },
+  {
+   "image": "[[Arjun]] looks up at [[narrator]], then down at the report, then back at her, a realization dawning.",
+   "speaker": "narrator",
+   "line": "He saw the detailed assessments, my notes on 'potential'.",
+   "fx": "none",
+   "sub": "He saw the detailed assessments, my notes on 'potential'.",
+   "say": "उसने विस्तृत आकलन, 'क्षमता' पर मेरे नोट्स देखे."
+  },
+  {
+   "image": "[[narrator]] looks at [[Arjun]], a sad, knowing smile on her face, tears still glistening.",
+   "speaker": "narrator",
+   "line": "We were both observing. Both hiding truths.",
+   "fx": "none",
+   "sub": "We were both observing. Both hiding truths.",
+   "say": "हम दोनों ही ऑब्ज़र्व कर रहे थे. दोनों ही सच छुपा रहे थे."
+  },
+  {
+   "image": "[[Arjun]] lets out a small, disbelieving laugh, looking at the report, then at Riya, a mix of shock and amusement.",
+   "speaker": "Arjun",
+   "line": "Toh… hum dono ne ek doosre ko test kiya?",
+   "fx": "none",
+   "sub": "So… we both tested each other?",
+   "say": "तो… हम दोनों ने एक दूसरे को टेस्ट किया?"
+  },
+  {
+   "image": "[[narrator]] smiles genuinely now, reaching out to gently touch Arjun's arm.",
+   "speaker": "narrator",
+   "line": "Yes, Arjun. But for different reasons. And we truly fell.",
+   "fx": "none",
+   "sub": "Yes, Arjun. But for different reasons. And we truly fell.",
+   "say": "हाँ, अर्जुन. पर अलग-अलग वजहों से. और हम सच में प्यार में पड़ गए."
+  },
+  {
+   "image": "Close-up of [[Arjun]]'s hand gently covering [[narrator]]'s hand, their faces close, a soft, understanding smile between them.",
+   "speaker": "narrator",
+   "line": "Our truth, born from a tangled web of secrets.",
+   "fx": "none",
+   "sub": "Our truth, born from a tangled web of secrets.",
+   "say": "हमारा सच, रहस्यों के एक उलझे हुए जाल से पैदा हुआ."
+  },
+  {
+   "image": "[[narrator]] and [[Arjun]] stand together, hand in hand, looking at each other, their faces radiating a newfound peace and understanding.",
+   "speaker": "narrator",
+   "line": "Maybe truth finds its way, even through lies.",
+   "fx": "none",
+   "sub": "Maybe truth finds its way, even through lies.",
+   "say": "शायद सच अपना रास्ता खोज लेता है, झूठ के बीच से भी."
+  },
+  {
+   "image": "A close-up of their clasped hands, symbolizing their renewed connection.",
+   "speaker": "narrator",
+   "line": "It was a wild, unpredictable path to love.",
+   "fx": "none",
+   "sub": "It was a wild, unpredictable path to love.",
+   "say": "ये प्यार तक पहुँचने का एक जंगली, अप्रत्याशित रास्ता था."
+  },
+  {
+   "image": "A wide shot of [[narrator]] and [[Arjun]] standing side by side, looking confidently towards the future.",
+   "speaker": "narrator",
+   "line": "What would you have done if you were in their shoes?",
+   "fx": "none",
+   "sub": "What would you have done if you were in their shoes?",
+   "say": "आप उनकी जगह होते तो क्या करते?"
+  }
+ ],
+ "caption": "He pretended to be poor, but her secret was even bigger. ❤️",
+ "slug": "2026-11-06_part3",
+ "story_no": 31,
+ "yt_title": "He pretended to be poor, but her secret was even bigger. ❤️",
+ "description": "I loved his simple life; I never knew it was all a lie. But my own secret assignment meant our story was far more complicated than it seemed. What would you do if you were caught in a double deception?",
+ "comment_question": "What would you have done if you were in their shoes?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiastory",
+  "#richpoorlove",
+  "#twistending",
+  "#lovestory",
+  "#indianreels",
+  "#betrayal",
+  "#deception",
+  "#humanity",
+  "#romance"
+ ]
+}

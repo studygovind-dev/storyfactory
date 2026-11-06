@@ -1,0 +1,539 @@
+{
+ "series": "Sheru's Dinner Diplomacy",
+ "episode": 2,
+ "title": "Sheru's Dinner Diplomacy",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A friendly, observant voice.",
+   "voice": "hindi_narrator_male"
+  },
+  "Priya": {
+   "look": "Young woman, mid-20s, fair skin, long soft wavy dark-brown hair, small bindi, elegant pastel pink kurta with delicate embroidery, pleasant smile, kind eyes.",
+   "voice": "hindi_narrator_male"
+  },
+  "Rahul": {
+   "look": "Young man, mid-20s, light wheatish skin, short neat dark hair, blue polo shirt and jeans, cheerful and a bit naive.",
+   "voice": "hindi_narrator_male"
+  },
+  "Sheru": {
+   "look": "Fluffy, slightly overweight orange tabby cat, expressive green eyes, a small red collar. Looks perpetually sleepy but occasionally has a cunning glint in his eyes.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Cat's Genius Plot!",
+ "scenes": [
+  {
+   "image": "[[Sheru]] lying dramatically on a plush rug, paw over his head, looking utterly exhausted despite doing nothing. [[Priya]] and [[Rahul]] look concerned.",
+   "speaker": "narrator",
+   "line": "Humara cat, Sheru, bohot hi special tha.",
+   "fx": "none",
+   "say": "हमारा कैट, शेरू, बहुत ही स्पेशल था।"
+  },
+  {
+   "image": "Close-up of [[Sheru]]'s face, one eye slightly open, a mischievous glint.",
+   "speaker": "Sheru",
+   "line": "Special? Haan, main toh genius hoon.",
+   "fx": "none",
+   "say": "स्पेशल? हाँ, मैं तो जीनियस हूँ।"
+  },
+  {
+   "image": "A split image: one side shows [[Sheru]] sleeping, the other shows a thought bubble with a mountain of food.",
+   "speaker": "narrator",
+   "line": "Uska mission tha: no mehnat, only pet bhar food.",
+   "fx": "none",
+   "say": "उसका मिशन था: नो मेहनत, ओन्ली पेट भर फ़ूड।"
+  },
+  {
+   "image": "[[Priya]] gently tries to nudge [[Sheru]] off the sofa. [[Sheru]] barely moves, just stretches.",
+   "speaker": "Priya",
+   "line": "Sheru, utho! Thoda exercise kar lo.",
+   "fx": "none",
+   "say": "शेरू, उठो! थोड़ा एक्सरसाइज़ कर लो।"
+  },
+  {
+   "image": "[[Rahul]] throws a small ball. [[Sheru]] watches it roll past with a bored expression.",
+   "speaker": "Rahul",
+   "line": "Yaar, yeh toh sirf khaata aur sota hai!",
+   "fx": "none",
+   "say": "यार, ये तो सिर्फ़ खाता और सोता है!"
+  },
+  {
+   "image": "[[Sheru]] sleeping soundly on the sofa, a half-eaten bowl of kibble beside him. [[Priya]] and [[Rahul]] look at him, exasperated but amused.",
+   "speaker": "Rahul",
+   "line": "Dekho, phir so gaya! Kitna aalsi hai.",
+   "fx": "none",
+   "say": "देखो, फिर सो गया! कितना आलसी है।"
+  },
+  {
+   "image": "[[Priya]] tries to tempt [[Sheru]] with a feather toy, but he just bats at it lazily from his sleeping position.",
+   "speaker": "Priya",
+   "line": "Sheru, khelo na, thoda fit raho.",
+   "fx": "none",
+   "say": "शेरू, खेलो ना, थोड़ा फिट रहो।"
+  },
+  {
+   "image": "[[Sheru]] yawns widely, stretching one paw dramatically.",
+   "speaker": "Sheru",
+   "line": "Itna mehnat? Nah, meri beauty sleep zaroori hai.",
+   "fx": "none",
+   "say": "इतना मेहनत? नाह, मेरी ब्यूटी स्लीप ज़रूरी है।"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] are talking in the kitchen, looking determined. [[Sheru]] is peeking from behind the door, one eye visible.",
+   "speaker": "Rahul",
+   "line": "Hum isko healthy banayenge. Diet plan hai.",
+   "fx": "none",
+   "say": "हम इसको हेल्दी बनाएंगे। डाइट प्लान है।"
+  },
+  {
+   "image": "[[Priya]] holds up a small measuring cup for cat food, looking serious.",
+   "speaker": "Priya",
+   "line": "Ab se sirf measured portions milenge.",
+   "fx": "none",
+   "say": "अब से सिर्फ मेज़र्ड पोर्शनस मिलेंगे।"
+  },
+  {
+   "image": "[[Sheru]]'s eyes widen slightly from his hiding spot, ears perked in alarm.",
+   "speaker": "Sheru",
+   "line": "What? Meri food kaat di? Ye toh galat hai!",
+   "fx": "none",
+   "say": "व्हाट? मेरी फूड काट दी? ये तो गलत है!"
+  },
+  {
+   "image": "A small bowl with a tiny amount of food in the living room. [[Sheru]] approaches it, looks at the meager quantity, then looks at [[Priya]] with a sad face.",
+   "speaker": "Sheru",
+   "line": "Yeh toh bas shuruat hai, bhookha reh jaunga.",
+   "fx": "none",
+   "say": "यह तो बस शुरुआत है, भूखा रह जाऊंगा।"
+  },
+  {
+   "image": "[[Rahul]] points to a spot across the room, further away from Sheru's usual spot.",
+   "speaker": "Rahul",
+   "line": "Aur bowl ab kitchen mein rakha jayega.",
+   "fx": "none",
+   "say": "और बाउल अब किचन में रखा जाएगा।"
+  },
+  {
+   "image": "[[Sheru]] stares at the distant kitchen, looking utterly dejected and forlorn.",
+   "speaker": "Sheru",
+   "line": "Chalna bhi padega? Ye toh atyachar hai!",
+   "fx": "none",
+   "say": "चलना भी पड़ेगा? ये तो अत्याचार है!"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] high-five, looking smug and victorious.",
+   "speaker": "Priya",
+   "line": "Ab dekho, kaise fit hota hai hamara Sheru.",
+   "fx": "none",
+   "say": "अब देखो, कैसे फिट होता है हमारा शेरू।"
+  },
+  {
+   "image": "Next morning. [[Sheru]] is trying to walk towards the kitchen, but one paw is dramatically lifted, and he's limping badly, meowing softly.",
+   "speaker": "Sheru",
+   "line": "Meow! Mera paon... ouch, dard ho raha hai.",
+   "fx": "none",
+   "say": "म्याऊ! मेरा पाँव... औच, दर्द हो रहा है।"
+  },
+  {
+   "image": "[[Priya]] rushes to [[Sheru]], concern on her face, bending down.",
+   "speaker": "Priya",
+   "line": "Oh no, Sheru! Kya hua mere baby ko?",
+   "fx": "none",
+   "say": "ओह नो, शेरू! क्या हुआ मेरे बेबी को?"
+  },
+  {
+   "image": "[[Rahul]] crouches down, gently examining [[Sheru]]'s paw. [[Sheru]] looks at him with big, innocent eyes.",
+   "speaker": "Rahul",
+   "line": "Lagta hai chot lag gayi. Bechara Sheru.",
+   "fx": "none",
+   "say": "लगता है चोट लग गई। बेचारा शेरू।"
+  },
+  {
+   "image": "[[Priya]] quickly picks up [[Sheru]] and carries him towards the kitchen, looking worried.",
+   "speaker": "Priya",
+   "line": "Chalo, main tumhare paas food laati hoon.",
+   "fx": "none",
+   "say": "चलो, मैं तुम्हारे पास फ़ूड लाती हूँ।"
+  },
+  {
+   "image": "[[Sheru]] is being hand-fed by [[Priya]], he winks slyly at [[Rahul]] who looks suspicious.",
+   "speaker": "Sheru",
+   "line": "Hehe, mission successful. Extra food mil gaya.",
+   "fx": "none",
+   "say": "हीहे, मिशन सक्सेसफुल। एक्स्ट्रा फूड मिल गया।"
+  },
+  {
+   "image": "Later, [[Rahul]] sees [[Sheru]] running perfectly fine in the garden, chasing a butterfly. He looks shocked.",
+   "speaker": "Rahul",
+   "line": "Ye toh dhokha hai! Theek toh hai yeh!",
+   "fx": "none",
+   "say": "ये तो धोखा है! ठीक तो है यह!"
+  },
+  {
+   "image": "[[Priya]] watches [[Sheru]] from the window, then looks at [[Rahul]], confused.",
+   "speaker": "Priya",
+   "line": "Sach mein? Abhi toh itna dard tha isko.",
+   "fx": "none",
+   "say": "सच में? अभी तो इतना दर्द था इसको।"
+  },
+  {
+   "image": "Next day. [[Priya]] and [[Rahul]] are talking, looking determined. The food bowl is in the kitchen again. [[Sheru]] just sits in the living room, staring at them with the saddest eyes possible.",
+   "speaker": "narrator",
+   "line": "Rahul aur Priya ne ek naya plan banaya.",
+   "fx": "none",
+   "say": "राहुल और प्रिया ने एक नया प्लान बनाया।"
+  },
+  {
+   "image": "Close-up of [[Sheru]]'s huge, watery, sad eyes looking directly at [[Priya]].",
+   "speaker": "Sheru",
+   "line": "Mujhe bhookh lagi hai, lekin main jaa nahi paunga.",
+   "fx": "none",
+   "say": "मुझे भूख लगी है, लेकिन मैं जा नहीं पाऊंगा।"
+  },
+  {
+   "image": "[[Priya]] looks uncomfortable, her resolve weakening. [[Rahul]] holds her arm, shaking his head firmly.",
+   "speaker": "Rahul",
+   "line": "No, Priya, strong raho. Don't fall for it.",
+   "fx": "none",
+   "say": "नो, प्रिया, स्ट्रॉंग रहो। डोंट फॉल फॉर इट।"
+  },
+  {
+   "image": "[[Sheru]] slowly gets up, takes one step, then dramatically collapses, looking like he's going to faint from hunger.",
+   "speaker": "Sheru",
+   "line": "Oh god, energy khatam ho gayi meri.",
+   "fx": "none",
+   "say": "ओह गॉड, एनर्जी खत्म हो गई मेरी।"
+  },
+  {
+   "image": "[[Priya]] gasps and rushes to him again, ignoring [[Rahul]]'s protests.",
+   "speaker": "Priya",
+   "line": "Rahul, isko toh sach mein kamzori ho gayi hai!",
+   "fx": "none",
+   "say": "राहुल, इसको तो सच में कमज़ोरी हो गई है!"
+  },
+  {
+   "image": "[[Priya]] picks up [[Sheru]] and puts him right in front of the full food bowl in the kitchen.",
+   "speaker": "Priya",
+   "line": "Lo, kha lo mera bachcha. Jaldi se.",
+   "fx": "none",
+   "say": "लो, खा लो मेरा बच्चा। जल्दी से।"
+  },
+  {
+   "image": "[[Sheru]] starts eating immediately, then looks up at [[Rahul]] with a smug, knowing expression.",
+   "speaker": "Sheru",
+   "line": "Human emotions are my greatest weapon, always.",
+   "fx": "none",
+   "say": "ह्यूमन इमोशन्स आर माय ग्रेटेस्ट वेपन, ऑलवेज।"
+  },
+  {
+   "image": "[[Rahul]] covers his face in frustration, sighing deeply.",
+   "speaker": "Rahul",
+   "line": "Yeh toh humein fool bana raha hai! Har baar!",
+   "fx": "none",
+   "say": "ये तो हमें फ़ूल बना रहा है! हर बार!"
+  },
+  {
+   "image": "Next night. [[Priya]] and [[Rahul]] are talking in bed, looking tired but determined.",
+   "speaker": "narrator",
+   "line": "Raat mein, Priya aur Rahul ne meeting ki.",
+   "fx": "none",
+   "say": "रात में, प्रिया और राहुल ने मीटिंग की।"
+  },
+  {
+   "image": "[[Rahul]] holding a bag of cat food, looking very serious.",
+   "speaker": "Rahul",
+   "line": "Ab se food pantry mein lock rahega.",
+   "fx": "none",
+   "say": "अब से फ़ूड पैंट्री में लॉक रहेगा।"
+  },
+  {
+   "image": "[[Priya]] nods, looking determined. No more chances.",
+   "speaker": "Priya",
+   "line": "Koi chance nahi ab Sheru ko.",
+   "fx": "none",
+   "say": "कोई चांस नहीं अब शेरू को।"
+  },
+  {
+   "image": "Later, deep in the night. [[Sheru]] is seen tiptoeing towards the kitchen pantry door, a tiny flashlight in his mouth.",
+   "speaker": "Sheru",
+   "line": "Lock? Mere liye toh yeh ek challenge hai.",
+   "fx": "none",
+   "say": "लॉक? मेरे लिए तो यह एक चैलेंज है।"
+  },
+  {
+   "image": "Close-up of [[Sheru]]'s paw skillfully prying open the pantry door with a small, clever move. A faint 'click' is visible.",
+   "speaker": "narrator",
+   "line": "Sheru ne apni hidden skills dikhayi.",
+   "fx": "none",
+   "say": "शेरू ने अपनी हिडन स्किल्स दिखाई।"
+  },
+  {
+   "image": "[[Sheru]] enters the pantry, which is slightly messy. He looks around with wide, excited eyes.",
+   "speaker": "Sheru",
+   "line": "Ah, the treasure chest! My kingdom awaits.",
+   "fx": "none",
+   "say": "आह, द ट्रेज़र चेस्ट! माय किंगडम अवेट्स।"
+  },
+  {
+   "image": "Next morning. [[Priya]] and [[Rahul]] enter the kitchen and see cat kibble scattered everywhere, the pantry door ajar. They are shocked.",
+   "speaker": "Priya",
+   "line": "Yeh kya ho gaya? Sab food bahar hai!",
+   "fx": "none",
+   "say": "ये क्या हो गया? सब फ़ूड बाहर है!"
+  },
+  {
+   "image": "[[Rahul]] points to [[Sheru]], who is curled up on the counter, stomach visibly full, licking his lips contentedly.",
+   "speaker": "Rahul",
+   "line": "Usne pantry tod di! This is too much!",
+   "fx": "none",
+   "say": "उसने पैंट्री तोड़ दी! दिस इज़ टू मच!"
+  },
+  {
+   "image": "[[Sheru]] gives a slow, satisfied blink, looking supremely innocent.",
+   "speaker": "Sheru",
+   "line": "Oops, thoda zyada hi kha liya maine.",
+   "fx": "none",
+   "say": "ऊप्स, थोड़ा ज़्यादा ही खा लिया मैंने।"
+  },
+  {
+   "image": "[[Priya]] looks at the mess, then at [[Sheru]], then back at the mess. She sighs dramatically, throwing her hands up.",
+   "speaker": "Priya",
+   "line": "Hum toh haar gaye! This is impossible!",
+   "fx": "none",
+   "say": "हम तो हार गए! दिस इज़ इम्पासिबल!"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] are sitting on the sofa, looking utterly defeated. [[Sheru]] is walking around them, looking slightly too smug, tail swishing.",
+   "speaker": "narrator",
+   "line": "Rahul aur Priya ne finally surrender kar diya.",
+   "fx": "none",
+   "say": "राहुल और प्रिया ने फ़ाइनली सरेंडर कर दिया।"
+  },
+  {
+   "image": "Close-up of [[Rahul]]'s face, a thoughtful, almost suspicious expression.",
+   "speaker": "Rahul",
+   "line": "Yaar, ek baat batao, Priya.",
+   "fx": "none",
+   "say": "यार, एक बात बताओ, प्रिया।"
+  },
+  {
+   "image": "[[Priya]] looks at him curiously, wiping her brow.",
+   "speaker": "Priya",
+   "line": "Kya? Ab kya ho gaya?",
+   "fx": "none",
+   "say": "क्या? अब क्या हो गया?"
+  },
+  {
+   "image": "[[Rahul]] points at [[Sheru]], who is now stretching luxuriously on the floor.",
+   "speaker": "Rahul",
+   "line": "Sheru ne kabhi sach mein 'kam' khaya?",
+   "fx": "none",
+   "say": "शेरू ने कभी सच में 'कम' खाया?"
+  },
+  {
+   "image": "[[Priya]] thinks hard, then her eyes widen in realization, jaw dropping slightly.",
+   "speaker": "Priya",
+   "line": "Nahi! Woh hamesha somehow kha leta tha!",
+   "fx": "none",
+   "say": "नहीं! वो हमेशा समहाउ खा लेता था!"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] look at each other, a lightbulb appearing above their heads.",
+   "speaker": "narrator",
+   "line": "Tab unhe asli game samajh aaya.",
+   "fx": "none",
+   "say": "तब उन्हें असली गेम समझ आया।"
+  },
+  {
+   "image": "Flashback to [[Sheru]] as a tiny kitten, looking at his owners with big, innocent eyes, but a tiny smirk on his face.",
+   "speaker": "Sheru",
+   "line": "Bachpan se hi main ne inko train kiya hai.",
+   "fx": "none",
+   "say": "बचपन से ही मैंने इनको ट्रेन किया है।"
+  },
+  {
+   "image": "Flashback to [[Priya]] giving kitten [[Sheru]] a huge bowl of food, doting on him with excessive affection.",
+   "speaker": "narrator",
+   "line": "Unhein lagta tha ki woh Sheru ko khush rakhte hain.",
+   "fx": "none",
+   "say": "उन्हें लगता था कि वो शेरू को खुश रखते हैं।"
+  },
+  {
+   "image": "Flashback to [[Sheru]] looking at his full bowl with a calculating expression, then back at his doting owners.",
+   "speaker": "Sheru",
+   "line": "Lekin sach toh yeh hai, main inko control karta hoon.",
+   "fx": "none",
+   "say": "लेकिन सच तो यह है, मैं इनको कंट्रोल करता हूँ।"
+  },
+  {
+   "image": "Back to present. [[Priya]] and [[Rahul]] look at each other, stunned into silence.",
+   "speaker": "Rahul",
+   "line": "Matlab... woh humein manipulate kar raha tha?",
+   "fx": "none",
+   "say": "मतलब... वो हमें मैनिपुलेट कर रहा था?"
+  },
+  {
+   "image": "[[Sheru]] jumps onto [[Rahul]]'s lap, purring loudly, looking innocent, rubbing his head.",
+   "speaker": "Sheru",
+   "line": "Meow! Bas thoda extra pyaar aur food chahiye tha.",
+   "fx": "none",
+   "say": "म्याऊ! बस थोड़ा एक्स्ट्रा प्यार और फूड चाहिए था।"
+  },
+  {
+   "image": "[[Priya]] shakes her head, a smile finally playing on her lips, half amused, half exasperated.",
+   "speaker": "Priya",
+   "line": "Yeh toh apna Birbal cat hai! Too clever!",
+   "fx": "none",
+   "say": "यह तो अपना बीरबल कैट है! टू क्लेवर!"
+  },
+  {
+   "image": "[[Rahul]] laughs, patting [[Sheru]]'s head gently, accepting defeat.",
+   "speaker": "Rahul",
+   "line": "Haan, theek hai, genius. Tum jeet gaye.",
+   "fx": "none",
+   "say": "हाँ, ठीक है, जीनियस। तुम जीत गए।"
+  },
+  {
+   "image": "[[Sheru]] is now lying on a plush cat bed, surrounded by toys and an overflowing bowl of food, looking supremely content.",
+   "speaker": "narrator",
+   "line": "Aur tab se, Sheru ki life ekdum set thi.",
+   "fx": "none",
+   "say": "और तब से, शेरू की लाइफ़ एकदम सेट थी।"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] are happily watching [[Sheru]] eat, a smile on their faces.",
+   "speaker": "Priya",
+   "line": "Iski khushi mein hi hamari khushi hai.",
+   "fx": "none",
+   "say": "इसकी खुशी में ही हमारी खुशी है।"
+  },
+  {
+   "image": "[[Sheru]] looks up from his bowl, eyes half-closed in bliss, purring.",
+   "speaker": "Sheru",
+   "line": "Sab mehnat ka phal hai, boss.",
+   "fx": "none",
+   "say": "सब मेहनत का फल है, बॉस।"
+  },
+  {
+   "image": "[[Priya]] brings a tray with fancy cat treats, sparkling with fairy dust. [[Sheru]]'s eyes light up.",
+   "speaker": "Priya",
+   "line": "Special treat for our smart boy!",
+   "fx": "dust",
+   "say": "स्पेशल ट्रीट फॉर आवर स्मार्ट बॉय!"
+  },
+  {
+   "image": "[[Sheru]] is enjoying the treats, making happy purring sounds, his tail swishing gently.",
+   "speaker": "Sheru",
+   "line": "Ah, yeh hoti hai life! Perfect!",
+   "fx": "none",
+   "say": "आह, यह होती है लाइफ! परफ़ेक्ट!"
+  },
+  {
+   "image": "[[Rahul]] tries to gently guide [[Sheru]] towards a mini treadmill. [[Sheru]] just ignores him, looking away.",
+   "speaker": "Rahul",
+   "line": "Thoda exercise toh kar le, Sheru.",
+   "fx": "none",
+   "say": "थोड़ा एक्सरसाइज़ तो कर ले, शेरू।"
+  },
+  {
+   "image": "[[Sheru]] stretches, then curls up on [[Rahul]]'s lap for a nap, dismissing the treadmill.",
+   "speaker": "Sheru",
+   "line": "Meri next strategy plan kar raha hoon.",
+   "fx": "none",
+   "say": "मेरी नेक्स्ट स्ट्रेटेजी प्लान कर रहा हूँ।"
+  },
+  {
+   "image": "[[Priya]] laughs, watching them, shaking her head.",
+   "speaker": "Priya",
+   "line": "Lagta hai yeh kabhi nahi badlega.",
+   "fx": "none",
+   "say": "लगता है यह कभी नहीं बदलेगा।"
+  },
+  {
+   "image": "[[Sheru]] is fast asleep, a tiny smile on his face, dreaming of food.",
+   "speaker": "Sheru",
+   "line": "Kyun badloon? Jab sab theek hai.",
+   "fx": "none",
+   "say": "क्यों बदलूँ? जब सब ठीक है।"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] are looking at [[Sheru]], shaking their heads in amusement, defeated but happy.",
+   "speaker": "narrator",
+   "line": "Aur Sheru ne sabko sikha diya.",
+   "fx": "none",
+   "say": "और शेरू ने सबको सिखा दिया।"
+  },
+  {
+   "image": "[[Sheru]] is playing with a remote control, looking like he's changing channels on the TV.",
+   "speaker": "Sheru",
+   "line": "Remotes bhi main hi use karta hoon.",
+   "fx": "none",
+   "say": "रिमोट्स भी मैं ही यूज़ करता हूँ।"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] are massaging [[Sheru]]'s belly, looking adoringly at him.",
+   "speaker": "Priya",
+   "line": "Hamara mastermind cat. Always on top.",
+   "fx": "none",
+   "say": "हमारा मास्टरमाइंड कैट। ऑलवेज ऑन टॉप।"
+  },
+  {
+   "image": "[[Sheru]] is lounging like royalty on a high shelf, looking down at his humans with a regal gaze.",
+   "speaker": "Sheru",
+   "line": "Ghar ka asli boss toh main hi hoon.",
+   "fx": "none",
+   "say": "घर का असली बॉस तो मैं ही हूँ।"
+  },
+  {
+   "image": "[[Rahul]] throws a toy for [[Sheru]], but he barely glances at it, too busy napping.",
+   "speaker": "Rahul",
+   "line": "Kya hum isko kabhi hara payenge?",
+   "fx": "none",
+   "say": "क्या हम इसको कभी हरा पाएंगे?"
+  },
+  {
+   "image": "[[Sheru]] yawns, completely uninterested in the toy, stretching his paw out.",
+   "speaker": "Sheru",
+   "line": "Kabhi nahi! I am too good.",
+   "fx": "none",
+   "say": "कभी नहीं! आई एम टू गुड।"
+  },
+  {
+   "image": "[[Priya]] and [[Rahul]] are sharing a knowing look, then shrug in resignation, smiling.",
+   "speaker": "Priya",
+   "line": "Chalo, iski marzi. Life is good.",
+   "fx": "none",
+   "say": "चलो, इसकी मर्ज़ी। लाइफ इज़ गुड।"
+  },
+  {
+   "image": "[[Sheru]] is sitting on a food bag, looking directly at the camera with a sly, satisfied grin, a single paw pointing to himself.",
+   "speaker": "Sheru",
+   "line": "Aapka pet bhi itna smart hai kya?",
+   "fx": "none",
+   "say": "आपका पेट भी इतना स्मार्ट है क्या?"
+  }
+ ],
+ "caption": "Lazy Cat's Secret Master Plan to Get Food! 😹",
+ "slug": "2026-11-06_part2",
+ "story_no": 30,
+ "yt_title": "Lazy Cat's Secret Master Plan to Get Food! 😹",
+ "description": "Our cat, Sheru, was no ordinary pet; he was a master manipulator. \nWatch how this lazy feline outsmarted his entire family for more food, proving his true genius. \nDoes your pet also have a secret plan?",
+ "comment_question": "Aapka pet bhi itna smart hai kya? Share your stories!",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#catstory",
+  "#funnycat",
+  "#lazypet",
+  "#petcomedy",
+  "#animaltales",
+  "#catlover",
+  "#indianfamily",
+  "#hilariouspets",
+  "#clevercat"
+ ]
+}

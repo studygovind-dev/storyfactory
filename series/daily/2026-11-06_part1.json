@@ -1,0 +1,617 @@
+{
+ "series": "The Jungle's Silent Promise",
+ "episode": 1,
+ "title": "The Jungle's Silent Promise",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Amara: Young woman, early 20s, fair skin, long wavy dark-brown hair, expressive brown eyes, gentle smile. Wears simple, elegant pastel kurtas. Later, a bit older, still graceful, with a more settled look.",
+   "voice": "hindi_narrator_female"
+  },
+  "Amara": {
+   "look": "Amara: Young woman, early 20s, fair skin, long wavy dark-brown hair, expressive brown eyes, gentle smile. Wears simple, elegant pastel kurtas. Later, a bit older, still graceful, with a more settled look.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Rohan: Amara's son, starts as a baby, grows into a bright-eyed boy (5-6 years old), then a young boy (10-12 years old). Cute, playful, expressive Indian features.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Rani": {
+   "look": "Rani: Majestic Bengal tigress, striking orange and black stripes, powerful build, intelligent amber eyes.",
+   "voice": "hindi_narrator_male"
+  },
+  "Veer": {
+   "look": "Veer: Small, fluffy orange Bengal tiger cub, initially with clouded blue eyes. Later, grown into a strong, magnificent adult tiger with clear, amber eyes.",
+   "voice": "hindi_narrator_male"
+  },
+  "Doctor Sharma": {
+   "look": "Doctor Sharma: Kind, elderly male veterinarian, spectacles, soft grey hair, wears a white lab coat over traditional Indian attire.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "A TIGRESS'S SECRET",
+ "scenes": [
+  {
+   "image": "[[Amara]] (young, pregnant, worried expression) standing at the edge of a dense, dark jungle, looking down at something unseen. Dramatic lighting.",
+   "speaker": "Amara",
+   "line": "Jungle ki kahaniyan suni thi, par yeh sach mein ajab thi.",
+   "fx": "dust",
+   "sub": "I'd heard jungle stories, but this was truly strange.",
+   "say": "जंगल की कहानियाँ सुनी थी, पर ये सच में अजब थी।"
+  },
+  {
+   "image": "Panoramic view of a small, traditional Indian village nestled at the edge of a lush green jungle. Soft morning light.",
+   "speaker": "Amara",
+   "line": "Humara gaon jungle ke bilkul paas tha.",
+   "fx": "dust",
+   "sub": "Our village was right next to the jungle.",
+   "say": "हमारा गाँव जंगल के बिल्कुल पास था।"
+  },
+  {
+   "image": "Close-up of [[Amara]] (pregnant, glowing, wearing a pastel kurta) gently touching her baby bump, smiling softly.",
+   "speaker": "Amara",
+   "line": "Main Amara, pregnant aur dil mein bohot pyaar.",
+   "fx": "none",
+   "sub": "I'm Amara, pregnant and full of love.",
+   "say": "मैं अमारा, प्रेग्नेंट और दिल में बहुत प्यार।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) walking slowly on a forest path, looking serene, sunlight filtering through trees.",
+   "speaker": "Amara",
+   "line": "Roz subah mein yahan aati, hawa lene.",
+   "fx": "dust",
+   "sub": "Every morning I came here, to breathe the air.",
+   "say": "रोज़ सुबह मैं यहाँ आती, हवा लेने।"
+  },
+  {
+   "image": "[[Amara]] (pregnant, startled expression) suddenly stops, eyes wide, looking ahead into the undergrowth.",
+   "speaker": "Amara",
+   "line": "Par us din, wahan kuch alag mila.",
+   "fx": "none",
+   "sub": "But that day, I found something different there.",
+   "say": "पर उस दिन, वहाँ कुछ अलग मिला।"
+  },
+  {
+   "image": "Close-up on a helpless, orange-striped [[Veer]] (tiny tiger cub) lying curled up on fallen leaves, eyes milky and closed.",
+   "speaker": "Amara",
+   "line": "Chhota sa tiger cub, aankhein band, akela.",
+   "fx": "none",
+   "sub": "A tiny tiger cub, eyes closed, alone.",
+   "say": "छोटा सा टाइगर कब, आँखें बंद, अकेला।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) kneeling cautiously, hand outstretched towards the cub, a look of profound sadness and concern on her face as she notices its eyes.",
+   "speaker": "Amara",
+   "line": "Uski aankhon mein roshni nahi thi, andha tha.",
+   "fx": "none",
+   "sub": "There was no light in its eyes; it was blind.",
+   "say": "उसकी आँखों में रोशनी नहीं थी, अंधा था।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) looking around the dense forest anxiously, scanning for a sign of the mother tigress, but finding none.",
+   "speaker": "Amara",
+   "line": "Uski maa kahin nahi thi. Shayad chhod gayi.",
+   "fx": "none",
+   "sub": "Its mother was nowhere. Perhaps she left it.",
+   "say": "उसकी माँ कहीं नहीं थी। शायद छोड़ गयी।"
+  },
+  {
+   "image": "Close-up of [[Amara]] (pregnant) with a conflicted expression, torn between fear and compassion, looking at the cub.",
+   "speaker": "Amara",
+   "line": "Kya karti? Jungle mein toh mar jata.",
+   "fx": "none",
+   "sub": "What could I do? It would die in the jungle.",
+   "say": "क्या करती? जंगल में तो मर जाता।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) reaches out and gently, carefully, picks up the tiny, blind [[Veer]] (cub). Her face shows firm resolve.",
+   "speaker": "Amara",
+   "line": "Mere andar ka maa jaag utha.",
+   "fx": "none",
+   "sub": "The mother within me awakened.",
+   "say": "मेरे अंदर का माँ जाग उठा।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) cradling the [[Veer]] (cub) close to her chest, sneaking cautiously through her village, looking over her shoulder.",
+   "speaker": "Amara",
+   "line": "Use ghar le aayi, chhupa kar sabse.",
+   "fx": "none",
+   "sub": "I brought it home, hiding it from everyone.",
+   "say": "उसे घर ले आयी, छुपा कर सबसे।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) gently feeding milk from a small bowl to the tiny [[Veer]] (cub) in a soft, cloth-lined basket inside her humble home.",
+   "speaker": "Amara",
+   "line": "Ek purani tokri mein use sulaya, dudh pilaya.",
+   "fx": "none",
+   "sub": "I made it sleep in an old basket, gave it milk.",
+   "say": "एक पुरानी टोकरी में उसे सुलाया, दूध पिलाया।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) sitting by the basket, looking at the sleeping cub with a mix of fear and hopeful tenderness.",
+   "speaker": "Amara",
+   "line": "Dar bhi lag raha tha, par ummeed bhi thi.",
+   "fx": "none",
+   "sub": "I was afraid, but there was also hope.",
+   "say": "डर भी लग रहा था, पर उम्मीद भी थी।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) speaking earnestly to [[Doctor Sharma]] (kind, elderly vet) in his small clinic, gesturing towards a hidden object (the cub).",
+   "speaker": "Amara",
+   "line": "Uski aankhon ke liye ek doctor dhunda.",
+   "fx": "none",
+   "sub": "I searched for a doctor for its eyes.",
+   "say": "उसकी आँखों के लिए एक डॉक्टर ढूँढा।"
+  },
+  {
+   "image": "[[Doctor Sharma]] (vet) looking surprised and worried, holding his spectacles, with [[Amara]] (pregnant) pleading with him.",
+   "speaker": "Doctor Sharma",
+   "line": "Doctor pehle jhijhke, \"Yeh toh jungli janwar hai.\"",
+   "fx": "none",
+   "sub": "The doctor hesitated, \"This is a wild animal.\"",
+   "say": "डॉक्टर पहले झिझके, \"यह तो जंगली जानवर है।\""
+  },
+  {
+   "image": "Close-up of [[Amara]]'s (pregnant) determined face, tears welling up in her eyes, imploring the doctor.",
+   "speaker": "Amara",
+   "line": "Maine kaha, \"Usse bhi jeene ka haq hai.\"",
+   "fx": "none",
+   "sub": "I said, \"It also has a right to live.\"",
+   "say": "मैंने कहा, \"उससे भी जीने का हक़ है।\""
+  },
+  {
+   "image": "[[Doctor Sharma]] (vet) nodding slowly, a kind, understanding smile appearing on his face, looking at [[Amara]] (pregnant).",
+   "speaker": "Doctor Sharma",
+   "line": "Meri baat sunkar unka dil pighal gaya.",
+   "fx": "none",
+   "sub": "Hearing my words, his heart melted.",
+   "say": "मेरी बात सुनकर उनका दिल पिघल गया।"
+  },
+  {
+   "image": "[[Doctor Sharma]] (vet) gently applying eye drops to [[Veer]] (cub)'s eyes, with [[Amara]] (pregnant) watching anxiously nearby.",
+   "speaker": "Amara",
+   "line": "Doctor ne cub ki aankhon ka ilaj kiya.",
+   "fx": "none",
+   "sub": "The doctor treated the cub's eyes.",
+   "say": "डॉक्टर ने कब की आँखों का इलाज किया।"
+  },
+  {
+   "image": "[[Amara]] (pregnant) and [[Doctor Sharma]] (vet) both looking hopefully at the cub, which is still resting with its eyes mostly closed.",
+   "speaker": "Amara",
+   "line": "Har din hum uski aankhon mein roshni ka intezaar karte.",
+   "fx": "none",
+   "sub": "Every day we awaited light in its eyes.",
+   "say": "हर दिन हम उसकी आँखों में रोशनी का इंतज़ार करते।"
+  },
+  {
+   "image": "Close-up on [[Veer]] (cub)'s face as one eye slowly, slightly opens, showing a hint of colour. [[Amara]] (pregnant) gasps.",
+   "speaker": "Amara",
+   "line": "Phir ek din, ek chhota sa jhatka...",
+   "fx": "none",
+   "sub": "Then one day, a tiny flicker...",
+   "say": "फिर एक दिन, एक छोटा सा झटका..."
+  },
+  {
+   "image": "Close-up of [[Veer]] (cub) with both amber eyes wide open, looking around curiously, a look of wonder. [[Amara]] (pregnant) is beaming.",
+   "speaker": "Amara",
+   "line": "Uski khoobsurat aankhon mein pehli baar roshni aayi.",
+   "fx": "none",
+   "sub": "For the first time, light entered its beautiful eyes.",
+   "say": "उसकी खूबसूरत आँखों में पहली बार रोशनी आई।"
+  },
+  {
+   "image": "[[Amara]] (pregnant, smiling widely) gently stroking the now alert and seeing [[Veer]] (cub), who is looking up at her.",
+   "speaker": "Amara",
+   "line": "Maine uska naam Veer rakha – himmatwala.",
+   "fx": "none",
+   "sub": "I named him Veer – the brave one.",
+   "say": "मैंने उसका नाम वीर रखा – हिम्मतवाला।"
+  },
+  {
+   "image": "[[Amara]] (new mother, looking tired but happy) holding her newborn baby [[Rohan]] tenderly.",
+   "speaker": "Amara",
+   "line": "Aur phir, mera beta Rohan iss duniya mein aaya.",
+   "fx": "none",
+   "sub": "And then, my son Rohan came into this world.",
+   "say": "और फिर, मेरा बेटा रोहन इस दुनिया में आया।"
+  },
+  {
+   "image": "[[Veer]] (cub, a bit bigger now) peeking cautiously from his basket at [[Amara]] holding baby [[Rohan]]. Curious expression.",
+   "speaker": "Amara",
+   "line": "Veer, pehli baar Rohan ko dekha toh chauk gaya.",
+   "fx": "none",
+   "sub": "Veer, seeing Rohan for the first time, was startled.",
+   "say": "वीर, पहली बार रोहन को देखा तो चौंक गया।"
+  },
+  {
+   "image": "[[Veer]] (cub) gently nudging his nose against baby [[Rohan]]'s tiny foot, [[Amara]] (smiling) watching carefully.",
+   "speaker": "Amara",
+   "line": "Phir dheere se aakar use soongha.",
+   "fx": "none",
+   "sub": "Then slowly came and sniffed him.",
+   "say": "फिर धीरे से आकर उसे सूंघा।"
+  },
+  {
+   "image": "[[Amara]] (smiling) watching baby [[Rohan]] crawling on a mat, with [[Veer]] (cub, now bigger, playful) playfully batting at his toes.",
+   "speaker": "Amara",
+   "line": "Rohan aur Veer, do alag jaan, ek saath badhne lage.",
+   "fx": "none",
+   "sub": "Rohan and Veer, two different lives, started growing together.",
+   "say": "रोहन और वीर, दो अलग जान, एक साथ बढ़ने लगे।"
+  },
+  {
+   "image": "[[Rohan]] (toddler) giggling as he chases [[Veer]] (cub, bigger, still playful) around their simple home.",
+   "speaker": "Amara",
+   "line": "Veer uska pehla dost, uska pehla khel saathi.",
+   "fx": "none",
+   "sub": "Veer was his first friend, his first playmate.",
+   "say": "वीर उसका पहला दोस्त, उसका पहला खेल साथी।"
+  },
+  {
+   "image": "[[Rohan]] (small child) and [[Veer]] (cub, now quite large) curled up sleeping soundly together on a mat.",
+   "speaker": "Amara",
+   "line": "Aksar dono saath mein hi so jaate.",
+   "fx": "none",
+   "sub": "Often, both would fall asleep together.",
+   "say": "अक्सर दोनों साथ में ही सो जाते।"
+  },
+  {
+   "image": "[[Amara]] (smiling warmly) sitting and watching [[Rohan]] (child) and [[Veer]] (large cub) playing together, her heart full.",
+   "speaker": "Amara",
+   "line": "Meri zindagi in dono se bhar gayi thi.",
+   "fx": "none",
+   "sub": "My life was filled by these two.",
+   "say": "मेरी ज़िंदगी इन दोनों से भर गयी थी।"
+  },
+  {
+   "image": "[[Veer]] (young tiger, almost adult size) stretches majestically, filling a large part of the small room, looking powerful.",
+   "speaker": "Amara",
+   "line": "Par Veer ab chhota cub nahi raha tha.",
+   "fx": "none",
+   "sub": "But Veer was no longer a small cub.",
+   "say": "पर वीर अब छोटा कब नहीं रहा था।"
+  },
+  {
+   "image": "Close-up of [[Veer]] (young tiger)'s intense, amber eyes, looking out through an open window towards the forest.",
+   "speaker": "Amara",
+   "line": "Uski aankhon mein ab jungle ki pukaar thi.",
+   "fx": "none",
+   "sub": "In his eyes, there was now the call of the jungle.",
+   "say": "उसकी आँखों में अब जंगल की पुकार थी।"
+  },
+  {
+   "image": "[[Amara]] (sad expression) watching [[Veer]] (young tiger) with a heavy heart, her hand gently resting on his head.",
+   "speaker": "Amara",
+   "line": "Janti thi, use wapas jaana hoga.",
+   "fx": "none",
+   "sub": "I knew he had to go back.",
+   "say": "जानती थी, उसे वापस जाना होगा।"
+  },
+  {
+   "image": "[[Rohan]] (child, looking distressed) hugging [[Veer]] (young tiger)'s neck tightly, burying his face in its fur.",
+   "speaker": "Amara",
+   "line": "Rohan toh use kabhi chhodna nahi chahta tha.",
+   "fx": "none",
+   "sub": "Rohan never wanted to let him go.",
+   "say": "रोहन तो उसे कभी छोड़ना नहीं चाहता था।"
+  },
+  {
+   "image": "[[Amara]] (serious, gentle) kneeling to speak to [[Rohan]] (child, looking tearful) while stroking [[Veer]] (young tiger).",
+   "speaker": "Amara",
+   "line": "Maine Rohan ko samjhaya, \"Veer ka ghar jungle hai.\"",
+   "fx": "none",
+   "sub": "I explained to Rohan, \"Veer's home is the jungle.\"",
+   "say": "मैंने रोहन को समझाया, \"वीर का घर जंगल है।\""
+  },
+  {
+   "image": "[[Veer]] (young tiger) turning back once to look at [[Amara]] and [[Rohan]] (standing together, looking sad) before disappearing into the dense trees.",
+   "speaker": "Amara",
+   "line": "Ek din, Veer jungle ki taraf chala gaya.",
+   "fx": "dust",
+   "sub": "One day, Veer walked towards the jungle.",
+   "say": "एक दिन, वीर जंगल की तरफ चला गया।"
+  },
+  {
+   "image": "[[Rohan]] (child, crying, face streaked with tears) being comforted by [[Amara]] (hugging him tightly, also looking tearful).",
+   "speaker": "Amara",
+   "line": "Rohan bohot roya, Veer ko bohot miss kiya.",
+   "fx": "none",
+   "sub": "Rohan cried a lot, missed Veer a lot.",
+   "say": "रोहन बहुत रोया, वीर को बहुत मिस किया।"
+  },
+  {
+   "image": "[[Amara]] (older now, thoughtful expression) standing alone on her porch, looking towards the jungle, a sense of quiet longing.",
+   "speaker": "Amara",
+   "line": "Mere dil mein bhi ek khaali jagah ban gayi.",
+   "fx": "none",
+   "sub": "A hollow space was also created in my heart.",
+   "say": "मेरे दिल में भी एक खाली जगह बन गयी।"
+  },
+  {
+   "image": "Montage: Quick sequence of [[Amara]] and [[Rohan]] (now a bit older, maybe 10-12) living their village life, looking content but with a hint of missing something.",
+   "speaker": "Amara",
+   "line": "Kai saal guzar gaye, zindagi apni chal rahi thi.",
+   "fx": "none",
+   "sub": "Many years passed, life went on.",
+   "say": "कई साल गुज़र गए, ज़िंदगी अपनी चल रही थी।"
+  },
+  {
+   "image": "[[Rohan]] (young boy, around 10-12 years old) helping his mother [[Amara]] with chores, looking mature for his age.",
+   "speaker": "Amara",
+   "line": "Rohan ab bada ho gaya tha, aur samajhdar.",
+   "fx": "none",
+   "sub": "Rohan was grown now, and wiser.",
+   "say": "रोहन अब बड़ा हो गया था, और समझदार।"
+  },
+  {
+   "image": "Dark, foreboding shot of the jungle at dusk, shadows lengthening, a sense of unease.",
+   "speaker": "Amara",
+   "line": "Par jungle ab pehle jaisa nahi tha.",
+   "fx": "none",
+   "sub": "But the jungle wasn't like before.",
+   "say": "पर जंगल अब पहले जैसा नहीं था।"
+  },
+  {
+   "image": "Villagers (anxious expressions) gathered in a small group, discussing something with worried faces.",
+   "speaker": "Amara",
+   "line": "Gaon mein badhti tension ki khabarein aane lagi.",
+   "fx": "none",
+   "sub": "News of increasing tension began coming to the village.",
+   "say": "गाँव में बढ़ती टेंशन की खबरें आने लगीं।"
+  },
+  {
+   "image": "A clear, but slightly blurred, shot of [[Rani]] (the majestic tigress) moving stealthily through tall grass at the edge of the village.",
+   "speaker": "Amara",
+   "line": "Ek bade sherni ko gaon ke paas dekha gaya.",
+   "fx": "none",
+   "sub": "A large tigress was spotted near the village.",
+   "say": "एक बड़ी शेरनी को गाँव के पास देखा गया।"
+  },
+  {
+   "image": "Villagers (scared faces) hurrying their children indoors, locking doors and windows.",
+   "speaker": "Amara",
+   "line": "Sab dar gaye, bachchon ko andar rakha.",
+   "fx": "none",
+   "sub": "Everyone was scared, kept children indoors.",
+   "say": "सब डर गए, बच्चों को अंदर रखा।"
+  },
+  {
+   "image": "[[Amara]] (calm but curious expression) looking out her window at the jungle, a sense of knowing.",
+   "speaker": "Amara",
+   "line": "Par mujhe us sherni mein kuch alag laga.",
+   "fx": "none",
+   "sub": "But I felt something different about that tigress.",
+   "say": "पर मुझे उस शेरनी में कुछ अलग लगा।"
+  },
+  {
+   "image": "Heavy rain lashing down on the village, trees bending in strong winds, dark and stormy.",
+   "speaker": "Amara",
+   "line": "Ek raat, bohot tez aandhi aur baarish aayi.",
+   "fx": "rain",
+   "sub": "One night, a fierce storm and rain came.",
+   "say": "एक रात, बहुत तेज़ आँधी और बारिश आई।"
+  },
+  {
+   "image": "A section of [[Amara]]'s (panicked) simple roof collapses with a loud crash, water pouring in. [[Rohan]] (scared) clutches her.",
+   "speaker": "Amara",
+   "line": "Hamare ghar ki chhat toot gayi.",
+   "fx": "rain",
+   "sub": "Our house's roof broke.",
+   "say": "हमारे घर की छत टूट गयी।"
+  },
+  {
+   "image": "[[Rohan]] (terrified, crying out) pinned under a heavy wooden beam and debris, [[Amara]] (desperate) trying to lift it.",
+   "speaker": "Amara",
+   "line": "Rohan malbe ke neeche phans gaya.",
+   "fx": "rain",
+   "sub": "Rohan got trapped under the debris.",
+   "say": "रोहन मलबे के नीचे फँस गया।"
+  },
+  {
+   "image": "Close-up of [[Amara]]'s (straining, desperate) face, hands bleeding from trying to lift the heavy beam, tears mixing with rain.",
+   "speaker": "Amara",
+   "line": "Akeli, main kuch nahi kar pa rahi thi.",
+   "fx": "rain",
+   "sub": "Alone, I couldn't do anything.",
+   "say": "अकेली, मैं कुछ नहीं कर पा रही थी।"
+  },
+  {
+   "image": "[[Amara]] (eyes wide with fear, but also recognition) looks up towards the doorway, where a large, powerful silhouette is visible.",
+   "speaker": "Amara",
+   "line": "Tabhi, ek badi parchhayi ghar mein aayi.",
+   "fx": "rain",
+   "sub": "Just then, a large shadow entered the house.",
+   "say": "तभी, एक बड़ी परछाई घर में आई।"
+  },
+  {
+   "image": "Close-up of [[Rani]] (the tigress) entering the house, her eyes gleaming, water dripping from her fur, powerful and imposing.",
+   "speaker": "Amara",
+   "line": "Woh sherni thi, Rani – Veer ki maa!",
+   "fx": "rain",
+   "sub": "It was the tigress, Rani – Veer's mother!",
+   "say": "वो शेरनी थी, रानी – वीर की माँ!"
+  },
+  {
+   "image": "Close-up on [[Rani]]'s (tigress) face, her gaze fixed on [[Amara]], an intense, knowing look.",
+   "speaker": "Amara",
+   "line": "Uski aankhon mein maine pehchan dekhi.",
+   "fx": "rain",
+   "sub": "In her eyes, I saw recognition.",
+   "say": "उसकी आँखों में मैंने पहचान देखी।"
+  },
+  {
+   "image": "[[Rani]] (tigress) looking from [[Amara]] to [[Rohan]] (trapped), her expression shifting to one of intense focus.",
+   "speaker": "Amara",
+   "line": "Usne dekha Rohan phansa hua hai.",
+   "fx": "rain",
+   "sub": "She saw Rohan was trapped.",
+   "say": "उसने देखा रोहन फँसा हुआ है।"
+  },
+  {
+   "image": "[[Rani]] (tigress) approaching the debris where [[Rohan]] is trapped, powerful and purposeful.",
+   "speaker": "Amara",
+   "line": "Bina soche, woh aage badhi.",
+   "fx": "rain",
+   "sub": "Without thinking, she stepped forward.",
+   "say": "बिना सोचे, वो आगे बढ़ी।"
+  },
+  {
+   "image": "[[Rani]] (tigress) using her head and shoulders to push the heavy wooden beam off [[Rohan]] (who is now looking up in awe, less fear).",
+   "speaker": "Amara",
+   "line": "Apni poori taakat se usne malba hataya.",
+   "fx": "rain",
+   "sub": "With all her strength, she moved the debris.",
+   "say": "अपनी पूरी ताकत से उसने मलबा हटाया।"
+  },
+  {
+   "image": "[[Rohan]] (freed, looking stunned) quickly crawling out from under the moved debris, [[Amara]] (relieved) pulling him to her.",
+   "speaker": "Amara",
+   "line": "Rohan uske neeche se nikal paaya!",
+   "fx": "rain",
+   "sub": "Rohan was able to get out from underneath!",
+   "say": "रोहन उसके नीचे से निकल पाया!"
+  },
+  {
+   "image": "[[Amara]] (holding [[Rohan]] tightly) looking at [[Rani]] (tigress) with a mixture of shock, awe, and deep gratitude.",
+   "speaker": "Amara",
+   "line": "Main bas Rani ko dekhti reh gayi, hairaan.",
+   "fx": "rain",
+   "sub": "I just kept looking at Rani, astonished.",
+   "say": "मैं बस रानी को देखती रह गयी, हैरान।"
+  },
+  {
+   "image": "Close-up of [[Rani]] (tigress) looking at [[Amara]], her eyes conveying a deep, silent message of gratitude and connection.",
+   "speaker": "Amara",
+   "line": "Rani ne apni aankhon se mujhe shukriya kaha.",
+   "fx": "rain",
+   "sub": "Rani thanked me with her eyes.",
+   "say": "रानी ने अपनी आँखों से मुझे शुक्रिया कहा।"
+  },
+  {
+   "image": "[[Amara]] (looking puzzled) scanning around the house and towards the jungle, realizing Veer is not with Rani.",
+   "speaker": "Amara",
+   "line": "Par Veer kahan tha? Mujhe woh nahi dikha.",
+   "fx": "rain",
+   "sub": "But where was Veer? I didn't see him.",
+   "say": "पर वीर कहाँ था? मुझे वो नहीं दिखा।"
+  },
+  {
+   "image": "[[Rani]] (tigress) turning her head slightly towards the jungle, then back to [[Amara]], as if inviting her.",
+   "speaker": "Amara",
+   "line": "Rani ne phir ek baar apni aankhon se ishara kiya.",
+   "fx": "rain",
+   "sub": "Rani once again gestured with her eyes.",
+   "say": "रानी ने फिर एक बार अपनी आँखों से इशारा किया।"
+  },
+  {
+   "image": "[[Amara]] (hesitant but trusting) taking [[Rohan]]'s hand, and they slowly follow [[Rani]] (tigress) out of the damaged house into the clearing.",
+   "speaker": "Amara",
+   "line": "Jaise keh rahi ho, \"Mere saath chalo.\"",
+   "fx": "rain",
+   "sub": "As if saying, \"Come with me.\"",
+   "say": "जैसे कह रही हो, \"मेरे साथ चलो।\""
+  },
+  {
+   "image": "[[Amara]] and [[Rohan]] (holding hands) walking carefully behind [[Rani]] (tigress) through dense forest, dawn light breaking.",
+   "speaker": "Amara",
+   "line": "Hum jungle mein, Rani ke peechhe chal rahe the.",
+   "fx": "dust",
+   "sub": "We were walking deep in the jungle, following Rani.",
+   "say": "हम जंगल में, रानी के पीछे चल रहे थे।"
+  },
+  {
+   "image": "[[Rani]] (tigress) pausing at a hidden, secluded clearing deep in the forest, turning her head back to [[Amara]] and [[Rohan]].",
+   "speaker": "Amara",
+   "line": "Ek ghani jhaadi mein woh ruki.",
+   "fx": "dust",
+   "sub": "She stopped in a dense thicket.",
+   "say": "एक घनी झाड़ी में वो रुकी।"
+  },
+  {
+   "image": "[[Veer]] (magnificent adult tiger) emerges from behind Rani, now with his own mate and two playful cubs, all looking healthy and strong. [[Amara]] and [[Rohan]] gasp.",
+   "speaker": "Amara",
+   "line": "Aur wahan... Veer tha. Ek poore parivar ke saath!",
+   "fx": "dust",
+   "sub": "And there... was Veer. With an entire family!",
+   "say": "और वहाँ... वीर था। एक पूरे परिवार के साथ!"
+  },
+  {
+   "image": "Close-up of [[Veer]] (adult tiger) looking directly at [[Amara]] and [[Rohan]], his gaze soft and knowing, a deep rumble emanating.",
+   "speaker": "Amara",
+   "line": "Veer ne pehchana! Uski aankhon mein pyaar tha.",
+   "fx": "dust",
+   "sub": "Veer recognized us! There was love in his eyes.",
+   "say": "वीर ने पहचाना! उसकी आँखों में प्यार था।"
+  },
+  {
+   "image": "[[Rani]] (tigress) nudging [[Veer]] (adult tiger) gently with her head, then looking proudly at [[Amara]] and [[Rohan]], a deep satisfaction on her face.",
+   "speaker": "Amara",
+   "line": "Rani ka shukriya toh Veer ki khushhaal zindagi thi.",
+   "fx": "dust",
+   "sub": "Rani's thanks was Veer's happy life.",
+   "say": "रानी का शुक्रिया तो वीर की खुशहाल ज़िंदगी थी।"
+  },
+  {
+   "image": "[[Rohan]] (boy, beaming, tears of joy) waving tentatively at [[Veer]] (adult tiger) and his family.",
+   "speaker": "Amara",
+   "line": "Rohan ki aankhon mein Veer ko dekh kar chamak thi.",
+   "fx": "dust",
+   "sub": "Rohan's eyes sparkled seeing Veer.",
+   "say": "रोहन की आँखों में वीर को देखकर चमक थी।"
+  },
+  {
+   "image": "[[Amara]] and [[Rohan]] (standing together, smiling, at peace) watching [[Rani]], [[Veer]] and his family in their wild habitat, a sense of mutual respect.",
+   "speaker": "Amara",
+   "line": "Humne ek dusre ko, jaanwaron ko, ek naya ghar diya.",
+   "fx": "dust",
+   "sub": "We gave each other, and the animals, a new home.",
+   "say": "हमने एक दूसरे को, जानवरों को, एक नया घर दिया।"
+  },
+  {
+   "image": "Overlay of [[Amara]] (young, pregnant) holding the cub [[Veer]] and [[Amara]] (older) with [[Rohan]] (boy) watching [[Veer]] (adult tiger) and his family, emphasizing the passage of time and enduring bond.",
+   "speaker": "Amara",
+   "line": "Iss rishte ne humein hamesha ke liye jod diya.",
+   "fx": "dust",
+   "sub": "This relationship bound us forever.",
+   "say": "इस रिश्ते ने हमें हमेशा के लिए जोड़ दिया।"
+  },
+  {
+   "image": "Close-up of [[Amara]]'s (serene, knowing) face, a gentle smile, looking directly at the camera.",
+   "speaker": "Amara",
+   "line": "Pyar aur vishwas ki koi seema nahi hoti.",
+   "fx": "dust",
+   "sub": "Love and trust know no bounds.",
+   "say": "प्यार और विश्वास की कोई सीमा नहीं होती।"
+  },
+  {
+   "image": "Wide shot of the sun setting over the jungle, with a faint silhouette of a tigress and cubs in the distance, representing nature's mystery and connection.",
+   "speaker": "Amara",
+   "line": "Kya aap aise rishte par vishwas karte hain?",
+   "fx": "dust",
+   "sub": "Do you believe in such bonds?",
+   "say": "क्या आप ऐसे रिश्ते पर विश्वास करते हैं?"
+  }
+ ],
+ "caption": "Blind Tiger Cub Saved: Years Later, His Mother Returned to Ask For Help 🐅",
+ "slug": "2026-11-06_part1",
+ "story_no": 29,
+ "yt_title": "Blind Tiger Cub Saved: Years Later, His Mother Returned to Ask For Help 🐅",
+ "description": "She saved a blind tiger cub, nurtured him like her own. Years later, a powerful tigress returned to her home with an unexpected request. Would you have opened your home and heart to a wild secret?",
+ "comment_question": "Would you have opened your home and heart to a wild secret?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalstory",
+  "#tigercub",
+  "#wildlife",
+  "#humananimalbond",
+  "#motherlove",
+  "#villagelife",
+  "#indianvillage",
+  "#unconditionallove",
+  "#trust"
+ ]
+}
