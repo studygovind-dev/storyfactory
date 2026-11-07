@@ -1,0 +1,605 @@
+{
+ "series": "The Waiter's Silent Sacrifice",
+ "episode": 3,
+ "title": "The Waiter's Silent Sacrifice",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Riya, young woman (20s), warm, relatable; long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta.",
+   "voice": "hindi_narrator_female"
+  },
+  "Rohan": {
+   "look": "Young man (20s), lean build, often looks tired but determined; simple, clean white shirt and black trousers (waiter uniform), sometimes a small pen behind his ear.",
+   "voice": "hindi_male_young"
+  },
+  "Mrs. Ahuja": {
+   "look": "Middle-aged woman (50s), sharp features, impeccably dressed in a silk saree, heavy jewellery, often a critical expression.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "SHE MISJUDGED HIM...",
+ "scenes": [
+  {
+   "image": "Extreme close-up on Riya's face, eyes wide with shock and disbelief, a single tear tracing her cheek. Soft, warm light from the side.",
+   "speaker": "narrator",
+   "line": "Maine us waiter ko kitna galat samjha tha!",
+   "fx": "none",
+   "sub": "I had judged that waiter so wrongly!",
+   "say": "मैंने उस वेटर को कितना गलत समझा था!"
+  },
+  {
+   "image": "Riya sits at a cozy cafe table, books spread out, sipping chai, looking thoughtful and engrossed in study.",
+   "speaker": "narrator",
+   "line": "Main Aksar iss cafe mein padhne aati thi.",
+   "fx": "none",
+   "sub": "I often came to this cafe to study.",
+   "say": "मैं अक्सर इस कैफे में पढ़ने आती थी।"
+  },
+  {
+   "image": "Close-up photo on Riya's phone of a smiling young boy (Aarav), maybe 10-12 years old, looking a bit frail but happy, in a hospital bed.",
+   "speaker": "narrator",
+   "line": "Mera chhota bhai, Aarav, ek rare beemari se lad raha tha.",
+   "fx": "none",
+   "sub": "My little brother, Aarav, was battling a rare illness.",
+   "say": "मेरा छोटा भाई, आरव, एक रेयर बीमारी से लड़ रहा था।"
+  },
+  {
+   "image": "Riya looks sad, touching the photo on her phone, then looks out of frame with a worried expression.",
+   "speaker": "narrator",
+   "line": "Humari family funds raise karne mein struggle kar rahi thi.",
+   "fx": "none",
+   "sub": "Our family was struggling to raise funds.",
+   "say": "हमारी फैमिली फंड्स रेज़ करने में स्ट्रगल कर रही थी।"
+  },
+  {
+   "image": "Rohan, looking a bit tired, in his waiter uniform, serves a table, slightly fumbling a glass but catching it. Soft lighting.",
+   "speaker": "narrator",
+   "line": "Aur wahan tha Rohan, the waiter.",
+   "fx": "none",
+   "sub": "And there was Rohan, the waiter.",
+   "say": "और वहां था रोहन, द वेटर।"
+  },
+  {
+   "image": "Riya watches Rohan from her table, a slight frown of irritation mixed with boredom on her face.",
+   "speaker": "narrator",
+   "line": "Uski service aksar disappointing hoti thi.",
+   "fx": "none",
+   "sub": "His service was often disappointing.",
+   "say": "उसकी सर्विस अक्सर डिसअपॉइंटिंग होती थी।"
+  },
+  {
+   "image": "A visibly annoyed customer, impeccably dressed, points a finger at Rohan, who looks down apologetically.",
+   "speaker": "narrator",
+   "line": "Rich customers uspar hamesha chillate the.",
+   "fx": "none",
+   "sub": "Rich customers always yelled at him.",
+   "say": "रिच कस्टमर्स उसपर हमेशा चिल्लाते थे।"
+  },
+  {
+   "image": "Close-up on Rohan's face, looking weary but maintaining a professional, apologetic expression, eyes downcast.",
+   "speaker": "narrator",
+   "line": "Woh bas chup-chaap sunta rehta tha.",
+   "fx": "none",
+   "sub": "He would just silently listen.",
+   "say": "वो बस चुप-चाप सुनता रहता था।"
+  },
+  {
+   "image": "Riya sips her chai, looking thoughtful, a mix of pity and annoyance in her eyes, glancing at Rohan.",
+   "speaker": "narrator",
+   "line": "Mujhe uspar taras aata tha, par gussa bhi.",
+   "fx": "none",
+   "sub": "I felt pity for him, but also anger.",
+   "say": "मुझे उसपर तरस आता था, पर गुस्सा भी।"
+  },
+  {
+   "image": "Mrs. Ahuja, with a very stern, imperious expression, enters the cafe, her silk saree gleaming.",
+   "speaker": "narrator",
+   "line": "Ek din, Mrs. Ahuja aayi.",
+   "fx": "none",
+   "sub": "One day, Mrs. Ahuja came.",
+   "say": "एक दिन, मिसेज आहूजा आई।"
+  },
+  {
+   "image": "Rohan, flustered, tries to clean up a small coffee stain on Mrs. Ahuja's pristine table, looking stressed.",
+   "speaker": "narrator",
+   "line": "Usne galti se Mrs. Ahuja ki coffee gira di.",
+   "fx": "none",
+   "sub": "He accidentally spilled Mrs. Ahuja's coffee.",
+   "say": "उसने गलती से मिसेज आहूजा की कॉफी गिरा दी।"
+  },
+  {
+   "image": "Close-up on Mrs. Ahuja's angry, disgusted face, mouth open mid-sentence, pointing a manicured finger at Rohan.",
+   "speaker": "Mrs. Ahuja",
+   "line": "Tumhe kaam karna aata bhi hai, ya nahin?",
+   "fx": "none",
+   "sub": "Do you even know how to work?",
+   "say": "तुम्हें काम करना आता भी है, या नहीं?"
+  },
+  {
+   "image": "Close-up on Rohan's face, looking deeply humiliated, eyes downcast, jaw clenched, trying hard not to react emotionally.",
+   "speaker": "narrator",
+   "line": "Poor Rohan! Woh bilkul sharminda ho gaya.",
+   "fx": "none",
+   "sub": "Poor Rohan! He was completely humiliated.",
+   "say": "पुअर रोहन! वो बिल्कुल शर्मिंदा हो गया।"
+  },
+  {
+   "image": "Riya watches, her face showing a mix of discomfort and a hint of her own judgment, shaking her head slightly.",
+   "speaker": "narrator",
+   "line": "Mujhe laga woh bohot careless hai.",
+   "fx": "none",
+   "sub": "I thought he was very careless.",
+   "say": "मुझे लगा वो बहुत केयरलेस है।"
+  },
+  {
+   "image": "Rohan, in a simple shirt, walking out of the cafe late at night, looking utterly exhausted under a dim streetlamp.",
+   "speaker": "narrator",
+   "line": "Maine usse der raat cafe se nikalte dekha.",
+   "fx": "none",
+   "sub": "I saw him leaving the cafe late at night.",
+   "say": "मैंने उसे देर रात कैफे से निकलते देखा।"
+  },
+  {
+   "image": "Close-up on Rohan's face in the dim light, heavy bags under his eyes, looking worn out.",
+   "speaker": "narrator",
+   "line": "Hamesha thaka hua lagta tha.",
+   "fx": "none",
+   "sub": "He always looked tired.",
+   "say": "हमेशा थका हुआ लगता था।"
+  },
+  {
+   "image": "Riya, back at her table, looking out of the window pensively, holding her chin, speculating about Rohan's life.",
+   "speaker": "narrator",
+   "line": "Socha kitni mushkil life hogi uski.",
+   "fx": "none",
+   "sub": "I thought how difficult his life must be.",
+   "say": "सोचा कितनी मुश्किल लाइफ होगी उसकी।"
+  },
+  {
+   "image": "Riya and her parents sitting around a table at home, looking stressed, discussing hospital papers for Aarav.",
+   "speaker": "narrator",
+   "line": "Ghar par, hum Aarav ke treatment ki baat karte the.",
+   "fx": "none",
+   "sub": "At home, we discussed Aarav's treatment.",
+   "say": "घर पर, हम आरव के ट्रीटमेंट की बात करते थे।"
+  },
+  {
+   "image": "Close-up on Riya's laptop screen, showing a crowdfunding page for Aarav's medical expenses, with a small amount raised.",
+   "speaker": "narrator",
+   "line": "Har jagah funds dhundh rahe the.",
+   "fx": "none",
+   "sub": "We were searching everywhere for funds.",
+   "say": "हर जगह फंड्स ढूँढ रहे थे।"
+  },
+  {
+   "image": "Riya looks up from her laptop, a glimmer of hope in her eyes, a faint smile.",
+   "speaker": "narrator",
+   "line": "Ek new experimental treatment ki khabar aayi.",
+   "fx": "none",
+   "sub": "News of a new experimental treatment arrived.",
+   "say": "एक न्यू एक्सपेरिमेंटल ट्रीटमेंट की खबर आई।"
+  },
+  {
+   "image": "Riya's face falls as she reads the details on her screen, realizing the exorbitant cost of the treatment.",
+   "speaker": "narrator",
+   "line": "Par woh bohot mehanga tha.",
+   "fx": "none",
+   "sub": "But it was very expensive.",
+   "say": "पर वो बहुत महंगा था।"
+  },
+  {
+   "image": "Riya walks into the familiar cafe, looking for a table, her bag slung over her shoulder, a tired but determined expression.",
+   "speaker": "narrator",
+   "line": "Cafe mera constant refuge ban gaya tha.",
+   "fx": "none",
+   "sub": "The cafe had become my constant refuge.",
+   "say": "कैफे मेरा कॉन्स्टेंट रिफ्यूज़ बन गया था।"
+  },
+  {
+   "image": "Rohan, still working, clearing tables, looking as tired as ever, but diligently wiping surfaces.",
+   "speaker": "narrator",
+   "line": "Rohan wahin tha, same expression.",
+   "fx": "none",
+   "sub": "Rohan was there, same expression.",
+   "say": "रोहन वहीं था, सेम एक्सप्रेशन।"
+  },
+  {
+   "image": "Riya looks at Rohan as he awkwardly places a menu. A fleeting thought of annoyance crosses her face.",
+   "speaker": "narrator",
+   "line": "Kabhi-kabhi, uski clumsiness mujhe irritate karti thi.",
+   "fx": "none",
+   "sub": "Sometimes, his clumsiness irritated me.",
+   "say": "कभी-कभी, उसकी क्लमज़ीनेस मुझे इरिटेट करती थी।"
+  },
+  {
+   "image": "Riya is studying, then she slightly turns her head, having caught snippets of a hushed conversation from a nearby table.",
+   "speaker": "narrator",
+   "line": "Ek din, maine ek baat suni.",
+   "fx": "none",
+   "sub": "One day, I overheard something.",
+   "say": "एक दिन, मैंने एक बात सुनी।"
+  },
+  {
+   "image": "Close-up of a newspaper or flyer on a nearby table, showing a small article about a rare genetic condition, similar to Aarav's.",
+   "speaker": "narrator",
+   "line": "Koi Aarav ke rare genetic condition ki baat kar raha tha.",
+   "fx": "none",
+   "sub": "Someone was talking about Aarav's rare genetic condition.",
+   "say": "कोई आरव के रेयर जेनेटिक कंडीशन की बात कर रहा था।"
+  },
+  {
+   "image": "Riya looks around subtly, trying to identify who was speaking, her face confused and curious.",
+   "speaker": "narrator",
+   "line": "Mujhe laga, koi meri family ko janta hai?",
+   "fx": "none",
+   "sub": "I thought, does someone know my family?",
+   "say": "मुझे लगा, कोई मेरी फैमिली को जानता है?"
+  },
+  {
+   "image": "Riya subtly leans closer, pretending to read her book, but listening intently to the faint conversation.",
+   "speaker": "narrator",
+   "line": "Main aur details sunne ki koshish karne lagi.",
+   "fx": "none",
+   "sub": "I started trying to hear more details.",
+   "say": "मैं और डिटेल्स सुनने की कोशिश करने लगी।"
+  },
+  {
+   "image": "The people at the other table get up and leave quickly, mid-conversation, leaving Riya puzzled and frustrated.",
+   "speaker": "narrator",
+   "line": "Par woh log jaldi hi chale gaye.",
+   "fx": "none",
+   "sub": "But those people left quickly.",
+   "say": "पर वो लोग जल्दी ही चले गए।"
+  },
+  {
+   "image": "Riya sighs and goes back to her book, shrugging, dismissing it as a coincidence, a little disappointed.",
+   "speaker": "narrator",
+   "line": "Maine socha, shayad bas coincidence hoga.",
+   "fx": "none",
+   "sub": "I thought, maybe it was just a coincidence.",
+   "say": "मैंने सोचा, शायद बस कोइंसिडेंस होगा।"
+  },
+  {
+   "image": "Riya walks down a brightly lit hospital corridor, looking anxious and a bit weary, hands clasped together.",
+   "speaker": "narrator",
+   "line": "Agle hafte, hum Aarav ko dekhne hospital gaye.",
+   "fx": "none",
+   "sub": "Next week, we went to the hospital to see Aarav.",
+   "say": "अगले हफ़्ते, हम आरव को देखने हॉस्पिटल गए।"
+  },
+  {
+   "image": "Aarav in his hospital bed, looking a bit weak but smiling faintly at Riya, who smiles back reassuringly.",
+   "speaker": "narrator",
+   "line": "Doctor ne kaha, woh stable hai.",
+   "fx": "none",
+   "sub": "The doctor said, he is stable.",
+   "say": "डॉक्टर ने कहा, वो स्टेबल है।"
+  },
+  {
+   "image": "Riya looks at her parents, who look worried and stressed, implying the urgency of funds for the treatment.",
+   "speaker": "narrator",
+   "line": "Par treatment ke liye funds bohot zaruri the.",
+   "fx": "none",
+   "sub": "But funds for treatment were very essential.",
+   "say": "पर ट्रीटमेंट के लिए फंड्स बहुत ज़रूरी थे।"
+  },
+  {
+   "image": "Riya looking up directions on her phone, a determined expression, for a well-known medical research center.",
+   "speaker": "narrator",
+   "line": "Maine ek medical research center jaane ka socha.",
+   "fx": "none",
+   "sub": "I decided to visit a medical research center.",
+   "say": "मैंने एक मेडिकल रिसर्च सेंटर जाने का सोचा।"
+  },
+  {
+   "image": "Close-up on Riya's face, a flicker of hope and anticipation that she might find information or help there.",
+   "speaker": "narrator",
+   "line": "Shayad wahan koi help mil jaye.",
+   "fx": "none",
+   "sub": "Maybe I'd find some help there.",
+   "say": "शायद वहां कोई हेल्प मिल जाए।"
+  },
+  {
+   "image": "Riya standing outside a modern, clean-looking medical research center building, sunlight glinting off its glass facade.",
+   "speaker": "narrator",
+   "line": "Main us bade research center pahunchi.",
+   "fx": "none",
+   "sub": "I reached that big research center.",
+   "say": "मैं उस बड़े रिसर्च सेंटर पहुँची।"
+  },
+  {
+   "image": "Riya walks through a bright, sterile-looking lobby, filled with professionals and busy staff.",
+   "speaker": "narrator",
+   "line": "Andar bahut log the.",
+   "fx": "none",
+   "sub": "There were many people inside.",
+   "say": "अंदर बहुत लोग थे।"
+  },
+  {
+   "image": "Riya approaches a reception desk, looking a bit lost but determined, starting to ask questions.",
+   "speaker": "narrator",
+   "line": "Main Aarav ki condition ke baare mein puchne lagi.",
+   "fx": "none",
+   "sub": "I started asking about Aarav's condition.",
+   "say": "मैं आरव की कंडीशन के बारेs में पूछने लगी।"
+  },
+  {
+   "image": "Riya pauses, her eyes suddenly catching a familiar figure across the busy lobby. She squints, confused.",
+   "speaker": "narrator",
+   "line": "Suddenly, maine ek familiar chehra dekha.",
+   "fx": "none",
+   "sub": "Suddenly, I saw a familiar face.",
+   "say": "सडनली, मैंने एक फैमिलियर चेहरा देखा।"
+  },
+  {
+   "image": "Close-up on Riya's face, eyes widening slightly, a hint of confusion turning into dawning recognition.",
+   "speaker": "narrator",
+   "line": "Kya woh Rohan tha?",
+   "fx": "none",
+   "sub": "Was that Rohan?",
+   "say": "क्या वो रोहन था?"
+  },
+  {
+   "image": "Rohan, dressed in smart casuals (not his waiter uniform), confidently talking to a group of doctors or researchers. He looks serious and engaged.",
+   "speaker": "narrator",
+   "line": "Rohan, ek research group ke saath khada tha.",
+   "fx": "none",
+   "sub": "Rohan was standing with a research group.",
+   "say": "रोहन, एक रिसर्च ग्रुप के साथ खड़ा था।"
+  },
+  {
+   "image": "Extreme close-up on Riya's face, pure shock, mouth slightly open in disbelief, eyes fixated on Rohan.",
+   "speaker": "narrator",
+   "line": "Mujhe apni aankhon par vishwas nahin hua.",
+   "fx": "none",
+   "sub": "I couldn't believe my eyes.",
+   "say": "मुझे अपनी आँखों पर विश्वास नहीं हुआ।"
+  },
+  {
+   "image": "Rohan gestures towards a large screen, which dimly shows complex medical data or genetic sequences, as he presents to the group.",
+   "speaker": "narrator",
+   "line": "Woh ek presentation de raha tha.",
+   "fx": "none",
+   "sub": "He was giving a presentation.",
+   "say": "वो एक प्रेजेंटेशन दे रहा था।"
+  },
+  {
+   "image": "Close-up on the screen Rohan is pointing at, clearly showing a medical diagram and the text: \"Aarav's Genetic Marker - Potential Treatment Paths.\"",
+   "speaker": "narrator",
+   "line": "Aur uska topic tha... Aarav ki beemari!",
+   "fx": "none",
+   "sub": "And his topic was... Aarav's illness!",
+   "say": "और उसका टॉपिक था... आरव की बीमारी!"
+  },
+  {
+   "image": "Riya's face, a powerful mix of shock, guilt, and a dawning, heartbreaking understanding. Tears welling up in her eyes.",
+   "speaker": "narrator",
+   "line": "Mera dil baith gaya.",
+   "fx": "none",
+   "sub": "My heart sank.",
+   "say": "मेरा दिल बैठ गया।"
+  },
+  {
+   "image": "Rohan, now looking confident and articulate, answering a question from one of the senior doctors, a serious expert expression.",
+   "speaker": "narrator",
+   "line": "Rohan, woh waiter, ek brilliant medical student tha.",
+   "fx": "none",
+   "sub": "Rohan, that waiter, was a brilliant medical student.",
+   "say": "रोहन, वो वेटर, एक ब्रिलिएंट मेडिकल स्टूडेंट था।"
+  },
+  {
+   "image": "Rohan is seen working with some lab equipment in a sterile lab, focused and determined, with intricate instruments.",
+   "speaker": "narrator",
+   "line": "Woh Aarav ki research ke liye funds jama kar raha tha.",
+   "fx": "none",
+   "sub": "He was gathering funds for Aarav's research.",
+   "say": "वो आरव की रिसर्च के लिए फंड्स जमा कर रहा था।"
+  },
+  {
+   "image": "Flashback to Rohan looking tired at the cafe, cleaning a table, but now Riya understands the *depth* of his fatigue.",
+   "speaker": "narrator",
+   "line": "Isliye woh cafe mein itna thaka rehta tha.",
+   "fx": "none",
+   "sub": "That's why he was so tired at the cafe.",
+   "say": "इसलिए वो कैफे में इतना थका रहता था।"
+  },
+  {
+   "image": "Riya remembers the overheard conversation at the cafe, a sudden clarity washing over her as she connects the dots.",
+   "speaker": "narrator",
+   "line": "Woh cafe mein Aarav ke baare mein baat kar raha tha!",
+   "fx": "none",
+   "sub": "He was talking about Aarav at the cafe!",
+   "say": "वो कैफे में आरव के बारे में बात कर रहा था!"
+  },
+  {
+   "image": "Close-up on Riya's face, now openly crying, hand over her mouth in shame and profound realization.",
+   "speaker": "narrator",
+   "line": "Mujhe apne judgments par sharm aayi.",
+   "fx": "none",
+   "sub": "I felt shame for my judgments.",
+   "say": "मुझे अपने जजमेंट्स पर शर्म आई।"
+  },
+  {
+   "image": "Rohan turns slightly, his eyes briefly meeting Riya's across the room. A soft, knowing look, no surprise, just understanding.",
+   "speaker": "narrator",
+   "line": "Usko pata tha main kaun hoon.",
+   "fx": "none",
+   "sub": "He knew who I was.",
+   "say": "उसको पता था मैं कौन हूँ।"
+  },
+  {
+   "image": "Rohan turns back to his presentation, a quiet dedication and humility etched on his face, choosing to continue his silent work.",
+   "speaker": "narrator",
+   "line": "Usne chup-chaap help karne ka socha.",
+   "fx": "none",
+   "sub": "He decided to help silently.",
+   "say": "उसने चुप-चाप हेल्प करने का सोचा।"
+  },
+  {
+   "image": "Riya walks slowly towards Rohan, wiping tears, her expression full of gratitude, apology, and newfound respect.",
+   "speaker": "narrator",
+   "line": "Main uske paas gayi, meri aankhon mein aansu the.",
+   "fx": "none",
+   "sub": "I went to him, tears in my eyes.",
+   "say": "मैं उसके पास गई, मेरी आँखों में आँसू थे।"
+  },
+  {
+   "image": "Riya stands before Rohan. She bows her head slightly in deep gratitude. Rohan gives a gentle, understanding nod, a faint smile.",
+   "speaker": "narrator",
+   "line": "Bas ek shukriya kehna chahti thi.",
+   "fx": "none",
+   "sub": "I just wanted to say thank you.",
+   "say": "बस एक शुक्रिया कहना चाहती थी।"
+  },
+  {
+   "image": "Rohan smiles gently, a weary but kind smile, shaking his head slightly, as if to say, 'it's nothing'.",
+   "speaker": "Rohan",
+   "line": "Yeh toh bas shuruwat hai, Riya.",
+   "fx": "none",
+   "sub": "This is just the beginning, Riya.",
+   "say": "ये तो बस शुरुआत है, रिया।"
+  },
+  {
+   "image": "Rohan looks at the presentation screen, renewed determination in his eyes, his commitment clear.",
+   "speaker": "Rohan",
+   "line": "Aarav theek ho jayega.",
+   "fx": "none",
+   "sub": "Aarav will get well.",
+   "say": "आरव ठीक हो जाएगा।"
+  },
+  {
+   "image": "Riya looks at Rohan with immense respect and admiration, her eyes shining with emotion.",
+   "speaker": "narrator",
+   "line": "Mera uske liye respect aur badh gaya.",
+   "fx": "none",
+   "sub": "My respect for him grew even more.",
+   "say": "मेरा उसके लिए रिस्पेक्ट और बढ़ गया।"
+  },
+  {
+   "image": "Riya, looking thoughtful, walking out of the research center, the setting sun casting long, profound shadows.",
+   "speaker": "narrator",
+   "line": "Ek insaan ki value uske kaam se nahin hoti.",
+   "fx": "none",
+   "sub": "A person's value is not determined by their job.",
+   "say": "एक इंसान की वैल्यू उसके काम से नहीं होती।"
+  },
+  {
+   "image": "Close-up of Riya's hands, clasped together, a look of profound realization and contemplation on her face.",
+   "speaker": "narrator",
+   "line": "Uski niyat aur iraade se hoti hai.",
+   "fx": "none",
+   "sub": "It's determined by their intention and purpose.",
+   "say": "उसकी नीयत और इरादे से होती है।"
+  },
+  {
+   "image": "Riya is back at the cafe. Rohan is serving another customer, still a bit slow. But Riya watches him with warmth and understanding.",
+   "speaker": "narrator",
+   "line": "Ab jab Rohan ko dekhti hoon...",
+   "fx": "none",
+   "sub": "Now when I see Rohan...",
+   "say": "अब जब रोहन को देखती हूँ..."
+  },
+  {
+   "image": "Close-up on Riya's eyes, seeing Rohan not as a clumsy waiter, but as a dedicated, selfless hero.",
+   "speaker": "narrator",
+   "line": "Main uski sacchi wajah samajhti hoon.",
+   "fx": "none",
+   "sub": "I understand his true reason.",
+   "say": "मैं उसकी सच्ची वजह समझती हूँ।"
+  },
+  {
+   "image": "Rohan looks up and sees Riya, gives her a small, knowing smile, and a quick, subtle nod of acknowledgment.",
+   "speaker": "narrator",
+   "line": "Hamari aankhon mein ek samjhauta hai.",
+   "fx": "none",
+   "sub": "There is an understanding in our eyes.",
+   "say": "हमारी आँखों में एक समझौता है।"
+  },
+  {
+   "image": "Mrs. Ahuja enters the cafe again, looking imperious, eyes scanning for a table, her demeanor unchanged.",
+   "speaker": "narrator",
+   "line": "Aur Mrs. Ahuja? Woh bhi wapas aayi.",
+   "fx": "none",
+   "sub": "And Mrs. Ahuja? She also returned.",
+   "say": "और मिसेज आहूजा? वो भी वापस आई।"
+  },
+  {
+   "image": "Mrs. Ahuja gestures impatiently towards Rohan for attention, her expression critical and demanding.",
+   "speaker": "narrator",
+   "line": "Uska taunt abhi bhi waise hi tha.",
+   "fx": "none",
+   "sub": "Her taunt was still the same.",
+   "say": "उसका तांट अभी भी वैसे ही था।"
+  },
+  {
+   "image": "Riya watches Mrs. Ahuja with a sad, knowing look, no longer feeling anger but pity for her ignorance.",
+   "speaker": "narrator",
+   "line": "Par ab mujhe uspar taras aata hai.",
+   "fx": "none",
+   "sub": "But now I feel pity for her.",
+   "say": "पर अब मुझे उसपर तरस आता है।"
+  },
+  {
+   "image": "Close-up on Mrs. Ahuja's face, still looking self-important and completely unaware of Rohan's secret.",
+   "speaker": "narrator",
+   "line": "Woh kitni anjaan hai.",
+   "fx": "none",
+   "sub": "She is so unaware.",
+   "say": "वो कितनी अंजान है।"
+  },
+  {
+   "image": "Rohan, taking Mrs. Ahuja's order, a faint, almost invisible smile of resilience and inner strength on his face.",
+   "speaker": "narrator",
+   "line": "Aur Rohan? Woh apne mission par focused hai.",
+   "fx": "none",
+   "sub": "And Rohan? He is focused on his mission.",
+   "say": "और रोहन? वो अपने मिशन पर फोकस्ड है।"
+  },
+  {
+   "image": "A wide shot of the cafe, Rohan moving among tables, an unsung hero blending into the background. Riya watches him with pride.",
+   "speaker": "narrator",
+   "line": "Ek sachcha hero, apni identity chhupaye.",
+   "fx": "none",
+   "sub": "A true hero, hiding his identity.",
+   "say": "एक सच्चा हीरो, अपनी आइडेंटिटी छुपाए।"
+  },
+  {
+   "image": "Riya closes her notebook, a thoughtful, compassionate expression on her face, looking out of the window.",
+   "speaker": "narrator",
+   "line": "Duniya mein aise kitne chup-chaap heroes hain?",
+   "fx": "none",
+   "sub": "How many silent heroes are there in the world?",
+   "say": "दुनिया में ऐसे कितने चुप-चाप हीरोज़ हैं?"
+  },
+  {
+   "image": "Riya looks directly at the camera, a gentle, inviting smile, prompting engagement from the viewer.",
+   "speaker": "narrator",
+   "line": "Kya aapne kabhi kisi ko galat samjha hai?",
+   "fx": "none",
+   "sub": "Have you ever misjudged someone?",
+   "say": "क्या आपने कभी किसी को गलत समझा है?"
+  }
+ ],
+ "caption": "She Judged the Clumsy Waiter... His Secret Left Her Speechless 💔",
+ "slug": "2026-11-07_part3",
+ "story_no": 34,
+ "yt_title": "She Judged the Clumsy Waiter... His Secret Left Her Speechless 💔",
+ "description": "Everyone laughed at the waiter, even I did. Big mistake. You won't believe his true identity and the silent sacrifice he was making.\nThis emotional story will make you rethink judging people. What secret acts of kindness go unnoticed around us every day?",
+ "comment_question": "Have you ever misjudged someone, only to realize your mistake later?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indianstory",
+  "#twistending",
+  "#inspiration",
+  "#kindness",
+  "#dontjudge",
+  "#hiddenhero",
+  "#realstories",
+  "#cafe",
+  "#sacrifice"
+ ]
+}

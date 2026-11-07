@@ -1,0 +1,555 @@
+{
+ "series": "The Sock That Broke the Internet (and a Marriage!)",
+ "episode": 2,
+ "title": "The Sock That Broke the Internet (and a Marriage!)",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_female"
+  },
+  "Priya": {
+   "look": "Young woman, late 20s, fair skin, long soft wavy dark-brown hair, small gold hoop earrings, natural makeup, elegant pastel pink cotton kurta and white palazzo pants. Expressive face.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Raj": {
+   "look": "Young man, late 20s, light wheatish skin, short neat dark hair, blue polo shirt, khaki shorts. Casual, relaxed demeanor.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Mrs. Sharma": {
+   "look": "Middle-aged woman, plump, warm but nosy expression, bright orange saree with a small red bindi.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Puffy": {
+   "look": "Small, fluffy white dog, short legs, wagging tail, wears a tiny red collar.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Reporter": {
+   "look": "Young, energetic woman reporter, blazer over a simple top, microphone in hand.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Judge": {
+   "look": "Middle-aged woman, stern but fair expression, wearing black judicial robes and glasses.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Forensic Expert": {
+   "look": "Young woman, serious expression, wearing a white lab coat and safety glasses.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "THE SOCK DRAMA!",
+ "scenes": [
+  {
+   "image": "Priya (late 20s, fair skin, long wavy dark-brown hair, pink kurta, white palazzo), teary-eyed, dramatically covering her face in a grand, ornate courtroom. Raj (late 20s, light wheatish skin, short dark hair, blue polo, khaki shorts), looking bewildered next to her. Judge sternly looking down.",
+   "speaker": "narrator",
+   "line": "Pati-patni mein bas itni si baat thi...",
+   "fx": "none",
+   "say": "पति-पत्नी में बस इतनी सी बात थी..."
+  },
+  {
+   "image": "Close up on Priya's face, a single tear rolling down. Her eyes are wide with exaggerated sorrow.",
+   "speaker": "narrator",
+   "line": "...ki woh pura sheher hil gaya.",
+   "fx": "none",
+   "say": "...कि वो पूरा शहर हिल गया।"
+  },
+  {
+   "image": "Fast flashback to a peaceful morning. Priya making tea in a modern kitchen, smiling, sunlight streaming in.",
+   "speaker": "narrator",
+   "line": "Subah bilkul shanti bhari subah thi.",
+   "fx": "dust",
+   "say": "सुबह बिल्कुल शांति भरी सुबह थी।"
+  },
+  {
+   "image": "Priya carrying two cups of tea, walking towards a cozy bedroom. Raj is still asleep in bed.",
+   "speaker": "Priya",
+   "line": "Raj, uth jao, chai ban gayi hai.",
+   "fx": "none",
+   "say": "राज, उठ जाओ, चाय बन गई है।"
+  },
+  {
+   "image": "Priya gently nudges Raj awake. He stretches, sleepy but smiling.",
+   "speaker": "Raj",
+   "line": "Haan, uth gaya meri jaan.",
+   "fx": "none",
+   "say": "हां, उठ गया मेरी जान।"
+  },
+  {
+   "image": "Priya places tea on the bedside table. She looks down, a slight frown forming.",
+   "speaker": "Priya",
+   "line": "Wait, yeh aakhir yahan kya hai?",
+   "fx": "none",
+   "say": "Wait, ये आखिर यहां क्या है?"
+  },
+  {
+   "image": "Close-up of a single, slightly discolored, grey sock lying innocently on their pristine white bedsheet.",
+   "speaker": "narrator",
+   "line": "Bed par ek akela sock pada tha.",
+   "fx": "none",
+   "say": "बेड पर एक अकेला sock पड़ा था।"
+  },
+  {
+   "image": "Priya holding up the sock with two fingers, a look of utter disbelief and disgust on her face. Raj watches, confused.",
+   "speaker": "Priya",
+   "line": "Raj, yeh tumhara sock yahan kaise aaya?",
+   "fx": "none",
+   "say": "राज, ये तुम्हारा sock यहां कैसे आया?"
+  },
+  {
+   "image": "Raj, rubbing his eyes, casually looks at the sock. He shrugs slightly, a small smirk.",
+   "speaker": "Raj",
+   "line": "Kya hua? Bas ek sock hi toh hai.",
+   "fx": "none",
+   "say": "क्या हुआ? बस एक sock ही तो है।"
+  },
+  {
+   "image": "Priya's face, now flushed with indignation. She points dramatically at the sock.",
+   "speaker": "Priya",
+   "line": "Bas ek sock?! Tum hamesha cheezein chhod dete ho!",
+   "fx": "none",
+   "say": "बस एक sock?! तुम हमेशा चीजें छोड़ देते हो!"
+  },
+  {
+   "image": "Raj sitting up, looking a bit annoyed now. He crosses his arms.",
+   "speaker": "Raj",
+   "line": "Oh come on, itna drama mat karo. Main utha dunga.",
+   "fx": "none",
+   "say": "Oh come on, इतना ड्रामा मत करो। मैं उठा दूंगा।"
+  },
+  {
+   "image": "Priya throws her hands up in exasperation. The sock is still dangling from her fingers.",
+   "speaker": "Priya",
+   "line": "Har baar yahi kehte ho! Kabhi nahi uthate!",
+   "fx": "none",
+   "say": "हर बार यही कहते हो! कभी नहीं उठाते!"
+  },
+  {
+   "image": "Raj stands up, now a bit defensive. He gestures dismissively.",
+   "speaker": "Raj",
+   "line": "Theek hai, main utha leta hoon. Kya bigad jayega?",
+   "fx": "none",
+   "say": "ठीक है, मैं उठा लेता हूं। क्या बिगड़ जाएगा?"
+  },
+  {
+   "image": "Priya points at the sock again, her eyes narrowed.",
+   "speaker": "Priya",
+   "line": "Yeh mere patience ka test hai, Raj!",
+   "fx": "none",
+   "say": "ये मेरे patience का टेस्ट है, राज!"
+  },
+  {
+   "image": "Raj rolls his eyes, walks past her, ignoring the sock. Priya stares at his back, fuming.",
+   "speaker": "Raj",
+   "line": "Jo bhi ho, sock hai, problem nahi.",
+   "fx": "none",
+   "say": "जो भी हो, sock है, problem नहीं।"
+  },
+  {
+   "image": "Priya holding the sock like a weapon, standing aggressively in the living room. Raj is on the sofa, looking at his phone, trying to ignore her.",
+   "speaker": "Priya",
+   "line": "Tumhara dhyaan bas phone mein hai!",
+   "fx": "none",
+   "say": "तुम्हारा ध्यान बस फोन में है!"
+  },
+  {
+   "image": "Raj looks up from his phone, a forced smile.",
+   "speaker": "Raj",
+   "line": "Kya karun, tumhari baatein boring hain.",
+   "fx": "none",
+   "say": "क्या करूं, तुम्हारी बातें boring हैं।"
+  },
+  {
+   "image": "Priya gasps dramatically, clutching her chest. The sock is still in her hand.",
+   "speaker": "Priya",
+   "line": "Meri baatein boring?! Yeh meri mehnat hai!",
+   "fx": "none",
+   "say": "मेरी बातें boring?! ये मेरी मेहनत है!"
+  },
+  {
+   "image": "Raj sighs loudly, leans back, closes his eyes.",
+   "speaker": "Raj",
+   "line": "Toh kya main ab sock specialist ban jaun?",
+   "fx": "none",
+   "say": "तो क्या मैं अब sock specialist बन जाऊं?"
+  },
+  {
+   "image": "Priya throws the sock onto the floor in frustration, tears welling up.",
+   "speaker": "Priya",
+   "line": "Tumhe meri parwah nahi! Main jaa rahi hoon!",
+   "fx": "none",
+   "say": "तुम्हें मेरी परवाह नहीं! मैं जा रही हूं!"
+  },
+  {
+   "image": "Raj opens one eye, a skeptical look.",
+   "speaker": "Raj",
+   "line": "Kahan jaa rahi ho? Mummy ke paas?",
+   "fx": "none",
+   "say": "कहां जा रही हो? मम्मी के पास?"
+  },
+  {
+   "image": "Priya, standing at the door, suitcase packed dramatically (out of nowhere). She looks back, teary-eyed.",
+   "speaker": "Priya",
+   "line": "Jahan mera sock respect kiya jayega!",
+   "fx": "none",
+   "say": "जहां मेरा sock respect किया जाएगा!"
+  },
+  {
+   "image": "Raj laughs, genuinely amused now. Priya glares.",
+   "speaker": "Raj",
+   "line": "Achha, bye! Door open mat chhodna!",
+   "fx": "none",
+   "say": "अच्छा, bye! Door open मत छोड़ना!"
+  },
+  {
+   "image": "Priya slams the door shut from inside, then leans against it, panting, realizing she didn't actually leave. The sock is still on the floor.",
+   "speaker": "Priya",
+   "line": "Uff! Yeh aadmi toh sudharega nahi.",
+   "fx": "none",
+   "say": "उफ़! ये आदमी तो सुधारेगा नहीं।"
+  },
+  {
+   "image": "Both Priya and Raj are now in separate corners of the living room, arms crossed, glaring at each other over the lone sock.",
+   "speaker": "narrator",
+   "line": "Unki choti baat ab badi jang ban gayi.",
+   "fx": "none",
+   "say": "उनकी छोटी बात अब बड़ी जंग बन गई।"
+  },
+  {
+   "image": "Doorbell rings persistently. Priya, looking dishevelled, opens it cautiously. Their nosy neighbour, Mrs. Sharma (middle-aged, saree, big bindi), stands there.",
+   "speaker": "Mrs. Sharma",
+   "line": "Beta, kya hua? Itna shor kyun?",
+   "fx": "none",
+   "say": "बेटा, क्या हुआ? इतना शोर क्यों?"
+  },
+  {
+   "image": "Priya, instantly changing to a damsel in distress, bursts into tears. Raj looks embarrassed in the background.",
+   "speaker": "Priya",
+   "line": "Aunty! Raj ne mera dil tod diya!",
+   "fx": "none",
+   "say": "आंटी! राज ने मेरा दिल तोड़ दिया!"
+  },
+  {
+   "image": "Mrs. Sharma steps in, looking at Raj sternly. Raj looks confused. The sock is still visible.",
+   "speaker": "Mrs. Sharma",
+   "line": "Raj, yeh kya badtameezi hai?",
+   "fx": "none",
+   "say": "राज, ये क्या बदतमीज़ी है?"
+  },
+  {
+   "image": "Raj tries to explain, gesturing towards the sock.",
+   "speaker": "Raj",
+   "line": "Aunty, bas ek sock ki baat thi...",
+   "fx": "none",
+   "say": "आंटी, बस एक sock की बात थी..."
+  },
+  {
+   "image": "Priya interrupts, dramatically pointing at the sock.",
+   "speaker": "Priya",
+   "line": "Nahi! Yeh meri izzat ka sawaal hai!",
+   "fx": "none",
+   "say": "नहीं! ये मेरी इज्ज़त का सवाल है!"
+  },
+  {
+   "image": "Mrs. Sharma, looking grave, picks up the sock with a tissue.",
+   "speaker": "Mrs. Sharma",
+   "line": "Beta, is matter ko society mein uthana padega.",
+   "fx": "none",
+   "say": "बेटा, इस matter को society में उठाना पड़ेगा।"
+  },
+  {
+   "image": "Priya looks triumphant, Raj looks horrified.",
+   "speaker": "Raj",
+   "line": "Kya? Society meeting? Ek sock ke liye?",
+   "fx": "none",
+   "say": "क्या? Society meeting? एक sock के लिए?"
+  },
+  {
+   "image": "Mrs. Sharma nods seriously, holding the sock carefully.",
+   "speaker": "Mrs. Sharma",
+   "line": "Haan, yeh toh bahut serious issue hai.",
+   "fx": "none",
+   "say": "हां, ये तो बहुत serious issue है।"
+  },
+  {
+   "image": "Raj pleads with Mrs. Sharma, but she shakes her head.",
+   "speaker": "Raj",
+   "line": "Aunty, please! Yeh private matter hai!",
+   "fx": "none",
+   "say": "आंटी, please! ये private matter है!"
+  },
+  {
+   "image": "Priya secretly winks at Mrs. Sharma, who gives a small, knowing smile. Raj doesn't see.",
+   "speaker": "narrator",
+   "line": "Ab sock ka raaz sabko pata chal gaya.",
+   "fx": "none",
+   "say": "अब sock का राज़ सबको पता चल गया।"
+  },
+  {
+   "image": "A crowded society meeting hall. Priya and Raj sitting on opposite sides, glaring. Mrs. Sharma dramatically presenting the sock on a velvet cushion.",
+   "speaker": "Mrs. Sharma",
+   "line": "Dekhiye, yeh hai woh sock!",
+   "fx": "none",
+   "say": "देखिए, ये है वो sock!"
+  },
+  {
+   "image": "Society members gasping, some nodding in agreement, others whispering.",
+   "speaker": "narrator",
+   "line": "Oh my god, kitna shocking hai!",
+   "fx": "none",
+   "say": "Oh my god, कितना shocking है!"
+  },
+  {
+   "image": "Raj trying to speak, but getting shouted down by others.",
+   "speaker": "Raj",
+   "line": "Par yeh toh totally galat hai!",
+   "fx": "none",
+   "say": "पर ये तो टोटली गलत है!"
+  },
+  {
+   "image": "Priya stands up, microphone in hand, giving a tearful speech about domestic neglect.",
+   "speaker": "Priya",
+   "line": "Maine socha tha mera ghar mera mandir hai!",
+   "fx": "none",
+   "say": "मैंने सोचा था मेरा घर मेरा मंदिर है!"
+  },
+  {
+   "image": "A local TV reporter with a camera crew bursts into the meeting. The cameraman zooms in on the sock.",
+   "speaker": "Reporter",
+   "line": "Live from Green Valley Society meeting!",
+   "fx": "none",
+   "say": "Live from Green Valley Society meeting!"
+  },
+  {
+   "image": "Priya is now being interviewed, still holding the sock, exaggerating her story for the camera.",
+   "speaker": "Priya",
+   "line": "Yeh sirf ek sock nahi, yeh ek symbol hai!",
+   "fx": "none",
+   "say": "ये सिर्फ एक sock नहीं, ये एक symbol है!"
+  },
+  {
+   "image": "Raj tries to push through the crowd to defend himself, but is held back by security.",
+   "speaker": "Raj",
+   "line": "Meri baat suno! Yeh jhooth hai!",
+   "fx": "none",
+   "say": "मेरी बात सुनो! ये झूठ है!"
+  },
+  {
+   "image": "News headline flashes on screen: 'SOCK-SHOCK: Marriage on the Brink?'",
+   "speaker": "narrator",
+   "line": "News channels ne bhi ispar debate shuru kar di.",
+   "fx": "none",
+   "say": "News channels ने भी इसपर debate शुरू कर दी।"
+  },
+  {
+   "image": "People in their homes, glued to their TVs, watching the news about the sock.",
+   "speaker": "narrator",
+   "line": "Aajkal ke bache bhi na!",
+   "fx": "none",
+   "say": "आजकल के बच्चे भी ना!"
+  },
+  {
+   "image": "Priya and Raj are now shown as caricatures in a newspaper cartoon, fighting over a giant sock.",
+   "speaker": "narrator",
+   "line": "Woh local celebrities ban chuke the.",
+   "fx": "none",
+   "say": "वो local celebrities बन चुके थे।"
+  },
+  {
+   "image": "A busy city street with billboards displaying 'Sock-Gate' headlines and pictures of Priya and Raj.",
+   "speaker": "narrator",
+   "line": "Poore sheher mein sock ki charcha thi.",
+   "fx": "none",
+   "say": "पूरे शहर में sock की चर्चा थी।"
+  },
+  {
+   "image": "People on buses and trains, looking at their phones, memes of Priya, Raj, and the sock are trending.",
+   "speaker": "narrator",
+   "line": "#SockDrama trend kar raha hai!",
+   "fx": "none",
+   "say": "#SockDrama trend कर रहा है!"
+  },
+  {
+   "image": "A talk show panel, two experts vehemently arguing about the 'significance' of the sock in modern relationships.",
+   "speaker": "narrator",
+   "line": "Yeh gender inequality ka issue hai!",
+   "fx": "none",
+   "say": "ये gender inequality का issue है!"
+  },
+  {
+   "image": "Raj, looking utterly defeated, sitting in his living room, surrounded by newspaper clippings and memes. Priya is nowhere to be seen.",
+   "speaker": "Raj",
+   "line": "Meri life barbad ho gayi.",
+   "fx": "none",
+   "say": "मेरी life बर्बाद हो गई।"
+  },
+  {
+   "image": "Priya, secretly enjoying the attention, scrolling through positive comments about her on social media, while hiding behind a plant.",
+   "speaker": "Priya",
+   "line": "Oops, thoda zyada ho gaya?",
+   "fx": "none",
+   "say": "Oops, थोड़ा ज्यादा हो गया?"
+  },
+  {
+   "image": "A lawyer approaches Raj, handing him a subpoena. Raj looks terrified.",
+   "speaker": "narrator",
+   "line": "Aapko court mein present hona padega.",
+   "fx": "none",
+   "say": "आपको court में present होना पड़ेगा।"
+  },
+  {
+   "image": "Raj frantically calls Priya, who ignores his calls. She's busy getting ready for court.",
+   "speaker": "Raj",
+   "line": "Priya, please ab toh phone uthao!",
+   "fx": "none",
+   "say": "प्रिया, please अब तो phone उठाओ!"
+  },
+  {
+   "image": "Priya, in a dramatic black saree, practicing her tearful court testimony in front of a mirror.",
+   "speaker": "Priya",
+   "line": "Justice for my sock, everyone!",
+   "fx": "none",
+   "say": "Justice for my sock, everyone!"
+  },
+  {
+   "image": "Raj, looking miserable, being dragged into the courtroom by a very determined Mrs. Sharma.",
+   "speaker": "Raj",
+   "line": "Aunty, yeh kya kar diya aapne!",
+   "fx": "none",
+   "say": "आंटी, ये क्या कर दिया आपने!"
+  },
+  {
+   "image": "The courtroom, packed with media and spectators. Priya and Raj take their seats, still on opposite sides. The judge enters.",
+   "speaker": "Judge",
+   "line": "Order, order! Court ki maryada rakhein!",
+   "fx": "none",
+   "say": "Order, order! Court की मर्यादा रखें!"
+  },
+  {
+   "image": "The judge, a stern but fair-looking woman, looks at the evidence: the infamous single grey sock.",
+   "speaker": "Judge",
+   "line": "Toh yeh hai vivad ka mool?",
+   "fx": "none",
+   "say": "तो ये है विवाद का मूल?"
+  },
+  {
+   "image": "A forensic expert, wearing a white lab coat, approaches the stand, holding the sock with tweezers.",
+   "speaker": "Forensic Expert",
+   "line": "Your Honor, maine is sock ki jaanch ki hai.",
+   "fx": "none",
+   "say": "Your Honor, मैंने इस sock की जांच की है।"
+  },
+  {
+   "image": "Priya leans forward anxiously. Raj looks resigned.",
+   "speaker": "Priya",
+   "line": "Aakhir ab kya reveal hoga?",
+   "fx": "none",
+   "say": "आखिर अब क्या reveal होगा?"
+  },
+  {
+   "image": "Close-up of the sock. A tiny, barely visible tag is on the inside cuff.",
+   "speaker": "Forensic Expert",
+   "line": "Is par ek naam likha hai.",
+   "fx": "none",
+   "say": "इस पर एक नाम लिखा है।"
+  },
+  {
+   "image": "Everyone in the courtroom gasps. Priya and Raj look at each other, confused.",
+   "speaker": "Judge",
+   "line": "Kiska naam likha hai?",
+   "fx": "none",
+   "say": "किसका नाम लिखा है?"
+  },
+  {
+   "image": "Close-up on the tag: 'Property of Puffy'. Puffy, their fluffy white dog, is sitting quietly under Priya's seat, looking innocent.",
+   "speaker": "Forensic Expert",
+   "line": "Yeh naam hai: \"Puffy\" ka.",
+   "fx": "none",
+   "say": "ये नाम है: \"Puffy\" का।"
+  },
+  {
+   "image": "Puffy, the fluffy white dog (tiny red collar), barks once, a cute little 'woof!'",
+   "speaker": "Puffy",
+   "line": "Woof! Yeh mera favourite sock hai!",
+   "fx": "none",
+   "say": "Woof! ये मेरा favorite sock है!"
+  },
+  {
+   "image": "Priya and Raj stare at Puffy, then at each other, mouths agape.",
+   "speaker": "Priya",
+   "line": "Puffy?! Yeh kaise ho sakta hai?",
+   "fx": "none",
+   "say": "Puffy?! ये कैसे हो सकता है?"
+  },
+  {
+   "image": "Raj slumps in his chair, totally dumbfounded.",
+   "speaker": "Raj",
+   "line": "Toh yeh us pyare Puffy ka tha?",
+   "fx": "none",
+   "say": "तो ये उस प्यारे Puffy का था?"
+  },
+  {
+   "image": "Puffy wags his tail proudly, a tiny piece of string hanging from his mouth (maybe the other sock).",
+   "speaker": "Puffy",
+   "line": "Hamesha se! Main toys chupaata hoon.",
+   "fx": "none",
+   "say": "हमेशा से! मैं toys छुपाता हूं।"
+  },
+  {
+   "image": "Priya and Raj burst into uncontrollable laughter, hugging each other, finally getting the absurd humor of the situation.",
+   "speaker": "Priya",
+   "line": "Oh my god, hum kitne pagal hain!",
+   "fx": "none",
+   "say": "Oh my god, हम कितने पागल हैं!"
+  },
+  {
+   "image": "The judge smiles, shaking her head, amused. Mrs. Sharma looks utterly flabbergasted.",
+   "speaker": "Judge",
+   "line": "Case dismissed! Sock ka maalik mil gaya.",
+   "fx": "none",
+   "say": "Case dismissed! Sock का मालिक मिल गया।"
+  },
+  {
+   "image": "Priya and Raj hugging Puffy, who is licking their faces happily. The sock is now on Puffy's head.",
+   "speaker": "Raj",
+   "line": "Sorry Puffy, humne tumhara sock chheen liya.",
+   "fx": "none",
+   "say": "Sorry Puffy, हमने तुम्हारा sock छीन लिया।"
+  },
+  {
+   "image": "Puffy looks up at them with big, innocent eyes, then gives a happy bark.",
+   "speaker": "Puffy",
+   "line": "Koi baat nahi, next time dhyan rakhna!",
+   "fx": "none",
+   "say": "कोई बात नहीं, next time ध्यान रखना!"
+  },
+  {
+   "image": "Priya and Raj are back home, cuddling Puffy, who is now surrounded by a pile of socks. They are laughing.",
+   "speaker": "narrator",
+   "line": "Kya aapke ghar mein bhi aise socks milte hain?",
+   "fx": "none",
+   "say": "क्या आपके घर में भी ऐसे socks मिलते हैं?"
+  }
+ ],
+ "caption": "Wife Fights Husband Over ONE Sock... The Twist Broke Me! 😂",
+ "slug": "2026-11-07_part2",
+ "story_no": 33,
+ "yt_title": "Wife Fights Husband Over ONE Sock... The Twist Broke Me! 😂",
+ "description": "It started with a single sock on the bed, sparking a tiny argument that snowballed into a city-wide sensation!\nWatch as a husband and wife's silly squabble turns into an epic courtroom drama with the most unexpected twist.\nDo you also find such mystery socks in your house? Tell us in the comments!",
+ "comment_question": "Kya aapke ghar mein bhi aise mystery socks milte hain?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnycartoons",
+  "#couplecomedy",
+  "#husbandwife",
+  "#relatable",
+  "#indiandrama",
+  "#hilarious",
+  "#unexpectedtwist",
+  "#dogsoftiktok",
+  "#viralstory"
+ ]
+}

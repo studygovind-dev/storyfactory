@@ -1,0 +1,605 @@
+{
+ "series": "The Roar That Remembered",
+ "episode": 1,
+ "title": "The Roar That Remembered",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A young woman in her late 20s, graceful, long soft wavy dark-brown hair, small earrings, light wheatish skin, wearing an elegant pastel kurta and palazzo pants.",
+   "voice": "hindi_narrator_female"
+  },
+  "Dadu": {
+   "look": "A wise, kind-faced farmer in his 70s, weathered by sun, short grey hair, wearing a simple cotton dhoti and kurta.",
+   "voice": "hindi_narrator_male"
+  },
+  "Leo": {
+   "look": "A golden-brown lion cub with fluffy fur, later a majestic adult lion with a golden mane and a few visible scars on its face.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "LION MET GRANDPA",
+ "scenes": [
+  {
+   "image": "[[narrator]] stands in a lush field near a jungle, looking thoughtful, a slight smile on her face.",
+   "speaker": "narrator",
+   "line": "Aaj main tumhe ek aisi kahani sunati hu.",
+   "fx": "none",
+   "sub": "Today I will tell you such a story.",
+   "say": "आज मैं तुम्हे एक ऐसी कहानी सुनाती हूँ।"
+  },
+  {
+   "image": "Close-up on [[narrator]]'s face, a hint of wonder in her eyes, thoughtful expression.",
+   "speaker": "narrator",
+   "line": "Jo mere Dadu aur ek sher ki hai.",
+   "fx": "none",
+   "sub": "Which is about my Dadu and a lion.",
+   "say": "जो मेरे दादू और एक शेर की है।"
+  },
+  {
+   "image": "Flashback: [[Dadu]] (younger, 50s) walking through dense jungle, sunbeams through trees.",
+   "speaker": "narrator",
+   "line": "Hamara gaon Ghana jungle ke bilkul paas tha.",
+   "fx": "dust",
+   "sub": "Our village was right next to the dense jungle.",
+   "say": "हमारा गाँव घना जंगल के बिल्कुल पास था।"
+  },
+  {
+   "image": "[[Dadu]] kneels next to a small, whimpering [[Leo]] cub, alone beside a fallen tree.",
+   "speaker": "narrator",
+   "line": "Ek din, Dadu ko mila ek chhota akela cub.",
+   "fx": "none",
+   "sub": "One day, Dadu found a small, lonely cub.",
+   "say": "एक दिन, दादू को मिला एक छोटा अकेला कब।"
+  },
+  {
+   "image": "Close-up on [[Leo]] cub, tiny, scared eyes, looking up at [[Dadu]].",
+   "speaker": "narrator",
+   "line": "Uski maa kahin nahi thi, shayad shikar ho gayi thi.",
+   "fx": "none",
+   "sub": "His mother was nowhere, perhaps she was hunted.",
+   "say": "उसकी माँ कहीं नहीं थी, शायद शिकार हो गई थी।"
+  },
+  {
+   "image": "[[Dadu]] gently extends a hand towards the cub, concern on his face.",
+   "speaker": "narrator",
+   "line": "Dadu ka dil usko dekh kar ekdum pighal gaya.",
+   "fx": "none",
+   "sub": "Dadu's heart completely melted seeing him.",
+   "say": "दादू का दिल उसको देख कर एकदम पिघल गया।"
+  },
+  {
+   "image": "[[Dadu]] carefully picks up the tiny [[Leo]] cub, holding it close, protectively.",
+   "speaker": "narrator",
+   "line": "Woh us chote Leo ko apne ghar le aaye.",
+   "fx": "none",
+   "sub": "He brought that little Leo to his home.",
+   "say": "वो उस छोटे लियो को अपने घर ले आए।"
+  },
+  {
+   "image": "[[Dadu]] feeding milk to [[Leo]] cub from a bottle, sitting on his porch, lovingly.",
+   "speaker": "narrator",
+   "line": "Gaon wale kehne lage, Dadu tum pagal ho.",
+   "fx": "none",
+   "sub": "Villagers started saying, Dadu, you are mad.",
+   "say": "गाँव वाले कहने लगे, दादू तुम पागल हो।"
+  },
+  {
+   "image": "Close-up of [[Dadu]]'s kind face, smiling as [[Leo]] cub drinks from the bottle.",
+   "speaker": "narrator",
+   "line": "Par Dadu ne kaha, yeh toh mera beta hai.",
+   "fx": "none",
+   "sub": "But Dadu said, this is my son.",
+   "say": "पर दादू ने कहा, ये तो मेरा बेटा है।"
+  },
+  {
+   "image": "[[Leo]] cub sleeping peacefully on a small blanket near [[Dadu]]'s feet.",
+   "speaker": "narrator",
+   "line": "Aur aise shuru hui unki ek anokhi dosti ki.",
+   "fx": "none",
+   "sub": "And so began their unique friendship.",
+   "say": "और ऐसे शुरू हुई उनकी एक अनोखी दोस्ती की।"
+  },
+  {
+   "image": "[[Dadu]] playing gently with a slightly bigger [[Leo]] cub in the yard, laughing.",
+   "speaker": "narrator",
+   "line": "Leo Dadu ke saath hansi khushi bada ho raha tha.",
+   "fx": "none",
+   "sub": "Leo was happily growing up with Dadu.",
+   "say": "लियो दादू के साथ हँसी ख़ुशी बड़ा हो रहा था।"
+  },
+  {
+   "image": "Young [[narrator]] (about 8 years old) giggling while petting [[Leo]] cub, both looking happy.",
+   "speaker": "narrator",
+   "line": "Main bhi uske saath khel kar bohot khush hoti thi.",
+   "fx": "none",
+   "sub": "I also felt very happy playing with him.",
+   "say": "मैं भी उसके साथ खेल कर बहुत खुश होती थी।"
+  },
+  {
+   "image": "[[Dadu]] and [[Leo]] cub walking through the fields together, Dadu pointing things out.",
+   "speaker": "narrator",
+   "line": "Dadu ne use ek baap ki tarah pyar diya.",
+   "fx": "none",
+   "sub": "Dadu gave him love like a father.",
+   "say": "दादू ने उसे एक बाप की तरह प्यार दिया।"
+  },
+  {
+   "image": "Close-up of [[Leo]] cub playfully nipping at [[Dadu]]'s dhoti, Dadu laughing heartily.",
+   "speaker": "narrator",
+   "line": "Unhone usko sab insaani tareeke sikhaye the.",
+   "fx": "none",
+   "sub": "He taught him all human ways.",
+   "say": "उन्होंने उसको सब इंसानी तरीक़े सिखाए थे।"
+  },
+  {
+   "image": "[[Leo]] cub (now adolescent, but not fully grown) lying contentedly near [[Dadu]].",
+   "speaker": "narrator",
+   "line": "Log ab bhi usse darte the, par hum nahi.",
+   "fx": "none",
+   "sub": "People still feared him, but we didn't.",
+   "say": "लोग अब भी उससे डरते थे, पर हम नहीं।"
+  },
+  {
+   "image": "[[Dadu]] gently stroking [[Leo]]'s head, both looking peaceful and connected.",
+   "speaker": "narrator",
+   "line": "Hamare liye woh hamara apna family member tha.",
+   "fx": "none",
+   "sub": "For us, he was our own family member.",
+   "say": "हमारे लिए वो हमारा अपना फैमिली मेंबर था।"
+  },
+  {
+   "image": "Wider shot of Dadu's small farm, [[Leo]] (adolescent) exploring near the house.",
+   "speaker": "narrator",
+   "line": "Par ab jungle usko wapas apne paas bula raha tha.",
+   "fx": "none",
+   "sub": "But now the jungle was calling him back.",
+   "say": "पर अब जंगल उसको वापस अपने पास बुला रहा था।"
+  },
+  {
+   "image": "Forest department jeep parked outside Dadu's house. Officials talking seriously to [[Dadu]].",
+   "speaker": "narrator",
+   "line": "Phir ek din forest department wale hamare ghar aaye.",
+   "fx": "none",
+   "sub": "Then one day forest department people came to our house.",
+   "say": "फिर एक दिन फॉरेस्ट डिपार्टमेंट वाले हमारे घर आए।"
+  },
+  {
+   "image": "Close-up of [[Dadu]]'s face, looking sad and helpless, listening to officials.",
+   "speaker": "narrator",
+   "line": "Unhone kaha Leo ko wapas jungle mein bhejna hoga.",
+   "fx": "none",
+   "sub": "They said Leo had to be sent back to the jungle.",
+   "say": "उन्होंने कहा लियो को वापस जंगल में भेजना होगा।"
+  },
+  {
+   "image": "[[Leo]] (adolescent) looking confused, trying to nuzzle [[Dadu]]'s hand, seeking comfort.",
+   "speaker": "narrator",
+   "line": "Ab woh bohot bada ho gaya tha ghar mein rakhne ke liye.",
+   "fx": "none",
+   "sub": "He had grown too big to keep at home now.",
+   "say": "अब वो बहुत बड़ा हो गया था घर में रखने के लिए।"
+  },
+  {
+   "image": "[[Dadu]] embracing [[Leo]] tightly, tears in his eyes, a heartbreaking farewell.",
+   "speaker": "narrator",
+   "line": "Dadu ka dil us din buri tarah toot gaya tha.",
+   "fx": "none",
+   "sub": "Dadu's heart was badly broken that day.",
+   "say": "दादू का दिल उस दिन बुरी तरह टूट गया था।"
+  },
+  {
+   "image": "[[narrator]] (young girl) crying, hugging [[Leo]]'s neck, holding on.",
+   "speaker": "narrator",
+   "line": "Hum sab ro rahe the, uske jaane ke gham mein.",
+   "fx": "none",
+   "sub": "We all were crying, in the sorrow of his leaving.",
+   "say": "हम सब रो रहे थे, उसके जाने के ग़म में।"
+  },
+  {
+   "image": "[[Leo]] being gently coaxed into a cage by forest officials, looking back at [[Dadu]].",
+   "speaker": "narrator",
+   "line": "Usko jungle mein gehri jagah chhod diya gaya.",
+   "fx": "none",
+   "sub": "He was released deep into the jungle.",
+   "say": "उसको जंगल में गहरी जगह छोड़ दिया गया।"
+  },
+  {
+   "image": "[[Dadu]] standing alone at the edge of the jungle, watching the jeep drive away, crestfallen.",
+   "speaker": "narrator",
+   "line": "Dadu ne usko bohot miss kiya, uske baad.",
+   "fx": "none",
+   "sub": "Dadu missed him a lot, after that.",
+   "say": "दादू ने उसको बहुत मिस किया, उसके बाद।"
+  },
+  {
+   "image": "Montage: Seasons changing over the village, showing time passing rapidly.",
+   "speaker": "narrator",
+   "line": "Kayi saal beet gaye, par yaadein hamesha reh gayi.",
+   "fx": "none",
+   "sub": "Many years passed, but memories always remained.",
+   "say": "कई साल बीत गए, पर यादें हमेशा रह गईं।"
+  },
+  {
+   "image": "[[narrator]] (adult now) sitting with [[Dadu]] (older), looking at old photos of Leo.",
+   "speaker": "narrator",
+   "line": "Main badi ho gayi thi, aur Dadu ab boodhe.",
+   "fx": "none",
+   "sub": "I had grown up, and Dadu was now old.",
+   "say": "मैं बड़ी हो गई थी, और दादू अब बूढ़े।"
+  },
+  {
+   "image": "Dry, cracked earth in the fields, sun beating down, showing severe drought.",
+   "speaker": "narrator",
+   "line": "Par kismat ko kuch aur hi manzoor tha hamare liye.",
+   "fx": "dust",
+   "sub": "But fate had something else in store for us.",
+   "say": "पर किस्मत को कुछ और ही मंज़ूर था हमारे लिए।"
+  },
+  {
+   "image": "Villagers gathered, looking worried, pointing towards the jungle in fear.",
+   "speaker": "narrator",
+   "line": "Gaon mein bohot bada sookha pada, paani kam tha.",
+   "fx": "none",
+   "sub": "There was a big drought in the village, water was scarce.",
+   "say": "गाँव में बहुत बड़ा सूखा पड़ा, पानी कम था।"
+  },
+  {
+   "image": "A blurry, distant shot of a full-grown [[Leo]] (adult lion) near the jungle's edge.",
+   "speaker": "narrator",
+   "line": "Jungle ke jaanwar ab paani ki talaash mein gaon aane lage.",
+   "fx": "none",
+   "sub": "Jungle animals now came to the village in search of water.",
+   "say": "जंगल के जानवर अब पानी की तलाश में गाँव आने लगे।"
+  },
+  {
+   "image": "Close-up of [[Dadu]]'s worried face, listening to villager's complaints with concern.",
+   "speaker": "narrator",
+   "line": "Ek zakhmi aur gusse wala bada shern gaon mein aa gaya.",
+   "fx": "none",
+   "sub": "An injured and angry big lion came into the village.",
+   "say": "एक ज़ख्मी और गुस्से वाला बड़ा शेर गाँव में आ गया।"
+  },
+  {
+   "image": "Scratched livestock pen, signs of struggle, a frightened goat visible.",
+   "speaker": "narrator",
+   "line": "Usne kayi jaanwaron ko shikar kiya, pura gaon darra hua tha.",
+   "fx": "none",
+   "sub": "He hunted many animals, the whole village was scared.",
+   "say": "उसने कई जानवरों को शिकार किया, पूरा गाँव डरा हुआ था।"
+  },
+  {
+   "image": "[[narrator]] and [[Dadu]] looking out at the fields at dusk, concern heavy in the air.",
+   "speaker": "narrator",
+   "line": "Hum sab bohot zyada darre hue the us khatarnak shern se.",
+   "fx": "none",
+   "sub": "We were all very scared of that dangerous lion.",
+   "say": "हम सब बहुत ज़्यादा डरे हुए थे उस ख़तरनाक शेरन से।"
+  },
+  {
+   "image": "Villagers with sticks and torches, cautiously moving towards the jungle at night.",
+   "speaker": "narrator",
+   "line": "Raaton ko ab kisi ko bilkul neend nahi aati thi.",
+   "fx": "none",
+   "sub": "At nights, no one could sleep at all.",
+   "say": "रातों को अब किसी को बिलकुल नींद नहीं आती थी।"
+  },
+  {
+   "image": "[[Dadu]] looking determined, picking up a sturdy wooden staff, a thoughtful look.",
+   "speaker": "narrator",
+   "line": "Par Dadu ke mann mein kuch aur hi chal raha tha.",
+   "fx": "none",
+   "sub": "But Dadu had something else going on in his mind.",
+   "say": "पर दादू के मन में कुछ और ही चल रहा था।"
+  },
+  {
+   "image": "Close-up of [[Dadu]]'s eyes, a strange mix of fear and recognition.",
+   "speaker": "Dadu",
+   "line": "Yeh zakhmi shern, kahi Leo toh nahi hai?",
+   "fx": "none",
+   "sub": "This injured lion, could it be Leo?",
+   "say": "ये ज़ख्मी शेरन, कहीं लियो तो नहीं है?"
+  },
+  {
+   "image": "[[narrator]] looking shocked, grabbing [[Dadu]]'s arm, fear on her face.",
+   "speaker": "narrator",
+   "line": "Dadu! Kya bol rahe ho? Woh toh bohot khatarnaak hai!",
+   "fx": "none",
+   "sub": "Dadu! What are you saying? He's very dangerous!",
+   "say": "दादू! क्या बोल रहे हो? वो तो बहुत ख़तरनाक है!"
+  },
+  {
+   "image": "The adult [[Leo]] lion, limping slightly, walking slowly towards Dadu's farm.",
+   "speaker": "narrator",
+   "line": "Ek raat, woh shern seedha hamare farm par aa gaya.",
+   "fx": "none",
+   "sub": "One night, that lion came straight to our farm.",
+   "say": "एक रात, वो शेरन सीधा हमारे फ़ार्म पर आ गया।"
+  },
+  {
+   "image": "[[narrator]] and other villagers hiding behind a wall, peeking out, terrified.",
+   "speaker": "narrator",
+   "line": "Sab ki saansein us pal mein ekdum tham gayi thi.",
+   "fx": "none",
+   "sub": "Everyone's breaths stopped at that moment.",
+   "say": "सब की साँसें उस पल में एकदम थम गई थी।"
+  },
+  {
+   "image": "[[Dadu]] slowly walks forward, unarmed, towards the approaching lion, brave.",
+   "speaker": "narrator",
+   "line": "Par Dadu aage badhe, unke chehre par darr nahi tha.",
+   "fx": "none",
+   "sub": "But Dadu stepped forward, there was no fear on his face.",
+   "say": "पर दादू आगे बढ़े, उनके चेहरे पर डर नहीं था।"
+  },
+  {
+   "image": "Close-up of [[Dadu]]'s determined yet vulnerable face, tears in his eyes.",
+   "speaker": "narrator",
+   "line": "Unki aankhon mein aansu the, aur dil mein ek umeed.",
+   "fx": "none",
+   "sub": "In his eyes were tears, and in his heart a hope.",
+   "say": "उनकी आँखों में आँसू थे, और दिल में एक उम्मीद।"
+  },
+  {
+   "image": "The adult [[Leo]] lion stops, looks at [[Dadu]], head tilted slightly, curious.",
+   "speaker": "narrator",
+   "line": "Sher bhi ruk gaya, Dadu ko pehchaan kar lagta hai.",
+   "fx": "none",
+   "sub": "The lion also stopped, seemingly recognizing Dadu.",
+   "say": "शेर भी रुक गया, दादू को पहचान कर लगता है।"
+  },
+  {
+   "image": "Close-up on the lion's eyes, a flicker of something, maybe confusion, maybe recognition.",
+   "speaker": "narrator",
+   "line": "Woh ghurra nahi, bas Dadu ki taraf dekhta raha.",
+   "fx": "none",
+   "sub": "He didn't growl, just kept looking towards Dadu.",
+   "say": "वो घुर्रा नहीं, बस दादू की तरफ़ देखता रहा।"
+  },
+  {
+   "image": "[[Dadu]] extends his hand slowly, palms open, towards the lion, inviting touch.",
+   "speaker": "narrator",
+   "line": "Dadu ne apna haath uski taraf badhaya, dheere se.",
+   "fx": "none",
+   "sub": "Dadu extended his hand towards him, slowly.",
+   "say": "दादू ने अपना हाथ उसकी तरफ़ बढ़ाया, धीरे से।"
+  },
+  {
+   "image": "The adult [[Leo]] lion slowly lowers its head, nudging Dadu's hand affectionately.",
+   "speaker": "narrator",
+   "line": "Aur usne apna sir Dadu ke haath mein jhuka diya.",
+   "fx": "none",
+   "sub": "And he lowered his head into Dadu's hand.",
+   "say": "और उसने अपना सिर दादू के हाथ में झुका दिया।"
+  },
+  {
+   "image": "Close-up of the lion gently licking [[Dadu]]'s hand, a tender moment.",
+   "speaker": "narrator",
+   "line": "Maine apni aankhon par bilkul vishwas nahi kiya.",
+   "fx": "none",
+   "sub": "I absolutely didn't believe my eyes.",
+   "say": "मैंने अपनी आँखों पर बिल्कुल विश्वास नहीं किया।"
+  },
+  {
+   "image": "[[Dadu]]'s face, tears streaming, but a joyful, relieved smile.",
+   "speaker": "Dadu",
+   "line": "Mera Leo! Tu wapas aa gaya, mera beta!",
+   "fx": "none",
+   "sub": "My Leo! You came back, my son!",
+   "say": "मेरा लियो! तू वापस आ गया, मेरा बेटा!"
+  },
+  {
+   "image": "[[Dadu]] embracing the adult [[Leo]] lion, his arms around its huge neck, reunited.",
+   "speaker": "narrator",
+   "line": "Woh sach mein Leo hi tha, jo ab bada ho gaya tha.",
+   "fx": "none",
+   "sub": "It was truly Leo, who had now grown big.",
+   "say": "वो सच में लियो ही था, जो अब बड़ा हो गया था।"
+  },
+  {
+   "image": "[[narrator]] steps out from hiding, tears of disbelief and joy in her eyes, stunned.",
+   "speaker": "narrator",
+   "line": "Woh zakhmi tha, aur Dadu se madad maangne aaya tha.",
+   "fx": "none",
+   "sub": "He was injured, and had come to Dadu for help.",
+   "say": "वो ज़ख्मी था, और दादू से मदद माँगने आया था।"
+  },
+  {
+   "image": "[[Dadu]] carefully examining [[Leo]]'s injured leg, concern on his face.",
+   "speaker": "narrator",
+   "line": "Dadu ne uske zakhmon ko bohot pyar se saaf kiya.",
+   "fx": "none",
+   "sub": "Dadu cleaned his wounds with great love.",
+   "say": "दादू ने उसके ज़ख्मों को बहुत प्यार से साफ़ किया।"
+  },
+  {
+   "image": "[[Leo]] lion lying down peacefully, [[Dadu]] sitting beside him, stroking his fur.",
+   "speaker": "narrator",
+   "line": "Use khana diya, bilkul jaise bachpan mein dete the.",
+   "fx": "none",
+   "sub": "He gave him food, just like in childhood.",
+   "say": "उसे खाना दिया, बिल्कुल जैसे बचपन में देते थे।"
+  },
+  {
+   "image": "Villagers watching from a distance, amazed, no longer fearful, some looking apologetic.",
+   "speaker": "narrator",
+   "line": "Gaon wale hairan the, aur apni galati par ashamed bhi.",
+   "fx": "none",
+   "sub": "Villagers were amazed, and also ashamed of their mistake.",
+   "say": "गाँव वाले हैरान थे, और अपनी ग़लती पर अशेम्ड भी।"
+  },
+  {
+   "image": "[[Leo]] lion, now recovered, sitting majestically at the edge of the farm, looking out.",
+   "speaker": "narrator",
+   "line": "Leo wapas jungle mein nahi gaya, woh wahin ruk gaya.",
+   "fx": "none",
+   "sub": "Leo didn't go back to the jungle, he stayed there.",
+   "say": "लियो वापस जंगल में नहीं गया, वो यहीं रुक गया।"
+  },
+  {
+   "image": "[[narrator]] and [[Dadu]] watching [[Leo]] from the porch, both smiling, feeling safe.",
+   "speaker": "narrator",
+   "line": "Dadu ka sacha beta, hamesha unke paas tha ab.",
+   "fx": "none",
+   "sub": "Dadu's true son, was always with him now.",
+   "say": "दादू का सच्चा बेटा, हमेशा उनके पास था अब।"
+  },
+  {
+   "image": "Wider shot: [[Leo]] lion patrolling the boundary of the village at night, silhouetted against moonlight.",
+   "speaker": "narrator",
+   "line": "Aur usne hamesha chup chap hamare gaon ki raksha ki.",
+   "fx": "none",
+   "sub": "And he always silently protected our village.",
+   "say": "और उसने हमेशा चुप चाप हमारे गाँव की रक्षा की।"
+  },
+  {
+   "image": "Other wild animals (deer, smaller predators) turning away from the village boundary.",
+   "speaker": "narrator",
+   "line": "Koi aur khatarnak shern nahi aaya uske baad yahan.",
+   "fx": "none",
+   "sub": "No other dangerous lion came here after that.",
+   "say": "कोई और ख़तरनाक शेरन नहीं आया उसके बाद यहाँ।"
+  },
+  {
+   "image": "[[Dadu]] leaving a bowl of food for [[Leo]] at the jungle's edge, a ritual.",
+   "speaker": "narrator",
+   "line": "Dadu usko roz khana dete the, bina chinta ke.",
+   "fx": "none",
+   "sub": "Dadu gave him food daily, without worry.",
+   "say": "दादू उसको रोज़ खाना देते थे, बिना चिंता के।"
+  },
+  {
+   "image": "Close-up of [[Dadu]]'s hand, touching [[Leo]]'s head gently, a deep, unbreakable bond.",
+   "speaker": "narrator",
+   "line": "Ek anokha aur sacha rishta, insaan aur jaanwar ka.",
+   "fx": "none",
+   "sub": "A unique and true bond, of human and animal.",
+   "say": "एक अनोखा और सच्चा रिश्ता, इंसान और जानवर का।"
+  },
+  {
+   "image": "[[narrator]] smiling, watching [[Dadu]] and [[Leo]] interact from a distance, amazed.",
+   "speaker": "narrator",
+   "line": "Mujhe samajh aaya, pyar ki taakat kitni badi hai.",
+   "fx": "none",
+   "sub": "I understood, how great the power of love is.",
+   "say": "मुझे समझ आया, प्यार की ताक़त कितनी बड़ी है।"
+  },
+  {
+   "image": "[[Dadu]] and [[Leo]] sitting together at sunset, a peaceful, harmonious scene.",
+   "speaker": "narrator",
+   "line": "Woh wapas aaya, apna asli ghar dhoondh kar.",
+   "fx": "none",
+   "sub": "He came back, finding his true home.",
+   "say": "वो वापस आया, अपना असली घर ढूँढ कर।"
+  },
+  {
+   "image": "Close-up of [[Leo]]'s eyes, looking wise and content, gazing towards Dadu.",
+   "speaker": "narrator",
+   "line": "Aur usne apna chup chup vaada hamesha nibhaya.",
+   "fx": "none",
+   "sub": "And he always kept his silent promise.",
+   "say": "और उसने अपना चुप चुप वादा हमेशा निभाया।"
+  },
+  {
+   "image": "[[narrator]] stands in the field, looking up at the sky, a feeling of awe.",
+   "speaker": "narrator",
+   "line": "Hamari yeh kahani, sachi hai, aur bohot emotional.",
+   "fx": "none",
+   "sub": "Our this story, is true, and very emotional.",
+   "say": "हमारी ये कहानी, सच्ची है, और बहुत इमोशनल।"
+  },
+  {
+   "image": "Close-up on [[narrator]]'s face, a tear rolling down her cheek, but smiling through it.",
+   "speaker": "narrator",
+   "line": "Pyar ki koi seema nahi hoti, yeh toh pakka hai.",
+   "fx": "none",
+   "sub": "Love has no bounds, that's for sure.",
+   "say": "प्यार की कोई सीमा नहीं होती, ये तो पक्का है।"
+  },
+  {
+   "image": "Dadu's farm, peaceful, with [[Leo]]'s silhouette visible in the distance.",
+   "speaker": "narrator",
+   "line": "Yeh tha Dadu aur Leo ka ek anokha rishta.",
+   "fx": "none",
+   "sub": "This was Dadu and Leo's unique bond.",
+   "say": "ये था दादू और लियो का एक अनोखा रिश्ता।"
+  },
+  {
+   "image": "[[Dadu]] sitting on his porch, looking content, sun on his face, peaceful.",
+   "speaker": "narrator",
+   "line": "Sachha pyar wapas aata hai, hamesha apne ghar.",
+   "fx": "none",
+   "sub": "True love always returns, to its home.",
+   "say": "सच्चा प्यार वापस आता है, हमेशा अपने घर।"
+  },
+  {
+   "image": "Close-up of an old, worn photo of young [[Dadu]] with [[Leo]] cub, cherished.",
+   "speaker": "narrator",
+   "line": "Hamari family ka, yeh toh ek special secret ban gaya.",
+   "fx": "none",
+   "sub": "Our family's, this became a special secret.",
+   "say": "हमारी फ़ैमिली का, ये तो एक स्पेशल सीक्रेट बन गया।"
+  },
+  {
+   "image": "[[narrator]] looking directly at the camera, a warm, inviting expression.",
+   "speaker": "narrator",
+   "line": "Yeh meri kahani sun kar, aapko kaisa laga?",
+   "fx": "none",
+   "sub": "After hearing my story, how did you feel?",
+   "say": "ये मेरी कहानी सुन कर, आपको कैसा लगा?"
+  },
+  {
+   "image": "Another close-up of [[narrator]], hopeful expression, encouraging interaction.",
+   "speaker": "narrator",
+   "line": "Kya aapne bhi aise incredible bonds dekhe hain?",
+   "fx": "none",
+   "sub": "Have you also seen such incredible bonds?",
+   "say": "क्या आपने भी ऐसे इनक्रेडिबल बॉन्ड्स देखे हैं?"
+  },
+  {
+   "image": "Wide shot of the village, peaceful, with jungle in background, a sense of harmony.",
+   "speaker": "narrator",
+   "line": "Pyar ki shakti, duniya mein sabse badi hai.",
+   "fx": "none",
+   "sub": "The power of love, is the greatest in the world.",
+   "say": "प्यार की शक्ति, दुनिया में सबसे बड़ी है।"
+  },
+  {
+   "image": "[[Leo]] (adult lion) giving a final look towards Dadu's house from the jungle edge.",
+   "speaker": "narrator",
+   "line": "Uska roop badla tha, par uski rooh wahi rahi.",
+   "fx": "none",
+   "sub": "His form had changed, but his soul remained the same.",
+   "say": "उसका रूप बदला था, पर उसकी रूह वही रही।"
+  },
+  {
+   "image": "Final shot of [[Dadu]] and [[Leo]] (adult lion) sitting peacefully together, side by side, at sunset.",
+   "speaker": "narrator",
+   "line": "Kya incredible animal bonds aapne kabhi dekhe hain?",
+   "fx": "none",
+   "sub": "What incredible animal bonds have you ever witnessed?",
+   "say": "क्या इनक्रेडिबल एनिमल बॉन्ड्स आपने कभी देखे हैं?"
+  }
+ ],
+ "caption": "My Grandfather Raised a Lion Cub. Years Later, He Returned. 🦁",
+ "slug": "2026-11-07_part1",
+ "story_no": 32,
+ "yt_title": "My Grandfather Raised a Lion Cub. Years Later, He Returned. 🦁",
+ "description": "My Dadu raised a lion cub like his own child, against all odds. No one believed our incredible story. Years later, when danger loomed, he returned.\nWill their unbreakable bond endure the test of time and peril, changing everything?\nWhat incredible animal bonds have you witnessed?",
+ "comment_question": "What incredible animal bonds have you witnessed?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalstory",
+  "#lionstory",
+  "#wildlife",
+  "#humananimalbond",
+  "#indianvillage",
+  "#unconditionallove",
+  "#reunion",
+  "#faith",
+  "#bravery"
+ ]
+}
