@@ -1,0 +1,547 @@
+{
+ "series": "The Cat's Cosmic Cover-Up",
+ "episode": 2,
+ "title": "The Cat's Cosmic Cover-Up",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator_female": {
+   "look": "Female storyteller with warm, engaging expression.",
+   "voice": "hindi_narrator_female"
+  },
+  "Priya": {
+   "look": "Young woman, 28, fair skin, long soft wavy dark-brown hair, natural makeup, small gold earrings, elegant pastel green kurta with white churidar, often looks flustered but loving.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Mia": {
+   "look": "Girl, 7, fair skin, two cute pigtails with blue ribbons, bright curious eyes, school uniform (blue and white dress with white shirt), always energetic.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Mrs. Sharma": {
+   "look": "Woman, 40s, light wheatish skin, neat black bun, thin-rimmed glasses, traditional maroon saree, calm but firm expression.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Gogo": {
+   "look": "Fluffy white Persian cat, green eyes, small silver bell collar, looks perpetually smug or innocent.",
+   "voice": "hindi_cartoon_male"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "CAT CONFIRMS ALIEN!",
+ "scenes": [
+  {
+   "image": "[[Priya]] looking utterly shocked, eyes wide, mouth agape, holding a half-eaten drawing of a solar system. A fluffy white [[Gogo]] cat peeks innocently from behind her, a tiny grin on his face.",
+   "speaker": "Priya",
+   "line": "My daughter's school excuse? Totally epic fail today!",
+   "fx": "none",
+   "say": "मेरी बेटी का स्कूल एक्सक्यूज़? टोटली एपिक फ़ेल टुडे!"
+  },
+  {
+   "image": "[[Priya]] frantically packing a lunchbox in a bright, sunlit kitchen. [[Mia]] is beside her, looking distressed and fidgety.",
+   "speaker": "narrator_female",
+   "line": "Morning rush, as usual. We were already running very late.",
+   "fx": "none",
+   "say": "मॉर्निंग रश, एज़ यूज़ुअल। हम पहले ही रनिंग वेरी लेट।"
+  },
+  {
+   "image": "Close-up on [[Mia]]'s sad, worried face. She's clutching her empty school bag straps tightly.",
+   "speaker": "Mia",
+   "line": "Mamma, my super special solar system project is totally missing!",
+   "fx": "none",
+   "say": "मम्मा, मेरा सुपर स्पेशल सोलर सिस्टम प्रोजेक्ट इज़ टोटली मिसिंग!"
+  },
+  {
+   "image": "[[Priya]] turns from the counter, looking confused and slightly annoyed, holding a sandwich.",
+   "speaker": "Priya",
+   "line": "What? Missing again? Kahaan chala gaya yeh ab?",
+   "fx": "none",
+   "say": "क्या? मिसिंग अगेन? कहाँ चला गया ये अब?"
+  },
+  {
+   "image": "[[Mia]] looking down at her empty hands, then frantically searching under the kitchen table.",
+   "speaker": "Mia",
+   "line": "I can't find it anywhere! It was right here on my table!",
+   "fx": "none",
+   "say": "मुझे कहीं नहीं मिल रहा! ये यहीं था ऑन माई टेबल!"
+  },
+  {
+   "image": "[[Priya]] sighs, exasperated, hands on her hips, a comical look of despair.",
+   "speaker": "Priya",
+   "line": "Oh God, Mia! Ab kaunsa naya bahana banayengi tum?",
+   "fx": "none",
+   "say": "ओह गॉड, मिया! अब कौनसा नया बहाना बनाएंगी तुम?"
+  },
+  {
+   "image": "[[Mia]] looks up, a mischievous glint in her eyes, a determined smile forming.",
+   "speaker": "Mia",
+   "line": "I'll just say our neighbour's dog ate it, Mamma!",
+   "fx": "none",
+   "say": "मैं जस्ट कहूँगी हमारे नेबर का डॉग एट इट, मम्मा!"
+  },
+  {
+   "image": "[[Priya]] deadpans, raising an eyebrow, looking directly at Mia.",
+   "speaker": "Priya",
+   "line": "Beta, we don't even have a dog at our home.",
+   "fx": "none",
+   "say": "बेटा, वी डोंट ईवन हैव अ डॉग एट आवर होम।"
+  },
+  {
+   "image": "[[Mia]] pouts, thinking hard, then brightens instantly with a wild idea.",
+   "speaker": "Mia",
+   "line": "A giant space squirrel from Mars came and ate it!",
+   "fx": "none",
+   "say": "एक जायंट स्पेस स्क्विरल मार्स से केम एंड एट इट!"
+  },
+  {
+   "image": "[[Priya]] facepalms dramatically, shaking her head in disbelief.",
+   "speaker": "Priya",
+   "line": "Beta, that's actually even more ridiculous and worse!",
+   "fx": "none",
+   "say": "बेटा, दैट्स एक्चुअली ईवन मोर रिडिकुलस एंड वर्स!"
+  },
+  {
+   "image": "[[Priya]] kneeling, trying to explain patiently to [[Mia]], who looks confused.",
+   "speaker": "Priya",
+   "line": "Listen, we need something more believable, but still creative.",
+   "fx": "none",
+   "say": "लिसन, हमें कुछ मोर बिलीवेबल, बट स्टिल क्रिएटिव चाहिए।"
+  },
+  {
+   "image": "Close-up on [[Mia]]'s expectant face, listening intently to her mother.",
+   "speaker": "Mia",
+   "line": "Like what kind of creative excuse, Mamma?",
+   "fx": "none",
+   "say": "लाइक व्हाट काइंड ऑफ क्रिएटिव एक्सक्यूज़, मम्मा?"
+  },
+  {
+   "image": "[[Priya]] ponders for a moment, then snaps her fingers with a sudden idea, a mischievous smile.",
+   "speaker": "Priya",
+   "line": "Okay, let's say... a very smart, super hungry pigeon...",
+   "fx": "none",
+   "say": "ओके, लेट्स से... एक वेरी स्मार्ट, सुपर हंग्री पिजन..."
+  },
+  {
+   "image": "[[Mia]]'s eyes widen, intrigued, finishing her mother's sentence.",
+   "speaker": "Mia",
+   "line": "...flew straight into my room through the window?",
+   "fx": "none",
+   "say": "...फ़्लू स्ट्रेट इंटू माई रूम थ्रू द विंडो?"
+  },
+  {
+   "image": "[[Priya]] nods enthusiastically, warming to her fabricated story, gesturing dramatically.",
+   "speaker": "Priya",
+   "line": "Exactly! And he thought your awesome drawing was a giant seed.",
+   "fx": "none",
+   "say": "एक्ज़ैक्टली! और उसने सोचा तुम्हारा ऑसम ड्रॉइंग वॉज़ अ जायंट सीड।"
+  },
+  {
+   "image": "[[Mia]] giggles, liking this version of the story, excitedly pointing.",
+   "speaker": "Mia",
+   "line": "And he flew away with it very, very fast!",
+   "fx": "none",
+   "say": "और वो फ़्लू अवे विथ इट वेरी, वेरी फ़ास्ट!"
+  },
+  {
+   "image": "[[Priya]] winks, proud of her storytelling prowess, giving a thumbs up.",
+   "speaker": "Priya",
+   "line": "Poof! Gone! This is the perfect school excuse.",
+   "fx": "none",
+   "say": "पूफ़! गॉन! दिस इज़ द परफ़ेक्ट स्कूल एक्सक्यूज़।"
+  },
+  {
+   "image": "[[Mia]] is in her brightly lit classroom, standing nervously in front of [[Mrs. Sharma]]'s desk.",
+   "speaker": "narrator_female",
+   "line": "At school, Mia tried her best to explain everything.",
+   "fx": "none",
+   "say": "एट स्कूल, मिया ट्राइड हर बेस्ट टू एक्सप्लेन एवरीथिंग।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] looks stern, arms crossed, listening intently but with skepticism.",
+   "speaker": "Mrs. Sharma",
+   "line": "So, Mia, where is your much-awaited solar system project?",
+   "fx": "none",
+   "say": "सो, मिया, वेयर इज़ योर मच-अवेइटेड सोलर सिस्टम प्रोजेक्ट?"
+  },
+  {
+   "image": "[[Mia]] fidgets, then starts reciting Priya's story, gesturing with her hands.",
+   "speaker": "Mia",
+   "line": "Ma'am, a very smart, super hungry pigeon flew in...",
+   "fx": "none",
+   "say": "मैम, एक वेरी स्मार्ट, सुपर हंग्री पिजन फ़्लू इन..."
+  },
+  {
+   "image": "[[Mrs. Sharma]] raises an eyebrow, already suspicious, a slight frown on her face.",
+   "speaker": "Mrs. Sharma",
+   "line": "A pigeon? In your very own room, Mia?",
+   "fx": "none",
+   "say": "अ पिजन? इन योर वेरी ओन रूम, मिया?"
+  },
+  {
+   "image": "[[Mia]] continues, adding a flourish, convinced of her elaborate tale.",
+   "speaker": "Mia",
+   "line": "Yes! He actually thought it was a giant sunflower seed!",
+   "fx": "none",
+   "say": "यस! ही एक्चुअली थॉट इट वॉज़ अ जायंट सनफ़्लावर सीड!"
+  },
+  {
+   "image": "[[Mrs. Sharma]] sighs deeply, rubbing her temples, looking tired.",
+   "speaker": "Mrs. Sharma",
+   "line": "Mia, that's quite an imaginative story you are telling.",
+   "fx": "none",
+   "say": "मिया, दैट्स क्वाइट एन इमैजिनेटिव स्टोरी यू आर टेलिंग।"
+  },
+  {
+   "image": "Close-up on a note being meticulously written by [[Mrs. Sharma]] for Priya.",
+   "speaker": "narrator_female",
+   "line": "She sent a very urgent note home. Priya, call me.",
+   "fx": "none",
+   "say": "शी सेंट अ वेरी अर्जेंट नोट होम। प्रिया, कॉल मी।"
+  },
+  {
+   "image": "[[Priya]] at home, looking stressed and worried, holding the note with trembling hands.",
+   "speaker": "Priya",
+   "line": "Oh no! Yeh toh pakka bada drama ho gaya ab!",
+   "fx": "none",
+   "say": "ओह नो! ये तो पक्का बड़ा ड्रामा हो गया अब!"
+  },
+  {
+   "image": "[[Priya]] on the phone, looking worried, then determined, her jaw set.",
+   "speaker": "Priya",
+   "line": "I need to go to school now. Aaj toh samjhaana padega unko.",
+   "fx": "none",
+   "say": "आई नीड टू गो टू स्कूल नाउ। आज तो समझाना पड़ेगा उनको।"
+  },
+  {
+   "image": "[[Priya]] nervously entering [[Mrs. Sharma]]'s classroom. [[Mrs. Sharma]] is waiting with a stern, expectant face. [[Mia]] is sitting quietly at a desk.",
+   "speaker": "narrator_female",
+   "line": "Priya quickly went to school, ready to clarify everything.",
+   "fx": "none",
+   "say": "प्रिया क्विकली वेंट टू स्कूल, रेडी टू क्लैरिफाई एवरीथिंग।"
+  },
+  {
+   "image": "[[Priya]] smiles apologetically at [[Mrs. Sharma]], hands clasped together.",
+   "speaker": "Priya",
+   "line": "Ma'am, I am so very sorry about Mia's wild story.",
+   "fx": "none",
+   "say": "मैम, आई एम सो वेरी सॉरी अबाउट मिया की वाइल्ड स्टोरी।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] raises a hand, stopping her gently but firmly, her expression unyielding.",
+   "speaker": "Mrs. Sharma",
+   "line": "Please, sit down, Mrs. Chopra, we need to talk.",
+   "fx": "none",
+   "say": "प्लीज, सिट डाउन, मिसेज़ चोपड़ा, वी नीड टू टॉक।"
+  },
+  {
+   "image": "[[Priya]] sits nervously beside Mia, glancing at her daughter with a warning look.",
+   "speaker": "Priya",
+   "line": "She's... very imaginative, you see, a bit too creative.",
+   "fx": "none",
+   "say": "शीज़... वेरी इमैजिनेटिव, यू सी, अ बिट टू क्रिएटिव।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] looks directly at [[Mia]], her gaze unwavering and serious.",
+   "speaker": "Mrs. Sharma",
+   "line": "Mia, please tell your mother what happened this morning.",
+   "fx": "none",
+   "say": "मिया, प्लीज टेल योर मदर व्हाट हैपेंड दिस मॉर्निंग।"
+  },
+  {
+   "image": "[[Mia]] looks at [[Priya]], then at [[Mrs. Sharma]], a proud, mischievous look forming.",
+   "speaker": "Mia",
+   "line": "Mamma, Ma'am totally didn't believe the pigeon story!",
+   "fx": "none",
+   "say": "मम्मा, मैम टोटली डिडंट बिलीव द पिजन स्टोरी!"
+  },
+  {
+   "image": "[[Priya]] claps a hand over her mouth in shock, her eyes wide with dread.",
+   "speaker": "Priya",
+   "line": "Oh no... What new trouble have you made now?",
+   "fx": "none",
+   "say": "ओह नो... व्हाट न्यू ट्रबल हैव यू मेड नाउ?"
+  },
+  {
+   "image": "[[Mrs. Sharma]] nods slowly, her expression hinting at her exhaustion.",
+   "speaker": "Mrs. Sharma",
+   "line": "So Mia, what *really* happened with your project?",
+   "fx": "none",
+   "say": "सो मिया, व्हाट *रियली* हैपेंड विथ योर प्रोजेक्ट?"
+  },
+  {
+   "image": "[[Mia]] stands up, full of confidence, gesturing dramatically with both hands.",
+   "speaker": "Mia",
+   "line": "Ma'am, actually, it was a space squirrel from outer space!",
+   "fx": "none",
+   "say": "मैम, एक्चुअली, इट वॉज़ अ स्पेस स्क्विरल फ्रॉम आउटर स्पेस!"
+  },
+  {
+   "image": "[[Priya]] buries her face in her hands, utterly mortified, shaking her head.",
+   "speaker": "Priya",
+   "line": "Mia! No! Why are you making things worse now?",
+   "fx": "none",
+   "say": "मिया! नो! व्हाई आर यू मेकिंग थिंग्स वर्स नाउ?"
+  },
+  {
+   "image": "[[Mrs. Sharma]] looks from [[Mia]] to [[Priya]], utterly confused and exasperated.",
+   "speaker": "Mrs. Sharma",
+   "line": "A space squirrel again? Are you serious, Mia?",
+   "fx": "none",
+   "say": "अ स्पेस स्क्विरल अगेन? आर यू सीरियस, मिया?"
+  },
+  {
+   "image": "[[Mia]] nods vigorously, embellishing the story with wild hand gestures.",
+   "speaker": "Mia",
+   "line": "Yes! He had glowing laser eyes! And he completely melted my project!",
+   "fx": "none",
+   "say": "यस! ही हैड ग्लोइंग लेज़र आइज़! एंड ही कंप्लीटली मेल्टेड माई प्रोजेक्ट!"
+  },
+  {
+   "image": "[[Priya]] peeks through her fingers, her face a mask of utter despair.",
+   "speaker": "Priya",
+   "line": "Meri izzat ka toh ab falooda ho gaya totally!",
+   "fx": "none",
+   "say": "मेरी इज़्ज़त का तो अब फ़ालूदा हो गया टोटली!"
+  },
+  {
+   "image": "[[Mrs. Sharma]] removes her glasses, pinching the bridge of her nose, looking at Priya.",
+   "speaker": "Mrs. Sharma",
+   "line": "Mrs. Chopra, is this unbelievable story really true?",
+   "fx": "none",
+   "say": "मिसेज़ चोपड़ा, इज़ दिस अनबिलीवेबल स्टोरी रियली ट्रू?"
+  },
+  {
+   "image": "[[Priya]] quickly shakes her head, trying to recover, a nervous smile on her face.",
+   "speaker": "Priya",
+   "line": "No, ma'am! Of course not! She's just being extra dramatic!",
+   "fx": "none",
+   "say": "नो, मैम! ऑफ कोर्स नॉट! शीज़ जस्ट बीइंग एक्स्ट्रा ड्रामेटिक!"
+  },
+  {
+   "image": "[[Mia]] interrupts, pointing a dramatic finger towards the door.",
+   "speaker": "Mia",
+   "line": "He was actually chasing Gogo! That's why it happened!",
+   "fx": "none",
+   "say": "ही वाज़ एक्चुअली चेज़िंग गोगो! दैट्स व्हाई इट हैपेंड!"
+  },
+  {
+   "image": "[[Priya]] and [[Mrs. Sharma]] both look bewildered, exchanging confused glances.",
+   "speaker": "Priya",
+   "line": "Gogo? Our little fluffy cat? What is he doing here?",
+   "fx": "none",
+   "say": "गोगो? आवर लिटिल फ्लफी कैट? व्हाट इज़ ही डूइंग हियर?"
+  },
+  {
+   "image": "[[Mia]] nods vigorously, looking serious and convinced.",
+   "speaker": "Mia",
+   "line": "Yes! Our Gogo saw everything from the window!",
+   "fx": "none",
+   "say": "यस! आवर गोगो सॉ एवरीथिंग फ्रॉम द विंडो!"
+  },
+  {
+   "image": "Close-up on [[Priya]]'s horrified face, eyes wide, mouth agape in disbelief.",
+   "speaker": "Priya",
+   "line": "Oh my God. This whole situation is getting totally out of hand!",
+   "fx": "none",
+   "say": "ओह माय गॉड। दिस होल सिचुएशन इज़ गेटिंग टोटली आउट ऑफ हैंड!"
+  },
+  {
+   "image": "Suddenly, the classroom door is pushed open slightly. A small white fluffy head of [[Gogo]] peeks in, his green eyes blinking innocently.",
+   "speaker": "narrator_female",
+   "line": "Just then, a tiny, very unexpected visitor casually arrived.",
+   "fx": "none",
+   "say": "जस्ट दैन, अ टाइनी, वेरी अनएक्सपेक्टेड विज़िटर कैजुअली अराइव्ड।"
+  },
+  {
+   "image": "[[Priya]] and [[Mrs. Sharma]] stare, jaws dropped, at [[Gogo]] peeking from the door.",
+   "speaker": "Priya",
+   "line": "Gogo? How did you even get here, you naughty cat?",
+   "fx": "none",
+   "say": "गोगो? हाउ डिड यू ईवन गेट हियर, यू नॉटी कैट?"
+  },
+  {
+   "image": "[[Gogo]] walks confidently into the room, tail swishing, a smug look on his face.",
+   "speaker": "Gogo",
+   "line": "Meow-sterious ways, Mamma. Meow-sterious, secret ways.",
+   "fx": "none",
+   "say": "म्याऊ-स्टीरियस वेज़, मम्मा। म्याऊ-स्टीरियस, सीक्रेट वेज़।"
+  },
+  {
+   "image": "[[Priya]] and [[Mrs. Sharma]] freeze, eyes wide in utter disbelief, pointing at Gogo.",
+   "speaker": "Priya",
+   "line": "Did... did Gogo just talk to us right now?",
+   "fx": "none",
+   "say": "डिड... डिड गोगो जस्ट टॉक टू अस राइट नाउ?"
+  },
+  {
+   "image": "[[Gogo]] sits down elegantly on the floor, looking at [[Mrs. Sharma]] with a sophisticated expression.",
+   "speaker": "Gogo",
+   "line": "Of course, I did. My sincere apologies for the interruption, Ma'am.",
+   "fx": "none",
+   "say": "ऑफ कोर्स, आई डिड। माय सिंसियर अपॉलॉजीज़ फॉर द इंटेरप्शन, मैम।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] takes off her glasses, rubs her eyes, puts them back on, completely bewildered.",
+   "speaker": "Mrs. Sharma",
+   "line": "Am I... dreaming this? Or is this some kind of prank?",
+   "fx": "none",
+   "say": "एम आई... ड्रीमिंग दिस? ऑर इज़ दिस सम काइंड ऑफ प्रैंक?"
+  },
+  {
+   "image": "[[Gogo]] turns to [[Mia]], giving her a sly, conspiratorial wink.",
+   "speaker": "Gogo",
+   "line": "Mia is mostly telling the truth, so you can trust her.",
+   "fx": "none",
+   "say": "मिया इज़ मोस्टली टेलिंग द ट्रुथ, सो यू कैन ट्रस्ट हर।"
+  },
+  {
+   "image": "[[Priya]] points a trembling finger at [[Gogo]], her jaw still dropped.",
+   "speaker": "Priya",
+   "line": "Gogo! You can actually talk to us this whole time?!",
+   "fx": "none",
+   "say": "गोगो! यू कैन एक्चुअली टॉक टू अस दिस होल टाइम?!"
+  },
+  {
+   "image": "[[Gogo]] shrugs his tiny shoulders, looking nonchalant, as if it's obvious.",
+   "speaker": "Gogo",
+   "line": "Been doing it for ages, Mamma. You two just never listen.",
+   "fx": "none",
+   "say": "बीन डूइंग इट फॉर एजेस, मम्मा। यू टू जस्ट नेवर लिसन।"
+  },
+  {
+   "image": "[[Mia]] beams, pointing proudly at [[Gogo]], feeling completely vindicated.",
+   "speaker": "Mia",
+   "line": "See, Mamma? I always told you this was true!",
+   "fx": "none",
+   "say": "सी, मम्मा? आई ऑलवेज़ टोल्ड यू दिस वॉज़ ट्रू!"
+  },
+  {
+   "image": "[[Gogo]] turns back to [[Mrs. Sharma]], his expression now serious and thoughtful.",
+   "speaker": "Gogo",
+   "line": "About the whole space squirrel incident, Ma'am...",
+   "fx": "none",
+   "say": "अबाउट द होल स्पेस स्क्विरल इंसिडेंट, मैम..."
+  },
+  {
+   "image": "Close-up on [[Mrs. Sharma]]'s face, completely shell-shocked, barely able to speak.",
+   "speaker": "Mrs. Sharma",
+   "line": "Yes...? What more do you have to add?",
+   "fx": "none",
+   "say": "यस...? व्हाट मोर डू यू हैव टू ऐड?"
+  },
+  {
+   "image": "[[Gogo]] puffs out his chest dramatically, emphasizing his point.",
+   "speaker": "Gogo",
+   "line": "He wasn't just *any* normal space squirrel, you see.",
+   "fx": "none",
+   "say": "ही वजन्ट जस्ट *एनी* नॉर्मल स्पेस स्क्विरल, यू सी।"
+  },
+  {
+   "image": "Close-up on [[Priya]]'s horrified face, eyes wide, anticipating more trouble.",
+   "speaker": "Priya",
+   "line": "Oh no, Gogo. Don't you dare add anything more!",
+   "fx": "none",
+   "say": "ओह नो, गोगो। डोन्ट यू डेअर ऐड एनीथिंग मोर!"
+  },
+  {
+   "image": "[[Gogo]] ignores [[Priya]], looking straight at [[Mrs. Sharma]], completely invested in his story.",
+   "speaker": "Gogo",
+   "line": "He had a tiny, shiny astronaut helmet! And a cool jetpack!",
+   "fx": "none",
+   "say": "ही हैड अ टाइनी, शाइनी एस्ट्रोनॉट हेलमेट! एंड अ कूल जेटपैक!"
+  },
+  {
+   "image": "[[Mia]] claps her hands in delight, adding her own detail to the story.",
+   "speaker": "Mia",
+   "line": "And laser eyes! Don't you dare forget his laser eyes!",
+   "fx": "none",
+   "say": "एंड लेज़र आइज़! डोन्ट यू डेअर फॉरगेट हिज़ लेज़र आइज़!"
+  },
+  {
+   "image": "[[Mrs. Sharma]] slowly puts her head down on the desk, completely defeated and overwhelmed.",
+   "speaker": "Mrs. Sharma",
+   "line": "I... I desperately need a very long, peaceful vacation.",
+   "fx": "none",
+   "say": "आई... आई डेस्परेटली नीड अ वेरी लॉन्ग, पीसफुल वेकेशन।"
+  },
+  {
+   "image": "[[Priya]] looks at [[Gogo]], then at [[Mia]], then at the crumpled drawing, utterly dumbfounded.",
+   "speaker": "Priya",
+   "line": "My entire life is officially a cartoon show now, it seems.",
+   "fx": "none",
+   "say": "माई एंटायर लाइफ़ इज़ ऑफ़िशियली अ कार्टून शो नाउ, इट सीम्स।"
+  },
+  {
+   "image": "[[Gogo]] gives a smug look, polishing his paw nonchalantly, proud of his contribution.",
+   "speaker": "Gogo",
+   "line": "Just doing my part for our lovely family bonding experience.",
+   "fx": "none",
+   "say": "जस्ट डूइंग माई पार्ट फॉर आवर लवली फ़ैमिली बॉन्डिंग एक्सपीरियंस।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] lifts her head, a faint, amused smile playing on her lips, looking at the trio.",
+   "speaker": "Mrs. Sharma",
+   "line": "Okay, Mia, I'll give you an extension for your project.",
+   "fx": "none",
+   "say": "ओके, मिया, आई विल गिव यू एन एक्सटेंशन फॉर योर प्रोजेक्ट।"
+  },
+  {
+   "image": "[[Mia]] jumps up and hugs [[Priya]] tightly, who is still in a state of shock but manages a weak smile.",
+   "speaker": "Mia",
+   "line": "Yay! Thank you so much, Ma'am! You are the best!",
+   "fx": "none",
+   "say": "ये! थैंक यू सो मच, मैम! यू आर द बेस्ट!"
+  },
+  {
+   "image": "[[Gogo]] stretches luxuriously on [[Mrs. Sharma]]'s desk, looking very comfortable and entitled.",
+   "speaker": "Gogo",
+   "line": "And perhaps some extra special salmon for the chief witness?",
+   "fx": "none",
+   "say": "एंड परहैप्स सम एक्स्ट्रा स्पेशल सैल्मन फॉर द चीफ़ विटनेस?"
+  },
+  {
+   "image": "[[Priya]] stares at [[Gogo]], a mischievous glint in her eyes, despite her shock.",
+   "speaker": "Priya",
+   "line": "Tumhe toh main ghar chal ke bataungi, mister Gogo!",
+   "fx": "none",
+   "say": "तुम्हें तो मैं घर चल के बताऊँगी, मिस्टर गोगो!"
+  },
+  {
+   "image": "[[Mrs. Sharma]] shakes her head, laughing softly, looking at the door as the trio leaves.",
+   "speaker": "Mrs. Sharma",
+   "line": "This bizarre story will definitely be for the ages.",
+   "fx": "none",
+   "say": "दिस बिज़ार स्टोरी विल डेफिनेटली बी फॉर द एजेस।"
+  },
+  {
+   "image": "All three characters (Priya looking amused, Mia triumphant, Gogo smug) are smiling, [[Mrs. Sharma]] is looking on, shaking her head, genuinely amused, as they exit the classroom.",
+   "speaker": "narrator_female",
+   "line": "What's the most unbelievable excuse you've ever heard from anyone?",
+   "fx": "none",
+   "say": "व्हाट्स द मोस्ट अनबिलीवेबल एक्सक्यूज़ यूव एव्री हर्ड फ्रॉम एनीवन?"
+  }
+ ],
+ "caption": "Daughter's CRAZY school excuse? The Cat made it WORSE! 😼",
+ "slug": "2026-11-08_part2",
+ "story_no": 36,
+ "yt_title": "Daughter's CRAZY school excuse? The Cat made it WORSE! 😼",
+ "description": "My daughter's school excuse for her missing homework was totally out of this world!\nBut when I tried to make it more believable, our pet cat decided to add his own wild twist.\nWhat's the most unbelievable excuse you've ever heard?",
+ "comment_question": "What's the most unbelievable excuse you've ever heard from anyone?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnycartoons",
+  "#parentinghumor",
+  "#kidsexplaining",
+  "#talkinganimals",
+  "#catsoftiktok",
+  "#schoollife",
+  "#relatablemom",
+  "#comedyreels",
+  "#unexpectedtwist"
+ ]
+}

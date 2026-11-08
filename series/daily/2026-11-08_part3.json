@@ -1,0 +1,601 @@
+{
+ "series": "The Architect's Ancestral Blueprint",
+ "episode": 3,
+ "title": "The Architect's Ancestral Blueprint",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A young Indian woman, late 20s, graceful, fair skin, long soft wavy dark-brown hair, natural makeup, small pearl earrings, elegant pastel green kurta and white palazzo pants.",
+   "voice": "hindi_female_young"
+  },
+  "Maa": {
+   "look": "An Indian woman, early 50s, warm and gentle, light wheatish skin, hair tied neatly in a low bun, simple beige cotton saree with a thin border, silver bangles, spectacles resting on her nose.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "SHE SOLD OUR HOME.",
+ "scenes": [
+  {
+   "image": "Close-up of Riya's face (narrator), eyes slightly teary, looking out a car window at a blurry old house. Mixed emotions: sadness, regret.",
+   "speaker": "narrator",
+   "line": "Mujhe hamesha gussa aata tha Maa par.",
+   "fx": "none",
+   "sub": "I was always angry at Maa.",
+   "say": "मुझे हमेशा गुस्सा आता था माँ पर।"
+  },
+  {
+   "image": "Young Riya (teenager, same look, but slightly younger) lovingly touching an old wooden pillar in a traditional Indian home. Warm smile.",
+   "speaker": "narrator",
+   "line": "Bachpan mein, humara ghar meri duniya thi.",
+   "fx": "dust",
+   "sub": "In childhood, our home was my whole world.",
+   "say": "बचपन में, हमारा घर मेरी दुनिया थी।"
+  },
+  {
+   "image": "Young Riya sketching a grand building in a notebook, sitting on the verandah of the old house. Dreamy expression.",
+   "speaker": "narrator",
+   "line": "Wahan baithkar, main bade sapne dekhti thi.",
+   "fx": "dust",
+   "sub": "Sitting there, I used to dream big.",
+   "say": "वहाँ बैठकर, मैं बड़े सपने देखती थी।"
+  },
+  {
+   "image": "Maa (Leela) looking at young Riya with a soft, knowing smile as Riya sketches. Gentle, loving.",
+   "speaker": "narrator",
+   "line": "Architect banne ka sapna, mere Papa ka bhi tha.",
+   "fx": "dust",
+   "sub": "The dream to be an architect, it was Papa's too.",
+   "say": "आर्किटेक्ट बनने का सपना, मेरे पापा का भी था।"
+  },
+  {
+   "image": "Riya and Maa (younger) sitting together, looking at an old photo album. Maa points to something, smiling.",
+   "speaker": "narrator",
+   "line": "Maa ne hamesha Papa ke sapne zinda rakhe.",
+   "fx": "dust",
+   "sub": "Maa always kept Papa's dreams alive.",
+   "say": "माँ ने हमेशा पापा के सपने ज़िंदा रखे।"
+  },
+  {
+   "image": "Maa (Leela) looking concerned, holding some bills, with a small frown. Serious.",
+   "speaker": "narrator",
+   "line": "Par halaat mushkil the, bohot mushkil.",
+   "fx": "none",
+   "sub": "But times were tough, very tough.",
+   "say": "पर हालात मुश्किल थे, बहुत मुश्किल।"
+  },
+  {
+   "image": "Close-up of a 'For Sale' sign in front of a slightly blurred traditional Indian house.",
+   "speaker": "narrator",
+   "line": "Phir ek din, Maa ne ghar bech diya.",
+   "fx": "none",
+   "sub": "Then one day, Maa sold the house.",
+   "say": "फिर एक दिन, माँ ने घर बेच दिया।"
+  },
+  {
+   "image": "Young Riya standing in the empty, echoey hall of the old house, looking heartbroken, tears in her eyes.",
+   "speaker": "narrator",
+   "line": "Mera dil toot gaya. Itni yaadein thi usmein.",
+   "fx": "none",
+   "sub": "My heart broke. So many memories were in it.",
+   "say": "मेरा दिल टूट गया। इतनी यादें थीं उसमें।"
+  },
+  {
+   "image": "Maa (Leela) gently touching Riya's shoulder, a somber but determined look on her face. Riya pulls away slightly.",
+   "speaker": "narrator",
+   "line": "Maa ne kaha, \"Beti, aage badhna hoga.\"",
+   "fx": "none",
+   "sub": "Maa said, \"Daughter, we must move forward.\"",
+   "say": "माँ ने कहा, \"बेटी, आगे बढ़ना होगा।\""
+  },
+  {
+   "image": "Riya (narrator) packing a small suitcase, looking sad and resentful.",
+   "speaker": "narrator",
+   "line": "Mujhe laga Maa ne purani yaadon ko bhula diya.",
+   "fx": "none",
+   "sub": "I felt Maa had forgotten old memories.",
+   "say": "मुझे लगा माँ ने पुरानी यादों को भुला दिया।"
+  },
+  {
+   "image": "Riya (narrator) standing alone in a crowded, bustling city street. Looks small and overwhelmed.",
+   "speaker": "narrator",
+   "line": "Main bade sheher aa gayi, sapne poore karne.",
+   "fx": "none",
+   "sub": "I came to the big city, to fulfill dreams.",
+   "say": "मैं बड़े शहर आ गयी, सपने पूरे करने।"
+  },
+  {
+   "image": "Riya (narrator), looking tired, studying late at night surrounded by books.",
+   "speaker": "narrator",
+   "line": "Struggle bohot tha. Din-raat padhai karti thi.",
+   "fx": "none",
+   "sub": "The struggle was immense. I studied day and night.",
+   "say": "स्ट्रगल बहुत था। दिन-रात पढ़ाई करती थी।"
+  },
+  {
+   "image": "Maa (Leela) carefully packing a small box with homemade sweets and a little money. Loving, concerned expression.",
+   "speaker": "narrator",
+   "line": "Maa har mahine chota sa packet bhejti thi.",
+   "fx": "none",
+   "sub": "Maa sent a small packet every month.",
+   "say": "माँ हर महीने छोटा सा पैकेट भेजती थी।"
+  },
+  {
+   "image": "Riya (narrator) opening the packet, finding sweets and a small note with money. A bittersweet smile.",
+   "speaker": "narrator",
+   "line": "Kabhi aachar, kabhi Maa ke haath ki mithai.",
+   "fx": "none",
+   "sub": "Sometimes pickle, sometimes Maa's homemade sweets.",
+   "say": "कभी अचार, कभी माँ के हाथ की मिठाई।"
+  },
+  {
+   "image": "Riya (narrator) in her rented city apartment, looking at a framed photo of their old home, a pang of sadness.",
+   "speaker": "narrator",
+   "line": "Usmein bhi mujhe ghar ki yaad aati thi.",
+   "fx": "none",
+   "sub": "Even then, it reminded me of home.",
+   "say": "उसमें भी मुझे घर की याद आती थी।"
+  },
+  {
+   "image": "Riya (narrator) presenting architectural plans confidently in a modern office. Successful, professional.",
+   "speaker": "narrator",
+   "line": "Saal beet gaye, main successful architect ban gayi.",
+   "fx": "none",
+   "sub": "Years passed, I became a successful architect.",
+   "say": "साल बीत गए, मैं सक्सेसफुल आर्किटेक्ट बन गयी।"
+  },
+  {
+   "image": "Riya (narrator) in a beautiful, modern office, looking at city skyline from her window, pensive.",
+   "speaker": "narrator",
+   "line": "Sab kuch pa liya tha, par ek kami thi.",
+   "fx": "none",
+   "sub": "I had achieved everything, but something was missing.",
+   "say": "सब कुछ पा लिया था, पर एक कमी थी।"
+  },
+  {
+   "image": "Riya (narrator) sitting alone at home, looking at her phone, contemplating.",
+   "speaker": "narrator",
+   "line": "Ghar na hone ka dukh, kabhi gaya hi nahi.",
+   "fx": "none",
+   "sub": "The sorrow of not having a home never left.",
+   "say": "घर ना होने का दुख, कभी गया ही नहीं।"
+  },
+  {
+   "image": "Riya (narrator) on a video call, showing architectural plans to Maa (Leela) on the screen. Maa looks engaged.",
+   "speaker": "narrator",
+   "line": "Ek din mujhe ek bada project mila.",
+   "fx": "none",
+   "sub": "One day, I got a big project.",
+   "say": "एक दिन मुझे एक बड़ा प्रोजेक्ट मिला।"
+  },
+  {
+   "image": "Close-up of architectural plans on a screen, showing an old, dilapidated building.",
+   "speaker": "narrator",
+   "line": "Ek purani community library renovate karni thi.",
+   "fx": "none",
+   "sub": "An old community library needed renovation.",
+   "say": "एक पुरानी कम्युनिटी लाइब्रेरी रेनोवेट करनी थी।"
+  },
+  {
+   "image": "Riya (narrator) smiling, holding phone to ear, surprised by Maa's enthusiasm.",
+   "speaker": "narrator",
+   "line": "Maa ko bataya toh woh bohot excited ho gayi.",
+   "fx": "none",
+   "sub": "When I told Maa, she got very excited.",
+   "say": "माँ को बताया तो वो बहुत एक्साइटेड हो गयी।"
+  },
+  {
+   "image": "Maa (Leela) on the phone, animatedly discussing something, gesturing excitedly.",
+   "speaker": "Maa",
+   "line": "Beti, puraani kitaabon ka apna charm hota hai!",
+   "fx": "none",
+   "sub": "Daughter, old books have their own charm!",
+   "say": "बेटी, पुरानी किताबों का अपना चार्म होता है!"
+  },
+  {
+   "image": "Riya (narrator) looking puzzled but pleased, listening to Maa.",
+   "speaker": "narrator",
+   "line": "Maa itni khush thi, main hairaan reh gayi.",
+   "fx": "none",
+   "sub": "Maa was so happy, I was surprised.",
+   "say": "माँ इतनी खुश थी, मैं हैरान रह गयी।"
+  },
+  {
+   "image": "Riya (narrator) on the phone again, scheduling a visit to Maa. Warm smile.",
+   "speaker": "narrator",
+   "line": "Maine socha, Maa se milkar advice lungi.",
+   "fx": "none",
+   "sub": "I thought, I'll meet Maa and get advice.",
+   "say": "मैंने सोचा, माँ से मिलकर एडवाइस लूँगी।"
+  },
+  {
+   "image": "Riya (narrator) arriving at her Maa's simple rented flat, carrying a small bag.",
+   "speaker": "narrator",
+   "line": "Main Maa se milne, unke sheher gayi.",
+   "fx": "none",
+   "sub": "I went to Maa's city to meet her.",
+   "say": "मैं माँ से मिलने, उनके शहर गयी।"
+  },
+  {
+   "image": "Maa (Leela) opening the door, a huge, loving smile on her face, hugging Riya warmly.",
+   "speaker": "Maa",
+   "line": "Meri beti, kitne dino baad aayi tu!",
+   "fx": "none",
+   "sub": "My daughter, you came after so many days!",
+   "say": "मेरी बेटी, कितने दिनों बाद आई तू!"
+  },
+  {
+   "image": "Riya (narrator) hugging Maa back, a rare moment of closeness, teary-eyed with emotion.",
+   "speaker": "narrator",
+   "line": "Maa ko gale laga kar, sab dukh bhool gayi.",
+   "fx": "none",
+   "sub": "Hugging Maa, I forgot all my sorrow.",
+   "say": "माँ को गले लगाकर, सब दुख भूल गयी।"
+  },
+  {
+   "image": "Riya (narrator) and Maa (Leela) sitting in the small living room, having tea, talking animatedly.",
+   "speaker": "narrator",
+   "line": "Humne khoob baatein ki, bachpan ki yaadein taazi ki.",
+   "fx": "none",
+   "sub": "We talked a lot, refreshed childhood memories.",
+   "say": "हमने खूब बातें की, बचपन की यादें ताज़ी की।"
+  },
+  {
+   "image": "Riya (narrator) showing Maa the library plans on a tablet. Maa is keenly looking.",
+   "speaker": "narrator",
+   "line": "Maine library project discuss kiya, unhone ideas diye.",
+   "fx": "none",
+   "sub": "I discussed the library project, she gave ideas.",
+   "say": "मैंने लाइब्रेरी प्रोजेक्ट डिस्कस किया, उन्होंने आइडियाज़ दिए।"
+  },
+  {
+   "image": "Maa (Leela) pointing to a detail on the plan, a thoughtful, insightful expression.",
+   "speaker": "Maa",
+   "line": "Kitaabon ko surakshit rakhna sabse zaroori hai.",
+   "fx": "none",
+   "sub": "Keeping books safe is most important.",
+   "say": "किताबों को सुरक्षित रखना सबसे ज़रूरी है।"
+  },
+  {
+   "image": "Riya (narrator) and Maa (Leela) walking through a local market, Maa pointing out fresh vegetables. Casual, happy.",
+   "speaker": "narrator",
+   "line": "Agle din hum market gaye, Maa ka favorite.",
+   "fx": "none",
+   "sub": "The next day, we went to the market, Maa's favorite.",
+   "say": "अगले दिन हम मार्केट गए, माँ का फेवरेट।"
+  },
+  {
+   "image": "Riya (narrator) and Maa (Leela) walking past a familiar, distinctive old building, Riya stops suddenly. Shocked expression.",
+   "speaker": "narrator",
+   "line": "Achanak, meri nazar ek building par padi.",
+   "fx": "none",
+   "sub": "Suddenly, my gaze fell on a building.",
+   "say": "अचानक, मेरी नज़र एक बिल्डिंग पर पड़ी।"
+  },
+  {
+   "image": "Close-up of the old building's distinct facade – it's clearly the ancestral home. Riya's face in the foreground, mouth slightly open in shock.",
+   "speaker": "narrator",
+   "line": "Yeh toh... humara purana ghar tha!",
+   "fx": "none",
+   "sub": "This is... our old home!",
+   "say": "ये तो... हमारा पुराना घर था!"
+  },
+  {
+   "image": "Riya (narrator) grabbing Maa's arm, confused and a little angry. Maa looks calm.",
+   "speaker": "narrator",
+   "line": "Maa, aapne kaha tha bech diya tha?",
+   "fx": "none",
+   "sub": "Maa, you said you had sold it?",
+   "say": "माँ, आपने कहा था बेच दिया था?"
+  },
+  {
+   "image": "Maa (Leela) looking at the building with a soft smile, then at Riya, a gentle, knowing look.",
+   "speaker": "Maa",
+   "line": "Haan beti, bech diya tha. Ya yun kahun, exchange kiya.",
+   "fx": "none",
+   "sub": "Yes daughter, I sold it. Or rather, exchanged it.",
+   "say": "हाँ बेटी, बेच दिया था। या यूँ कहूँ, एक्सचेंज किया।"
+  },
+  {
+   "image": "Riya (narrator) looking utterly bewildered, slowly turning to Maa.",
+   "speaker": "narrator",
+   "line": "Exchange? Matlab? Main kuch samajh nahi payi.",
+   "fx": "none",
+   "sub": "Exchange? Meaning? I couldn't understand anything.",
+   "say": "एक्सचेंज? मतलब? मैं कुछ समझ नहीं पाई।"
+  },
+  {
+   "image": "Maa (Leela) taking Riya's hand, leading her towards the building. Warm, reassuring.",
+   "speaker": "Maa",
+   "line": "Chal, andar chalte hain. Tujhe sab batati hoon.",
+   "fx": "none",
+   "sub": "Come, let's go inside. I'll tell you everything.",
+   "say": "चल, अंदर चलते हैं। तुझे सब बताती हूँ।"
+  },
+  {
+   "image": "Riya (narrator) and Maa (Leela) walking into the beautifully restored building, which is now a bustling library. Children are reading. Riya is awestruck.",
+   "speaker": "narrator",
+   "line": "Andar dekha toh meri aankhen khuli reh gayi.",
+   "fx": "none",
+   "sub": "When I looked inside, my eyes stayed wide open.",
+   "say": "अंदर देखा तो मेरी आँखें खुली रह गयी।"
+  },
+  {
+   "image": "Close-up of children happily reading books in the library. Soft sunlight streams in.",
+   "speaker": "narrator",
+   "line": "Humara ghar, ab ek sundar library ban chuka tha.",
+   "fx": "none",
+   "sub": "Our home had now become a beautiful library.",
+   "say": "हमारा घर, अब एक सुंदर लाइब्रेरी बन चुका था।"
+  },
+  {
+   "image": "Riya (narrator) looking around, touching a bookshelf, emotional.",
+   "speaker": "narrator",
+   "line": "Wahi purani deewaren, wahi khidkiyan, naye roop mein.",
+   "fx": "none",
+   "sub": "The same old walls, same windows, in a new form.",
+   "say": "वही पुरानी दीवारें, वही खिड़कियाँ, नए रूप में।"
+  },
+  {
+   "image": "Maa (Leela) gently smiling, watching Riya's reaction.",
+   "speaker": "Maa",
+   "line": "Yaad hai, tumhare Papa ko kitabein kitni pasand thi?",
+   "fx": "none",
+   "sub": "Remember, how much your Papa loved books?",
+   "say": "याद है, तुम्हारे पापा को किताबें कितनी पसंद थी?"
+  },
+  {
+   "image": "Riya (narrator) nods, tears welling up, a flicker of understanding.",
+   "speaker": "narrator",
+   "line": "Haan Maa, unki duniya thi kitabein.",
+   "fx": "none",
+   "sub": "Yes Maa, books were his world.",
+   "say": "हाँ माँ, उनकी दुनिया थी किताबें।"
+  },
+  {
+   "image": "Maa (Leela) walking towards a dedication plaque on a wall, Riya follows, intrigued.",
+   "speaker": "Maa",
+   "line": "Maine ghar ek bade patron se exchange kiya tha.",
+   "fx": "none",
+   "sub": "I exchanged the house with a wealthy patron.",
+   "say": "मैंने घर एक बड़े पेट्रन से एक्सचेंज किया था।"
+  },
+  {
+   "image": "Close-up of the plaque: \"Leela Devi Community Library - In loving memory of Riya's Father's Name\". Riya gasps.",
+   "speaker": "narrator",
+   "line": "Plaque par naam dekhkar, main stabdh reh gayi.",
+   "fx": "none",
+   "sub": "Seeing the name on the plaque, I was stunned.",
+   "say": "प्लाक पर नाम देखकर, मैं स्तब्ध रह गयी।"
+  },
+  {
+   "image": "Maa (Leela) looks at the plaque with a loving, nostalgic smile.",
+   "speaker": "Maa",
+   "line": "Unhone yeh library banayi, humare ghar ke badle.",
+   "fx": "none",
+   "sub": "He built this library, in exchange for our house.",
+   "say": "उन्होंने यह लाइब्रेरी बनाई, हमारे घर के बदले।"
+  },
+  {
+   "image": "Riya (narrator) looking at Maa with wide, tearful eyes, starting to understand the magnitude.",
+   "speaker": "narrator",
+   "line": "Par Maa, aapko kya mila ismein?",
+   "fx": "none",
+   "sub": "But Maa, what did you get in this?",
+   "say": "पर माँ, आपको क्या मिला इसमें?"
+  },
+  {
+   "image": "Maa (Leela) takes Riya's hand, looking lovingly into her eyes.",
+   "speaker": "Maa",
+   "line": "Ek cheez aur mili, jo sabse keemti thi.",
+   "fx": "none",
+   "sub": "One more thing I got, which was most precious.",
+   "say": "एक चीज़ और मिली, जो सबसे कीमती थी।"
+  },
+  {
+   "image": "Flashback: Young Riya (teenager) sitting at a desk, looking at an acceptance letter for architecture school. Excited.",
+   "speaker": "narrator",
+   "line": "Woh thi meri architectural studies ki scholarship.",
+   "fx": "none",
+   "sub": "That was my architectural studies scholarship.",
+   "say": "वो थी मेरी आर्किटेक्चरल स्टडीज़ की स्कॉलरशिप।"
+  },
+  {
+   "image": "Maa (Leela) gently wiping a tear from Riya's cheek. Deep love and sacrifice reflected.",
+   "speaker": "Maa",
+   "line": "Uss patron ne tumhari fees anonymously bhari.",
+   "fx": "none",
+   "sub": "That patron anonymously paid your fees.",
+   "say": "उस पेट्रन ने तुम्हारी फीस एनोनिमसली भरी।"
+  },
+  {
+   "image": "Riya (narrator) breaking down, crying openly, hugging Maa tightly. Raw emotion.",
+   "speaker": "narrator",
+   "line": "Maa! Aapne mere liye itna kuch kiya!",
+   "fx": "none",
+   "sub": "Maa! You did so much for me!",
+   "say": "माँ! आपने मेरे लिए इतना कुछ किया!"
+  },
+  {
+   "image": "Maa (Leela) holding Riya, stroking her hair, a gentle smile.",
+   "speaker": "Maa",
+   "line": "Main chahti thi tum apne sapne poore karo.",
+   "fx": "none",
+   "sub": "I wanted you to fulfill your dreams.",
+   "say": "मैं चाहती थी तुम अपने सपने पूरे करो।"
+  },
+  {
+   "image": "Maa (Leela) looking around the library, content, then at Riya.",
+   "speaker": "Maa",
+   "line": "Aur Papa ka bhi sapna poora ho gaya.",
+   "fx": "none",
+   "sub": "And Papa's dream was also fulfilled.",
+   "say": "और पापा का भी सपना पूरा हो गया।"
+  },
+  {
+   "image": "Riya (narrator) looking at Maa with newfound understanding and immense gratitude.",
+   "speaker": "narrator",
+   "line": "Maine kabhi socha bhi nahi tha...",
+   "fx": "none",
+   "sub": "I never even imagined...",
+   "say": "मैंने कभी सोचा भी नहीं था..."
+  },
+  {
+   "image": "Close-up of Riya's hand holding Maa's hand, both looking at the bustling library. Bonded.",
+   "speaker": "narrator",
+   "line": "Woh ghar sirf eent pathar nahi tha.",
+   "fx": "none",
+   "sub": "That home wasn't just bricks and stones.",
+   "say": "वो घर सिर्फ ईंट पत्थर नहीं था।"
+  },
+  {
+   "image": "Riya (narrator) with Maa (Leela), standing proudly in the library, smiling at each other.",
+   "speaker": "narrator",
+   "line": "Woh toh Maa ke pyaar ka blueprint tha.",
+   "fx": "none",
+   "sub": "It was Maa's love's blueprint.",
+   "say": "वो तो माँ के प्यार का ब्लूप्रिंट था।"
+  },
+  {
+   "image": "Riya (narrator) and Maa (Leela) sitting side by side, reading a book together in the library. Peaceful.",
+   "speaker": "narrator",
+   "line": "Ab main Maa ke saath library manage karti hoon.",
+   "fx": "none",
+   "sub": "Now I manage the library with Maa.",
+   "say": "अब मैं माँ के साथ लाइब्रेरी मैनेज करती हूँ।"
+  },
+  {
+   "image": "Riya (narrator) teaching children to draw architectural sketches in the library. Happy, fulfilling.",
+   "speaker": "narrator",
+   "line": "Apne Papa aur Maa ke sapno ko jeeti hoon.",
+   "fx": "none",
+   "sub": "I live out my Papa's and Maa's dreams.",
+   "say": "अपने पापा और माँ के सपनों को जीती हूँ।"
+  },
+  {
+   "image": "Close-up of Riya's hand, sketching an architectural design, a book open next to it.",
+   "speaker": "narrator",
+   "line": "Har design mein unki yaadein hoti hain.",
+   "fx": "none",
+   "sub": "Every design holds their memories.",
+   "say": "हर डिज़ाइन में उनकी यादें होती हैं।"
+  },
+  {
+   "image": "Riya (narrator) looking directly at the camera, a soft, understanding smile.",
+   "speaker": "narrator",
+   "line": "Maine socha Maa ne mujhse ghar chheena.",
+   "fx": "none",
+   "sub": "I thought Maa snatched the home from me.",
+   "say": "मैंने सोचा माँ ने मुझसे घर छीना।"
+  },
+  {
+   "image": "Close-up of Maa (Leela) smiling warmly, looking at Riya.",
+   "speaker": "narrator",
+   "line": "Par unhone toh mujhe nayi duniya di.",
+   "fx": "none",
+   "sub": "But she gave me a new world.",
+   "say": "पर उन्होंने तो मुझे नई दुनिया दी।"
+  },
+  {
+   "image": "Riya (narrator) looking at the old house (now library) from outside, with a sense of peace and gratitude.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi hum galat samajh jaate hain.",
+   "fx": "none",
+   "sub": "Sometimes we misunderstand.",
+   "say": "कभी कभी हम गलत समझ जाते हैं।"
+  },
+  {
+   "image": "Close-up of Maa (Leela) reading a book to children, happy and serene.",
+   "speaker": "narrator",
+   "line": "Apne badon ke faislon ko.",
+   "fx": "none",
+   "sub": "Our elders' decisions.",
+   "say": "अपने बड़ों के फ़ैसलों को।"
+  },
+  {
+   "image": "Riya (narrator) smiling, a tear trickling down her cheek. Emotional.",
+   "speaker": "narrator",
+   "line": "Unka pyaar itna gehra hota hai.",
+   "fx": "none",
+   "sub": "Their love is so deep.",
+   "say": "उनका प्यार इतना गहरा होता है।"
+  },
+  {
+   "image": "Close-up of Riya's hand gently touching Maa's hand.",
+   "speaker": "narrator",
+   "line": "Ke hum samajh hi nahi paate.",
+   "fx": "none",
+   "sub": "That we just don't understand.",
+   "say": "के हम समझ ही नहीं पाते।"
+  },
+  {
+   "image": "Maa (Leela) and Riya (narrator) walking together in the library, looking at books, peaceful.",
+   "speaker": "narrator",
+   "line": "Har Maa Papa kuch chupaate hain.",
+   "fx": "none",
+   "sub": "Every mom and dad hides something.",
+   "say": "हर माँ पापा कुछ छुपाते हैं।"
+  },
+  {
+   "image": "A wide shot of the library, full of people, vibrant and active.",
+   "speaker": "narrator",
+   "line": "Par woh sirf humari bhalai ke liye.",
+   "fx": "none",
+   "sub": "But that's only for our good.",
+   "say": "पर वो सिर्फ हमारी भलाई के लिए।"
+  },
+  {
+   "image": "Riya (narrator) hugging Maa (Leela) tightly, both smiling.",
+   "speaker": "narrator",
+   "line": "Aaj mujhe Maa par garv hai.",
+   "fx": "none",
+   "sub": "Today I am proud of Maa.",
+   "say": "आज मुझे माँ पर गर्व है।"
+  },
+  {
+   "image": "Close-up of a book titled \"The Architect's Dream\" on a library shelf.",
+   "speaker": "narrator",
+   "line": "Aur unke is mahaan balidaan par.",
+   "fx": "none",
+   "sub": "And for her great sacrifice.",
+   "say": "और उनके इस महान बलिदान पर।"
+  },
+  {
+   "image": "Riya (narrator) looking thoughtful, direct to camera.",
+   "speaker": "narrator",
+   "line": "Kya aapke parents ne bhi koi sacrifice kiya hai?",
+   "fx": "none",
+   "sub": "Have your parents also made a sacrifice?",
+   "say": "क्या आपके पेरेंट्स ने भी कोई सैक्रिफाइस किया है?"
+  },
+  {
+   "image": "Close-up of Riya's face (narrator), a gentle, knowing smile.",
+   "speaker": "narrator",
+   "line": "Comment karke bataiye!",
+   "fx": "none",
+   "sub": "Tell us by commenting!",
+   "say": "कमेंट करके बताइए!"
+  }
+ ],
+ "caption": "My Mom Sold Our Home & I Hated Her. Then I Saw THIS 🤫",
+ "slug": "2026-11-08_part3",
+ "story_no": 37,
+ "yt_title": "My Mom Sold Our Home & I Hated Her. Then I Saw THIS 🤫",
+ "description": "I always resented my mother for selling our ancestral home. It felt like she didn't understand me.\nYears later, a new project led me to a heartbreaking truth about her quiet sacrifice.\nWhat's a hidden sacrifice your parents made for you?",
+ "comment_question": "What's a hidden sacrifice your parents made for you?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indianshorts",
+  "#familylove",
+  "#parentalsacrifice",
+  "#indiantwist",
+  "#hiddenstory",
+  "#lifelessons",
+  "#motherdaughter",
+  "#unconditionallove",
+  "#architecture"
+ ]
+}

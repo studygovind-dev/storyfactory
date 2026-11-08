@@ -1,0 +1,553 @@
+{
+ "series": "The Grey Guardian's Unspoken Promise",
+ "episode": 1,
+ "title": "The Grey Guardian's Unspoken Promise",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A young woman, early 20s, fair light wheatish skin, bright eyes, long soft wavy dark-brown hair tied in a loose braid. She wears a warm, pastel blue woolen kurta with intricate embroidery, a thick cream-colored shawl wrapped around her, and dark pants. Her face is usually gentle and kind, now etched with worry.",
+   "voice": "hindi_female_young"
+  },
+  "Riya": {
+   "look": "A sweet 5-year-old girl, round face, bright curious eyes, short dark hair with two small braids. She wears a vibrant red puffy winter coat, matching mittens, and a striped woolen cap.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Shadow": {
+   "look": "A large, majestic grey wolf with piercing amber eyes, thick winter coat, powerful build. Appears wild but with an intelligent, almost knowing gaze.",
+   "voice": "hindi_narrator_male"
+  },
+  "Bhaijaan": {
+   "look": "A kind village elder, late 50s, weathered face, short white beard, warm brown eyes. He wears a traditional dark green pahadi topi, a thick patterned woolen sweater, and a heavy jacket.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "A WOLF'S SECRET",
+ "scenes": [
+  {
+   "image": "Close-up of a majestic grey wolf, piercing amber eyes staring directly. Snowflakes falling.",
+   "speaker": "narrator",
+   "line": "Log kehte the, woh bhediya shaitan hai.",
+   "fx": "snow",
+   "sub": "People said, that wolf is evil.",
+   "say": "लोग कहते थे, वो भेड़िया शैतान है।"
+  },
+  {
+   "image": "Meera, young and warm, smiling lovingly at her niece Riya, who giggles while building a snowman. Both are bundled in warm winter clothes in a picturesque snowy village.",
+   "speaker": "narrator",
+   "line": "Lekin mere liye, Riya meri duniya thi.",
+   "fx": "snow",
+   "sub": "But for me, Riya was my whole world.",
+   "say": "लेकिन मेरे लिए, रिया मेरी दुनिया थी।"
+  },
+  {
+   "image": "Riya, wearing a red coat, happily runs through fresh snow near the edge of a pine forest, throwing snowballs.",
+   "speaker": "narrator",
+   "line": "Usko snow mein khelna bohot pasand tha.",
+   "fx": "snow",
+   "sub": "She loved playing in the snow so much.",
+   "say": "उसको स्नो में खेलना बहुत पसंद था।"
+  },
+  {
+   "image": "Meera is inside a cozy wooden cottage, looking out a window, smiling as she watches Riya. Her back is slightly turned.",
+   "speaker": "narrator",
+   "line": "Main us din bas thodi busy thi.",
+   "fx": "snow",
+   "sub": "I was just a little busy that day.",
+   "say": "मैं उस दिन बस थोड़ी बिज़ी थी।"
+  },
+  {
+   "image": "Wide shot of the snowy village. Riya's small red figure is now further away, disappearing behind dense pine trees at the forest edge.",
+   "speaker": "narrator",
+   "line": "Aur woh khelte-khelte, bohot door chali gayi.",
+   "fx": "snow",
+   "sub": "And while playing, she went very far.",
+   "say": "और वो खेलते-खेलते, बहुत दूर चली गई।"
+  },
+  {
+   "image": "Meera's face, close-up. Her smile fades into sudden alarm as she looks out the window, realizing Riya isn't visible.",
+   "speaker": "narrator",
+   "line": "Jab meri nazar padi, Riya kahin nahi thi.",
+   "fx": "none",
+   "sub": "When I looked, Riya was nowhere.",
+   "say": "जब मेरी नज़र पड़ी, रिया कहीं नहीं थी।"
+  },
+  {
+   "image": "Meera runs frantically outside, calling Riya's name, her breath visible in the cold air, eyes wide with panic.",
+   "speaker": "narrator",
+   "line": "Mera dil doob gaya. Riya!",
+   "fx": "snow",
+   "sub": "My heart sank. Riya!",
+   "say": "मेरा दिल डूब गया। रिया!"
+  },
+  {
+   "image": "Villagers, led by Bhaijaan, quickly gather with torches and ropes, their faces grim, preparing to enter the snow-covered forest.",
+   "speaker": "narrator",
+   "line": "Poore gaon ne milkar search shuru ki.",
+   "fx": "snow",
+   "sub": "The whole village started searching together.",
+   "say": "पूरे गाँव ने मिलकर सर्च शुरू की।"
+  },
+  {
+   "image": "Aerial shot of the forest. Heavy snow is falling, obscuring visibility. The path is disappearing.",
+   "speaker": "narrator",
+   "line": "Lekin raat ho gayi, aur snow tez ho gayi.",
+   "fx": "snow",
+   "sub": "But night fell, and the snow intensified.",
+   "say": "लेकिन रात हो गई, और स्नो तेज़ हो गई।"
+  },
+  {
+   "image": "Meera, shivering, sitting alone in the snow, face buried in her hands, tears streaming down. Her shawl is pulled tight.",
+   "speaker": "narrator",
+   "line": "Har guzarte pal, meri ummeed kam ho rahi thi.",
+   "fx": "snow",
+   "sub": "With every passing moment, my hope diminished.",
+   "say": "हर गुज़रते पल, मेरी उम्मीद कम हो रही थी।"
+  },
+  {
+   "image": "Close-up on Meera's tear-streaked face, eyes wide, looking into the dark forest with desperation.",
+   "speaker": "narrator",
+   "line": "Kahaan hogi meri Riya is thand mein?",
+   "fx": "snow",
+   "sub": "Where would my Riya be in this cold?",
+   "say": "कहाँ होगी मेरी रिया इस ठंड में?"
+  },
+  {
+   "image": "Meera stands up, clutching her shawl, determined. She decides to go deeper into the forest herself, away from the main search party.",
+   "speaker": "narrator",
+   "line": "Mujhe use dhoondhna hi tha, akele hi sahi.",
+   "fx": "snow",
+   "sub": "I had to find her, even if alone.",
+   "say": "मुझे उसे ढूँढ़ना ही था, अकेले ही सही।"
+  },
+  {
+   "image": "Meera, struggling through deep snow, flashlight beam cutting through the dense forest. Her face is pale with cold and fear.",
+   "speaker": "narrator",
+   "line": "Gahri, sardi bhari raat. Har taraf sirf khamoshi.",
+   "fx": "snow",
+   "sub": "Deep, cold night. Only silence everywhere.",
+   "say": "गहरी, सर्दी भरी रात। हर तरफ सिर्फ खामोशी।"
+  },
+  {
+   "image": "Suddenly, two glowing amber eyes appear in the darkness between trees, partially hidden by falling snow. Meera freezes.",
+   "speaker": "narrator",
+   "line": "Tabhi, un aankhon se meri mulaqat hui.",
+   "fx": "snow",
+   "sub": "Then, I met those eyes.",
+   "say": "तभी, उन आँखों से मेरी मुलाक़ात हुई।"
+  },
+  {
+   "image": "Meera's terrified face, breath catching in her throat, flashlight beam shaking. The wolf's eyes are visible behind her.",
+   "speaker": "narrator",
+   "line": "Jiska darr tha, woh saamne tha: bhediya.",
+   "fx": "snow",
+   "sub": "What I feared, was in front: the wolf.",
+   "say": "जिसका डर था, वो सामने था: भेड़िया।"
+  },
+  {
+   "image": "The grey wolf, Shadow, steps fully into view, standing a few yards from Meera. Its posture is alert, not aggressive.",
+   "speaker": "narrator",
+   "line": "Woh Shadow tha, gaon ka dravana sach.",
+   "fx": "snow",
+   "sub": "It was Shadow, the village's terrifying truth.",
+   "say": "वो शैडो था, गाँव का डरावना सच।"
+  },
+  {
+   "image": "Close-up of Meera's hand, tightly clutching her shawl, knuckles white. She's trembling but maintaining eye contact with the wolf.",
+   "speaker": "narrator",
+   "line": "Mera jism kaanp raha tha, darr se.",
+   "fx": "snow",
+   "sub": "My body was trembling with fear.",
+   "say": "मेरा जिस्म काँप रहा था, डर से।"
+  },
+  {
+   "image": "The wolf takes a step towards her, then turns its head, looking back into the deeper forest, then at Meera, as if urging her.",
+   "speaker": "narrator",
+   "line": "Par usne kuch ajeeb kiya.",
+   "fx": "snow",
+   "sub": "But it did something strange.",
+   "say": "पर उसने कुछ अजीब किया।"
+  },
+  {
+   "image": "Meera's face, confused but also seeing a flicker of something in the wolf's eyes – not malice, but perhaps... purpose?",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein darr nahi, kuch aur tha.",
+   "fx": "snow",
+   "sub": "In its eyes, there was no fear, but something else.",
+   "say": "उसकी आँखों में डर नहीं, कुछ और था।"
+  },
+  {
+   "image": "The wolf turns again, takes a few steps away, then stops, looking back at Meera, waiting expectantly.",
+   "speaker": "narrator",
+   "line": "Usne mujhe follow karne ko kaha, jaise.",
+   "fx": "snow",
+   "sub": "It told me to follow, as if.",
+   "say": "उसने मुझे फॉलो करने को कहा, जैसे।"
+  },
+  {
+   "image": "Meera hesitates, looking from the wolf to the dark forest, a huge decision on her face.",
+   "speaker": "narrator",
+   "line": "Kya main ek bhediye par trust karti?",
+   "fx": "snow",
+   "sub": "Could I trust a wolf?",
+   "say": "क्या मैं एक भेड़िये पर ट्रस्ट करती?"
+  },
+  {
+   "image": "Close-up on Meera's eyes, a surge of desperate hope mixed with her fear. She takes a deep breath.",
+   "speaker": "narrator",
+   "line": "Riya ke liye, kuch bhi karti main.",
+   "fx": "snow",
+   "sub": "For Riya, I would do anything.",
+   "say": "रिया के लिए, कुछ भी करती मैं।"
+  },
+  {
+   "image": "Meera takes her first cautious step forward, following the wolf into the dense, snowy forest.",
+   "speaker": "narrator",
+   "line": "Aur maine, uske peeche chalna shuru kiya.",
+   "fx": "snow",
+   "sub": "And I, started walking behind it.",
+   "say": "और मैंने, उसके पीछे चलना शुरू किया।"
+  },
+  {
+   "image": "The wolf walks ahead, occasionally pausing and looking back to ensure Meera is following, its movements graceful in the snow.",
+   "speaker": "narrator",
+   "line": "Woh mujhe ek invisible raaste par le ja raha tha.",
+   "fx": "snow",
+   "sub": "It was leading me on an invisible path.",
+   "say": "वो मुझे एक इनविज़िबल रास्ते पर ले जा रहा था।"
+  },
+  {
+   "image": "Meera struggles to keep up, panting, pushing aside heavy snow-laden branches, her clothes covered in snow.",
+   "speaker": "narrator",
+   "line": "Raasta mushkil tha, thand bohot thi.",
+   "fx": "snow",
+   "sub": "The path was difficult, it was very cold.",
+   "say": "रास्ता मुश्किल था, ठंड बहुत थी।"
+  },
+  {
+   "image": "Close-up on Meera's feet, trudging through deep snow, the wolf's clear paw prints visible ahead of her.",
+   "speaker": "narrator",
+   "line": "Uski har chaal ek gupt ishaara thi.",
+   "fx": "snow",
+   "sub": "Its every step was a secret signal.",
+   "say": "उसकी हर चाल एक गुप्त इशारा थी।"
+  },
+  {
+   "image": "The wolf stops and nudges a small, brightly colored woolen cap in the snow with its nose. It's Riya's cap.",
+   "speaker": "narrator",
+   "line": "Aur phir, maine Riya ki topi dekhi.",
+   "fx": "snow",
+   "sub": "And then, I saw Riya's cap.",
+   "say": "और फिर, मैंने रिया की टोपी देखी।"
+  },
+  {
+   "image": "Meera quickly picks up the cap, clutching it to her chest, a flicker of hope and renewed determination on her face.",
+   "speaker": "narrator",
+   "line": "Meri ummeed wapas jaag uthi.",
+   "fx": "snow",
+   "sub": "My hope reawakened.",
+   "say": "मेरी उम्मीद वापस जाग उठी।"
+  },
+  {
+   "image": "The wolf looks at Meera, then continues moving, now with more urgency, deeper into a rocky, sheltered area.",
+   "speaker": "narrator",
+   "line": "Shadow janta tha hum kahaan ja rahe the.",
+   "fx": "snow",
+   "sub": "Shadow knew where we were going.",
+   "say": "शैडो जानता था हम कहाँ जा रहे थे।"
+  },
+  {
+   "image": "They arrive at a small, hidden cave entrance, partially covered by snow and dense bushes. The wolf pauses, looking inside.",
+   "speaker": "narrator",
+   "line": "Ek chhupi hui gufa thi woh.",
+   "fx": "snow",
+   "sub": "It was a hidden cave.",
+   "say": "एक छुपी हुई गुफा थी वो।"
+  },
+  {
+   "image": "Meera rushes forward, fear and hope battling on her face, peering into the dark cave.",
+   "speaker": "narrator",
+   "line": "Mera dil zor se dhadak raha tha.",
+   "fx": "none",
+   "sub": "My heart was pounding loudly.",
+   "say": "मेरा दिल ज़ोर से धड़क रहा था।"
+  },
+  {
+   "image": "Inside the cave, Riya is huddled, shivering violently, eyes closed, barely conscious. Her red coat is still bright.",
+   "speaker": "narrator",
+   "line": "Aur wahaan, meri choti Riya thi.",
+   "fx": "snow",
+   "sub": "And there, was my little Riya.",
+   "say": "और वहाँ, मेरी छोटी रिया थी।"
+  },
+  {
+   "image": "Meera falls to her knees, immediately embracing Riya tightly, tears of immense relief streaming down her face. Riya stirs weakly.",
+   "speaker": "narrator",
+   "line": "Maine use apni baahon mein bhar liya.",
+   "fx": "none",
+   "sub": "I embraced her in my arms.",
+   "say": "मैंने उसे अपनी बाहों में भर लिया।"
+  },
+  {
+   "image": "Riya opens her eyes, looking up at Meera with a weak, grateful smile.",
+   "speaker": "Riya",
+   "line": "Meera didi...",
+   "fx": "none",
+   "sub": "Meera sister...",
+   "say": "मीरा दीदी..."
+  },
+  {
+   "image": "Meera kisses Riya's forehead, reassuring her, her face full of love and relief. The wolf is visible outside the cave opening.",
+   "speaker": "narrator",
+   "line": "Hum abhi bhi danger mein the, par Riya mil gayi.",
+   "fx": "snow",
+   "sub": "We were still in danger, but Riya was found.",
+   "say": "हम अभी भी डेंजर में थे, पर रिया मिल गई।"
+  },
+  {
+   "image": "The wolf, Shadow, stands at the cave entrance, looking out into the snowy forest, then back at Meera and Riya.",
+   "speaker": "narrator",
+   "line": "Shadow ne ek lambi howl ki.",
+   "fx": "snow",
+   "sub": "Shadow let out a long howl.",
+   "say": "शैडो ने एक लंबी हाउल की।"
+  },
+  {
+   "image": "Bhaijaan and other villagers, deep in the forest, suddenly stop, listening intently. Bhaijaan points in the direction of the howl.",
+   "speaker": "narrator",
+   "line": "Gaon walon ne awaaz suni.",
+   "fx": "snow",
+   "sub": "The villagers heard the sound.",
+   "say": "गाँव वालों ने आवाज़ सुनी।"
+  },
+  {
+   "image": "The search party starts moving quickly towards the sound, their faces a mix of hope and apprehension.",
+   "speaker": "narrator",
+   "line": "Woh sab usi taraf badhe.",
+   "fx": "snow",
+   "sub": "They all moved in that direction.",
+   "say": "वो सब उसी तरफ बढ़े।"
+  },
+  {
+   "image": "Meera, still holding Riya, looks towards the wolf, understanding dawning in her eyes.",
+   "speaker": "narrator",
+   "line": "Woh humein guide kar raha tha.",
+   "fx": "snow",
+   "sub": "It was guiding us.",
+   "say": "वो हमें गाइड कर रहा था।"
+  },
+  {
+   "image": "The wolf lets out another clear, resonant howl, louder this time, specifically to direct the rescuers.",
+   "speaker": "Shadow",
+   "line": "Awooo!",
+   "fx": "snow",
+   "sub": "Awooo!",
+   "say": "आऊऊऊ!"
+  },
+  {
+   "image": "The search party breaks through the bushes and sees Meera and Riya at the cave entrance. Relief floods their faces.",
+   "speaker": "narrator",
+   "line": "Aur phir, finally, woh aa gaye.",
+   "fx": "snow",
+   "sub": "And then, finally, they arrived.",
+   "say": "और फिर, फाइनली, वो आ गए।"
+  },
+  {
+   "image": "The villagers rush towards them, their faces showing immense relief and joy. Bhaijaan reaches out to take Riya.",
+   "speaker": "narrator",
+   "line": "Har chehra khushi se chamak utha.",
+   "fx": "none",
+   "sub": "Every face lit up with happiness.",
+   "say": "हर चेहरा खुशी से चमक उठा।"
+  },
+  {
+   "image": "Bhaijaan carefully takes Riya from Meera's arms, comforting the child. Meera looks exhausted but grateful.",
+   "speaker": "Bhaijaan",
+   "line": "Shukr hai bhagwan ka, Riya mil gayi!",
+   "fx": "none",
+   "sub": "Thank God, Riya is found!",
+   "say": "शुक्र है भगवान का, रिया मिल गई!"
+  },
+  {
+   "image": "The villagers suddenly notice the wolf, Shadow, standing calmly a little distance away, observing them.",
+   "speaker": "narrator",
+   "line": "Lekin sabne Shadow ko dekha.",
+   "fx": "snow",
+   "sub": "But everyone saw Shadow.",
+   "say": "लेकिन सबने शैडो को देखा।"
+  },
+  {
+   "image": "Close-up on the villagers' faces: awe, confusion, and a hint of their old fear, now mixed with disbelief.",
+   "speaker": "narrator",
+   "line": "Har koi totally shocked tha.",
+   "fx": "none",
+   "sub": "Everyone was totally shocked.",
+   "say": "हर कोई टोटली शॉक्ड था।"
+  },
+  {
+   "image": "The wolf, Shadow, gives one last glance at Meera, a deep, knowing look, then slowly turns and melts into the snowy forest.",
+   "speaker": "narrator",
+   "line": "Usne ek baar dekha, aur phir gayab ho gaya.",
+   "fx": "snow",
+   "sub": "It looked once, and then disappeared.",
+   "say": "उसने एक बार देखा, और फिर गायब हो गया।"
+  },
+  {
+   "image": "Meera stands there, watching the spot where the wolf disappeared, a profound realization dawning on her.",
+   "speaker": "narrator",
+   "line": "Woh 'shaitan' nahi, woh hamara guardian tha.",
+   "fx": "snow",
+   "sub": "It wasn't 'evil', it was our guardian.",
+   "say": "वो 'शैतान' नहीं, वो हमारा गार्डियन था।"
+  },
+  {
+   "image": "Flashback: A year ago, Meera, younger, finds a small wolf pup with an injured leg near the forest edge. She looks worried.",
+   "speaker": "narrator",
+   "line": "Ek saal pehle ki baat hai...",
+   "fx": "snow",
+   "sub": "It was a year ago...",
+   "say": "एक साल पहले की बात है..."
+  },
+  {
+   "image": "Flashback: Meera secretly leaves a small bowl of milk and some food near the injured pup, hiding behind a tree.",
+   "speaker": "narrator",
+   "line": "Maine ek chhote pup ko chhipkar khana diya.",
+   "fx": "snow",
+   "sub": "I secretly gave food to a small pup.",
+   "say": "मैंने एक छोटे पप को छिपकर खाना दिया।"
+  },
+  {
+   "image": "Flashback: The pup, with its injured leg, slowly approaches the food, wary but hungry. It eats while Meera watches hidden.",
+   "speaker": "narrator",
+   "line": "Usko chot lagi thi, bohot weak tha woh.",
+   "fx": "snow",
+   "sub": "It was injured, very weak.",
+   "say": "उसको चोट लगी थी, बहुत वीक था वो।"
+  },
+  {
+   "image": "Flashback: The pup looks directly at the spot where Meera is hiding, an intelligent gaze, as if it knows she's there.",
+   "speaker": "narrator",
+   "line": "Woh janta tha, kaun uski help kar raha hai.",
+   "fx": "none",
+   "sub": "It knew, who was helping it.",
+   "say": "वो जानता था, कौन उसकी हेल्प कर रहा है।"
+  },
+  {
+   "image": "Flashback: Close-up on Meera's gentle, compassionate face as she watches the pup eat, a soft smile.",
+   "speaker": "narrator",
+   "line": "Maine use tab tak feed kiya, jab tak theek nahi hua.",
+   "fx": "none",
+   "sub": "I fed it until it got well.",
+   "say": "मैंने उसे तब तक फीड किया, जब तक ठीक नहीं हुआ।"
+  },
+  {
+   "image": "Flashback: The pup, now recovered, runs off into the forest, strong and healthy. Meera waves goodbye softly.",
+   "speaker": "narrator",
+   "line": "Aur phir woh jungle mein chala gaya.",
+   "fx": "none",
+   "sub": "And then it went into the forest.",
+   "say": "और फिर वो जंगल में चला गया।"
+  },
+  {
+   "image": "Return to present: Meera, holding Riya, looking at the forest edge with newfound understanding, a warm smile.",
+   "speaker": "narrator",
+   "line": "Aaj mujhe samajh aaya, Shadow kaun tha.",
+   "fx": "snow",
+   "sub": "Today I understood, who Shadow was.",
+   "say": "आज मुझे समझ आया, शैडो कौन था।"
+  },
+  {
+   "image": "Meera hugs Riya close, Riya's head on her shoulder, feeling safe. Meera's eyes are soft with emotion.",
+   "speaker": "narrator",
+   "line": "Woh us pup ka parent tha.",
+   "fx": "none",
+   "sub": "It was that pup's parent.",
+   "say": "वो उस पप का पेरेंट था।"
+  },
+  {
+   "image": "Villagers gather around Meera and Riya, expressions of wonder and changed perspective on their faces.",
+   "speaker": "narrator",
+   "line": "Hamari kindness wapas aa gayi thi.",
+   "fx": "none",
+   "sub": "Our kindness had returned.",
+   "say": "हमारी काइंडनेस वापस आ गई थी।"
+  },
+  {
+   "image": "Bhaijaan looks at Meera, then at the forest, a thoughtful, respectful expression on his face, nodding slowly.",
+   "speaker": "narrator",
+   "line": "Gaon walon ka darr ab badal gaya tha.",
+   "fx": "none",
+   "sub": "The villagers' fear had now changed.",
+   "say": "गाँव वालों का डर अब बदल गया था।"
+  },
+  {
+   "image": "Meera stands at her cottage window, looking out at the snowy forest, a sense of peace and gratitude on her face.",
+   "speaker": "narrator",
+   "line": "Jungle ab dravana nahi lagta tha.",
+   "fx": "snow",
+   "sub": "The jungle no longer felt terrifying.",
+   "say": "जंगल अब डरावना नहीं लगता था।"
+  },
+  {
+   "image": "Sunlight breaks through the snowy trees, illuminating a small patch of forest floor where the wolf disappeared.",
+   "speaker": "narrator",
+   "line": "Har living thing ka apna connection hota hai.",
+   "fx": "none",
+   "sub": "Every living thing has its own connection.",
+   "say": "हर लिविंग थिंग का अपना कनेक्शन होता है।"
+  },
+  {
+   "image": "Close-up of Riya, sleeping peacefully in her bed, a warm blanket pulled up to her chin, a soft smile on her face.",
+   "speaker": "narrator",
+   "line": "Riya ab bilkul safe thi.",
+   "fx": "none",
+   "sub": "Riya was now perfectly safe.",
+   "say": "रिया अब बिल्कुल सेफ थी।"
+  },
+  {
+   "image": "Meera gently touches Riya's forehead, then looks out the window towards the forest with a knowing, grateful smile.",
+   "speaker": "narrator",
+   "line": "Us anjaan guardian ka shukriya.",
+   "fx": "none",
+   "sub": "Thank you, unknown guardian.",
+   "say": "उस अनजान गार्डियन का शुक्रिया।"
+  },
+  {
+   "image": "The wolf, Shadow, sits on a distant ridge, silhouetted against the setting sun, looking down at the village, a silent protector.",
+   "speaker": "narrator",
+   "line": "Kabhi-kabhi, silent promises sabse gehri hoti hain.",
+   "fx": "snow",
+   "sub": "Sometimes, silent promises are the deepest.",
+   "say": "कभी-कभी, साइलेंट प्रॉमिस सबसे गहरी होती हैं।"
+  },
+  {
+   "image": "Close-up of Meera's hand, holding a small wooden wolf figurine, a symbol of her gratitude and memory.",
+   "speaker": "narrator",
+   "line": "Kya aapne kabhi aisa experience kiya hai?",
+   "fx": "none",
+   "sub": "Have you ever experienced something like this?",
+   "say": "क्या आपने कभी ऐसा एक्सपीरियंस किया है?"
+  }
+ ],
+ "caption": "Feared Wolf Saves Lost Child - A Hidden Connection 🐺",
+ "slug": "2026-11-08_part1",
+ "story_no": 35,
+ "yt_title": "Feared Wolf Saves Lost Child - A Hidden Connection 🐺",
+ "description": "Everyone feared the grey wolf. But one snowy day, it became our only hope when my niece got lost in the forest. You won't believe the hidden connection we discovered. What would you do if a wild animal became your guardian angel?",
+ "comment_question": "What would you do if a wild animal became your guardian angel?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#wolf",
+  "#animalrescue",
+  "#humananimalbond",
+  "#snowystory",
+  "#heartwarming",
+  "#lostchild",
+  "#guardianangel",
+  "#mountainlife",
+  "#unexpectedhero"
+ ]
+}
