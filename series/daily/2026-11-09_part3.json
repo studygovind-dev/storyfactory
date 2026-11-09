@@ -1,0 +1,605 @@
+{
+ "series": "The Unwritten Chapter",
+ "episode": 3,
+ "title": "The Unwritten Chapter",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Anjali, young woman (20s), fair skin, long soft wavy dark-brown hair, natural makeup, small pearl earrings, elegant pastel green kurta.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Young man (20s), light wheatish skin, short neat dark hair, clean-shaven, warm smile, smart casual blue shirt, often seen with a notebook.",
+   "voice": "hindi_male_young"
+  },
+  "Dr. Sharma": {
+   "look": "Young woman (20s), light wheatish skin, neat bun, glasses, professional-looking white lab coat over a simple saree, kind and empathetic expression.",
+   "voice": "hindi_female_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HE LEFT ME... A LIBRARY.",
+ "scenes": [
+  {
+   "image": "Anjali (narrator) holding a faded, official-looking letter, her eyes wide with a mix of shock and confusion. Her hand slightly trembles.",
+   "speaker": "narrator",
+   "line": "Ek letter ne meri duniya badal di.",
+   "fx": "none",
+   "sub": "A letter changed my world.",
+   "say": "एक लेटर ने मेरी दुनिया बदल दी।"
+  },
+  {
+   "image": "Flashback: Anjali and Rohan, young, laughing, sharing headphones in a vibrant college corridor. They look blissfully happy.",
+   "speaker": "narrator",
+   "line": "Rohan aur main, college ke din.",
+   "fx": "none",
+   "sub": "Rohan and I, college days.",
+   "say": "रोहन और मैं, कॉलेज के दिन।"
+  },
+  {
+   "image": "Anjali and Rohan sitting on a park bench, sketching library designs together in a shared notebook, full of youthful hope and dreams.",
+   "speaker": "narrator",
+   "line": "Hamara ek hi sapna tha.",
+   "fx": "none",
+   "sub": "We had one dream.",
+   "say": "हमारा एक ही सपना था।"
+  },
+  {
+   "image": "Close-up of their hands on the notebook, drawing bookshelves and reading nooks, their fingers occasionally brushing.",
+   "speaker": "narrator",
+   "line": "Apni community library banane ka hamara sapna.",
+   "fx": "none",
+   "sub": "Our dream to build our community library.",
+   "say": "अपनी कम्युनिटी लाइब्रेरी बनाने का हमारा सपना।"
+  },
+  {
+   "image": "Rohan showing Anjali a job offer letter for Mumbai, his face serious, a hint of sadness in his eyes despite the opportunity.",
+   "speaker": "narrator",
+   "line": "Phir Mumbai se usko offer aaya.",
+   "fx": "none",
+   "sub": "Then he received an offer from Mumbai.",
+   "say": "फिर मुंबई से उसको ऑफर आया।"
+  },
+  {
+   "image": "Anjali holding Rohan's hand, looking up at him with tearful eyes, trying to be brave and supportive.",
+   "speaker": "narrator",
+   "line": "Bola, \"Sapna poora karna hai, Anjali.\"",
+   "fx": "none",
+   "sub": "He said, \"We have to complete our dream, Anjali.\"",
+   "say": "बोला, \"सपना पूरा करना है, अंजलि।\""
+  },
+  {
+   "image": "Rohan in a crowded train station, turning back to wave at Anjali, a determined but sad smile as he boards the train.",
+   "speaker": "narrator",
+   "line": "Usne kaha, \"Jaldi wapas aaunga.\"",
+   "fx": "none",
+   "sub": "He said, \"I'll come back soon.\"",
+   "say": "उसने कहा, \"जल्दी वापस आऊंगा।\""
+  },
+  {
+   "image": "Anjali smiling, holding her phone, Rohan's happy face visible on video call, initially their connection was strong.",
+   "speaker": "narrator",
+   "line": "Pehle calls lambe the, khushiyan thi.",
+   "fx": "none",
+   "sub": "At first calls were long, there was happiness.",
+   "say": "पहले कॉल्स लंबे थे, खुशियां थीं।"
+  },
+  {
+   "image": "Anjali looking at her phone, concern growing on her face. A missed call notification from Rohan, then silence.",
+   "speaker": "narrator",
+   "line": "Phir dheere-dheere woh kam hone lage.",
+   "fx": "none",
+   "sub": "Then slowly they became less frequent.",
+   "say": "फिर धीरे-धीरे वो कम होने लगे।"
+  },
+  {
+   "image": "Anjali lying in bed at night, staring at the ceiling, phone next to her, looking anxious and unable to sleep.",
+   "speaker": "narrator",
+   "line": "Raaton ki neend ud gayi thi.",
+   "fx": "none",
+   "sub": "My sleep was gone at night.",
+   "say": "रातों की नींद उड़ गई थी।"
+  },
+  {
+   "image": "Anjali on a call, holding the phone away slightly, her expression hurt and confused by Rohan's distant tone.",
+   "speaker": "narrator",
+   "line": "Uski awaaz mein woh baat nahi thi.",
+   "fx": "none",
+   "sub": "There was no warmth in his voice.",
+   "say": "उसकी आवाज़ में वो बात नहीं थी।"
+  },
+  {
+   "image": "Rohan on the phone, looking distracted and stressed, his attention clearly elsewhere, not focused on Anjali.",
+   "speaker": "Rohan",
+   "line": "\"Bahut busy hoon, Anjali. Baad mein.\"",
+   "fx": "none",
+   "sub": "\"I'm very busy, Anjali. Later.\"",
+   "say": "बहुत बिज़ी हूं, अंजलि। बाद में।"
+  },
+  {
+   "image": "Anjali putting down her phone slowly, tears welling up in her eyes, feeling abandoned and utterly heartbroken.",
+   "speaker": "narrator",
+   "line": "Mera dil baithne laga tha.",
+   "fx": "none",
+   "sub": "My heart started to sink.",
+   "say": "मेरा दिल बैठने लगा था।"
+  },
+  {
+   "image": "Anjali scrolling through social media on her laptop, her eyes suddenly fixated on something shocking on the screen.",
+   "speaker": "narrator",
+   "line": "Phir maine woh dekha. Online.",
+   "fx": "none",
+   "sub": "Then I saw that. Online.",
+   "say": "फिर मैंने वो देखा। ऑनलाइन।"
+  },
+  {
+   "image": "Close-up on the laptop screen showing Rohan laughing with another woman (Dr. Sharma). Both look happy and comfortable.",
+   "speaker": "narrator",
+   "line": "Woh kisi aur ke saath tha.",
+   "fx": "none",
+   "sub": "He was with someone else.",
+   "say": "वो किसी और के साथ था।"
+  },
+  {
+   "image": "Anjali covering her mouth with her hand, eyes wide with disbelief and betrayal, a silent scream forming.",
+   "speaker": "narrator",
+   "line": "Meri aankhon par yakeen nahi aaya.",
+   "fx": "none",
+   "sub": "I couldn't believe my eyes.",
+   "say": "मेरी आंखों पर यकीन नहीं आया।"
+  },
+  {
+   "image": "Another social media photo: Rohan and Dr. Sharma at a café, looking cozy and intimate, laughing together.",
+   "speaker": "narrator",
+   "line": "Ek ke baad ek photos thi.",
+   "fx": "none",
+   "sub": "There were photos one after another.",
+   "say": "एक के बाद एक फ़ोटोज थी।"
+  },
+  {
+   "image": "Anjali clutching the shared notebook to her chest, sobbing uncontrollably, her dreams feeling shattered.",
+   "speaker": "narrator",
+   "line": "Hamare sapne bhool gaya tha woh.",
+   "fx": "none",
+   "sub": "He had forgotten our dreams.",
+   "say": "हमारे सपने भूल गया था वो।"
+  },
+  {
+   "image": "Anjali angrily deleting Rohan's contacts from her phone, tears still falling, but a fierce resolve on her face.",
+   "speaker": "narrator",
+   "line": "Maine use apni zindagi se nikal diya.",
+   "fx": "none",
+   "sub": "I removed him from my life.",
+   "say": "मैंने उसे अपनी ज़िंदगी से निकाल दिया।"
+  },
+  {
+   "image": "Months later, Anjali working diligently in a small local bookstore, looking subdued and tired, trying to focus.",
+   "speaker": "narrator",
+   "line": "Wakt beeta, par ghav nahi bhare.",
+   "fx": "none",
+   "sub": "Time passed, but the wounds didn't heal.",
+   "say": "वक़्त बीता, पर घाव नहीं भरे।"
+  },
+  {
+   "image": "Anjali alone at home, looking out a window at a distant skyline, a sense of quiet sadness surrounding her.",
+   "speaker": "narrator",
+   "line": "Zindagi aage badh gayi thi.",
+   "fx": "none",
+   "sub": "Life had moved on.",
+   "say": "ज़िंदगी आगे बढ़ गई थी।"
+  },
+  {
+   "image": "A postman handing a formal, official-looking envelope to Anjali at her door. She looks puzzled and hesitant.",
+   "speaker": "narrator",
+   "line": "Phir woh letter aaya. Lawyer ka.",
+   "fx": "none",
+   "sub": "Then that letter arrived. From a lawyer.",
+   "say": "फिर वो लेटर आया। लॉयर का।"
+  },
+  {
+   "image": "Anjali sitting at a table, carefully opening the envelope, her brow furrowed with curiosity and slight apprehension.",
+   "speaker": "narrator",
+   "line": "Mujhe laga koi business matter hoga.",
+   "fx": "none",
+   "sub": "I thought it would be a business matter.",
+   "say": "मुझे लगा कोई बिज़नेस मैटर होगा।"
+  },
+  {
+   "image": "Close-up of Anjali's face as she reads, her eyes widening in horror, dropping the letter slightly as realization hits.",
+   "speaker": "narrator",
+   "line": "Par pehli line ne sab badal diya.",
+   "fx": "none",
+   "sub": "But the first line changed everything.",
+   "say": "पर पहली लाइन ने सब बदल दिया।"
+  },
+  {
+   "image": "Anjali's face completely drained of color, her mouth slightly open in disbelief and profound grief. The world stops.",
+   "speaker": "narrator",
+   "line": "Rohan ab nahi raha, usme likha tha.",
+   "fx": "none",
+   "sub": "Rohan is no more, it was written in it.",
+   "say": "रोहन अब नहीं रहा, उसमें लिखा था।"
+  },
+  {
+   "image": "Anjali drops the letter to the floor, hands covering her mouth, tears streaming down her face, trembling uncontrollably.",
+   "speaker": "narrator",
+   "line": "Mera toh saara jahaan ruk gaya.",
+   "fx": "none",
+   "sub": "My entire world stopped.",
+   "say": "मेरा तो सारा जहां रुक गया।"
+  },
+  {
+   "image": "Anjali clutching her head, sobbing, unable to comprehend the news, a whirlwind of emotions on her face.",
+   "speaker": "narrator",
+   "line": "Itna pyaar, phir itni nafrat.",
+   "fx": "none",
+   "sub": "So much love, then so much hate.",
+   "say": "इतना प्यार, फिर इतनी नफ़रत।"
+  },
+  {
+   "image": "Close-up on the fallen letter. A specific paragraph is visible: 'Last Will & Testament... beneficiary Anjali Sharma... Community Library Project.'",
+   "speaker": "narrator",
+   "line": "Uska will... uski akhri nishaani.",
+   "fx": "none",
+   "sub": "His will... his last token.",
+   "say": "उसका विल... उसकी आखरी निशानी।"
+  },
+  {
+   "image": "Anjali wiping tears, picking up the letter again, reading the library clause with confusion and a hint of surprise. Her brow furrows.",
+   "speaker": "narrator",
+   "line": "Ek library ka blueprint bhi tha.",
+   "fx": "none",
+   "sub": "There was also a library blueprint.",
+   "say": "एक लाइब्रेरी का ब्लूप्रिंट भी था।"
+  },
+  {
+   "image": "Anjali in a taxi, looking out the window, deep in thought, heading towards an unknown location mentioned in the letter.",
+   "speaker": "narrator",
+   "line": "Woh mujhe ek jagah bulaya tha.",
+   "fx": "none",
+   "sub": "He had called me to a place.",
+   "say": "वो मुझे एक जगह बुलाया था।"
+  },
+  {
+   "image": "Anjali stepping out of the taxi, looking up at a beautiful, newly constructed building. The 'Unwritten Chapter' sign is partly visible.",
+   "speaker": "narrator",
+   "line": "Ek shandaar building wahan khadi thi.",
+   "fx": "none",
+   "sub": "A magnificent building stood there.",
+   "say": "एक शानदार बिल्डिंग वहां खड़ी थी।"
+  },
+  {
+   "image": "Dr. Sharma (the woman from the social media photos), in her lab coat, walking towards Anjali with a gentle, empathetic smile.",
+   "speaker": "narrator",
+   "line": "Aur woh ladki saamne khadi thi.",
+   "fx": "none",
+   "sub": "And that girl was standing in front.",
+   "say": "और वो लड़की सामने खड़ी थी।"
+  },
+  {
+   "image": "Anjali stares at Dr. Sharma with a mix of recognition, grief, and budding anger. Her eyes narrow in suspicion.",
+   "speaker": "narrator",
+   "line": "Usi ladki ko maine online dekha tha.",
+   "fx": "none",
+   "sub": "I had seen that same girl online.",
+   "say": "उसी लड़की को मैंने ऑनलाइन देखा था।"
+  },
+  {
+   "image": "Dr. Sharma extends a hand towards Anjali, her expression kind and understanding, a soft smile on her face.",
+   "speaker": "Dr. Sharma",
+   "line": "\"Anjali? Main Dr. Sharma hoon.\"",
+   "fx": "none",
+   "sub": "\"Anjali? I am Dr. Sharma.\"",
+   "say": "अंजलि? मैं डॉक्टर शर्मा हूं।"
+  },
+  {
+   "image": "Anjali pulling her hand back, her face hardening with anger and hurt, tears returning to her eyes.",
+   "speaker": "narrator",
+   "line": "\"Tum yahan kya kar rahi ho?\"",
+   "fx": "none",
+   "sub": "\"What are you doing here?\"",
+   "say": "तुम यहां क्या कर रही हो?"
+  },
+  {
+   "image": "Dr. Sharma's face softens with sadness, her gaze fixed on Anjali, a hint of sorrow in her eyes.",
+   "speaker": "Dr. Sharma",
+   "line": "\"Rohan ne yeh aapke liye banaya.\"",
+   "fx": "none",
+   "sub": "\"Rohan built this for you.\"",
+   "say": "रोहन ने ये आपके लिए बनाया।"
+  },
+  {
+   "image": "Anjali shaking her head in disbelief, tears of anger and confusion spilling over, her voice cracking.",
+   "speaker": "narrator",
+   "line": "\"Usne mera dil toda tha!\"",
+   "fx": "none",
+   "sub": "\"He broke my heart!\"",
+   "say": "उसने मेरा दिल तोड़ा था!"
+  },
+  {
+   "image": "Dr. Sharma motions towards the library entrance, a knowing and slightly somber look on her face, inviting Anjali in.",
+   "speaker": "Dr. Sharma",
+   "line": "\"Sach kuch aur hai, Anjali.\"",
+   "fx": "none",
+   "sub": "\"The truth is something else, Anjali.\"",
+   "say": "सच कुछ और है, अंजलि।"
+  },
+  {
+   "image": "Anjali stepping inside the library, her jaw dropping at the beautiful, fully stocked interior. Sunlight streams through large windows.",
+   "speaker": "narrator",
+   "line": "Ander toh ek sapna tha.",
+   "fx": "none",
+   "sub": "Inside was a dream.",
+   "say": "अंदर तो एक सपना था।"
+  },
+  {
+   "image": "Anjali sees a specific corner designed exactly as she and Rohan had sketched in their notebook. She reaches out and touches the bookshelf.",
+   "speaker": "narrator",
+   "line": "Har kona jaana pehchana tha.",
+   "fx": "none",
+   "sub": "Every corner was familiar.",
+   "say": "हर कोना जाना पहचाना था।"
+  },
+  {
+   "image": "Flashback: Rohan in a hospital bed, looking weak and pale, receiving an IV drip. Dr. Sharma is checking his vitals with concern.",
+   "speaker": "narrator",
+   "line": "Woh ek bimari se lad raha tha.",
+   "fx": "none",
+   "sub": "He was fighting an illness.",
+   "say": "वो एक बीमारी से लड़ रहा था।"
+  },
+  {
+   "image": "Close-up of a medical chart being discussed by Dr. Sharma and another doctor (partially visible), both looking grim and serious.",
+   "speaker": "narrator",
+   "line": "Ek rare, aggressive illness thi.",
+   "fx": "none",
+   "sub": "It was a rare, aggressive illness.",
+   "say": "एक रेअर, अग्रेसिव इलनेस थी।"
+  },
+  {
+   "image": "Flashback: Dr. Sharma comforting Rohan, who is holding a pen and a crumpled library blueprint, looking distressed and in pain.",
+   "speaker": "narrator",
+   "line": "Woh uski specialized nurse thi.",
+   "fx": "none",
+   "sub": "She was his specialized nurse.",
+   "say": "वो उसकी स्पेशलाइज़्ड नर्स थी।"
+  },
+  {
+   "image": "Flashback: Rohan, though frail, meticulously working on library blueprints from his hospital bed, determination shining in his eyes.",
+   "speaker": "narrator",
+   "line": "Uska akhri mission yeh library thi.",
+   "fx": "none",
+   "sub": "This library was his last mission.",
+   "say": "उसका आखरी मिशन ये लाइब्रेरी थी।"
+  },
+  {
+   "image": "Flashback: Rohan looking at a photo of Anjali on his phone, tears in his eyes, then deliberately closing the photo app, a pained expression.",
+   "speaker": "narrator",
+   "line": "Mujhe apni takleef se bachana chaha.",
+   "fx": "none",
+   "sub": "He wanted to save me from his pain.",
+   "say": "मुझे अपनी तकलीफ़ से बचाना चाहा।"
+  },
+  {
+   "image": "Flashback: Rohan on a phone call, looking pained but forcing a cold, dismissive tone, turning away from Dr. Sharma's empathetic gaze.",
+   "speaker": "Rohan",
+   "line": "\"Ab humari koi baat nahi.\"",
+   "fx": "none",
+   "sub": "\"Now we have nothing to talk about.\"",
+   "say": "अब हमारी कोई बात नहीं।"
+  },
+  {
+   "image": "Flashback: Rohan and Dr. Sharma, in a professional hospital setting, discussing the library plans on a tablet, smiling briefly about progress.",
+   "speaker": "narrator",
+   "line": "Woh pictures kaam ke liye thi.",
+   "fx": "none",
+   "sub": "Those pictures were for work.",
+   "say": "वो पिक्चर्स काम के लिए थीं।"
+  },
+  {
+   "image": "Flashback: Rohan, very weak, hands a small, hand-written note to Dr. Sharma, smiling faintly at her, a look of gratitude.",
+   "speaker": "narrator",
+   "line": "Usne Dr. Sharma ko sab bataya.",
+   "fx": "none",
+   "sub": "He told Dr. Sharma everything.",
+   "say": "उसने डॉक्टर शर्मा को सब बताया।"
+  },
+  {
+   "image": "Close-up of Dr. Sharma holding Rohan's hand, nodding solemnly, tears in her eyes, promising to fulfill his dying wish.",
+   "speaker": "Dr. Sharma",
+   "line": "\"Main aapka sapna poora karungi.\"",
+   "fx": "none",
+   "sub": "\"I will fulfill your dream.\"",
+   "say": "मैं आपका सपना पूरा करूंगी।"
+  },
+  {
+   "image": "Flashback: Rohan closes his eyes peacefully in the hospital bed, a faint, contented smile on his face, a library book open beside him.",
+   "speaker": "narrator",
+   "line": "Aur phir woh hamein chhod gaya.",
+   "fx": "none",
+   "sub": "And then he left us.",
+   "say": "और फिर वो हमें छोड़ गया।"
+  },
+  {
+   "image": "Anjali stands in the center of the library, tears now of profound understanding and sorrow, overwhelming her.",
+   "speaker": "narrator",
+   "line": "Main galat thi... woh sahi tha.",
+   "fx": "none",
+   "sub": "I was wrong... he was right.",
+   "say": "मैं गलत थी... वो सही था।"
+  },
+  {
+   "image": "Anjali walks slowly past a shelf, running her hand over the books, her expression a mix of awe and heartbreak.",
+   "speaker": "narrator",
+   "line": "Uska pyaar toh aur bhi gehra tha.",
+   "fx": "none",
+   "sub": "His love was even deeper.",
+   "say": "उसका प्यार तो और भी गहरा था।"
+  },
+  {
+   "image": "Anjali looks up at the prominent 'The Unwritten Chapter' sign above the entrance, now fully visible. Tears stream down her face.",
+   "speaker": "narrator",
+   "line": "The Unwritten Chapter... hamara dream.",
+   "fx": "none",
+   "sub": "The Unwritten Chapter... our dream.",
+   "say": "द अनरिटन चैप्टर... हमारा ड्रीम।"
+  },
+  {
+   "image": "Anjali gently touches a framed photo of Rohan, placed on a prominent display table in the library, smiling fondly at his image.",
+   "speaker": "narrator",
+   "line": "Uski yaad, uska pyaar, yahan zinda hai.",
+   "fx": "none",
+   "sub": "His memory, his love, lives here.",
+   "say": "उसकी याद, उसका प्यार, यहां ज़िंदा है।"
+  },
+  {
+   "image": "Anjali sits at a reading table, opening one of the library's books, a serene but melancholic smile on her face.",
+   "speaker": "narrator",
+   "line": "Ab har kitab mein, uski kahani hai.",
+   "fx": "none",
+   "sub": "Now in every book, is his story.",
+   "say": "अब हर किताब में, उसकी कहानी है।"
+  },
+  {
+   "image": "Anjali looking at children happily reading in the library, a sense of renewed purpose and warmth on her face.",
+   "speaker": "narrator",
+   "line": "Uska sapna ab mera sapna hai.",
+   "fx": "none",
+   "sub": "His dream is now my dream.",
+   "say": "उसका सपना अब मेरा सपना है।"
+  },
+  {
+   "image": "Dr. Sharma discreetly leaving the library, giving Anjali a final, gentle nod of understanding and respect.",
+   "speaker": "narrator",
+   "line": "Dr. Sharma ne apna vaada nibhaya.",
+   "fx": "none",
+   "sub": "Dr. Sharma kept her promise.",
+   "say": "डॉक्टर शर्मा ने अपना वादा निभाया।"
+  },
+  {
+   "image": "Anjali standing confidently at the entrance of the library, looking out at the world, a blend of sorrow and strength.",
+   "speaker": "narrator",
+   "line": "Main ab aur akeli nahi hoon.",
+   "fx": "none",
+   "sub": "I am not alone anymore.",
+   "say": "मैं अब और अकेली नहीं हूं।"
+  },
+  {
+   "image": "Close-up of Anjali's hand tracing the engraved title \"The Unwritten Chapter\", a symbol of their unfinished yet eternal story.",
+   "speaker": "narrator",
+   "line": "Usne mujhe ek naya chapter diya.",
+   "fx": "none",
+   "sub": "He gave me a new chapter.",
+   "say": "उसने मुझे एक नया चैप्टर दिया।"
+  },
+  {
+   "image": "Anjali looking up towards the sky, a single tear rolling down, but a gentle, peaceful smile, understanding his choice.",
+   "speaker": "narrator",
+   "line": "Kuch pyaar kabhi khatam nahi hote.",
+   "fx": "none",
+   "sub": "Some loves never end.",
+   "say": "कुछ प्यार कभी खत्म नहीं होते।"
+  },
+  {
+   "image": "A wide shot of the bustling library, filled with people reading, a beacon of knowledge and Rohan's enduring love for Anjali and their community.",
+   "speaker": "narrator",
+   "line": "Rohan ka naam zinda rahega.",
+   "fx": "none",
+   "sub": "Rohan's name will live on.",
+   "say": "रोहन का नाम ज़िंदा रहेगा।"
+  },
+  {
+   "image": "Anjali placing a fresh flower on Rohan's photo in the library, her heart full of gratitude and enduring love.",
+   "speaker": "narrator",
+   "line": "Uska pyaar har roz dikhta hai.",
+   "fx": "none",
+   "sub": "His love is visible every day.",
+   "say": "उसका प्यार हर रोज़ दिखता है।"
+  },
+  {
+   "image": "Anjali closing her eyes, a peaceful smile on her face, finally finding solace and understanding everything.",
+   "speaker": "narrator",
+   "line": "Meri aatma ko shanti mil gayi.",
+   "fx": "none",
+   "sub": "My soul found peace.",
+   "say": "मेरी आत्मा को शांति मिल गई।"
+  },
+  {
+   "image": "Anjali looks at her hand where Rohan used to hold it, a faint, wistful smile, feeling their unbreakable connection.",
+   "speaker": "narrator",
+   "line": "Humara bandhan amar ho gaya.",
+   "fx": "none",
+   "sub": "Our bond became immortal.",
+   "say": "हमारा बंधन अमर हो गया।"
+  },
+  {
+   "image": "Anjali looks at the library door, open, inviting people in, realizing its true, deeper meaning.",
+   "speaker": "narrator",
+   "line": "Yeh sirf kitaabon ka ghar nahi.",
+   "fx": "none",
+   "sub": "This is not just a house of books.",
+   "say": "ये सिर्फ किताबों का घर नहीं।"
+  },
+  {
+   "image": "Anjali walks through the library, a look of quiet pride and deep, eternal love, touching the bookshelves lovingly.",
+   "speaker": "narrator",
+   "line": "Yeh uske pyaar ki nishaani hai.",
+   "fx": "none",
+   "sub": "This is a sign of his love.",
+   "say": "ये उसके प्यार की निशानी है।"
+  },
+  {
+   "image": "Close-up of Anjali's eyes, full of tears but shining with warmth and profound understanding, looking towards the camera.",
+   "speaker": "narrator",
+   "line": "Kya aap kabhi itna pyaar kar paoge?",
+   "fx": "none",
+   "sub": "Could you ever love this much?",
+   "say": "क्या आप कभी इतना प्यार कर पाओगे?"
+  },
+  {
+   "image": "Anjali looking directly into the camera, a gentle, reflective expression, inviting viewers to ponder.",
+   "speaker": "narrator",
+   "line": "Kisne socha tha? Aisa ending.",
+   "fx": "none",
+   "sub": "Who would have thought? Such an ending.",
+   "say": "किसने सोचा था? ऐसा एंडिंग।"
+  },
+  {
+   "image": "Wide shot of 'The Unwritten Chapter' library at sunset, bathed in warm, golden light, looking majestic and serene.",
+   "speaker": "narrator",
+   "line": "Uska pyaar toh amar hai.",
+   "fx": "none",
+   "sub": "His love is immortal.",
+   "say": "उसका प्यार तो अमर है।"
+  },
+  {
+   "image": "Anjali smiling softly, sitting inside the library at her and Rohan's favourite reading spot, surrounded by books and gentle sunlight.",
+   "speaker": "narrator",
+   "line": "Kya aise pyaar ko bhula paoge?",
+   "fx": "none",
+   "sub": "Could you ever forget such a love?",
+   "say": "क्या ऐसे प्यार को भुला पाओगे?"
+  }
+ ],
+ "caption": "He Left Me Heartbroken, Then His Last Secret Changed Everything 💔",
+ "slug": "2026-11-09_part3",
+ "story_no": 40,
+ "yt_title": "He Left Me Heartbroken, Then His Last Secret Changed Everything 💔",
+ "description": "Her long-distance boyfriend ghosted her, leaving her heartbroken. Months later, a lawyer's letter revealed a shocking secret he carried alone. You won't believe what he built for her. Could you ever forget such a love?",
+ "comment_question": "Could you ever forget such a love?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#lovestory",
+  "#twistending",
+  "#indiantwist",
+  "#hindi",
+  "#hindistory",
+  "#india",
+  "#heartbreak",
+  "#secretlove",
+  "#unconditionallove"
+ ]
+}

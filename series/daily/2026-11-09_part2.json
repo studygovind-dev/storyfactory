@@ -1,0 +1,535 @@
+{
+ "series": "The Snooze Button Saga",
+ "episode": 2,
+ "title": "The Snooze Button Saga",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A friendly male storyteller.",
+   "voice": "hindi_narrator_male"
+  },
+  "Rahul": {
+   "look": "Young man, late 20s. Messy black hair, slightly rumpled blue collared shirt, loosened tie. Dark circles under eyes, often has a bewildered or hopeful expression. Fair, light wheatish skin, bright soft light on face.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Ms. Dutta": {
+   "look": "Woman, late 40s. Sharp, neat bun, smart grey blazer, glasses. Professional and stern but with a hint of hidden amusement in her eyes. Fair, light wheatish skin, bright soft light on face.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "CAUGHT NAPPING!",
+ "scenes": [
+  {
+   "image": "[[Rahul]] in a zoom close-up, eyes drooping heavily, almost closing, background blurred office meeting. He looks utterly exhausted, fighting sleep.",
+   "speaker": "narrator",
+   "line": "Ye office meetings... they are a killer, yaar!",
+   "fx": "none",
+   "say": "ये ऑफिस मीटिंग्स... दे आर अ किलर, यार!"
+  },
+  {
+   "image": "Wide shot of a modern, sleek office meeting room. A projector screen shows a dull graph. [[Ms. Dutta]] stands at the head of the table, looking serious. [[Rahul]] is seated in the foreground, head propped on hand.",
+   "speaker": "narrator",
+   "line": "Rahul ko toh har meeting mein neend aati thi.",
+   "fx": "none",
+   "say": "राहुल को तो हर मीटिंग में नींद आती थी।"
+  },
+  {
+   "image": "Close-up on [[Rahul]]'s face, his eyes are half-closed, a thought bubble above his head shows a cozy bed.",
+   "speaker": "Rahul",
+   "line": "Bas paanch minute ka power nap mil jaaye.",
+   "fx": "none",
+   "say": "बस पाँच मिनट का पावर नैप मिल जाए।"
+  },
+  {
+   "image": "[[Ms. Dutta]] at the projector, pointing to a complex slide, looking very intense and professional.",
+   "speaker": "Ms. Dutta",
+   "line": "Toh, hamari Q3 growth strategy pe focus karein.",
+   "fx": "none",
+   "say": "तो, हमारी क्यू थ्री ग्रोथ स्ट्रेटेजी पे फोकस करें।"
+  },
+  {
+   "image": "[[Rahul]] slumps lower in his chair, stifling a yawn, trying hard to look attentive and engaged.",
+   "speaker": "Rahul",
+   "line": "Oh no, not another strategy talk!",
+   "fx": "none",
+   "say": "ओह नो, नॉट अनदर स्ट्रेटेजी टॉक!"
+  },
+  {
+   "image": "[[Rahul]] glances around furtively, then at his laptop, a mischievous glint in his sleepy eyes, hatching a plan.",
+   "speaker": "Rahul",
+   "line": "Aaj toh secret nap master plan banega.",
+   "fx": "none",
+   "say": "आज तो सीक्रेट नैप मास्टर प्लान बनेगा।"
+  },
+  {
+   "image": "[[Rahul]] subtly leans his head against his hand, trying to hide his face behind a pen he's holding up.",
+   "speaker": "Rahul",
+   "line": "Pehle, slight head tilt technique. Yes!",
+   "fx": "none",
+   "say": "पहले, स्लाइट हेड टिल्ट टेक्नीक। यस!"
+  },
+  {
+   "image": "[[Ms. Dutta]] looks directly towards [[Rahul]]'s side of the table, her brow slightly furrowed in question.",
+   "speaker": "Ms. Dutta",
+   "line": "Rahul, aapke inputs kya hain?",
+   "fx": "none",
+   "say": "राहुल, आपके इनपुट्स क्या हैं?"
+  },
+  {
+   "image": "[[Rahul]] snaps his head up, eyes wide with panic, a pen flying out of his hand, looking startled.",
+   "speaker": "Rahul",
+   "line": "Uh... ji, Ms. Dutta? Absolutely!",
+   "fx": "none",
+   "say": "उह... जी, मिस दत्ता? एब्सोल्यूटली!"
+  },
+  {
+   "image": "[[Rahul]] fumbles with the pen, looking flushed with embarrassment, while [[Ms. Dutta]] raises an eyebrow slightly.",
+   "speaker": "Rahul",
+   "line": "Main poora focus kar raha tha, ma'am.",
+   "fx": "none",
+   "say": "मैं पूरा फोकस कर रहा था, मैम।"
+  },
+  {
+   "image": "[[Ms. Dutta]] turns back to the projector, a faint, almost imperceptible smirk playing on her face.",
+   "speaker": "Ms. Dutta",
+   "line": "Theek hai, aage badhte hain, team.",
+   "fx": "none",
+   "say": "ठीक है, आगे बढ़ते हैं, टीम।"
+  },
+  {
+   "image": "Close-up on [[Rahul]]'s determined (but still sleepy) face, he nods to himself, reaffirming his resolve.",
+   "speaker": "Rahul",
+   "line": "Yeh wala plan fail. Naya trick!",
+   "fx": "none",
+   "say": "ये वाला प्लान फेल। नया ट्रिक!"
+  },
+  {
+   "image": "[[Rahul]] positions his open laptop strategically, creating a barrier in front of his face, a clever look.",
+   "speaker": "Rahul",
+   "line": "Laptop shield! The ultimate camouflage now.",
+   "fx": "none",
+   "say": "लैपटॉप शील्ड! द अल्टीमेट कैमोफ्लाज नाउ।"
+  },
+  {
+   "image": "[[Rahul]] has his head bowed slightly behind the laptop, fingers poised over the keyboard, but his eyes are closed.",
+   "speaker": "Rahul",
+   "line": "Lagta hai main bahut busy hoon, typing.",
+   "fx": "none",
+   "say": "लगता है मैं बहुत बिजी हूँ, टाइपिंग।"
+  },
+  {
+   "image": "Close-up of [[Rahul]]'s face, partially visible behind the laptop. His eyes slowly close, a serene expression.",
+   "speaker": "narrator",
+   "line": "Dheere dheere, Rahul sleep mode mein gaya.",
+   "fx": "none",
+   "say": "धीरे धीरे, राहुल स्लीप मोड में गया।"
+  },
+  {
+   "image": "[[Ms. Dutta]] speaks, but her gaze briefly drifts towards [[Rahul]]'s direction, a knowing look in her eyes.",
+   "speaker": "Ms. Dutta",
+   "line": "Market dynamics are changing rapidly, everyone.",
+   "fx": "none",
+   "say": "मार्केट डायनेमिक्स आर चेंजिंग रैपिडली, एव्रीवन।"
+  },
+  {
+   "image": "[[Rahul]] is fully slumped, head resting on his hand, hidden mostly by the laptop. A tiny bit of drool at the corner of his mouth.",
+   "speaker": "narrator",
+   "line": "Mission accomplished, ya fir... not?",
+   "fx": "none",
+   "say": "मिशन अकम्प्लिश्ड, या फिर... नॉट?"
+  },
+  {
+   "image": "A thought bubble from [[Rahul]]'s direction shows a cartoon 'Zzz' and a faint snore sound effect. He is in deep sleep.",
+   "speaker": "narrator",
+   "line": "Thodi si halki kharraate ki awaaz aayi.",
+   "fx": "none",
+   "say": "थोड़ी सी हल्की खर्राटे की आवाज़ आई।"
+  },
+  {
+   "image": "[[Ms. Dutta]] pauses mid-sentence, her eyes twinkling with amusement. She looks at the screen, then back at Rahul's direction.",
+   "speaker": "Ms. Dutta",
+   "line": "Interesting insights, isn't it, colleagues?",
+   "fx": "none",
+   "say": "इंटरेस्टिंग इनसाइट्स, इजन्ट इट, कलीग्स?"
+  },
+  {
+   "image": "Other colleagues at the table are engrossed in their notes or laptops, completely oblivious to Rahul's nap.",
+   "speaker": "narrator",
+   "line": "Baki sab toh apni duniya mein busy the.",
+   "fx": "none",
+   "say": "बाकी सब तो अपनी दुनिया में बिजी थे।"
+  },
+  {
+   "image": "A whimsical dream sequence: [[Rahul]] is floating on a fluffy cloud, wearing a nightcap, surrounded by soft pillows.",
+   "speaker": "Rahul",
+   "line": "Ahh... yeh hai heaven! Pure bliss now.",
+   "fx": "dust",
+   "say": "आह... ये है हेवन! प्योर ब्लिस नाउ।"
+  },
+  {
+   "image": "Back in the meeting room, [[Ms. Dutta]] continues her presentation, unfazed, but with that subtle knowing glint.",
+   "speaker": "Ms. Dutta",
+   "line": "Agle quarter ke targets bahut ambitious hain.",
+   "fx": "none",
+   "say": "अगले क्वार्टर के टारगेट्स बहुत एंबिशियस हैं।"
+  },
+  {
+   "image": "[[Rahul]] is now completely relaxed, head fully down, laptop slightly askew, revealing more of his face.",
+   "speaker": "narrator",
+   "line": "Rahul apne deep sleep phase mein chala gaya.",
+   "fx": "none",
+   "say": "राहुल अपने डीप स्लीप फेज में चला गया।"
+  },
+  {
+   "image": "[[Ms. Dutta]] slowly walks towards [[Rahul]]'s end of the table, holding a marker in her hand.",
+   "speaker": "narrator",
+   "line": "Phir Ms. Dutta ne ek kadam aage badhaya.",
+   "fx": "none",
+   "say": "फिर मिस दत्ता ने एक कदम आगे बढ़ाया।"
+  },
+  {
+   "image": "Extreme close-up on [[Ms. Dutta]]'s hand, holding a marker, moving purposefully towards the table.",
+   "speaker": "narrator",
+   "line": "Tension badh rahi thi. Oh God, save him!",
+   "fx": "none",
+   "say": "टेंशन बढ़ रही थी। ओह गॉड, सेव हिम!"
+  },
+  {
+   "image": "Close-up of [[Rahul]]'s face, completely asleep, oblivious to Ms. Dutta approaching, peaceful.",
+   "speaker": "narrator",
+   "line": "Rahul ko kuch khabar nahi thi, at all.",
+   "fx": "none",
+   "say": "राहुल को कुछ खबर नहीं थी, एट आल।"
+  },
+  {
+   "image": "[[Ms. Dutta]] stands directly behind [[Rahul]]'s chair, looking down at him. She has a faint, unreadable smile.",
+   "speaker": "narrator",
+   "line": "Ms. Dutta bilkul uske peechhe khadi thi.",
+   "fx": "none",
+   "say": "मिस दत्ता बिल्कुल उसके पीछे खड़ी थी।"
+  },
+  {
+   "image": "Close-up on [[Ms. Dutta]]'s hand, she gently adjusts his laptop screen slightly to better hide his face.",
+   "speaker": "narrator",
+   "line": "Usne laptop screen ko dheere se adjust kiya.",
+   "fx": "none",
+   "say": "उसने लैपटॉप स्क्रीन को धीरे से एडजस्ट किया।"
+  },
+  {
+   "image": "[[Rahul]] stirs, makes a small murmuring sound, but doesn't wake up, still lost in sleep.",
+   "speaker": "Rahul",
+   "line": "Mmm... more coffee, please... just five.",
+   "fx": "none",
+   "say": "म्मम... मोर कॉफ़ी, प्लीज... जस्ट फाइव।"
+  },
+  {
+   "image": "[[Ms. Dutta]] shakes her head slightly, still smiling subtly, then walks back to the front of the room.",
+   "speaker": "Ms. Dutta",
+   "line": "Chalo, next slide pe chalte hain, everyone.",
+   "fx": "none",
+   "say": "चलो, नेक्स्ट स्लाइड पे चलते हैं, एव्रीवन।"
+  },
+  {
+   "image": "[[Ms. Dutta]] clicks the remote, and the projector screen changes to display \"Thank You.\" prominently.",
+   "speaker": "Ms. Dutta",
+   "line": "So, that concludes our meeting now.",
+   "fx": "none",
+   "say": "सो, दैट कंक्लूड्स आवर मीटिंग नाउ।"
+  },
+  {
+   "image": "Other colleagues at the table start gathering their things, chatting quietly, and leaving the room.",
+   "speaker": "narrator",
+   "line": "Dheere dheere sab log jaane lage, one by one.",
+   "fx": "none",
+   "say": "धीरे धीरे सब लोग जाने लगे, वन बाय वन।"
+  },
+  {
+   "image": "[[Rahul]] is still peacefully asleep at the table, completely alone in the now empty meeting room.",
+   "speaker": "narrator",
+   "line": "Sirf Rahul abhi bhi so raha tha, soundly.",
+   "fx": "none",
+   "say": "सिर्फ राहुल अभी भी सो रहा था, साउंडली।"
+  },
+  {
+   "image": "[[Ms. Dutta]] walks back to [[Rahul]]'s side of the table, looking at him thoughtfully, with a gentle expression.",
+   "speaker": "Ms. Dutta",
+   "line": "Rahul, utho ab... meeting over ho gayi.",
+   "fx": "none",
+   "say": "राहुल, उठो अब... मीटिंग ओवर हो गई।"
+  },
+  {
+   "image": "[[Rahul]] slowly opens his eyes, disoriented, looking around the empty room, then at Ms. Dutta, confused.",
+   "speaker": "Rahul",
+   "line": "Huh? Meeting khatam? Kab ho gayi?",
+   "fx": "none",
+   "say": "हह? मीटिंग खत्म? कब हो गई?"
+  },
+  {
+   "image": "[[Rahul]] quickly sits up straight, eyes wide, realizing he was caught. His face is red with embarrassment.",
+   "speaker": "Rahul",
+   "line": "Oh my God! Main so gaya tha, sorry!",
+   "fx": "none",
+   "say": "ओह माय गॉड! मैं सो गया था, सॉरी!"
+  },
+  {
+   "image": "[[Ms. Dutta]] stands with her arms crossed, a calm, slightly amused expression on her face.",
+   "speaker": "Ms. Dutta",
+   "line": "Haan, tum toh 'actively listening' the, it seems.",
+   "fx": "none",
+   "say": "हाँ, तुम तो 'एक्टिवली लिसनिंग' थे, इट सीम्स।"
+  },
+  {
+   "image": "[[Rahul]] fumbles for words, gesturing vaguely, trying desperately to make excuses and explain.",
+   "speaker": "Rahul",
+   "line": "Nahi, main... uh... important notes le raha tha.",
+   "fx": "none",
+   "say": "नहीं, मैं... उह... इम्पोर्टेन्ट नोट्स ले रहा था।"
+  },
+  {
+   "image": "[[Ms. Dutta]] leans in slightly, her voice softer, but eyes still holding that knowing, gentle look.",
+   "speaker": "Ms. Dutta",
+   "line": "Rahul, mujhe sab pata hai, don't worry.",
+   "fx": "none",
+   "say": "राहुल, मुझे सब पता है, डोंट वरी।"
+  },
+  {
+   "image": "[[Rahul]]'s jaw drops, eyes wide with utter shock and disbelief. He is completely speechless.",
+   "speaker": "Rahul",
+   "line": "Sab... sab pata hai? Kya pata?",
+   "fx": "none",
+   "say": "सब... सब पता है? क्या पता?"
+  },
+  {
+   "image": "[[Ms. Dutta]] walks to her chair, sits down, and gestures for Rahul to relax and listen.",
+   "speaker": "Ms. Dutta",
+   "line": "Tum pichhle teen din se overtime kar rahe ho na?",
+   "fx": "none",
+   "say": "तुम पिछले तीन दिन से ओवरटाइम कर रहे हो ना?"
+  },
+  {
+   "image": "A quick flashback image: [[Rahul]] working late at night in a dimly lit office, tired but focused on his laptop.",
+   "speaker": "narrator",
+   "line": "Woh badi presentation pe kaam kar raha tha tirelessly.",
+   "fx": "none",
+   "say": "वो बड़ी प्रेजेंटेशन पे काम कर रहा था टायरलैसली।"
+  },
+  {
+   "image": "Back to the meeting room. [[Ms. Dutta]] looks at Rahul with genuine empathy and understanding.",
+   "speaker": "Ms. Dutta",
+   "line": "Tumhari mehnat main dekhti hoon, Rahul, always.",
+   "fx": "none",
+   "say": "तुम्हारी मेहनत मैं देखती हूँ, राहुल, आलवेज़।"
+  },
+  {
+   "image": "[[Rahul]] is still surprised, but a hint of gratitude and relief appears on his face, softening his features.",
+   "speaker": "Rahul",
+   "line": "Oh... thank you, Ms. Dutta. That's kind.",
+   "fx": "none",
+   "say": "ओह... थैंक यू, मिस दत्ता। दैट्स काइंड।"
+  },
+  {
+   "image": "[[Ms. Dutta]] opens her desk drawer and pulls out a small, soft, fluffy travel pillow with a smile.",
+   "speaker": "Ms. Dutta",
+   "line": "Yeh lo. Agli baar better so lena, okay?",
+   "fx": "none",
+   "say": "ये लो। अगली बार बेटर सो लेना, ओके?"
+  },
+  {
+   "image": "[[Rahul]] stares at the pillow in [[Ms. Dutta]]'s hand, then at her face, completely stunned and disbelieving.",
+   "speaker": "Rahul",
+   "line": "A pillow? For me? In office, really?",
+   "fx": "none",
+   "say": "अ पिलो? फॉर मी? इन ऑफिस, रियली?"
+  },
+  {
+   "image": "[[Ms. Dutta]] gives a rare, warm, slightly mischievous smile, holding out the pillow to him.",
+   "speaker": "Ms. Dutta",
+   "line": "Yeah, in office. Break room use kar lena, beta.",
+   "fx": "none",
+   "say": "ये, इन ऑफिस। ब्रेक रूम यूज कर लेना, बेटा।"
+  },
+  {
+   "image": "[[Ms. Dutta]] winks playfully and points to the projector screen where a hidden message now appears: 'Even I nap sometimes!'",
+   "speaker": "Ms. Dutta",
+   "line": "Besides, meri meetings boring hoti hain, no?",
+   "fx": "none",
+   "say": "बिसाइड्स, मेरी मीटिंग्स बोरिंग होती हैं, नो?"
+  },
+  {
+   "image": "[[Rahul]] bursts out laughing, holding the pillow, completely disarmed and amused by her honesty.",
+   "speaker": "Rahul",
+   "line": "Hahaha! Aap bhi, Ms. Dutta? No way!",
+   "fx": "none",
+   "say": "हाहाहा! आप भी, मिस दत्ता? नो वे!"
+  },
+  {
+   "image": "[[Ms. Dutta]] nods conspiratorially, smiling, a finger to her lips, sharing a secret.",
+   "speaker": "Ms. Dutta",
+   "line": "Secret's out. But don't tell anyone now.",
+   "fx": "none",
+   "say": "सीक्रेट्स आउट। बट डोंट टेल एनीवन नाउ।"
+  },
+  {
+   "image": "[[Rahul]] holds the pillow, looking at Ms. Dutta with newfound respect and warmth, a big appreciative smile.",
+   "speaker": "Rahul",
+   "line": "Aaj se you're the best boss ever, ma'am!",
+   "fx": "none",
+   "say": "आज से यू आर द बेस्ट बॉस एवर, मैम!"
+  },
+  {
+   "image": "[[Ms. Dutta]] gestures kindly towards the door of the meeting room, encouraging him.",
+   "speaker": "Ms. Dutta",
+   "line": "Ab jao, achhe se rest kar lo, you deserve it.",
+   "fx": "none",
+   "say": "अब जाओ, अच्छे से रेस्ट कर लो, यू डिज़र्व इट।"
+  },
+  {
+   "image": "[[Rahul]] walks out of the meeting room, pillow tucked under his arm, a wide, happy grin on his face.",
+   "speaker": "narrator",
+   "line": "Rahul ek alag hi mood mein bahar nikla.",
+   "fx": "none",
+   "say": "राहुल एक अलग ही मूड में बाहर निकला।"
+  },
+  {
+   "image": "Two colleagues in the hallway look confused and surprised as [[Rahul]] walks past them with a pillow.",
+   "speaker": "narrator",
+   "line": "Dusre colleagues use hairan ho ke dekh rahe the.",
+   "fx": "none",
+   "say": "दूसरे कॉलीग्स उसे हैरान हो के देख रहे थे।"
+  },
+  {
+   "image": "Close-up on [[Rahul]]'s face, a thought bubble shows him sleeping soundly with the pillow, very content.",
+   "speaker": "Rahul",
+   "line": "Finally, some proper sleep! Pure heaven.",
+   "fx": "none",
+   "say": "फाइनली, सम प्रॉपर स्लीप! प्योर हेवन।"
+  },
+  {
+   "image": "Back in the empty meeting room, [[Ms. Dutta]] is wiping her glasses, chuckling softly to herself.",
+   "speaker": "Ms. Dutta",
+   "line": "Young generation... always trying to nap here.",
+   "fx": "none",
+   "say": "यंग जनरेशन... आलवेज ट्राइंग टू नैप हेयर।"
+  },
+  {
+   "image": "[[Ms. Dutta]] leans back in her chair, lets out a small tired sigh, a hint of wistfulness.",
+   "speaker": "Ms. Dutta",
+   "line": "Kaash mujhe bhi break mil jaata abhi.",
+   "fx": "none",
+   "say": "काश मुझे भी ब्रेक मिल जाता अभी।"
+  },
+  {
+   "image": "[[Ms. Dutta]] looks at the empty spot on her desk where the pillow was, a wistful, thoughtful look.",
+   "speaker": "narrator",
+   "line": "She missed her own hidden pillow, clearly.",
+   "fx": "none",
+   "say": "शी मिस्ड हर ओन हिडन पिलो, क्लियरली।"
+  },
+  {
+   "image": "[[Ms. Dutta]] closes her eyes for a fleeting second, a tiny smile on her lips, enjoying a quiet moment.",
+   "speaker": "narrator",
+   "line": "Sometimes, even bosses need a little break.",
+   "fx": "none",
+   "say": "समटाइम्स, ईवन बॉसेज़ नीड अ लिटिल ब्रेक।"
+  },
+  {
+   "image": "The office buzzes with activity in the background. [[Ms. Dutta]] opens her eyes, ready for more work.",
+   "speaker": "narrator",
+   "line": "But duties called, as always, for her.",
+   "fx": "none",
+   "say": "बट ड्यूटीज़ कॉल्ड, एस आलवेज़, फॉर हर।"
+  },
+  {
+   "image": "[[Rahul]] is now in a cozy break room, fast asleep on a couch, pillow comfortably under his head.",
+   "speaker": "narrator",
+   "line": "Rahul toh abhi bhi so raha tha, peacefully.",
+   "fx": "none",
+   "say": "राहुल तो अभी भी सो रहा था, पीसफुली।"
+  },
+  {
+   "image": "Split screen: [[Rahul]] sleeping peacefully on one side, [[Ms. Dutta]] working at her desk with a small smile on the other.",
+   "speaker": "narrator",
+   "line": "Unka office ab thoda alag sa lag raha tha.",
+   "fx": "none",
+   "say": "उनका ऑफिस अब थोड़ा अलग सा लग रहा था।"
+  },
+  {
+   "image": "A metaphorical image: A tiny, invisible thread connecting [[Rahul]] and [[Ms. Dutta]], symbolizing their shared understanding.",
+   "speaker": "narrator",
+   "line": "Ek naya secret bond unke beech ban gaya tha.",
+   "fx": "none",
+   "say": "एक नया सीक्रेट बॉन्ड उनके बीच बन गया था।"
+  },
+  {
+   "image": "[[Rahul]] wakes up, looking refreshed and energetic, stretching with a big, happy smile.",
+   "speaker": "Rahul",
+   "line": "Wow, this was the best nap ever, seriously!",
+   "fx": "none",
+   "say": "वाओ, दिस वॉज़ द बेस्ट नैप एवर, सीरियसली!"
+  },
+  {
+   "image": "[[Rahul]] grabs his laptop, looking eager and energetic, ready to tackle his work with renewed vigor.",
+   "speaker": "Rahul",
+   "line": "Ab main poore josh se kaam karunga, promise!",
+   "fx": "none",
+   "say": "अब मैं पूरे जोश से काम करूँगा, प्रॉमिस!"
+  },
+  {
+   "image": "[[Rahul]] walks past [[Ms. Dutta]]'s office, sees her working, and gives a respectful, grateful nod.",
+   "speaker": "Rahul",
+   "line": "Thank you, Ms. Dutta, you are the best!",
+   "fx": "none",
+   "say": "थैंक यू, मिस दत्ता, यू आर द बेस्ट!"
+  },
+  {
+   "image": "[[Ms. Dutta]] looks up from her work, smiles back warmly, and gives a knowing, encouraging nod.",
+   "speaker": "Ms. Dutta",
+   "line": "Go get 'em, champ! You're recharged now.",
+   "fx": "none",
+   "say": "गो गेट 'एम, चैम्प! यू आर रिचार्जेड नाउ।"
+  },
+  {
+   "image": "[[Rahul]] walks away, a thought bubble shows him thinking about his understanding and supportive boss.",
+   "speaker": "Rahul",
+   "line": "Kaash har boss Ms. Dutta jaisi ho, really!",
+   "fx": "none",
+   "say": "काश हर बॉस मिस दत्ता जैसी हो, रियली!"
+  },
+  {
+   "image": "Close-up on [[Ms. Dutta]]'s desk. Hidden under some files, there's another tiny, slightly deflated travel pillow.",
+   "speaker": "narrator",
+   "line": "Par Ms. Dutta ka secret bhi apna hi tha.",
+   "fx": "none",
+   "say": "पर मिस दत्ता का सीक्रेट भी अपना ही था।"
+  },
+  {
+   "image": "[[Rahul]] looking at the camera, holding the pillow, a sheepish but happy smile on his face.",
+   "speaker": "narrator",
+   "line": "Would your boss let you nap during meetings?",
+   "fx": "none",
+   "say": "वुड योर बॉस लेट यू नैप ड्यूरिंग मीटिंग्स?"
+  }
+ ],
+ "caption": "Caught Napping: My Boss's Hilarious Twist! 😂",
+ "slug": "2026-11-09_part2",
+ "story_no": 39,
+ "yt_title": "Caught Napping: My Boss's Hilarious Twist! 😂",
+ "description": "He thought he was a master of stealth naps during office meetings.\nBut his strict boss had a secret plan of her own.\nWould your boss have let him sleep, or woken him up?",
+ "comment_question": "Would your boss have let you nap, or woken you up?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#officelife",
+  "#workhumor",
+  "#funnystory",
+  "#relatablecomedy",
+  "#bossstory",
+  "#officemeeting",
+  "#sleepyhead",
+  "#indiancomedy",
+  "#workplacecomedy"
+ ]
+}

@@ -1,0 +1,557 @@
+{
+ "series": "The Jungle's Gentle Giant",
+ "episode": 1,
+ "title": "The Jungle's Gentle Giant",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, 20s, fair skin, long soft wavy dark-brown hair, small bindi, simple pastel kurta with embroidered details. Her eyes are warm and expressive.",
+   "voice": "hindi_narrator_female"
+  },
+  "Dev": {
+   "look": "Middle-aged man, late 40s-early 50s, kind face, greying hair, simple white dhoti and light cotton shirt. Has gentle, wise eyes.",
+   "voice": "hindi_narrator_male"
+  },
+  "Gajra": {
+   "look": "Indian elephant. Young calf initially, then a large adult female. Slight limp on one front leg. Intelligent, deep brown eyes. Wrinkled grey skin.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "SHE CAME BACK!",
+ "scenes": [
+  {
+   "image": "Dramatic close-up of a huge elephant's eye, looking intense and wise, with a backdrop of pouring rain. A reflection of a small village in its eye.",
+   "speaker": "narrator",
+   "line": "Humein laga woh sirf ek haathi thi, par woh toh hamari devi nikli.",
+   "fx": "rain",
+   "sub": "We thought she was just an elephant, but she turned out to be our goddess.",
+   "say": "हमें लगा वो सिर्फ़ एक हाथी थी, पर वो तो हमारी देवी निकली।"
+  },
+  {
+   "image": "[[narrator]] sits on a porch swing, smiling softly, a lush green jungle visible behind her.",
+   "speaker": "narrator",
+   "line": "Yeh kahani hai mere gaon ki, jahan jungle hamara ghar hai.",
+   "fx": "none",
+   "sub": "This is a story of my village, where the jungle is our home.",
+   "say": "ये कहानी है मेरे गाँव की, जहाँ जंगल हमारा घर है।"
+  },
+  {
+   "image": "Close-up of [[Dev]]'s kind face, smiling warmly, with hands holding a small, sprouting plant.",
+   "speaker": "narrator",
+   "line": "Aur mere pitaji, Dev. Woh ek bahut nek insaan the.",
+   "fx": "none",
+   "sub": "And my father, Dev. He was a very kind person.",
+   "say": "और मेरे पिताजी, देव। वो एक बहुत नेक इंसान थे।"
+  },
+  {
+   "image": "[[Dev]] walking through a dense jungle path, carefully observing the surroundings.",
+   "speaker": "narrator",
+   "line": "Jungle ke har jaanwar se unka ek alag rishta tha.",
+   "fx": "none",
+   "sub": "He had a special bond with every animal in the jungle.",
+   "say": "जंगल के हर जानवर से उनका एक अलग रिश्ता था।"
+  },
+  {
+   "image": "A beautiful shot of a river flowing beside the village, children playing near its banks.",
+   "speaker": "narrator",
+   "line": "Humara gaon is nadi ke kinare basa tha, sab theek tha.",
+   "fx": "none",
+   "sub": "Our village was settled by this river, everything was fine.",
+   "say": "हमारा गाँव इस नदी के किनारे बसा था, सब ठीक था।"
+  },
+  {
+   "image": "[[Dev]] looking concerned, pointing at something in the distance in the jungle.",
+   "speaker": "narrator",
+   "line": "Phir ek din papa jungle mein gehri takleef mein the.",
+   "fx": "none",
+   "sub": "Then one day, father was in deep distress in the jungle.",
+   "say": "फिर एक दिन पापा जंगल में गहरी तकलीफ़ में थे।"
+  },
+  {
+   "image": "A close-up shot of an elephant calf's foot, caught in a crude metal snare, looking painful.",
+   "speaker": "narrator",
+   "line": "Ek chhota haathi ka bachcha, shikaar ke jaal mein phansa tha.",
+   "fx": "none",
+   "sub": "A small elephant calf was caught in a hunter's trap.",
+   "say": "एक छोटा हाथी का बच्चा, शिकार के जाल में फँसा था।"
+  },
+  {
+   "image": "The elephant calf, [[Gajra]], looking terrified, struggling against the trap.",
+   "speaker": "narrator",
+   "line": "Woh bachcha bahut darr gaya tha, aur bahut dard mein bhi.",
+   "fx": "none",
+   "sub": "That calf was very scared, and in a lot of pain too.",
+   "say": "वो बच्चा बहुत डर गया था, और बहुत दर्द में भी।"
+  },
+  {
+   "image": "[[Dev]] approaching the trapped calf cautiously, with a concerned expression.",
+   "speaker": "narrator",
+   "line": "Papa ne use dekha, unka dil pighal gaya tha.",
+   "fx": "none",
+   "sub": "Father saw it, his heart melted.",
+   "say": "पापा ने उसे देखा, उनका दिल पिघल गया था।"
+  },
+  {
+   "image": "Close-up of [[Dev]] speaking softly to the scared calf, trying to calm it.",
+   "speaker": "Dev",
+   "line": "Shh, bachchi. Daro mat. Main tumhe chhudane aaya hoon.",
+   "fx": "none",
+   "sub": "Shh, child. Don't be scared. I've come to free you.",
+   "say": "श्श, बच्ची। डरो मत। मैं तुम्हें छुड़ाने आया हूँ।"
+  },
+  {
+   "image": "Close-up of [[Dev]]'s hands carefully cutting the metal snare with a small tool, focused and gentle.",
+   "speaker": "narrator",
+   "line": "Woh apni jaan ki parwah kiye bina use chhudane lage.",
+   "fx": "none",
+   "sub": "He started freeing it, without caring for his own life.",
+   "say": "वो अपनी जान की परवाह किए बिना उसे छुड़ाने लगे।"
+  },
+  {
+   "image": "The calf flinches at first, then stays still as Dev continues to free its leg.",
+   "speaker": "narrator",
+   "line": "Haathi ne dekha, papa ka koi bura irada nahi tha.",
+   "fx": "none",
+   "sub": "The elephant saw, father had no bad intentions.",
+   "say": "हाथी ने देखा, पापा का कोई बुरा इरादा नहीं था।"
+  },
+  {
+   "image": "The snare falling away from the calf's leg, leaving a raw, red wound.",
+   "speaker": "narrator",
+   "line": "Jaal khula, par zakham bahut gehra tha, dardnaak.",
+   "fx": "none",
+   "sub": "The trap opened, but the wound was very deep, painful.",
+   "say": "जाल खुला, पर ज़ख़म बहुत गहरा था, दर्दनाक।"
+  },
+  {
+   "image": "[[Dev]] gently stroking the calf's trunk, which is curled around his arm, relief on the calf's face.",
+   "speaker": "narrator",
+   "line": "Haathi ka bachcha, Gajra, usne papa ko apna liya.",
+   "fx": "none",
+   "sub": "The elephant calf, Gajra, accepted father.",
+   "say": "हाथी का बच्चा, गजरा, उसने पापा को अपना लिया।"
+  },
+  {
+   "image": "[[Dev]] applying a paste to the calf's injured leg, looking tenderly at it.",
+   "speaker": "narrator",
+   "line": "Papa ne uska ghambhir zakham saaf kiya, dawa lagayi.",
+   "fx": "none",
+   "sub": "Father cleaned its severe wound, applied medicine.",
+   "say": "पापा ने उसका गंभीर ज़ख्म साफ़ किया, दवा लगायी।"
+  },
+  {
+   "image": "Close-up of [[Gajra]]'s eyes, looking deeply into [[Dev]]'s, a sense of understanding.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein papa ke liye adbhut shukraguzari thi.",
+   "fx": "none",
+   "sub": "In her eyes, there was immense gratitude for father.",
+   "say": "उसकी आँखों में पापा के लिए अद्भुत शुक्रगुज़ारी थी।"
+  },
+  {
+   "image": "[[Gajra]] gently nudges [[Dev]] with her head, a silent thank you.",
+   "speaker": "narrator",
+   "line": "Ek halke se nudge se usne apna thanks bataya.",
+   "fx": "none",
+   "sub": "With a gentle nudge, she showed her thanks.",
+   "say": "एक हल्के से नज़ से उसने अपना थैंक्स बताया।"
+  },
+  {
+   "image": "[[Gajra]], with a slight limp, slowly walks away into the dense jungle, looking back at [[Dev]].",
+   "speaker": "narrator",
+   "line": "Thoda theek hokar, Gajra jungle mein wapas chali gayi.",
+   "fx": "none",
+   "sub": "After recovering a bit, Gajra went back into the jungle.",
+   "say": "थोड़ा ठीक होकर, गजरा जंगल में वापस चली गयी।"
+  },
+  {
+   "image": "[[Dev]] watching the jungle where Gajra disappeared, a wistful smile on his face.",
+   "speaker": "narrator",
+   "line": "Papa ne use jaate dekha, dil mein ek ajeeb shanti thi.",
+   "fx": "none",
+   "sub": "Father watched her go, there was a strange peace in his heart.",
+   "say": "पापा ने उसे जाते देखा, दिल में एक अजीब शांति थी।"
+  },
+  {
+   "image": "[[narrator]] as a child, holding her father's hand, looking up at him admiringly.",
+   "speaker": "narrator",
+   "line": "Mujhe hamesha apne papa ki kindness par garv tha.",
+   "fx": "none",
+   "sub": "I was always proud of my father's kindness.",
+   "say": "मुझे हमेशा अपने पापा की काइंडनेस पर गर्व था।"
+  },
+  {
+   "image": "A montage of seasons changing over the village, showing time passing. Green fields turning golden.",
+   "speaker": "narrator",
+   "line": "Kai saal guzar gaye, humara gaon khushhaal raha.",
+   "fx": "none",
+   "sub": "Many years passed, our village remained prosperous.",
+   "say": "कई साल गुज़र गए, हमारा गाँव खुशहाल रहा।"
+  },
+  {
+   "image": "[[narrator]] now an adult, smiling brightly in a vibrant village setting.",
+   "speaker": "narrator",
+   "line": "Main badi ho gayi, aur zindagi theek chal rahi thi.",
+   "fx": "none",
+   "sub": "I grew up, and life was going well.",
+   "say": "मैं बड़ी हो गयी, और ज़िंदगी ठीक चल रही थी।"
+  },
+  {
+   "image": "Happy villagers working in lush green fields, celebrating a good harvest.",
+   "speaker": "narrator",
+   "line": "Fasal achchi hoti thi, sab ke chehre par khushi thi.",
+   "fx": "none",
+   "sub": "Crops were good, everyone's face had happiness.",
+   "say": "फ़सल अच्छी होती थी, सब के चेहरे पर खुशी थी।"
+  },
+  {
+   "image": "Suddenly, the lush fields are replaced by cracked earth, dry riverbed. Extreme heat haze.",
+   "speaker": "narrator",
+   "line": "Lekin phir ek bhayanak sookha pada, sab kuch sukh gaya.",
+   "fx": "dust",
+   "sub": "But then a terrible drought hit, everything dried up.",
+   "say": "लेकिन फिर एक भयानक सूखा पड़ा, सब कुछ सूख गया।"
+  },
+  {
+   "image": "Villagers looking worriedly at shriveled crops in a field, expressions of despair.",
+   "speaker": "narrator",
+   "line": "Kheti sukhi, nadiyan khali, hum sab pareshan the.",
+   "fx": "dust",
+   "sub": "Crops withered, rivers empty, we were all troubled.",
+   "say": "खेती सूखी, नदियाँ खाली, हम सब परेशान थे।"
+  },
+  {
+   "image": "Children looking thirsty, holding empty pots at a dry well, dusty and sad.",
+   "speaker": "narrator",
+   "line": "Paani ki kami se log behaal the, gaon mein udaasi thi.",
+   "fx": "dust",
+   "sub": "People were miserable from lack of water, there was sadness in the village.",
+   "say": "पानी की कमी से लोग बेहाल थे, गाँव में उदासी थी।"
+  },
+  {
+   "image": "[[Dev]] looking up at the sky, his face etched with worry and helplessness.",
+   "speaker": "narrator",
+   "line": "Papa ne paani dhundhne ki har koshish ki, par bekaar.",
+   "fx": "dust",
+   "sub": "Father tried everything to find water, but in vain.",
+   "say": "पापा ने पानी ढूँढने की हर कोशिश की, पर बेकार।"
+  },
+  {
+   "image": "A close-up of a farmer's dry, cracked hands, symbolizing the struggle.",
+   "speaker": "narrator",
+   "line": "Har din umeed kam hoti ja rahi thi, bhookh badh rahi thi.",
+   "fx": "dust",
+   "sub": "Every day hope was diminishing, hunger was increasing.",
+   "say": "हर दिन उम्मीद कम होती जा रही थी, भूख बढ़ रही थी।"
+  },
+  {
+   "image": "A dark, ominous sky with heavy storm clouds gathering over the village.",
+   "speaker": "narrator",
+   "line": "Tabhi mausam vibhaag ne ek bade tufaan ki chetawani di.",
+   "fx": "none",
+   "sub": "Then the weather department issued a warning for a big storm.",
+   "say": "तभी मौसम विभाग ने एक बड़े तूफ़ान की चेतावनी दी।"
+  },
+  {
+   "image": "Close-up of a radio, showing a weather warning with static sounds, villagers listening intently.",
+   "speaker": "narrator",
+   "line": "Bhari baarish ki umeed, par flood ka bhi khatra tha.",
+   "fx": "none",
+   "sub": "Hope for heavy rain, but there was also a flood risk.",
+   "say": "भारी बारिश की उम्मीद, पर फ़्लड का भी ख़तरा था।"
+  },
+  {
+   "image": "Villagers huddling together, looking scared and uncertain.",
+   "speaker": "narrator",
+   "line": "Paani ki kami se pareshan, ab paani ka darr tha.",
+   "fx": "none",
+   "sub": "Troubled by lack of water, now there was fear of water.",
+   "say": "पानी की कमी से परेशान, अब पानी का डर था।"
+  },
+  {
+   "image": "A zoomed-out shot of the village, looking vulnerable under the dark, swirling clouds.",
+   "speaker": "narrator",
+   "line": "Hamara chhota sa gaon bade khatre mein tha, bahut akela.",
+   "fx": "none",
+   "sub": "Our small village was in great danger, very alone.",
+   "say": "हमारा छोटा सा गाँव बड़े ख़तरे में था, बहुत अकेला।"
+  },
+  {
+   "image": "Intense rain starts pouring down on the village, wind blowing hard, trees swaying violently.",
+   "speaker": "narrator",
+   "line": "Raat bhar bhayanak baarish hoti rahi, tufaan tezi se aaya.",
+   "fx": "rain",
+   "sub": "It rained terribly all night, the storm came quickly.",
+   "say": "रात भर भयानक बारिश होती रही, तूफ़ान तेज़ी से आया।"
+  },
+  {
+   "image": "Close-up of a window pane with rain streaks, lightning flashes outside.",
+   "speaker": "narrator",
+   "line": "Bijli kadak rahi thi, hawa tez thi, sab ghar mein the.",
+   "fx": "rain",
+   "sub": "Lightning flashed, wind was strong, everyone was home.",
+   "say": "बिजली कड़क रही थी, हवा तेज़ थी, सब घर में थे।"
+  },
+  {
+   "image": "A quick shot of the river, now visibly swelling, muddy and fast, debris floating.",
+   "speaker": "narrator",
+   "line": "Subah tak nadi ka paani khatarnak roop le chuka tha.",
+   "fx": "rain",
+   "sub": "By morning, the river water had become dangerously high.",
+   "say": "सुबह तक नदी का पानी ख़तरनाक रूप ले चुका था।"
+  },
+  {
+   "image": "[[Dev]] and other villagers looking at the rapidly rising river with horror.",
+   "speaker": "narrator",
+   "line": "Yeh sirf baarish ka paani nahi tha, kuch aur tha.",
+   "fx": "rain",
+   "sub": "This wasn't just rainwater, it was something else.",
+   "say": "ये सिर्फ़ बारिश का पानी नहीं था, कुछ और था।"
+  },
+  {
+   "image": "A wider shot showing the village houses dangerously close to the swelling, muddy river.",
+   "speaker": "narrator",
+   "line": "Upar se flash flood, hamara gaon doobne wala tha.",
+   "fx": "rain",
+   "sub": "A flash flood from upstream, our village was about to drown.",
+   "say": "ऊपर से फ़्लैश फ़्लड, हमारा गाँव डूबने वाला था।"
+  },
+  {
+   "image": "Villagers running in panic, trying to save belongings, but mostly just trying to escape.",
+   "speaker": "narrator",
+   "line": "Sab bhagne lage, bachne ki koi umeed nahi dikh rahi thi.",
+   "fx": "rain",
+   "sub": "Everyone started running, no hope of survival seemed visible.",
+   "say": "सब भागने लगे, बचने की कोई उम्मीद नहीं दिख रही थी।"
+  },
+  {
+   "image": "[[narrator]] holding onto her father, both looking terrified as water rises around them.",
+   "speaker": "narrator",
+   "line": "Main papa ke saath khadi thi, pura gaon khatre mein tha.",
+   "fx": "rain",
+   "sub": "I stood with father, the entire village was in danger.",
+   "say": "मैं पापा के साथ खड़ी थी, पूरा गाँव ख़तरे में था।"
+  },
+  {
+   "image": "A close-up of a house being partially submerged by rising muddy water, showing the destructive power.",
+   "speaker": "narrator",
+   "line": "Ghar doob rahe the, sab taraf se sirf tabahi dikh rahi thi.",
+   "fx": "rain",
+   "sub": "Houses were submerging, only destruction was visible everywhere.",
+   "say": "घर डूब रहे थे, सब तरफ़ से सिर्फ़ तबाही दिख रही थी।"
+  },
+  {
+   "image": "A wide shot of the furious river, carrying logs and debris, heading straight for the village.",
+   "speaker": "narrator",
+   "line": "Nadi ka paani sab kuch bahakar la raha tha, bhayankar.",
+   "fx": "rain",
+   "sub": "The river water was carrying everything, terrible.",
+   "say": "नदी का पानी सब कुछ बहाकर ला रहा था, भयंकर।"
+  },
+  {
+   "image": "[[Dev]] holding [[narrator]] close, shielding her, looking resigned to fate.",
+   "speaker": "narrator",
+   "line": "Papa ne mujhe pakda, humne apni kismat maan li thi.",
+   "fx": "rain",
+   "sub": "Father held me, we had accepted our fate.",
+   "say": "पापा ने मुझे पकड़ा, हमने अपनी क़िस्मत मान ली थी।"
+  },
+  {
+   "image": "The raging water just moments away from hitting the first houses of the village.",
+   "speaker": "narrator",
+   "line": "Sirf kuch pal the, phir sab khatam ho jaata.",
+   "fx": "rain",
+   "sub": "There were only a few moments, then everything would end.",
+   "say": "सिर्फ़ कुछ पल थे, फिर सब ख़त्म हो जाता।"
+  },
+  {
+   "image": "Suddenly, a giant silhouette of an elephant emerges through the pouring rain and mist, looking majestic.",
+   "speaker": "narrator",
+   "line": "Tabhi, baarish aur dhundh mein se ek vishaal haathi nikla.",
+   "fx": "rain",
+   "sub": "Just then, a giant elephant emerged from the rain and mist.",
+   "say": "तभी, बारिश और धुंध में से एक विशाल हाथी निकला।"
+  },
+  {
+   "image": "The fully grown [[Gajra]] strides purposefully towards the raging river, her eyes focused.",
+   "speaker": "narrator",
+   "line": "Woh seedha nadi ki taraf badh rahi thi, gusse mein nahi.",
+   "fx": "rain",
+   "sub": "She was heading straight towards the river, not in anger.",
+   "say": "वो सीधा नदी की तरफ़ बढ़ रही थी, गुस्से में नहीं।"
+  },
+  {
+   "image": "Villagers stop running, looking stunned and confused at the elephant's appearance.",
+   "speaker": "narrator",
+   "line": "Hum sab use dekhkar hairan reh gaye, yeh kya ho raha hai?",
+   "fx": "rain",
+   "sub": "We all stood stunned seeing her, what was happening?",
+   "say": "हम सब उसे देखकर हैरान रह गए, ये क्या हो रहा है?"
+  },
+  {
+   "image": "Close-up of [[Dev]]'s face, recognition dawning on him, tears welling up in his eyes.",
+   "speaker": "narrator",
+   "line": "Papa ne use pehchan liya, uski aankhon mein aansu the.",
+   "fx": "rain",
+   "sub": "Father recognized her, there were tears in his eyes.",
+   "say": "पापा ने उसे पहचान लिया, उसकी आँखों में आँसू थे।"
+  },
+  {
+   "image": "[[Gajra]] briefly turns her head, looking at [[Dev]] with a calm, knowing glance, then continues her work.",
+   "speaker": "Dev",
+   "line": "Gajra! Tum wapas aa gayi?",
+   "fx": "rain",
+   "sub": "Gajra! You came back?",
+   "say": "गजरा! तुम वापस आ गयी?"
+  },
+  {
+   "image": "[[Gajra]] positioning herself against a massive log carried by the river, holding her ground.",
+   "speaker": "narrator",
+   "line": "Usne apni puri taakat lagayi, paani ko rokne ke liye.",
+   "fx": "rain",
+   "sub": "She put all her strength, to stop the water.",
+   "say": "उसने अपनी पूरी ताक़त लगायी, पानी को रोकने के लिए।"
+  },
+  {
+   "image": "[[Gajra]] pushing a large fallen tree trunk with her head and tusks, trying to move it.",
+   "speaker": "narrator",
+   "line": "Bade-bade ped aur pathar usne dhakelna shuru kiya.",
+   "fx": "rain",
+   "sub": "She started pushing huge trees and stones.",
+   "say": "बड़े-बड़े पेड़ और पत्थर उसने धकेलना शुरू किया।"
+  },
+  {
+   "image": "A wider shot showing [[Gajra]] strategically pushing more debris, creating a makeshift barrier in the river.",
+   "speaker": "narrator",
+   "line": "Woh paani ka rasta badal rahi thi, gaon ko bacha rahi thi.",
+   "fx": "rain",
+   "sub": "She was changing the water's path, saving the village.",
+   "say": "वो पानी का रास्ता बदल रही थी, गाँव को बचा रही थी।"
+  },
+  {
+   "image": "Villagers watching in disbelief and awe as [[Gajra]] continues her work, the water slowly diverting.",
+   "speaker": "narrator",
+   "line": "Humne kabhi nahi socha tha aisa kuch hoga.",
+   "fx": "rain",
+   "sub": "We never thought something like this would happen.",
+   "say": "हमने कभी नहीं सोचा था ऐसा कुछ होगा।"
+  },
+  {
+   "image": "The floodwaters, though still strong, are visibly being diverted away from the main cluster of houses.",
+   "speaker": "narrator",
+   "line": "Usne sabse bade khatre ko hamare gaon se door kar diya.",
+   "fx": "rain",
+   "sub": "She diverted the biggest danger away from our village.",
+   "say": "उसने सबसे बड़े ख़तरे को हमारे गाँव से दूर कर दिया।"
+  },
+  {
+   "image": "A series of smaller, less destructive streams now flowing, rather than one massive surge.",
+   "speaker": "narrator",
+   "line": "Bahut nuksaan hua, par jaan-maal bach gaya tha.",
+   "fx": "rain",
+   "sub": "There was a lot of damage, but lives and property were saved.",
+   "say": "बहुत नुक़सान हुआ, पर जान-माल बच गया था।"
+  },
+  {
+   "image": "[[Dev]] slowly walks towards [[Gajra]], his hand outstretched, a look of profound gratitude.",
+   "speaker": "narrator",
+   "line": "Papa dheere se uske paas gaye, unka dil bhar aaya tha.",
+   "fx": "rain",
+   "sub": "Father slowly went near her, his heart was full.",
+   "say": "पापा धीरे से उसके पास गए, उनका दिल भर आया था।"
+  },
+  {
+   "image": "Close-up of [[Dev]]'s hand gently touching [[Gajra]]'s trunk, her eye showing a soft, calm expression.",
+   "speaker": "Dev",
+   "line": "Shukriya, meri bachchi. Tumne sab kuch bacha liya.",
+   "fx": "rain",
+   "sub": "Thank you, my child. You saved everything.",
+   "say": "शुक्रिया, मेरी बच्ची। तुमने सब कुछ बचा लिया।"
+  },
+  {
+   "image": "[[Gajra]] gently wraps her trunk around [[Dev]]'s arm, a moment of deep connection.",
+   "speaker": "narrator",
+   "line": "Woh lamha, kindness aur shukraguzari ka, anmol tha.",
+   "fx": "rain",
+   "sub": "That moment, of kindness and gratitude, was priceless.",
+   "say": "वो लम्हा, काइंडनेस और शुक्रगुज़ारी का, अनमोल था।"
+  },
+  {
+   "image": "[[narrator]] watching her father and Gajra, tears of relief and wonder on her face.",
+   "speaker": "narrator",
+   "line": "Main ro rahi thi, khushi aur hairani se bhari hui.",
+   "fx": "rain",
+   "sub": "I was crying, filled with joy and wonder.",
+   "say": "मैं रो रही थी, खुशी और हैरानी से भरी हुई।"
+  },
+  {
+   "image": "[[Gajra]] lets out a soft, long trumpet, then slowly turns and walks back into the jungle.",
+   "speaker": "narrator",
+   "line": "Gajra ne ek aakhri awaaz ki, aur jungle mein chali gayi.",
+   "fx": "rain",
+   "sub": "Gajra made a final sound, and went into the jungle.",
+   "say": "गजरा ने एक आख़िरी आवाज़ की, और जंगल में चली गयी।"
+  },
+  {
+   "image": "The rain stops, a ray of sunlight breaks through the clouds onto the saved village, still wet but intact.",
+   "speaker": "narrator",
+   "line": "Baarish ruk gayi, aur hamara gaon bach gaya tha.",
+   "fx": "none",
+   "sub": "The rain stopped, and our village was saved.",
+   "say": "बारिश रुक गयी, और हमारा गाँव बच गया था।"
+  },
+  {
+   "image": "Villagers hugging each other, relief and joy on their faces, looking towards the jungle with reverence.",
+   "speaker": "narrator",
+   "line": "Humne use kabhi nahi bhula, hamari jungle ki devi ko.",
+   "fx": "none",
+   "sub": "We never forgot her, our goddess of the jungle.",
+   "say": "हमने उसे कभी नहीं भूला, हमारी जंगल की देवी को।"
+  },
+  {
+   "image": "Close-up of [[Dev]]'s face, peaceful and wise, looking towards the jungle.",
+   "speaker": "narrator",
+   "line": "Papa ke ek chote se kindness ne hamari zindagi bacha di.",
+   "fx": "none",
+   "sub": "Father's small act of kindness saved our lives.",
+   "say": "पापा के एक छोटे से काइंडनेस ने हमारी ज़िंदगी बचा दी।"
+  },
+  {
+   "image": "A beautiful shot of the village rebuilt, lush green again, with the river flowing peacefully.",
+   "speaker": "narrator",
+   "line": "Aaj bhi hum uski yaad mein jungle ka samman karte hain.",
+   "fx": "none",
+   "sub": "Even today, in her memory, we respect the jungle.",
+   "say": "आज भी हम उसकी याद में जंगल का सम्मान करते हैं।"
+  },
+  {
+   "image": "[[narrator]] smiling thoughtfully, looking directly at the camera.",
+   "speaker": "narrator",
+   "line": "Kya aapko lagta hai animals bhi humari kindness yaad rakhte hain?",
+   "fx": "none",
+   "sub": "Do you think animals remember our kindness too?",
+   "say": "क्या आपको लगता है एनिमल्स भी हमारी काइंडनेस याद रखते हैं?"
+  }
+ ],
+ "caption": "An Elephant Never Forgets the Man Who Saved Her 🐘",
+ "slug": "2026-11-09_part1",
+ "story_no": 38,
+ "yt_title": "An Elephant Never Forgets the Man Who Saved Her 🐘",
+ "description": "This happened in my village! We thought she was just an elephant, but she saved us all. An unforgettable story of kindness, memory, and nature's incredible bond. What do you think about animals remembering us?",
+ "comment_question": "Kya aapko lagta hai animals bhi humari kindness yaad rakhte hain?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#elephantlove",
+  "#animalrescue",
+  "#kindnessmatters",
+  "#villagelife",
+  "#indianstories",
+  "#wildlife",
+  "#unforgettable",
+  "#naturebond",
+  "#gratitude"
+ ]
+}
