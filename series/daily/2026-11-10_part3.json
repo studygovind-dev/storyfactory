@@ -1,0 +1,609 @@
+{
+ "series": "The Unseen Blueprint",
+ "episode": 3,
+ "title": "The Unseen Blueprint",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Riya, a young woman in her early 20s. Fair, clear skin. Long, soft wavy dark-brown hair, often tied loosely or left open. Expressive, warm eyes that convey both determination and weariness. Wears simple, elegant cotton kurtas in soft pastels or neat casual wear like jeans and a top, always practical and modest.",
+   "voice": "hindi_narrator_female"
+  },
+  "Mrs. Sharma": {
+   "look": "An elderly woman in her mid-70s. Light wheatish, clear skin. Silver hair neatly tied in a low bun. Sharp, intelligent eyes that can appear stern but soften with warmth and compassion. Wears elegant, simple silk sarees, usually in muted tones like beige, soft blue, or olive green. Frail but carries herself with dignity.",
+   "voice": "hindi_narrator_male"
+  },
+  "Riya's Mother": {
+   "look": "A woman in her late 40s. Light wheatish skin, hair tied back. Wears simple, functional sarees or kurtas. Her hands show signs of hard work. Her face reflects worry but also deep love for her daughter.",
+   "voice": "hindi_narrator_male"
+  },
+  "Riya's Father": {
+   "look": "A kind-faced man in his late 30s-early 40s (seen in photos). Intelligent and visionary eyes, a gentle smile. Represents a brilliant, unfulfilled potential.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HER SECRET CHANGED EVERYTHING",
+ "scenes": [
+  {
+   "image": "[[narrator]] sits at a small wooden desk, a thick architectural textbook open. Her face is buried in her hands, eyes closed in despair. A single tear rolls down her cheek. Evening light filters dimly.",
+   "speaker": "narrator",
+   "line": "Ek bujurg aurat meri zindagi ki sabse badi umeed bani.",
+   "fx": "none",
+   "sub": "An old woman became my life's biggest hope.",
+   "say": "एक बुज़ुर्ग औरत मेरी ज़िंदगी की सबसे बड़ी उम्मीद बनी।"
+  },
+  {
+   "image": "[[narrator]] walking through a crowded college corridor, looking visibly tired. She carries a heavy bag of books. Other students around her look lively and carefree.",
+   "speaker": "narrator",
+   "line": "Main Riya, final year architectural engineering student.",
+   "fx": "none",
+   "sub": "I'm Riya, a final year architectural engineering student.",
+   "say": "मैं रिया, फाइनल ईयर आर्किटेक्चरल इंजीनियरिंग स्टूडेंट।"
+  },
+  {
+   "image": "A framed photograph of [[Riya's Father]] on a simple wooden shelf, next to a small, unlit oil lamp. His face is kind and thoughtful.",
+   "speaker": "narrator",
+   "line": "Papa ke jaane ke baad, sab badal gaya tha.",
+   "fx": "none",
+   "sub": "After Papa left us, everything changed.",
+   "say": "पापा के जाने के बाद, सब बदल गया था।"
+  },
+  {
+   "image": "[[Riya's Mother]], a woman in her 40s, hands rough from work, carefully counting a small, meager stack of rupee notes on a worn table. She looks worried and tired.",
+   "speaker": "narrator",
+   "line": "Maa ne bohot struggle kiya mere liye.",
+   "fx": "none",
+   "sub": "Maa struggled a lot for me.",
+   "say": "माँ ने बहुत स्ट्रगल किया मेरे लिए।"
+  },
+  {
+   "image": "A close-up of a university fee notice with 'OVERDUE' stamped prominently in red. The notice is in [[narrator]]'s trembling hands. Her thumb gently traces the harsh words.",
+   "speaker": "narrator",
+   "line": "Par college ki fees ka jugad karna bohot mushkil tha.",
+   "fx": "none",
+   "sub": "But arranging the college fees was very difficult.",
+   "say": "पर कॉलेज की फीस का जुगाड़ करना बहुत मुश्किल था।"
+  },
+  {
+   "image": "[[narrator]] stands nervously in front of a stern-looking university administrator (seen from behind). The administrator gestures dismissively, and Riya looks desperate.",
+   "speaker": "narrator",
+   "line": "Agar fees nahi bhari, toh expulsion pakka tha.",
+   "fx": "none",
+   "sub": "If fees weren't paid, expulsion was certain.",
+   "say": "अगर फीस नहीं भरी, तो एक्सपल्शन पक्का था।"
+  },
+  {
+   "image": "[[narrator]] sitting on her bed, head in hands, her architectural blueprints scattered around her. Her posture conveys utter defeat and hopelessness.",
+   "speaker": "narrator",
+   "line": "Mere architecture ke saare sapne toot rahe the.",
+   "fx": "none",
+   "sub": "All my architecture dreams were breaking.",
+   "say": "मेरे आर्किटेक्चर के सारे सपने टूट रहे थे।"
+  },
+  {
+   "image": "[[narrator]] talking to a bank manager across a large, impersonal desk. Her expression is pleading, while his is regretful, shaking his head slightly.",
+   "speaker": "narrator",
+   "line": "Bank loan ke liye bhi mana kar diya.",
+   "fx": "none",
+   "sub": "They refused the bank loan too.",
+   "say": "बैंक लोन के लिए भी मना कर दिया।"
+  },
+  {
+   "image": "[[Riya's Mother]] hugging [[narrator]] tightly, both looking tearful. Riya's head is buried in her mother's shoulder, seeking comfort.",
+   "speaker": "narrator",
+   "line": "Maa ne kaha, \"Himmat mat haaro, beti.\"",
+   "fx": "none",
+   "sub": "Maa said, \"Don't lose hope, daughter.\"",
+   "say": "माँ ने कहा, \"हिम्मत मत हारो, बेटी।\""
+  },
+  {
+   "image": "A close-up of a newspaper classifieds section, a finger pointing to an advertisement for a \"Live-in Caretaker for Elderly Lady - High Pay.\"",
+   "speaker": "narrator",
+   "line": "Phir mujhe ek newspaper ad mila.",
+   "fx": "none",
+   "sub": "Then I found a newspaper ad.",
+   "say": "फिर मुझे एक न्यूज़पेपर ऐड मिला।"
+  },
+  {
+   "image": "A grand, slightly overgrown old bungalow, its iron gates partly open, suggesting age and mystery. Dust motes are visible in the sunlight.",
+   "speaker": "narrator",
+   "line": "Ek badi haveli mein bujurg Mrs. Sharma ko dekhna tha.",
+   "fx": "dust",
+   "sub": "I had to look after elderly Mrs. Sharma in a big mansion.",
+   "say": "एक बड़ी हवेली में बुज़ुर्ग मिसेज़ शर्मा को देखना था।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] sitting upright in an elegant armchair, looking sternly at [[narrator]] who stands nervously. Mrs. Sharma's hands are clasped, her posture rigid.",
+   "speaker": "narrator",
+   "line": "Pehli mulaqat mein hi, unka bohot sakht roop dekha.",
+   "fx": "none",
+   "sub": "In the first meeting itself, I saw her very strict nature.",
+   "say": "पहली मुलाक़ात में ही, उनका बहुत सख़्त रूप देखा।"
+  },
+  {
+   "image": "Close-up of [[Mrs. Sharma]]'s sharp, assessing eyes, a hint of suspicion or disapproval in them.",
+   "speaker": "Mrs. Sharma",
+   "line": "Tumhe mera khayal rakhna hoga, har waqt, bina shikayat.",
+   "fx": "none",
+   "sub": "You will have to take care of me, all the time, without complaint.",
+   "say": "तुम्हें मेरा ख़याल रखना होगा, हर वक़्त, बिना शिकायत।"
+  },
+  {
+   "image": "[[narrator]] looking down, her expression conflicted but determined to take the job. She bites her lip, resolving to accept.",
+   "speaker": "narrator",
+   "line": "Par paiso ki bohot zaroorat thi.",
+   "fx": "none",
+   "sub": "But I desperately needed the money.",
+   "say": "पर पैसों की बहुत ज़रूरत थी।"
+  },
+  {
+   "image": "[[narrator]] carefully helping [[Mrs. Sharma]] walk with a cane across a polished floor. Mrs. Sharma's face shows impatience.",
+   "speaker": "narrator",
+   "line": "Caretaker ka kaam bohot mushkil tha.",
+   "fx": "none",
+   "sub": "The caretaker's work was very difficult.",
+   "say": "केयरटेकर का काम बहुत मुश्किल था।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] pointing a finger at a barely visible spot on a gleaming table, a disapproving look on her face, while [[narrator]] tries to wipe it with a cloth.",
+   "speaker": "narrator",
+   "line": "Woh choti choti baaton par gussa karti aur complain karti thi.",
+   "fx": "none",
+   "sub": "She would get angry and complain over small things.",
+   "say": "वो छोटी छोटी बातों पर गुस्सा करती और कंप्लेन करती थी।"
+  },
+  {
+   "image": "[[narrator]] serving tea to [[Mrs. Sharma]], maintaining a polite, calm expression despite the visible tension in the room.",
+   "speaker": "narrator",
+   "line": "Main chup rehti, sirf paise ke liye.",
+   "fx": "none",
+   "sub": "I stayed quiet, just for the money.",
+   "say": "मैं चुप रहती, सिर्फ़ पैसे के लिए।"
+  },
+  {
+   "image": "[[narrator]] secretly studying her architectural textbook under a dim lamp late at night, in a small, sparsely furnished room.",
+   "speaker": "narrator",
+   "line": "Raaton ko chhup chhup ke, apni books lekar padhti thi.",
+   "fx": "none",
+   "sub": "I would study secretly at nights, with my books.",
+   "say": "रातों को छुप छुप के, अपनी बुक्स लेकर पढ़ती थी।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, dark circles under her eyes, looking extremely exhausted and worn out.",
+   "speaker": "narrator",
+   "line": "Meri neend puri nahi hoti thi kabhi.",
+   "fx": "none",
+   "sub": "I never got enough sleep.",
+   "say": "मेरी नींद पूरी नहीं होती थी कभी।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] peeking from her room's doorway, watching [[narrator]] meticulously clean the living room. A thoughtful, intense expression on Mrs. Sharma's face.",
+   "speaker": "narrator",
+   "line": "Mujhe laga woh mujhe hamesha judge hi kar rahi hain.",
+   "fx": "none",
+   "sub": "I felt she was always just judging me.",
+   "say": "मुझे लगा वो मुझे हमेशा जज ही कर रही हैं।"
+  },
+  {
+   "image": "A new, harsher university notice in [[narrator]]'s hand, threatening immediate suspension. Her hand trembles slightly, conveying immense stress.",
+   "speaker": "narrator",
+   "line": "University se phir ek notice aaya.",
+   "fx": "none",
+   "sub": "Another notice came from the university.",
+   "say": "यूनिवर्सिटी से फिर एक नोटिस आया।"
+  },
+  {
+   "image": "A calendar page, with a specific date circled in red marker. [[narrator]]'s thumb hovers over it, looking visibly stressed.",
+   "speaker": "narrator",
+   "line": "Fees ki aakhri date bohot nazdeek thi.",
+   "fx": "none",
+   "sub": "The final date for fees was very near.",
+   "say": "फीस की आख़िरी डेट बहुत नज़दीक थी।"
+  },
+  {
+   "image": "[[narrator]] sitting on the floor in her small room, crying silently, her head against the wall. She looks completely defeated.",
+   "speaker": "narrator",
+   "line": "Main andar se poori toot chuki thi. Ab aur nahi.",
+   "fx": "none",
+   "sub": "I was completely broken inside. No more.",
+   "say": "मैं अंदर से पूरी टूट चुकी थी। अब और नहीं।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] standing outside [[narrator]]'s half-open door. Her expression shows a softening, a hint of concern, as she listens.",
+   "speaker": "narrator",
+   "line": "Unhone mujhe rote hue sun liya tha.",
+   "fx": "none",
+   "sub": "She had heard me crying.",
+   "say": "उन्होंने मुझे रोते हुए सुन लिया था।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] gently placing a cup of hot chai and a small plate of biscuits outside [[narrator]]'s door. The room is dark, door still half-open.",
+   "speaker": "narrator",
+   "line": "Phir unhone chupchap meri door ke bahar yeh chai aur biscuits rakhe.",
+   "fx": "none",
+   "sub": "Then she quietly placed this chai and biscuits outside my door.",
+   "say": "फिर उन्होंने चुपचाप मेरी डोर के बाहर यह चाय और बिस्कुट रखे।"
+  },
+  {
+   "image": "[[narrator]] looking at the chai and biscuits with a surprised, tear-streaked face. Her eyes are wide with disbelief and a flicker of hope.",
+   "speaker": "narrator",
+   "line": "Main hairan thi. Yeh unka ek alag, anokha roop tha.",
+   "fx": "none",
+   "sub": "I was surprised. This was a different, unique side of her.",
+   "say": "मैं हैरान थी। यह उनका एक अलग, अनोखा रूप था।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] sitting in her armchair, looking out the window, a pensive expression. [[narrator]] stands respectfully nearby, unsure.",
+   "speaker": "Mrs. Sharma",
+   "line": "Kya pareshani hai, beta Riya? Batao mujhe.",
+   "fx": "none",
+   "sub": "What is the trouble, daughter Riya? Tell me.",
+   "say": "क्या परेशानी है, बेटा रिया? बताओ मुझे।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, biting her lip, struggling with whether to open up or not. Her eyes show hesitation.",
+   "speaker": "narrator",
+   "line": "Main unhe kuch batane se bohot darr rahi thi.",
+   "fx": "none",
+   "sub": "I was very scared to tell her anything.",
+   "say": "मैं उन्हें कुछ बताने से बहुत डर रही थी।"
+  },
+  {
+   "image": "[[narrator]] holding her architectural drawings, looking sadly at them, while [[Mrs. Sharma]] watches her intently, waiting.",
+   "speaker": "narrator",
+   "line": "Meri architecture studies ke liye ab paise nahi hain, aunty.",
+   "fx": "none",
+   "sub": "I don't have money for my architecture studies anymore, aunty.",
+   "say": "मेरी आर्किटेक्चर स्टडीज़ के लिए अब पैसे नहीं हैं, आंटी।"
+  },
+  {
+   "image": "Close-up of [[Mrs. Sharma]]'s eyes, a flicker of deep emotion - perhaps understanding, or a distant recognition - passing through them.",
+   "speaker": "narrator",
+   "line": "Unhone meri aankhon mein bohot dhyan se dekha.",
+   "fx": "none",
+   "sub": "She looked into my eyes very carefully.",
+   "say": "उन्होंने मेरी आँखों में बहुत ध्यान से देखा।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] looking at an old, faded black and white photograph of a young, determined man who strongly resembles [[Riya's Father]].",
+   "speaker": "Mrs. Sharma",
+   "line": "Tumhare Papa ko main bohot pehle se jaanti thi, Riya.",
+   "fx": "none",
+   "sub": "I knew your Papa from a long time ago, Riya.",
+   "say": "तुम्हारे पापा को मैं बहुत पहले से जानती थी, रिया।"
+  },
+  {
+   "image": "[[narrator]]'s eyes wide open in disbelief and shock, looking at [[Mrs. Sharma]], mouth slightly agape.",
+   "speaker": "narrator",
+   "line": "Main shock mein thi! Yeh kaise possible hai?",
+   "fx": "none",
+   "sub": "I was in shock! How is this possible?",
+   "say": "मैं शॉक में थी! यह कैसे पॉसिबल है?"
+  },
+  {
+   "image": "A framed photograph of a young [[Riya's Father]], holding a blueprint, smiling brightly, looking visionary and full of ideas.",
+   "speaker": "Mrs. Sharma",
+   "line": "Tumhare Papa, ek bohot hi brilliant engineer the.",
+   "fx": "none",
+   "sub": "Your Papa, he was a very brilliant engineer.",
+   "say": "तुम्हारे पापा, एक बहुत ही ब्रिलियंट इंजीनियर थे।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] holding a small, intricate, old architectural model, her fingers tracing its details with a nostalgic expression.",
+   "speaker": "Mrs. Sharma",
+   "line": "Hum college mein ek hi batch ke batchmates the.",
+   "fx": "none",
+   "sub": "We were batchmates in the same college batch.",
+   "say": "हम कॉलेज में एक ही बैच के बैचमेट्स थे।"
+  },
+  {
+   "image": "Close-up of an old, intricate blueprint, half-finished, with handwritten notes and sketches. A title is visible: 'Sustainable Village Project'.",
+   "speaker": "Mrs. Sharma",
+   "line": "Unka ek bohot bada sapna adhoora reh gaya tha.",
+   "fx": "none",
+   "sub": "His one very big dream remained unfinished.",
+   "say": "उनका एक बहुत बड़ा सपना अधूरा रह गया था।"
+  },
+  {
+   "image": "[[narrator]] looking at the blueprint intently, recognizing her father's handwriting, tears welling up in her eyes.",
+   "speaker": "narrator",
+   "line": "Yeh Papa ka Sustainable Village Project tha, unka dil.",
+   "fx": "none",
+   "sub": "This was Papa's Sustainable Village Project, his heart.",
+   "say": "यह पापा का सस्टेनेबल विलेज प्रोजेक्ट था, उनका दिल।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] looking sad, gazing into the distance, perhaps recalling old, painful memories.",
+   "speaker": "Mrs. Sharma",
+   "line": "Main tab financially unki help nahi kar paayi.",
+   "fx": "none",
+   "sub": "I couldn't help him financially then.",
+   "say": "मैं तब फ़ाइनेंशियली उनकी हेल्प नहीं कर पाई।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] gently places her hand over [[narrator]]'s hand, a look of deep resolve and commitment on her face.",
+   "speaker": "Mrs. Sharma",
+   "line": "Lekin maine unse ek bohot bada promise kiya tha.",
+   "fx": "none",
+   "sub": "But I had made a very big promise to him.",
+   "say": "लेकिन मैंने उनसे एक बहुत बड़ा प्रॉमिस किया था।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] looking directly at [[narrator]], her eyes shining with emotion, making the revelation.",
+   "speaker": "Mrs. Sharma",
+   "line": "Agar unki beti uska yeh adhoora sapna poora karegi...",
+   "fx": "none",
+   "sub": "If his daughter would complete this unfinished dream of his...",
+   "say": "अगर उनकी बेटी उसका यह अधूरा सपना पूरा करेगी..."
+  },
+  {
+   "image": "[[narrator]]'s face, eyes wide, mouth slightly open, a mix of profound shock, overwhelming hope, and sudden understanding.",
+   "speaker": "narrator",
+   "line": "Unhone mujhe specifically dhoonda tha.",
+   "fx": "none",
+   "sub": "She had specifically searched for me.",
+   "say": "उन्होंने मुझे स्पेसिफिकली ढूँढा था।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] gives a gentle, soft smile, a rare sight for [[narrator]], looking around her grand, old library.",
+   "speaker": "Mrs. Sharma",
+   "line": "Tumhe yahan lane ka mera yahi ek maksad tha, Riya.",
+   "fx": "none",
+   "sub": "This was my one purpose for bringing you here, Riya.",
+   "say": "तुम्हें यहाँ लाने का मेरा यही एक मक़सद था, रिया।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] gestures subtly around her grand, old library, filled with books, an air of quiet wisdom.",
+   "speaker": "Mrs. Sharma",
+   "line": "Main tumhari dedication aur lagan dekhna chahti thi.",
+   "fx": "none",
+   "sub": "I wanted to see your dedication and passion.",
+   "say": "मैं तुम्हारी डेडिकेशन और लगन देखना चाहती थी।"
+  },
+  {
+   "image": "[[narrator]] silently crying, but these are tears of relief and immense gratitude. A huge burden has been visibly lifted from her shoulders.",
+   "speaker": "narrator",
+   "line": "Mere dil se aaj bohot bada bhaari bojh utar gaya.",
+   "fx": "none",
+   "sub": "A huge, heavy burden was lifted from my heart today.",
+   "say": "मेरे दिल से आज बहुत बड़ा भारी बोझ उतर गया।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] holding out a university fee receipt, already paid, to [[narrator]]. Riya's hands tremble as she takes it.",
+   "speaker": "Mrs. Sharma",
+   "line": "Tumhari college fees bhar di hain, Riya, tension mat lo.",
+   "fx": "none",
+   "sub": "Your college fees are paid, Riya, don't worry.",
+   "say": "तुम्हारी कॉलेज फ़ीस भर दी हैं, रिया, टेंशन मत लो।"
+  },
+  {
+   "image": "[[narrator]] bends down and touches [[Mrs. Sharma]]'s feet in reverence and immense gratitude, her head bowed.",
+   "speaker": "narrator",
+   "line": "Main unke charan choo kar aashirwad liya.",
+   "fx": "none",
+   "sub": "I touched her feet and took her blessings.",
+   "say": "मैं उनके चरण छू कर आशीर्वाद लिया।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] gently helping [[narrator]] up, a warm, genuine smile on her face.",
+   "speaker": "Mrs. Sharma",
+   "line": "Aur ab, hum milkar tumhare Papa ka adhoora sapna poora karenge.",
+   "fx": "none",
+   "sub": "And now, together, we will complete your Papa's unfinished dream.",
+   "say": "और अब, हम मिलकर तुम्हारे पापा का अधूरा सपना पूरा करेंगे।"
+  },
+  {
+   "image": "[[narrator]] and [[Mrs. Sharma]] sitting side-by-side at a large table, poring over blueprints and architectural drawings together. Mrs. Sharma points to details on a plan.",
+   "speaker": "narrator",
+   "line": "Humne milkar Papa ke Sustainable Village project par kaam shuru kiya.",
+   "fx": "dust",
+   "sub": "Together, we started working on Papa's Sustainable Village project.",
+   "say": "हमने मिलकर पापा के सस्टेनेबल विलेज प्रोजेक्ट पर काम शुरू किया।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, now glowing with renewed energy and purpose, excitedly sketching on a notepad.",
+   "speaker": "narrator",
+   "line": "Meri creativity aur enthusiasm wapas aa gayi thi.",
+   "fx": "none",
+   "sub": "My creativity and enthusiasm had returned.",
+   "say": "मेरी क्रिएटिविटी और एंथ्यूज़ियाज्म वापस आ गई थी।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] observing [[narrator]] intently, a proud and loving look now clearly visible on her face.",
+   "speaker": "narrator",
+   "line": "Woh sirf meri aunty nahi, ab meri mentor ban gayi thi.",
+   "fx": "none",
+   "sub": "She wasn't just my aunty, now she had become my mentor.",
+   "say": "वो सिर्फ़ मेरी आंटी नहीं, अब मेरी मेंटोर बन गई थी।"
+  },
+  {
+   "image": "A montage-like shot: architectural models being meticulously built, sketches everywhere, a feeling of rapid progress and growth.",
+   "speaker": "narrator",
+   "line": "Din tezi se mahino mein badal gaye.",
+   "fx": "none",
+   "sub": "Days quickly turned into months.",
+   "say": "दिन तेज़ी से महीनों में बदल गए।"
+  },
+  {
+   "image": "[[narrator]] and [[Mrs. Sharma]] laughing together over a cup of tea in the grand living room, their earlier formality completely gone.",
+   "speaker": "narrator",
+   "line": "Humari bond khoon ke rishte se bhi bohot strong ho gayi thi.",
+   "fx": "none",
+   "sub": "Our bond had become stronger than blood relations.",
+   "say": "हमारी बॉन्ड ख़ून के रिश्ते से भी बहुत स्ट्रॉन्ग हो गई थी।"
+  },
+  {
+   "image": "[[narrator]] in a graduation gown, proudly holding her degree certificate, beaming. [[Riya's Mother]] stands beside her, wiping a happy tear.",
+   "speaker": "narrator",
+   "line": "Maine apni architectural engineering degree complete ki.",
+   "fx": "none",
+   "sub": "I completed my architectural engineering degree.",
+   "say": "मैंने अपनी आर्किटेक्चरल इंजीनियरिंग डिग्री कंप्लीट की।"
+  },
+  {
+   "image": "[[narrator]] hugging [[Mrs. Sharma]] tightly, both smiling brightly, a genuine warmth between them.",
+   "speaker": "narrator",
+   "line": "Yeh sirf meri akeli nahi, hum sabki collective jeet thi.",
+   "fx": "none",
+   "sub": "This wasn't just my victory, it was our collective victory.",
+   "say": "यह सिर्फ़ मेरी अकेली नहीं, हम सबकी कलेक्टिव जीत थी।"
+  },
+  {
+   "image": "A beautiful, detailed, complete architectural blueprint for the 'Sustainable Village Project,' proudly displayed on a drawing board.",
+   "speaker": "narrator",
+   "line": "Papa ka adhoora sapna ab pura hone wala tha.",
+   "fx": "none",
+   "sub": "Papa's unfinished dream was now about to be fulfilled.",
+   "say": "पापा का अधूरा सपना अब पूरा होने वाला था।"
+  },
+  {
+   "image": "[[narrator]] and [[Mrs. Sharma]] together, holding shovels, symbolically breaking ground for the 'Sustainable Village Project' with many happy villagers watching.",
+   "speaker": "narrator",
+   "line": "Humne milkar us dream project ki foundation rakhi.",
+   "fx": "none",
+   "sub": "Together, we laid the foundation for that dream project.",
+   "say": "हमने मिलकर उस ड्रीम प्रोजेक्ट की फाउंडेशन रखी।"
+  },
+  {
+   "image": "[[narrator]] standing on the construction site, looking at the initial structures taking shape, a thoughtful, content smile on her face.",
+   "speaker": "narrator",
+   "line": "Kitni ajeeb hai na yeh zindagi aur kismat?",
+   "fx": "none",
+   "sub": "Life and destiny are so strange, aren't they?",
+   "say": "कितनी अजीब है ना यह ज़िंदगी और क़िस्मत?"
+  },
+  {
+   "image": "Split screen. Left side: [[narrator]] desperate with fee notice (from Scene 5). Right side: [[narrator]] beaming at the construction site (from Scene 55), full of hope.",
+   "speaker": "narrator",
+   "line": "Jahan main ek waqt par sab kuch chhodne wali thi.",
+   "fx": "none",
+   "sub": "Where at one point I was about to give up everything.",
+   "say": "जहाँ मैं एक वक़्त पर सब कुछ छोड़ने वाली थी।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] sitting quietly in her armchair, looking at a framed photo of [[Riya's Father]] and a younger Mrs. Sharma together. A knowing, gentle smile plays on her lips.",
+   "speaker": "narrator",
+   "line": "Wahan ek anjaan guardian chupchap mujhe dhoond rahi thi.",
+   "fx": "none",
+   "sub": "There, an unknown guardian was quietly searching for me.",
+   "say": "वहाँ एक अनजान गार्जियन चुपचाप मुझे ढूँढ रही थी।"
+  },
+  {
+   "image": "Close-up of the photograph of [[Riya's Father]], now with a gentle, symbolic glow around it, signifying his legacy.",
+   "speaker": "narrator",
+   "line": "Papa ka naam aur unka vision ab zinda ho gaya tha.",
+   "fx": "none",
+   "sub": "Papa's name and his vision had now come alive.",
+   "say": "पापा का नाम और उनका विज़न अब ज़िंदा हो गया था।"
+  },
+  {
+   "image": "[[narrator]] sketching new designs for the project, her face alight with ideas and newfound confidence.",
+   "speaker": "narrator",
+   "line": "Aur mujhe apni zindagi ka asli maksad aur raasta mil gaya.",
+   "fx": "none",
+   "sub": "And I found my life's true purpose and path.",
+   "say": "और मुझे अपनी ज़िंदगी का असली मक़सद और रास्ता मिल गया।"
+  },
+  {
+   "image": "[[narrator]] and [[Mrs. Sharma]] holding hands, walking peacefully in the bungalow's garden, a deep, unspoken connection visible.",
+   "speaker": "narrator",
+   "line": "Humara rishta blood relations se bhi bohot gehra tha.",
+   "fx": "none",
+   "sub": "Our relationship was deeper than blood relations.",
+   "say": "हमारा रिश्ता ब्लड रिलेशंस से भी बहुत गहरा था।"
+  },
+  {
+   "image": "A single, vibrant marigold blooming beautifully in [[Mrs. Sharma]]'s garden, symbolic of quiet growth and unexpected beauty.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi, hamare sabse mushkil pal hi toh hote hain.",
+   "fx": "none",
+   "sub": "Sometimes, it's our most difficult moments only.",
+   "say": "कभी कभी, हमारे सबसे मुश्किल पल ही तो होते हैं।"
+  },
+  {
+   "image": "A wide shot of the half-built sustainable village, looking hopeful and prosperous under a bright sun, with light dust in the air.",
+   "speaker": "narrator",
+   "line": "Jo humari life ki real destiny ka raaz kholte hain.",
+   "fx": "none",
+   "sub": "That reveal the secret of our life's real destiny.",
+   "say": "जो हमारी लाइफ़ की रियल डेस्टिनी का राज़ खोलते हैं।"
+  },
+  {
+   "image": "[[Mrs. Sharma]] looking at the village site from a distance, a look of profound satisfaction and peace on her face, a gentle breeze rustling her saree.",
+   "speaker": "narrator",
+   "line": "Unki aankhon mein ab bohot khushi aur contentment dikhta tha.",
+   "fx": "none",
+   "sub": "Now great happiness and contentment were visible in her eyes.",
+   "say": "उनकी आँखों में अब बहुत ख़ुशी और कंटेन्टमेंट दिखता था।"
+  },
+  {
+   "image": "[[narrator]] helping a child draw a small house in the village, embodying the spirit of community and passing on knowledge.",
+   "speaker": "narrator",
+   "line": "Maine unke mujh par kiye hue bharose ko saabit kiya.",
+   "fx": "none",
+   "sub": "I proved the trust she had placed in me.",
+   "say": "मैंने उनके मुझ पर किए हुए भरोसे को साबित किया।"
+  },
+  {
+   "image": "A close-up of an old, intricate locket around [[Mrs. Sharma]]'s neck, perhaps with a tiny, blurred photo inside, hinting at deeper connections.",
+   "speaker": "narrator",
+   "line": "Kuch connections aise hote hain jo dikhte nahi, par hote hain.",
+   "fx": "none",
+   "sub": "Some connections are such that they are unseen, but they exist.",
+   "say": "कुछ कनेक्शन ऐसे होते हैं जो दिखते नहीं, पर होते हैं।"
+  },
+  {
+   "image": "[[narrator]] looking up at the sky, a feeling of her father's guiding presence, a serene expression on her face.",
+   "speaker": "narrator",
+   "line": "Papa, mujhe lagta hai aap hamesha mere saath hi the.",
+   "fx": "none",
+   "sub": "Papa, I feel you were always with me.",
+   "say": "पापा, मुझे लगता है आप हमेशा मेरे साथ ही थे।"
+  },
+  {
+   "image": "[[narrator]] standing proudly in front of the completed 'Sustainable Village Project.' A small plaque with her father's name is visible.",
+   "speaker": "narrator",
+   "line": "Unka adhoora sapna ab mera zindagi ka sabse bada maksad ban gaya.",
+   "fx": "none",
+   "sub": "His unfinished dream had now become my life's biggest purpose.",
+   "say": "उनका अधूरा सपना अब मेरा ज़िंदगी का सबसे बड़ा मक़सद बन गया।"
+  },
+  {
+   "image": "[[narrator]] and [[Mrs. Sharma]] standing arm-in-arm, looking at the rising sun over the completed village, symbols of hope, continuity, and a shared future.",
+   "speaker": "narrator",
+   "line": "Aur woh bujurg aurat ab meri real Maa jaisi ban gayi thi.",
+   "fx": "none",
+   "sub": "And that old woman had now become like my real mother.",
+   "say": "और वो बुज़ुर्ग औरत अब मेरी रियल माँ जैसी बन गई थी।"
+  },
+  {
+   "image": "A gentle close-up of [[narrator]]'s thoughtful, warm smile looking directly at the camera, inviting interaction.",
+   "speaker": "narrator",
+   "line": "Do you believe in hidden connections and the power of destiny?",
+   "fx": "none",
+   "sub": "Do you believe in hidden connections and the power of destiny?",
+   "say": "डू यू बिलीव इन हिडन कनेक्शंस एंड द पावर ऑफ़ डेस्टिनी?"
+  }
+ ],
+ "caption": "Struggling student took a difficult job... then an old woman revealed a shocking truth. 😮",
+ "slug": "2026-11-10_part3",
+ "story_no": 43,
+ "yt_title": "Struggling student took a difficult job... then an old woman revealed a shocking truth. 😮",
+ "description": "Riya, a struggling architectural engineering student, takes on a demanding job to pay her fees.\nBut the reclusive old woman she cares for hides a secret that connects deeply to Riya's past.\nDo you believe in hidden connections and destiny?",
+ "comment_question": "Do you believe in hidden connections and the power of destiny?",
+ "hashtags": [
+  "#emotionalstory",
+  "#storytime",
+  "#indiantwist",
+  "#strugglingstudent",
+  "#hiddenlegacy",
+  "#unexpectedhelp",
+  "#destiny",
+  "#shortfilm",
+  "#indianstory",
+  "#femalenarrator",
+  "#inspiration",
+  "#lifechanging"
+ ]
+}

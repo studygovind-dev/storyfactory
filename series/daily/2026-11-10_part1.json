@@ -1,0 +1,613 @@
+{
+ "series": "The Uncoiling Truth",
+ "episode": 1,
+ "title": "The Uncoiling Truth",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, early 20s, fair skin, warm smile, long soft wavy dark-brown hair, small silver earrings, wearing a simple but elegant pastel blue kurta with white embroidery. Her eyes are kind and expressive.",
+   "voice": "hindi_narrator_female"
+  },
+  "Arjun": {
+   "look": "Arjun, 9 years old, light wheatish skin, quiet and thoughtful face, short slightly messy dark hair, wearing a worn red t-shirt and grey shorts. His eyes are often downcast.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Kaal": {
+   "look": "A giant Reticulated Python, dark green and brown scales, about 15 feet long, thick and powerful. Its eyes are golden, calm and intelligent.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "HE SPOKE!",
+ "scenes": [
+  {
+   "image": "Close-up on Priya's face, looking shocked yet slightly wistful, hand raised to her mouth in disbelief, soft evening light.",
+   "speaker": "narrator",
+   "line": "Humare ghar mein ek python tha, jise sab darrte the.",
+   "fx": "none",
+   "sub": "We had a python in our house, which everyone feared.",
+   "say": "हमारे घर में एक अजगर था, जिसे सब डरते थे।"
+  },
+  {
+   "image": "Arjun, 9 years old, sitting alone on a porch step, sketching in a notebook, looking sad and isolated. Empty space beside him.",
+   "speaker": "narrator",
+   "line": "Mera chhota bhai Arjun, akela rehta tha, bohot shaant.",
+   "fx": "none",
+   "sub": "My younger brother Arjun, he was always alone, very quiet.",
+   "say": "मेरा छोटा भाई अर्जुन, अकेला रहता था, बहुत शांत।"
+  },
+  {
+   "image": "Arjun's face lights up, eyes wide, as he looks down at a small, coiled baby python nestled among some leaves. He reaches a tentative finger out.",
+   "speaker": "narrator",
+   "line": "Ek din, jungle mein use ek chhota sa saap mila.",
+   "fx": "none",
+   "sub": "One day, in the jungle, he found a tiny snake.",
+   "say": "एक दिन, जंगल में उसे एक छोटा सा साँप मिला।"
+  },
+  {
+   "image": "Arjun gently cradles the baby python in his hands, a soft, loving smile on his face. The python looks calm.",
+   "speaker": "narrator",
+   "line": "Woh toh jhel gaya, usko turant pyaar ho gaya.",
+   "fx": "none",
+   "sub": "He endured it, immediately falling in love with it.",
+   "say": "वो तो झेल गया, उसको तुरंत प्यार हो गया।"
+  },
+  {
+   "image": "Priya, looking horrified, steps back from Arjun who is holding the tiny python. Her hand is over her mouth.",
+   "speaker": "narrator",
+   "line": "Mai toh darr gayi, yeh kya le aaya!",
+   "fx": "none",
+   "sub": "I got scared, what has he brought!",
+   "say": "मैं तो डर गयी, ये क्या ले आया!"
+  },
+  {
+   "image": "Priya's parents, faces full of terror and anger, pointing frantically at the python in Arjun's hands. Arjun shields it.",
+   "speaker": "narrator",
+   "line": "Amma-Papa toh gusse mein laal, chillane lage.",
+   "fx": "none",
+   "sub": "Mom and Dad turned red with anger, started shouting.",
+   "say": "अम्मा-पापा तो गुस्से में लाल, चिल्लाने लगे।"
+  },
+  {
+   "image": "Priya's father trying to snatch the python from Arjun, who clutches it tightly, tears in his eyes. The python looks scared.",
+   "speaker": "narrator",
+   "line": "Unhone use nikalne ki koshish ki.",
+   "fx": "none",
+   "sub": "They tried to get rid of it.",
+   "say": "उन्होंने उसे निकालने की कोशिश की।"
+  },
+  {
+   "image": "Close-up on Arjun's determined face, hugging the python to his chest, shaking his head defiantly.",
+   "speaker": "narrator",
+   "line": "Par Arjun ne usko jaane nahi diya.",
+   "fx": "none",
+   "sub": "But Arjun didn't let it go.",
+   "say": "पर अर्जुन ने उसको जाने नहीं दिया।"
+  },
+  {
+   "image": "A montage: several quick shots of the python growing larger over weeks, from baby to young snake, while Arjun lovingly feeds it. Fear in the family's eyes growing in the background.",
+   "speaker": "narrator",
+   "line": "Kaal, uska naam, bada hota gaya.",
+   "fx": "none",
+   "sub": "Kaal, his name, grew bigger and bigger.",
+   "say": "काल, उसका नाम, बड़ा होता गया।"
+  },
+  {
+   "image": "Villagers whispering and pointing towards Priya's house from a distance, looking worried and fearful. One older woman makes a 'bad omen' gesture.",
+   "speaker": "narrator",
+   "line": "Gaon wale bhi darrne lage the.",
+   "fx": "none",
+   "sub": "The villagers also started to get scared.",
+   "say": "गाँव वाले भी डरने लगे थे।"
+  },
+  {
+   "image": "Arjun carefully covering Kaal with a blanket in his room, looking secretive and protective. Kaal's eyes peek out.",
+   "speaker": "narrator",
+   "line": "Arjun use sabse chupa ke rakhta tha.",
+   "fx": "none",
+   "sub": "Arjun used to hide him from everyone.",
+   "say": "अर्जुन उसे सबसे छुपा के रखता था।"
+  },
+  {
+   "image": "Priya looking through a window, observing Arjun playing gently with the now medium-sized python. She has a curious, conflicted expression.",
+   "speaker": "narrator",
+   "line": "Mai chupke se dekhti rehti thi.",
+   "fx": "none",
+   "sub": "I used to watch secretly.",
+   "say": "मैं चुपके से देखती रहती थी।"
+  },
+  {
+   "image": "Kaal is now very large, coiled majestically in a corner of Arjun's room, watching Arjun intently. Arjun sits near it, drawing.",
+   "speaker": "narrator",
+   "line": "Ab toh woh ek bohot bada python ban gaya tha.",
+   "fx": "none",
+   "sub": "Now he had become a very large python.",
+   "say": "अब तो वो एक बहुत बड़ा अजगर बन गया था।"
+  },
+  {
+   "image": "Priya's parents sitting at a small table, looking distressed, arguing in hushed tones, gesturing towards Arjun's closed door.",
+   "speaker": "narrator",
+   "line": "Ghar mein roz tension rehti thi.",
+   "fx": "none",
+   "sub": "There was daily tension in the house.",
+   "say": "घर में रोज़ टेंशन रहती थी।"
+  },
+  {
+   "image": "Arjun sleeping peacefully, curled up with Kaal, whose huge body forms a protective barrier around him. A serene, loving scene.",
+   "speaker": "narrator",
+   "line": "Par Arjun aur Kaal toh bilkul jude the.",
+   "fx": "none",
+   "sub": "But Arjun and Kaal were completely bonded.",
+   "say": "पर अर्जुन और काल तो बिल्कुल जुड़े थे।"
+  },
+  {
+   "image": "Heavy monsoon rain outside, blurring the window. Dark clouds in the sky. Rain lashes against the pane.",
+   "speaker": "narrator",
+   "line": "Phir woh monsoon aaya... bohot bhayankar.",
+   "fx": "rain",
+   "sub": "Then that monsoon came... very terrible.",
+   "say": "फिर वो मॉनसून आया... बहुत भयंकर।"
+  },
+  {
+   "image": "A wide shot of a river, now swollen and muddy, flowing rapidly near the village houses. Dark, overcast sky.",
+   "speaker": "narrator",
+   "line": "Nadi ka paani ufan raha tha.",
+   "fx": "rain",
+   "sub": "The river water was overflowing.",
+   "say": "नदी का पानी उफ़न रहा था।"
+  },
+  {
+   "image": "Kaal in Arjun's room, moving agitatedly, hissing softly, his head raised towards the window as if sensing something.",
+   "speaker": "narrator",
+   "line": "Kaal bohot bechain lag raha tha.",
+   "fx": "none",
+   "sub": "Kaal seemed very restless.",
+   "say": "काल बहुत बेचैन लग रहा था।"
+  },
+  {
+   "image": "Arjun gently stroking Kaal's scales, trying to calm it, a worried expression on his face. Kaal still seems restless.",
+   "speaker": "narrator",
+   "line": "Arjun use shaant karne ki koshish kar raha tha.",
+   "fx": "none",
+   "sub": "Arjun was trying to calm him down.",
+   "say": "अर्जुन उसे शांत करने की कोशिश कर रहा था।"
+  },
+  {
+   "image": "Kaal slithers quickly towards the door, then turns its head back towards Arjun, urging him. Its movements are purposeful.",
+   "speaker": "narrator",
+   "line": "Par Kaal ka ishara kuch aur tha.",
+   "fx": "none",
+   "sub": "But Kaal's gesture was something else.",
+   "say": "पर काल का इशारा कुछ और था।"
+  },
+  {
+   "image": "Arjun follows Kaal out of the room, looking confused and slightly scared. Kaal leads the way down a dim hallway.",
+   "speaker": "narrator",
+   "line": "Arjun uske peeche-peeche gaya.",
+   "fx": "none",
+   "sub": "Arjun followed him.",
+   "say": "अर्जुन उसके पीछे-पीछे गया।"
+  },
+  {
+   "image": "Kaal stops at the main door, pushing it slightly open with its head, then looks back at Arjun, then points its head towards the village outside.",
+   "speaker": "narrator",
+   "line": "Usne gaon ki taraf ishara kiya.",
+   "fx": "none",
+   "sub": "He pointed towards the village.",
+   "say": "उसने गाँव की तरफ इशारा किया।"
+  },
+  {
+   "image": "Close-up on Arjun's face, a mix of confusion and dawning realization. He looks out into the rainy darkness.",
+   "speaker": "narrator",
+   "line": "Arjun kuch samajh nahi paaya.",
+   "fx": "rain",
+   "sub": "Arjun couldn't understand anything.",
+   "say": "अर्जुन कुछ समझ नहीं पाया।"
+  },
+  {
+   "image": "Priya peeking from a doorway, watching Arjun and Kaal with a worried, inquisitive look. She's seen the strange behavior.",
+   "speaker": "narrator",
+   "line": "Mai sab dekh rahi thi.",
+   "fx": "none",
+   "sub": "I was watching everything.",
+   "say": "मैं सब देख रही थी।"
+  },
+  {
+   "image": "A radio crackling, a worried reporter's voice audible (not transcribed), a map showing heavy rainfall in the region. Priya's father listens with concern.",
+   "speaker": "narrator",
+   "line": "Pahadon mein bohot baarish ho rahi thi.",
+   "fx": "none",
+   "sub": "There was heavy rain in the mountains.",
+   "say": "पहाड़ों में बहुत बारिश हो रही थी।"
+  },
+  {
+   "image": "Villagers in their homes, ignoring the rising water levels, looking comfortable, some sleeping. They seem oblivious.",
+   "speaker": "narrator",
+   "line": "Par sab log bekhabar the.",
+   "fx": "none",
+   "sub": "But everyone was oblivious.",
+   "say": "पर सब लोग बेखबर थे।"
+  },
+  {
+   "image": "Kaal nudging Arjun's leg urgently with its head, then trying to pull his t-shirt. Arjun looks alarmed.",
+   "speaker": "narrator",
+   "line": "Kaal Arjun ko khinchne laga.",
+   "fx": "none",
+   "sub": "Kaal started pulling Arjun.",
+   "say": "काल अर्जुन को खींचने लगा।"
+  },
+  {
+   "image": "Arjun's face, wide-eyed and distressed, trying to explain something to his parents with frantic hand gestures. His parents look annoyed.",
+   "speaker": "narrator",
+   "line": "Arjun bahut pareshan tha.",
+   "fx": "none",
+   "sub": "Arjun was very distressed.",
+   "say": "अर्जुन बहुत परेशान था।"
+  },
+  {
+   "image": "Close-up on Kaal's head, nudging Arjun's hand, then turning its head towards the door, then back to Arjun, as if communicating a direction.",
+   "speaker": "Kaal",
+   "line": "Jao! Bahar khatra hai!",
+   "fx": "none",
+   "sub": "Go! There's danger outside!",
+   "say": "जाओ! बाहर खतरा है!"
+  },
+  {
+   "image": "Arjun, looking stunned, then turns to Priya, urgently gesturing and mouthing words. Priya looks skeptical.",
+   "speaker": "narrator",
+   "line": "Usne mujhe batane ki koshish ki.",
+   "fx": "none",
+   "sub": "He tried to tell me.",
+   "say": "उसने मुझे बताने की कोशिश की।"
+  },
+  {
+   "image": "Priya, hands on her hips, a slight exasperated smile, shaking her head as if dismissing a childish fantasy. Arjun looks crestfallen.",
+   "speaker": "narrator",
+   "line": "Mai toh bas muskurayi, 'Yeh kya natak hai?'",
+   "fx": "none",
+   "sub": "I just smiled, 'What's this drama?'",
+   "say": "मैं तो बस मुस्कुराई, 'ये क्या नाटक है?'"
+  },
+  {
+   "image": "Night scene, rain pouring, dim lantern light inside. The rain sounds loud and menacing.",
+   "speaker": "narrator",
+   "line": "Raat gehri hoti gayi, baarish tez.",
+   "fx": "rain",
+   "sub": "The night deepened, rain intensified.",
+   "say": "रात गहरी होती गई, बारिश तेज़।"
+  },
+  {
+   "image": "Kaal slithers quietly into Arjun's room, its long body disappearing under the bed. Arjun watches it, looking uneasy.",
+   "speaker": "narrator",
+   "line": "Kaal chupchap kamre mein ghus gaya.",
+   "fx": "none",
+   "sub": "Kaal quietly entered the room.",
+   "say": "काल चुपचाप कमरे में घुस गया।"
+  },
+  {
+   "image": "Arjun lying in bed, Kaal gently coiling around him, not tightly, but protectively. Arjun closes his eyes, finding comfort.",
+   "speaker": "narrator",
+   "line": "Arjun ko usne gale laga liya.",
+   "fx": "none",
+   "sub": "He embraced Arjun.",
+   "say": "अर्जुन को उसने गले लगा लिया।"
+  },
+  {
+   "image": "Close-up on a window pane, rain streaks flowing down heavily, blurring everything outside. The sound of rain is deafening.",
+   "speaker": "narrator",
+   "line": "Baarish ki awaaz ab kaanphod thi.",
+   "fx": "rain",
+   "sub": "The sound of rain was now deafening.",
+   "say": "बारिश की आवाज़ अब कानफोड़ थी।"
+  },
+  {
+   "image": "Kaal's huge body suddenly tenses, coiling tighter around Arjun. Arjun gasps, eyes flying open.",
+   "speaker": "narrator",
+   "line": "Achank Kaal poora tan gaya.",
+   "fx": "none",
+   "sub": "Suddenly Kaal tensed up completely.",
+   "say": "अचानक काल पूरा तन गया।"
+  },
+  {
+   "image": "Arjun's face, startled and frightened, looking up at Kaal's head which is now very close to his ear.",
+   "speaker": "narrator",
+   "line": "Arjun ki saans ruk gayi.",
+   "fx": "none",
+   "sub": "Arjun's breath stopped.",
+   "say": "अर्जुन की साँस रुक गयी।"
+  },
+  {
+   "image": "Close-up on Kaal's head, its golden eyes fixed on Arjun, mouth slightly open, a soft, low rumble emanating.",
+   "speaker": "Kaal",
+   "line": "Jaldi! Paani aa raha hai, Arjun! Bhag jao!",
+   "fx": "none",
+   "sub": "Quick! Water is coming, Arjun! Run!",
+   "say": "जल्दी! पानी आ रहा है, अर्जुन! भाग जाओ!"
+  },
+  {
+   "image": "Arjun's face, completely shocked, eyes wide, mouth agape. He processes what he just heard.",
+   "speaker": "narrator",
+   "line": "Arjun toh hil gaya tha.",
+   "fx": "none",
+   "sub": "Arjun was shaken.",
+   "say": "अर्जुन तो हिल गया था।"
+  },
+  {
+   "image": "Arjun frantically shaking his sleeping parents awake, yelling, his face full of terror and urgency. Parents look groggy and annoyed.",
+   "speaker": "narrator",
+   "line": "Usne unko jagaya, cheeka.",
+   "fx": "none",
+   "sub": "He woke them up, screamed.",
+   "say": "उसने उनको जगाया, चीखा।"
+  },
+  {
+   "image": "Priya's father waving Arjun off dismissively, yawning, pulling the blanket higher. Mother sighs.",
+   "speaker": "narrator",
+   "line": "Papa ne use sapna keh diya.",
+   "fx": "none",
+   "sub": "Dad called it a dream.",
+   "say": "पापा ने उसे सपना कह दिया।"
+  },
+  {
+   "image": "Priya enters the room, rubbing her eyes, seeing Arjun's panic and her parents' irritation. She looks confused.",
+   "speaker": "narrator",
+   "line": "Mai tabhi wahan pahunchi.",
+   "fx": "none",
+   "sub": "I reached there just then.",
+   "say": "मैं तभी वहाँ पहुँची।"
+  },
+  {
+   "image": "Arjun grabs Priya's arm, pulling her, desperate. His eyes plead with her, trying to convey something immense.",
+   "speaker": "Arjun",
+   "line": "Didi, Kaal bol raha hai, paani aa raha hai!",
+   "fx": "none",
+   "sub": "Sister, Kaal is saying, water is coming!",
+   "say": "दीदी, काल बोल रहा है, पानी आ रहा है!"
+  },
+  {
+   "image": "Kaal slithers out from under the bed, looking straight at Priya with intense, knowing eyes, its body tensed and alert.",
+   "speaker": "narrator",
+   "line": "Kaal bhi ab saamne aa gaya.",
+   "fx": "none",
+   "sub": "Kaal also came forward now.",
+   "say": "काल भी अब सामने आ गया।"
+  },
+  {
+   "image": "Priya looks from Arjun's desperate face to Kaal's intense gaze, a flicker of doubt in her eyes. She hesitates.",
+   "speaker": "narrator",
+   "line": "Mujhe Arjun ki aankhon mein sach dikha.",
+   "fx": "none",
+   "sub": "I saw truth in Arjun's eyes.",
+   "say": "मुझे अर्जुन की आँखों में सच दिखा।"
+  },
+  {
+   "image": "Close-up on Kaal's head, it nudges Arjun towards the door again, then looks meaningfully at Priya, a subtle nod.",
+   "speaker": "Kaal",
+   "line": "Jaldi karo, Priya!",
+   "fx": "none",
+   "sub": "Hurry, Priya!",
+   "say": "जल्दी करो, प्रिया!"
+  },
+  {
+   "image": "Priya's face, dawning horror mixed with a sudden, chilling belief. Her mouth slightly open, eyes wide.",
+   "speaker": "narrator",
+   "line": "Us pal, mai samajh gayi.",
+   "fx": "none",
+   "sub": "In that moment, I understood.",
+   "say": "उस पल, मैं समझ गई।"
+  },
+  {
+   "image": "A terrifying, deep rumble shakes the house. Dust falls from the ceiling. A faint roar of rushing water grows louder.",
+   "speaker": "narrator",
+   "line": "Zameen hilne lagi thi.",
+   "fx": "dust",
+   "sub": "The ground started shaking.",
+   "say": "ज़मीन हिलने लगी थी।"
+  },
+  {
+   "image": "Priya's face, suddenly decisive and terrified, grabs her parents' arms, pulling them up. Parents are shocked and confused.",
+   "speaker": "narrator",
+   "line": "Maine unko khinch kar uthaya.",
+   "fx": "none",
+   "sub": "I pulled them up.",
+   "say": "मैंने उनको खींच कर उठाया।"
+  },
+  {
+   "image": "The entire family runs out of the house into the rain, just as a wall of muddy water slams into their home. Fear on everyone's faces.",
+   "speaker": "narrator",
+   "line": "Hum ghar se bahar bhage, jaan bachake.",
+   "fx": "rain",
+   "sub": "We ran out of the house, saving our lives.",
+   "say": "हम घर से बाहर भागे, जान बचाके।"
+  },
+  {
+   "image": "Kaal slithers rapidly ahead of the family, acting as a guide, eyes fixed on a higher patch of land. Family follows anxiously.",
+   "speaker": "narrator",
+   "line": "Kaal humein raasta dikha raha tha.",
+   "fx": "rain",
+   "sub": "Kaal was showing us the way.",
+   "say": "काल हमें रास्ता दिखा रहा था।"
+  },
+  {
+   "image": "The street is now a raging torrent, water swirling rapidly, debris floating past. The family tries to wade through, terrified.",
+   "speaker": "narrator",
+   "line": "Paani bohot tez badh raha tha.",
+   "fx": "rain",
+   "sub": "The water was rising very fast.",
+   "say": "पानी बहुत तेज़ बढ़ रहा था।"
+  },
+  {
+   "image": "Arjun slips in the powerful current, his small body almost swept away. He cries out.",
+   "speaker": "Arjun",
+   "line": "Mai gir gaya!",
+   "fx": "rain",
+   "sub": "I fell!",
+   "say": "मैं गिर गया!"
+  },
+  {
+   "image": "Kaal swiftly stretches its immense body across a narrow gap in the raging water, forming a living bridge. Its eyes are focused.",
+   "speaker": "narrator",
+   "line": "Kaal ne khud ko pool bana diya.",
+   "fx": "rain",
+   "sub": "Kaal made himself a bridge.",
+   "say": "काल ने खुद को पुल बना दिया।"
+  },
+  {
+   "image": "Arjun, with fear in his eyes, carefully crawls across Kaal's muscular back, Kaal holding steady. Priya reaches for his hand.",
+   "speaker": "narrator",
+   "line": "Arjun uske upar se nikla.",
+   "fx": "rain",
+   "sub": "Arjun crossed over him.",
+   "say": "अर्जुन उसके ऊपर से निकला।"
+  },
+  {
+   "image": "Priya helping Arjun to safety, then looks back at Kaal with a mix of awe, gratitude, and a hint of fear now replaced by respect.",
+   "speaker": "narrator",
+   "line": "Hum surakshit the, uski wajah se.",
+   "fx": "rain",
+   "sub": "We were safe, because of him.",
+   "say": "हम सुरक्षित थे, उसकी वजह से।"
+  },
+  {
+   "image": "Villagers struggling in the floodwaters, some clinging to trees, others screaming for help. A heartbreaking scene of chaos.",
+   "speaker": "narrator",
+   "line": "Par gaon wale toh phanse the.",
+   "fx": "rain",
+   "sub": "But the villagers were trapped.",
+   "say": "पर गाँव वाले तो फँसे थे।"
+  },
+  {
+   "image": "Kaal, without hesitation, plunges into the deepest part of the floodwaters, a determined look in its eyes, heading towards a struggling family.",
+   "speaker": "narrator",
+   "line": "Aur Kaal paani mein kood gaya.",
+   "fx": "rain",
+   "sub": "And Kaal jumped into the water.",
+   "say": "और काल पानी में कूद गया।"
+  },
+  {
+   "image": "Kaal's huge body winding through the water, pulling a fallen villager to a tree with its tail, then nudging another towards higher ground.",
+   "speaker": "narrator",
+   "line": "Usne sabki madad ki.",
+   "fx": "rain",
+   "sub": "He helped everyone.",
+   "say": "उसने सबकी मदद की।"
+  },
+  {
+   "image": "Priya, her parents, and Arjun watching Kaal, tears streaming down their faces, overwhelmed with emotion and gratitude. Their fear is gone.",
+   "speaker": "narrator",
+   "line": "Humari aankhon mein aansu the.",
+   "fx": "rain",
+   "sub": "There were tears in our eyes.",
+   "say": "हमारी आँखों में आँसू थे।"
+  },
+  {
+   "image": "The floodwaters receding slowly, leaving behind mud and debris. A scene of devastation, but people are safe.",
+   "speaker": "narrator",
+   "line": "Jab paani kam hua toh sab bach gaye.",
+   "fx": "none",
+   "sub": "When the water receded, everyone was saved.",
+   "say": "जब पानी कम हुआ तो सब बच गए।"
+  },
+  {
+   "image": "Kaal emerges from the mud and water, tired but unharmed, looking at the family. Arjun runs to him, hugging his head.",
+   "speaker": "narrator",
+   "line": "Kaal wapas aaya, thaka hua.",
+   "fx": "none",
+   "sub": "Kaal came back, tired.",
+   "say": "काल वापस आया, थका हुआ।"
+  },
+  {
+   "image": "The whole family (Priya, Arjun, parents) gathering around Kaal, touching him gently, no fear, only love and immense relief on their faces.",
+   "speaker": "narrator",
+   "line": "Koi darr nahi tha, bas pyaar.",
+   "fx": "none",
+   "sub": "There was no fear, only love.",
+   "say": "कोई डर नहीं था, बस प्यार।"
+  },
+  {
+   "image": "Villagers gathering around Kaal, some respectfully bowing, others touching its scales in apology and gratitude. Priya's father looks humbled.",
+   "speaker": "narrator",
+   "line": "Sab log use champion kehne lage.",
+   "fx": "none",
+   "sub": "Everyone started calling him a champion.",
+   "say": "सब लोग उसे चैंपियन कहने लगे।"
+  },
+  {
+   "image": "Kaal coiled comfortably in the sun outside the rebuilt house, Arjun sleeping next to him. Priya watches from a distance, smiling.",
+   "speaker": "narrator",
+   "line": "Kaal humare saath hi raha.",
+   "fx": "none",
+   "sub": "Kaal stayed with us.",
+   "say": "काल हमारे साथ ही रहा।"
+  },
+  {
+   "image": "Close-up on Priya's face, a thoughtful, warm smile. She looks directly at the camera.",
+   "speaker": "narrator",
+   "line": "Usne humein sikhaya, asli khatra kya hota hai.",
+   "fx": "none",
+   "sub": "He taught us what true danger is.",
+   "say": "उसने हमें सिखाया, असली खतरा क्या होता है।"
+  },
+  {
+   "image": "Arjun and Kaal looking happy and peaceful together, a sunny, serene village background.",
+   "speaker": "narrator",
+   "line": "Aur asli dil kahan hota hai.",
+   "fx": "none",
+   "sub": "And where a true heart lies.",
+   "say": "और असली दिल कहाँ होता है।"
+  },
+  {
+   "image": "Priya's face, looking reflective and kind.",
+   "speaker": "narrator",
+   "line": "Log kehte hain, sirf insaan bolte hain...",
+   "fx": "none",
+   "sub": "People say, only humans speak...",
+   "say": "लोग कहते हैं, सिर्फ इंसान बोलते हैं..."
+  },
+  {
+   "image": "Close-up of Kaal's intelligent golden eyes, looking calm and wise.",
+   "speaker": "Kaal",
+   "line": "Par kya tum sunte ho?",
+   "fx": "none",
+   "sub": "But do you listen?",
+   "say": "पर क्या तुम सुनते हो?"
+  },
+  {
+   "image": "A wide shot of the family standing together, with Kaal nearby, all looking content and safe, sunbeams breaking through clouds after the storm.",
+   "speaker": "narrator",
+   "line": "Soch kar batana.",
+   "fx": "none",
+   "sub": "Think and tell me.",
+   "say": "सोच कर बताना।"
+  },
+  {
+   "image": "Close-up on Priya's face, a knowing smile, looking directly into the camera.",
+   "speaker": "narrator",
+   "line": "Kaun hai yahan sabse zyada samajhdaar?",
+   "fx": "none",
+   "sub": "Who is the wisest one here?",
+   "say": "कौन है यहाँ सबसे ज़्यादा समझदार?"
+  }
+ ],
+ "caption": "Everyone Feared Our Python... Until He SPOKE! 🐍",
+ "slug": "2026-11-10_part1",
+ "story_no": 41,
+ "yt_title": "Everyone Feared Our Python... Until He SPOKE! 🐍",
+ "description": "Everyone feared our python, thinking it a dangerous monster. My lonely brother saw a friend, but nobody believed him. \nThen, one fateful night, the python did something impossible. It saved us, revealing a shocking truth about itself.\nWhat do you think was the bravest thing Kaal did?",
+ "comment_question": "What do you think was the bravest thing Kaal did?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalstory",
+  "#python",
+  "#snakestory",
+  "#unconditionallove",
+  "#herostory",
+  "#villagestory",
+  "#braveanimal",
+  "#unexpectedhero",
+  "#familylove"
+ ]
+}

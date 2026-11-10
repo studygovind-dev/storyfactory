@@ -1,0 +1,535 @@
+{
+ "series": "Rex's Rubber Ducky Dilemma",
+ "episode": 2,
+ "title": "Rex's Rubber Ducky Dilemma",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_female"
+  },
+  "priya": {
+   "look": "Young woman, early 20s. Fair skin, long soft wavy dark-brown hair, small nose pin, elegant pastel yellow kurta with white embroidery, white leggings, small earrings. Bright, expressive face.",
+   "voice": "hindi_cartoon_female"
+  },
+  "rex": {
+   "look": "Large German Shepherd, fawn and black fur, floppy ears, blue collar. Majestic posture, but can look goofy or terrified.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "REX'S TINY FEAR",
+ "scenes": [
+  {
+   "image": "[[priya]] looks confused, holding a tiny, bright yellow rubber ducky. [[rex]] is far behind her, peeking from behind a sofa, eyes wide with terror.",
+   "speaker": "priya",
+   "line": "Mera brave dog, Rex, ka ek secret hai.",
+   "fx": "none",
+   "say": "मेरा ब्रेव डॉग, रेक्स, का एक सीक्रेट है।"
+  },
+  {
+   "image": "Close up on [[rex]] looking majestic and alert, standing guard at the door.",
+   "speaker": "priya",
+   "line": "Yeh hai Rex. Mera sabse loyal companion.",
+   "fx": "none",
+   "say": "ये है रेक्स। मेरा सबसे लॉयल कंपेनियन।"
+  },
+  {
+   "image": "[[priya]] affectionately petting [[rex]]'s head. Rex looks happy and strong.",
+   "speaker": "priya",
+   "line": "Uska size dekho. Kitna strong lagta hai na?",
+   "fx": "none",
+   "say": "उसका साइज़ देखो। कितना स्ट्रॉन्ग लगता है ना?"
+  },
+  {
+   "image": "[[rex]] barking fiercely at a delivery person at the gate (person's back visible).",
+   "speaker": "narrator",
+   "line": "Rex, humesha ghar ka protector tha.",
+   "fx": "none",
+   "say": "रेक्स, हमेशा घर का प्रोटेक्टर था।"
+  },
+  {
+   "image": "[[rex]] chasing a squirrel up a tree, barking playfully.",
+   "speaker": "priya",
+   "line": "Squirrels ko bhagana, uski favourite hobby thi.",
+   "fx": "none",
+   "say": "स्क्विरल्स को भगाना, उसकी फेवरेट हॉबी थी।"
+  },
+  {
+   "image": "[[rex]] proudly sitting with a chewed-up tennis ball at [[priya]]'s feet.",
+   "speaker": "priya",
+   "line": "Ball laane mein woh champion tha.",
+   "fx": "none",
+   "say": "बॉल लाने में वो चैंपियन था।"
+  },
+  {
+   "image": "[[priya]] laughing, hugging [[rex]] tight. Rex looks happy.",
+   "speaker": "priya",
+   "line": "Mujhe lagta tha woh kisi se nahi darta.",
+   "fx": "none",
+   "say": "मुझे लगता था वो किसी से नहीं डरता।"
+  },
+  {
+   "image": "[[priya]] is cleaning her living room, finds a small, bright yellow rubber ducky under the sofa.",
+   "speaker": "priya",
+   "line": "Ek din, maine sofa ke neeche...",
+   "fx": "none",
+   "say": "एक दिन, मैंने सोफ़ा के नीचे..."
+  },
+  {
+   "image": "Close-up on the small, yellow rubber ducky. It has a slightly goofy, smiling face.",
+   "speaker": "priya",
+   "line": "Yeh chhota sa yellow rubber ducky!",
+   "fx": "none",
+   "say": "ये छोटा सा येलो रबर डकी!"
+  },
+  {
+   "image": "[[priya]] picks up the ducky, smiles. [[rex]] is entering the room, looking happy.",
+   "speaker": "priya",
+   "line": "Aww, kitna cute hai yeh little ducky!",
+   "fx": "none",
+   "say": "ऑव, कितना क्यूट है ये लिटिल डकी!"
+  },
+  {
+   "image": "[[priya]] casually places the ducky on the coffee table. [[rex]] walks closer, his tail wagging.",
+   "speaker": "priya",
+   "line": "Maine ise coffee table par rakh diya.",
+   "fx": "none",
+   "say": "मैंने इसे कॉफी टेबल पर रख दिया।"
+  },
+  {
+   "image": "[[rex]] sees the ducky. His tail stops wagging, ears perk up, eyes widen in shock.",
+   "speaker": "narrator",
+   "line": "Aur phir... jo hua, woh unbelievable tha.",
+   "fx": "none",
+   "say": "और फिर... जो हुआ, वो अनबिलीवेबल था।"
+  },
+  {
+   "image": "[[rex]] lets out a high-pitched yelp, backing away quickly, bumping into a chair.",
+   "speaker": "rex",
+   "line": "Ahhh! Yeh kya hai! Bhagao isko!",
+   "fx": "none",
+   "say": "आह! ये क्या है! भगाओ इसको!"
+  },
+  {
+   "image": "[[priya]] looks totally confused, looking from the ducky to [[rex]].",
+   "speaker": "priya",
+   "line": "Rex? Kya hua? Kyun bhaag raha hai?",
+   "fx": "none",
+   "say": "रेक्स? क्या हुआ? क्यों भाग रहा है?"
+  },
+  {
+   "image": "[[rex]] is now hiding completely behind the sofa, only his scared eyes are visible.",
+   "speaker": "rex",
+   "line": "Woh... woh yellow cheez! Bohat dangerous hai!",
+   "fx": "none",
+   "say": "वो... वो येलो चीज़! बहुत डेंजरस है!"
+  },
+  {
+   "image": "[[priya]] picks up the ducky and tries to show it to [[rex]], who is still hiding.",
+   "speaker": "priya",
+   "line": "Pagal ho gaya hai kya? Yeh toh bas khilona hai!",
+   "fx": "none",
+   "say": "पागल हो गया है क्या? ये तो बस खिलौना है!"
+  },
+  {
+   "image": "Close up on [[rex]]'s face, looking utterly terrified, shaking his head 'no'.",
+   "speaker": "rex",
+   "line": "No! No! Uske paas evil eyes hain!",
+   "fx": "none",
+   "say": "नो! नो! उसके पास ईविल आईज हैं!"
+  },
+  {
+   "image": "[[priya]] tries to slowly bring the ducky closer to [[rex]]. Rex tries to crawl away.",
+   "speaker": "priya",
+   "line": "Come on, beta. Dekho, kuch nahi hoga.",
+   "fx": "none",
+   "say": "कम ऑन, बेटा। देखो, कुछ नहीं होगा।"
+  },
+  {
+   "image": "[[rex]] whimpers loudly, trying to burrow deeper into the sofa cushions.",
+   "speaker": "rex",
+   "line": "Mujhe bachaao! Woh mujhe pakad lega!",
+   "fx": "none",
+   "say": "मुझे बचाओ! वो मुझे पकड़ लेगा!"
+  },
+  {
+   "image": "[[priya]] puts the ducky down, looking exasperated. Rex peeks out cautiously.",
+   "speaker": "priya",
+   "line": "Meri toh samajh mein nahi aa raha.",
+   "fx": "none",
+   "say": "मेरी तो समझ में नहीं आ रहा।"
+  },
+  {
+   "image": "[[priya]] shows [[rex]] other toys – a ball, a rope. Rex is happy and playful.",
+   "speaker": "priya",
+   "line": "Baaki sab toys se toh khelta hai.",
+   "fx": "none",
+   "say": "बाकी सब टॉयज से तो खेलता है।"
+  },
+  {
+   "image": "[[priya]] places the rubber ducky on the floor. [[rex]] instantly jumps onto the sofa, barking.",
+   "speaker": "rex",
+   "line": "Away! Away! Don't touch me!",
+   "fx": "none",
+   "say": "अवे! अवे! डोंट टच मी!"
+  },
+  {
+   "image": "[[priya]] tries to lure [[rex]] with treats, but he refuses to come down while the ducky is there.",
+   "speaker": "priya",
+   "line": "Dekho Rex, tumhara favorite treat.",
+   "fx": "none",
+   "say": "देखो रेक्स, तुम्हारा फेवरेट ट्रीट।"
+  },
+  {
+   "image": "[[rex]] staring intently at the ducky, drooling a little, but too scared to move.",
+   "speaker": "rex",
+   "line": "Treat important hai, par life zyada!",
+   "fx": "none",
+   "say": "ट्रीट इम्पोर्टेन्ट है, पर लाइफ ज्यादा!"
+  },
+  {
+   "image": "[[priya]] sighs, picks up the ducky. [[rex]] immediately jumps down and takes the treat.",
+   "speaker": "priya",
+   "line": "Okay, okay, main samajh gayi ab.",
+   "fx": "none",
+   "say": "ओके, ओके, मैं समझ गई अब।"
+  },
+  {
+   "image": "[[priya]] is on her laptop, searching 'dog afraid of small objects'. [[rex]] is sleeping peacefully.",
+   "speaker": "narrator",
+   "line": "Maine online research karna shuru kiya.",
+   "fx": "none",
+   "say": "मैंने ऑनलाइन रिसर्च करना शुरू किया।"
+  },
+  {
+   "image": "[[priya]] tries to cover the ducky with a blanket. [[rex]] watches, suspicious.",
+   "speaker": "priya",
+   "line": "Shayad agar woh dikhega nahi...",
+   "fx": "none",
+   "say": "शायद अगर वो दिखेगा नहीं..."
+  },
+  {
+   "image": "[[rex]] nudges the blanket with his nose, sees the ducky, then quickly backs away, barking.",
+   "speaker": "rex",
+   "line": "Ab chhupkar attack karega kya?",
+   "fx": "none",
+   "say": "अब छुपकर अटैक करेगा क्या?"
+  },
+  {
+   "image": "[[priya]] is frustrated, holding her head in her hands. [[rex]] is far away, watching her.",
+   "speaker": "priya",
+   "line": "Mera sherni dog, ek duck se darta hai!",
+   "fx": "none",
+   "say": "मेरा शेरनी डॉग, एक डक से डरता है!"
+  },
+  {
+   "image": "[[rex]] looks indignant, paws crossed.",
+   "speaker": "rex",
+   "line": "Sherni nahi, shareef hoon main!",
+   "fx": "none",
+   "say": "शेरनी नहीं, शरीफ हूँ मैं!"
+  },
+  {
+   "image": "[[priya]] tries to show [[rex]] pictures of real ducks on her phone.",
+   "speaker": "priya",
+   "line": "Dekho, yeh toh real duck hai.",
+   "fx": "none",
+   "say": "देखो, ये तो रियल डक है।"
+  },
+  {
+   "image": "[[rex]] looks at the phone, then at the rubber ducky, then back at the phone, looking confused.",
+   "speaker": "rex",
+   "line": "Different hai, par phir bhi... scary!",
+   "fx": "none",
+   "say": "डिफ़रेंट है, पर फिर भी... स्केरी!"
+  },
+  {
+   "image": "[[priya]] attempts 'desensitization' training. Ducky is on one side of the room.",
+   "speaker": "priya",
+   "line": "Slowly, slowly, we will conquer this.",
+   "fx": "none",
+   "say": "स्लोली, स्लोली, वी विल कॉन्कर दिस।"
+  },
+  {
+   "image": "[[rex]] is at the opposite end of the room, panting nervously, eyes glued to the ducky.",
+   "speaker": "rex",
+   "line": "Conquer karna hai? Ya heart attack?",
+   "fx": "none",
+   "say": "कॉन्कर करना है? या हार्ट अटैक?"
+  },
+  {
+   "image": "[[priya]] moves the ducky a tiny bit closer. [[rex]] retreats immediately, bumping into a wall.",
+   "speaker": "priya",
+   "line": "Oh God, this is harder than I thought.",
+   "fx": "none",
+   "say": "ओह गॉड, दिस इस हार्डर दैन आई थॉट।"
+  },
+  {
+   "image": "[[priya]] holds the ducky in her hand, looking determined. [[rex]] is watching from afar.",
+   "speaker": "priya",
+   "line": "I need to understand this fear.",
+   "fx": "none",
+   "say": "आई नीड तो अंडरस्टेंड दिस फियर।"
+  },
+  {
+   "image": "[[priya]] is cleaning the ducky with a cloth, deep in thought.",
+   "speaker": "narrator",
+   "line": "Priya ko laga shayad usmein kuch problem hai.",
+   "fx": "none",
+   "say": "प्रिया को लगा शायद उसमें कुछ प्रॉब्लम है।"
+  },
+  {
+   "image": "[[priya]] accidentally squeezes the ducky while cleaning it. A loud, piercing 'SQUEAK!' sound emoji appears.",
+   "speaker": "priya",
+   "line": "(Jumps) Oh! Itni tez awaaz!",
+   "fx": "none",
+   "say": "(जंप्स) ओह! इतनी तेज़ आवाज़!"
+  },
+  {
+   "image": "Close up on [[rex]], who was casually walking by. His ears flatten, eyes close tightly, he yelps in pain.",
+   "speaker": "rex",
+   "line": "AAAAAH! Yeh kya ho gaya hai!",
+   "fx": "none",
+   "say": "आआआआह! ये क्या हो गया है!"
+  },
+  {
+   "image": "[[rex]] collapses to the floor, covering his ears with his paws, whimpering loudly.",
+   "speaker": "narrator",
+   "line": "Rex toh turant zameen par gir gaya.",
+   "fx": "none",
+   "say": "रेक्स तो तुरंत ज़मीन पर गिर गया।"
+  },
+  {
+   "image": "[[priya]] looks from the ducky in her hand to [[rex]]'s terrified form, realization dawning on her face.",
+   "speaker": "priya",
+   "line": "Wait a minute... yeh kya ho raha hai?",
+   "fx": "none",
+   "say": "वेट अ मिनट... ये क्या हो रहा है?"
+  },
+  {
+   "image": "[[priya]] squeezes the ducky again, deliberately. Another loud, piercing 'SQUEAK!'",
+   "speaker": "priya",
+   "line": "Suno, yeh kitni tez awaaz hai!",
+   "fx": "none",
+   "say": "सुनो, ये कितनी तेज़ आवाज़ है!"
+  },
+  {
+   "image": "[[rex]] jumps high in the air, then runs under the bed, trembling uncontrollably.",
+   "speaker": "rex",
+   "line": "Noooo! Mere kaan! My poor ears!",
+   "fx": "none",
+   "say": "नूऊऊ! मेरे कान! माय पुअर इयर्स!"
+  },
+  {
+   "image": "[[priya]] looks at the ducky, then at [[rex]], then back at the ducky, an 'aha!' moment.",
+   "speaker": "priya",
+   "line": "Toh yeh baat hai! Iski awaaz se darta hai!",
+   "fx": "none",
+   "say": "तो ये बात है! इसकी आवाज़ से डरता है!"
+  },
+  {
+   "image": "Close up on [[priya]]'s face, now understanding everything. She looks amused and a little guilty.",
+   "speaker": "priya",
+   "line": "Uff! Maine toh socha tha...",
+   "fx": "none",
+   "say": "उफ़! मैंने तो सोचा था..."
+  },
+  {
+   "image": "[[rex]] peeking out from under the bed, still looking traumatized.",
+   "speaker": "rex",
+   "line": "Ab pata chala na! Kitna scary hai!",
+   "fx": "none",
+   "say": "अब पता चला ना! कितना स्केरी है!"
+  },
+  {
+   "image": "[[priya]] laughs, then walks towards the trash can, holding the ducky.",
+   "speaker": "priya",
+   "line": "Sorry, buddy. Tera dushman gaya.",
+   "fx": "none",
+   "say": "सॉरी, बडी। तेरा दुश्मन गया।"
+  },
+  {
+   "image": "[[priya]] drops the ducky into the trash can. A small 'plink' sound.",
+   "speaker": "narrator",
+   "line": "Aur aise, ducky ka chapter close ho gaya.",
+   "fx": "none",
+   "say": "और ऐसे, डकी का चैप्टर क्लोज हो गया।"
+  },
+  {
+   "image": "[[rex]] watches the ducky disappear into the trash, a huge sigh of relief escapes him.",
+   "speaker": "rex",
+   "line": "Finally! Ghar mein shaanti, peace!",
+   "fx": "none",
+   "say": "फाइनली! घर में शांति, पीस!"
+  },
+  {
+   "image": "[[rex]] jumps out from under the bed, wagging his tail furiously, instantly happy.",
+   "speaker": "narrator",
+   "line": "Aur Rex, pal bhar mein wapas normal.",
+   "fx": "none",
+   "say": "और रेक्स, पल भर में वापस नॉर्मल।"
+  },
+  {
+   "image": "[[rex]] runs to [[priya]], licking her face happily. Priya laughs.",
+   "speaker": "priya",
+   "line": "Mera hero, ab theek hai!",
+   "fx": "none",
+   "say": "मेरा हीरो, अब ठीक है!"
+  },
+  {
+   "image": "[[rex]] fetches his favorite ball, dropping it at [[priya]]'s feet, inviting her to play.",
+   "speaker": "rex",
+   "line": "Chalo, ab khelte hain! Koi darr nahi!",
+   "fx": "none",
+   "say": "चलो, अब खेलते हैं! कोई डर नहीं!"
+  },
+  {
+   "image": "[[priya]] throws the ball, [[rex]] chases it with gusto, looking completely fearless.",
+   "speaker": "priya",
+   "line": "Woh ducky ki awaaz thi, jo use pasand nahi thi.",
+   "fx": "none",
+   "say": "वो डकी की आवाज़ थी, जो उसे पसंद नहीं थी।"
+  },
+  {
+   "image": "[[rex]] proudly brings the ball back, wagging his tail.",
+   "speaker": "narrator",
+   "line": "Na ki woh chhota sa yellow khilona.",
+   "fx": "none",
+   "say": "ना कि वो छोटा सा येलो खिलौना।"
+  },
+  {
+   "image": "[[priya]] scratching [[rex]] behind his ears, he leans into her touch.",
+   "speaker": "priya",
+   "line": "Tum bade sensitive ho, mere pyaare Rex.",
+   "fx": "none",
+   "say": "तुम बड़े सेंसिटिव हो, मेरे प्यारे रेक्स।"
+  },
+  {
+   "image": "[[rex]] gives a goofy, happy grin, tongue lolling out.",
+   "speaker": "rex",
+   "line": "Haan, bas thoda high-frequency hater!",
+   "fx": "none",
+   "say": "हाँ, बस थोड़ा हाई-फ्रीक्वेंसी हेटर!"
+  },
+  {
+   "image": "[[priya]] giving Rex a big, loving hug.",
+   "speaker": "priya",
+   "line": "Ab samjha main, teri bravery ka raaz.",
+   "fx": "none",
+   "say": "अब समझा मैं, तेरी ब्रेवरी का राज़।"
+  },
+  {
+   "image": "[[rex]] looking confident and proud again.",
+   "speaker": "rex",
+   "line": "Main toh lion hoon, bas loud noises... ugh!",
+   "fx": "none",
+   "say": "मैं तो लायन हूँ, बस लाउड नोइसेज़... उफ़!"
+  },
+  {
+   "image": "[[priya]] is smiling, looking at the empty spot where the ducky used to be.",
+   "speaker": "priya",
+   "line": "Ajeeb hai na? Itne bade dog ko.",
+   "fx": "none",
+   "say": "अजीब है ना? इतने बड़े डॉग को।"
+  },
+  {
+   "image": "[[rex]] is happily chewing his ball, completely oblivious to his past terror.",
+   "speaker": "priya",
+   "line": "Itni chhoti si awaaz se darr.",
+   "fx": "none",
+   "say": "इतनी छोटी सी आवाज़ से डर।"
+  },
+  {
+   "image": "[[priya]] shakes her head, still amused.",
+   "speaker": "priya",
+   "line": "Animals ke bhi strange fears hote hain.",
+   "fx": "none",
+   "say": "एनिमल्स के भी स्ट्रेंज फियर्स होते हैं।"
+  },
+  {
+   "image": "Close up on [[rex]]'s face, now looking innocent and cute.",
+   "speaker": "rex",
+   "line": "Har hero ka ek weakness hota hai!",
+   "fx": "none",
+   "say": "हर हीरो का एक वीकनेस होता है!"
+  },
+  {
+   "image": "[[priya]] patting Rex, who is looking up at her lovingly.",
+   "speaker": "priya",
+   "line": "Aur mera Rex, super hero hai.",
+   "fx": "none",
+   "say": "और मेरा रेक्स, सुपर हीरो है।"
+  },
+  {
+   "image": "[[rex]] wags his tail hard, showing his happiness.",
+   "speaker": "rex",
+   "line": "(Happy bark) Woof! My Priya, my protector!",
+   "fx": "none",
+   "say": "(हैप्पी बार्क) वूफ़! माय प्रिया, माय प्रोटेक्टर!"
+  },
+  {
+   "image": "[[priya]] is sitting on the floor, surrounded by Rex's normal toys.",
+   "speaker": "priya",
+   "line": "Good thing we found out the real problem.",
+   "fx": "none",
+   "say": "गुड थिंग वी फाउंड आउट द रियल प्रॉब्लम।"
+  },
+  {
+   "image": "[[rex]] is peacefully sleeping at her feet, looking content.",
+   "speaker": "narrator",
+   "line": "Rex ab us ducky ke bina chain se so sakta tha.",
+   "fx": "none",
+   "say": "रेक्स अब उस डकी के बिना चैन से सो सकता था।"
+  },
+  {
+   "image": "[[priya]] smiling, looking at Rex.",
+   "speaker": "priya",
+   "line": "Sometimes, sabse bade heroes ke bhi.",
+   "fx": "none",
+   "say": "समटाइम्स, सबसे बड़े हीरोज़ के भी।"
+  },
+  {
+   "image": "[[rex]] dreaming, paws twitching a little, a small smile on his face.",
+   "speaker": "priya",
+   "line": "Chhote, funny fears hote hain.",
+   "fx": "none",
+   "say": "छोटे, फनी फियर्स होते हैं।"
+  },
+  {
+   "image": "[[priya]] winks at the camera, a mischievous smile.",
+   "speaker": "priya",
+   "line": "Kiska dog, kis cheez se darta hai?",
+   "fx": "none",
+   "say": "किसका डॉग, किस चीज़ से डरता है?"
+  },
+  {
+   "image": "Final shot: [[rex]] looking at the camera, a slightly puzzled, innocent expression.",
+   "speaker": "priya",
+   "line": "Aapke pets ke aise funny fears hain kya?",
+   "fx": "none",
+   "say": "आपके पेट्स के ऐसे फनी फियर्स हैं क्या?"
+  }
+ ],
+ "caption": "My Big Dog's Hilarious Fear of a Tiny Rubber Ducky 😂",
+ "slug": "2026-11-10_part2",
+ "story_no": 42,
+ "yt_title": "My Big Dog's Hilarious Fear of a Tiny Rubber Ducky 😂",
+ "description": "My brave German Shepherd, Rex, is afraid of the weirdest, smallest thing!\nI tried everything to help him, but his terror just grew stronger.\nWhat strange fears do your pets have?",
+ "comment_question": "Aapke pets ke aise funny fears hain kya?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#dogfear",
+  "#funnydog",
+  "#petstory",
+  "#germanshepherd",
+  "#rubberducky",
+  "#hilariouspets",
+  "#dogcomedy",
+  "#relatablepets",
+  "#petowner"
+ ]
+}
