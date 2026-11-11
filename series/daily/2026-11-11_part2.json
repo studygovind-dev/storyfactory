@@ -1,0 +1,535 @@
+{
+ "series": "Dadi's Digital Eye",
+ "episode": 2,
+ "title": "Dadi's Digital Eye",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A kind, neutral male storyteller.",
+   "voice": "hindi_narrator_male"
+  },
+  "dadi_kusum": {
+   "look": "An old woman, 70s, strict but loving, wrinkles around eyes, silver hair tied in a neat bun, traditional glasses, crisp white cotton saree with a red border, a serious expression. Fair, light wheatish skin, bright soft light on the face.",
+   "voice": "hindi_narrator_female"
+  },
+  "priya": {
+   "look": "A young woman, 20s, graceful and pretty, long soft wavy dark-brown hair, small bindi, simple silver earrings, elegant pastel green kurta, jeans. Fair, light wheatish skin, bright soft light on the face. Patient, kind expression.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "DADI'S NEW GADGET!",
+ "scenes": [
+  {
+   "image": "A strict old woman, Dadi Kusum, glares at a brightly glowing smartphone screen held by a young woman, Priya. Dadi's eyes are wide in disapproval. Close-up.",
+   "speaker": "narrator",
+   "line": "Meri Dadi ne kabhi tech ko haath nahin lagaya tha.",
+   "fx": "none",
+   "say": "मेरी दादी ने कभी टेक को हाथ नहीं लगाया था।"
+  },
+  {
+   "image": "Dadi Kusum sits on a traditional wooden chair, hands folded tightly, looking away from Priya, who is holding out a new smartphone with a hopeful smile.",
+   "speaker": "priya",
+   "line": "Dadi, please, ek baar try toh karo.",
+   "fx": "none",
+   "say": "दादी, प्लीज़, एक बार ट्राई तो करो।"
+  },
+  {
+   "image": "Close-up of Dadi Kusum's stern face, her mouth a thin line, refusing to even look at the phone.",
+   "speaker": "dadi_kusum",
+   "line": "Yeh sab fizool hai. Mujhe nahin chahiye.",
+   "fx": "none",
+   "say": "ये सब फ़िज़ूल है। मुझे नहीं चाहिए।"
+  },
+  {
+   "image": "Priya gently places the smartphone on Dadi's lap, Dadi eyes it suspiciously like a ticking bomb.",
+   "speaker": "narrator",
+   "line": "Priya ne bahut zor lagaya tha.",
+   "fx": "none",
+   "say": "प्रिया ने बहुत ज़ोर लगाया था।"
+  },
+  {
+   "image": "Dadi Kusum reluctantly picks up the phone with two fingers, holding it far away from herself, a look of extreme caution.",
+   "speaker": "priya",
+   "line": "Dekho, iss button se on hota hai.",
+   "fx": "none",
+   "say": "देखो, इस बटन से ऑन होता है।"
+  },
+  {
+   "image": "Close-up of Dadi's hand, fumbling with the power button. Her fingers look unsure and hesitant.",
+   "speaker": "dadi_kusum",
+   "line": "Itna chhota sa button? Yeh kaise?",
+   "fx": "none",
+   "say": "इतना छोटा सा बटन? ये कैसे?"
+  },
+  {
+   "image": "The phone screen lights up with a colorful wallpaper. Dadi's eyes widen slightly in surprise.",
+   "speaker": "narrator",
+   "line": "Screen par colors dekh kar, Dadi thodi hairan hui.",
+   "fx": "none",
+   "say": "स्क्रीन पर कलर्स देख कर, दादी थोड़ी हैरान हुई।"
+  },
+  {
+   "image": "Priya demonstrates swiping the screen. Dadi watches with intense focus, mimicking the movement with her finger in the air.",
+   "speaker": "priya",
+   "line": "Aise swipe karo, aur apps aa jaayenge.",
+   "fx": "none",
+   "say": "ऐसे स्वाइप करो, और ऐप्स आ जाएँगे।"
+  },
+  {
+   "image": "Dadi tries to swipe, but her finger presses too hard, leaving a smudge. She looks frustrated.",
+   "speaker": "dadi_kusum",
+   "line": "Yeh toh chal hi nahin raha! Chipak gaya hai.",
+   "fx": "none",
+   "say": "ये तो चल ही नहीं रहा! चिपक गया है।"
+  },
+  {
+   "image": "Priya laughs softly, gently guiding Dadi's finger across the screen. Dadi looks annoyed but follows.",
+   "speaker": "priya",
+   "line": "Thoda halke haathon se, Dadi.",
+   "fx": "none",
+   "say": "थोड़ा हल्के हाथों से, दादी।"
+  },
+  {
+   "image": "Priya opens the camera app. Dadi looks confused at her own reflection on screen.",
+   "speaker": "priya",
+   "line": "Dekho, yeh camera hai! Aap apni photo kheench sakti ho.",
+   "fx": "none",
+   "say": "देखो, ये कैमरा है! आप अपनी फोटो खींच सकती हो!"
+  },
+  {
+   "image": "Dadi tries to take a selfie. She holds the phone too close, her face comically distorted on screen.",
+   "speaker": "dadi_kusum",
+   "line": "Arre, yeh kya ho gaya? Mera chehra!",
+   "fx": "none",
+   "say": "अरे, ये क्या हो गया? मेरा चेहरा!"
+  },
+  {
+   "image": "Close-up of the phone screen showing Dadi's exaggerated, squashed face. Priya tries to stifle her laughter.",
+   "speaker": "narrator",
+   "line": "Selfies lena Dadi ke liye ek mission tha.",
+   "fx": "none",
+   "say": "सेल्फ़ीज़ लेना दादी के लिए एक मिशन था।"
+  },
+  {
+   "image": "Dadi accidentally switches to the rear camera, pointing it at the ceiling. She looks puzzled.",
+   "speaker": "dadi_kusum",
+   "line": "Ab kahan chala gaya mera chehra?",
+   "fx": "none",
+   "say": "अब कहाँ चला गया मेरा चेहरा?"
+  },
+  {
+   "image": "Priya helps Dadi find the front camera again, patiently explaining. Dadi nods, still looking baffled.",
+   "speaker": "priya",
+   "line": "Yeh dekho, iss button se switch karte hain.",
+   "fx": "none",
+   "say": "ये देखो, इस बटन से स्विच करते हैं।"
+  },
+  {
+   "image": "Dadi tries to make a call. She struggles to tap the small numbers on the dial pad.",
+   "speaker": "dadi_kusum",
+   "line": "Itne chhootey akshar! Mujhe dikh nahin rahe.",
+   "fx": "none",
+   "say": "इतने छोटे अक्षर! मुझे दिख नहीं रहे।"
+  },
+  {
+   "image": "Priya helps Dadi dial a family member. Dadi holds the phone like a precious artifact, far from her ear.",
+   "speaker": "priya",
+   "line": "Phone kaan ke paas rakho, Dadi.",
+   "fx": "none",
+   "say": "फ़ोन कान के पास रखो, दादी।"
+  },
+  {
+   "image": "The family member answers. Dadi speaks loudly into the phone, as if they are far away.",
+   "speaker": "dadi_kusum",
+   "line": "Hellooo! Kya meri awaaz aa rahi hai?",
+   "fx": "none",
+   "say": "हेल्लोओओ! क्या मेरी आवाज़ आ रही है?"
+  },
+  {
+   "image": "Priya winces, gently telling Dadi to lower her voice. Dadi looks annoyed at being corrected.",
+   "speaker": "priya",
+   "line": "Dadi, thoda dheere, yeh speaker nahin hai.",
+   "fx": "none",
+   "say": "दादी, थोड़ा धीरे, ये स्पीकर नहीं है।"
+  },
+  {
+   "image": "Dadi tries to send a message. She pecks at the keyboard with one finger, very slowly.",
+   "speaker": "dadi_kusum",
+   "line": "M-A-I... Kitna mushkil hai yeh!",
+   "fx": "none",
+   "say": "म-ए-ई... कितना मुश्किल है ये!"
+  },
+  {
+   "image": "The message takes forever. Priya sighs, but smiles, knowing Dadi is trying her best.",
+   "speaker": "narrator",
+   "line": "Priya ki patience ka test ho raha tha.",
+   "fx": "none",
+   "say": "प्रिया की पेशेंस का टेस्ट हो रहा था।"
+  },
+  {
+   "image": "Dadi accidentally types gibberish and sends it. She looks horrified.",
+   "speaker": "dadi_kusum",
+   "line": "Oh Bhagwan! Yeh kya bhej diya maine?",
+   "fx": "none",
+   "say": "ओह भगवान! ये क्या भेज दिया मैंने?"
+  },
+  {
+   "image": "Priya quickly deletes the message. Dadi looks relieved but still very confused by the technology.",
+   "speaker": "priya",
+   "line": "Koi baat nahin, Dadi. Hota hai.",
+   "fx": "none",
+   "say": "कोई बात नहीं, दादी। होता है।"
+  },
+  {
+   "image": "Dadi puts the phone down with a huff, crossing her arms, looking defeated.",
+   "speaker": "dadi_kusum",
+   "line": "Main toh haar maan gayi. Yeh mere bas ka nahin.",
+   "fx": "none",
+   "say": "मैं तो हार मान गई। ये मेरे बस का नहीं।"
+  },
+  {
+   "image": "Priya picks up the phone, showing Dadi a video call screen with a smiling relative. Dadi's expression changes to curiosity.",
+   "speaker": "priya",
+   "line": "Dekho, yeh video call hai. Aap unhein dekh sakti ho!",
+   "fx": "none",
+   "say": "देखो, ये वीडियो कॉल है। आप उन्हें देख सकती हो!"
+  },
+  {
+   "image": "Close-up of Dadi's face, her eyes wide with amazement as she sees her relative moving and talking on the screen.",
+   "speaker": "dadi_kusum",
+   "line": "Arre wah! Yeh toh jaadu hai!",
+   "fx": "none",
+   "say": "अरे वाह! ये तो जादू है!"
+  },
+  {
+   "image": "Dadi reaches out to touch the screen, trying to physically connect with the person on the call.",
+   "speaker": "dadi_kusum",
+   "line": "Beta, kaise ho? Tum itne patle ho gaye!",
+   "fx": "none",
+   "say": "बेटा, कैसे हो? तुम इतने पतले हो गए!"
+  },
+  {
+   "image": "Priya explains it's just a screen. Dadi is fascinated by the real-time interaction.",
+   "speaker": "narrator",
+   "line": "Video calls ne Dadi ka interest jaga diya.",
+   "fx": "none",
+   "say": "वीडियो कॉल्स ने दादी का इंटरेस्ट जगा दिया।"
+  },
+  {
+   "image": "Later, Dadi is now holding the phone, intently watching a video. Priya looks on, amused.",
+   "speaker": "priya",
+   "line": "Achha, ab aap video dekh rahi ho?",
+   "fx": "none",
+   "say": "अच्छा, अब आप वीडियो देख रही हो?"
+  },
+  {
+   "image": "Dadi pauses the video, turns to Priya with a serious expression.",
+   "speaker": "dadi_kusum",
+   "line": "Priya, yeh dekho! Pados wali aunty kya kar rahi hai?",
+   "fx": "none",
+   "say": "प्रिया, ये देखो! पड़ोस वाली आँटी क्या कर रही है?"
+  },
+  {
+   "image": "Close-up of the phone screen, showing a blurry, zoomed-in shot of a neighbor's house from a window.",
+   "speaker": "narrator",
+   "line": "Dadi ne neighborhood watch shuru kar di thi.",
+   "fx": "none",
+   "say": "दादी ने नेबरहुड वॉच शुरू कर दी थी।"
+  },
+  {
+   "image": "Dadi points a stern finger at the screen, then at Priya.",
+   "speaker": "dadi_kusum",
+   "line": "Woh dekho, unka beta subah se park mein hai.",
+   "fx": "none",
+   "say": "वो देखो, उनका बेटा सुबह से पार्क में है।"
+  },
+  {
+   "image": "Priya looks confused. 'How did you see that?' she thinks. Dadi's face is triumphant.",
+   "speaker": "priya",
+   "line": "Dadi, aapko kaise pata chala?",
+   "fx": "none",
+   "say": "दादी, आपको कैसे पता चला?"
+  },
+  {
+   "image": "Dadi taps the screen, showing Priya a live video feed from a public park. Priya is shocked.",
+   "speaker": "dadi_kusum",
+   "line": "Maine ek app download kar liya. Sab dikhta hai.",
+   "fx": "none",
+   "say": "मैंने एक ऐप डाउनलोड कर लिया। सब दिखता है।"
+  },
+  {
+   "image": "Priya's jaw drops. Dadi smirks, adjusting her glasses, very pleased with herself.",
+   "speaker": "narrator",
+   "line": "Priya ko Dadi ka naya talent samajh nahin aaya.",
+   "fx": "none",
+   "say": "प्रिया को दादी का नया टैलेंट समझ नहीं आया।"
+  },
+  {
+   "image": "A week later, Dadi is on a video call with her sister (another old woman, similar traditional look). They are both intently watching something.",
+   "speaker": "dadi_kusum",
+   "line": "Aur dekho, uss Sharma ji ki bahu ne aaj phir kapde late dhoye.",
+   "fx": "none",
+   "say": "और देखो, उस शर्मा जी की बहू ने आज फिर कपड़े लेट धोए।"
+  },
+  {
+   "image": "The sister on the screen nods vigorously, agreeing with Dadi's observation.",
+   "speaker": "dadi_kusum",
+   "line": "Bilkul theek! Humari society ke rules nahin follow hote.",
+   "fx": "none",
+   "say": "बिल्कुल ठीक! हमारी सोसाइटी के रूल्स नहीं फॉलो होते।"
+  },
+  {
+   "image": "Priya walks in, sees Dadi's 'surveillance operation'. She looks a mix of amused and horrified.",
+   "speaker": "priya",
+   "line": "Dadi, aap yeh kya kar rahi ho?",
+   "fx": "none",
+   "say": "दादी, आप ये क्या कर रही हो?"
+  },
+  {
+   "image": "Dadi quickly minimizes the video, tries to act innocent, but her smile gives her away.",
+   "speaker": "dadi_kusum",
+   "line": "Kuch nahin, beta. Bas khabar le rahi hoon.",
+   "fx": "none",
+   "say": "कुछ नहीं, बेटा। बस खबर ले रही हूँ।"
+  },
+  {
+   "image": "Priya picks up the phone. On the screen, she sees a carefully organized folder of apps named 'Nazar Rakhna' (Keeping an Eye).",
+   "speaker": "priya",
+   "line": "Nazar Rakhna? Yeh kya hai?",
+   "fx": "none",
+   "say": "नज़र रखना? ये क्या है?"
+  },
+  {
+   "image": "Dadi snatches the phone back, looking defensive but proud.",
+   "speaker": "dadi_kusum",
+   "line": "Woh sab meri research hai! Society ke liye.",
+   "fx": "none",
+   "say": "वो सब मेरी रिसर्च है! सोसाइटी के लिए।"
+  },
+  {
+   "image": "Priya discovers a list of scheduled video calls in Dadi's calendar, all labeled with names of family and neighbors.",
+   "speaker": "narrator",
+   "line": "Dadi ne ek pura network bana liya tha.",
+   "fx": "none",
+   "say": "दादी ने एक पूरा नेटवर्क बना लिया था।"
+  },
+  {
+   "image": "Close-up of Dadi's phone, showing 'Ramesh's Study Check - 8 PM', 'Pooja's Kitchen Cleanliness - 10 AM'.",
+   "speaker": "priya",
+   "line": "Dadi, aap in sab par nazar rakh rahi ho?",
+   "fx": "none",
+   "say": "दादी, आप इन सब पर नज़र रख रही हो?"
+  },
+  {
+   "image": "Dadi nods gravely, adjusting her glasses. Her expression is utterly serious.",
+   "speaker": "dadi_kusum",
+   "line": "Zaroori hai, beta. Koi toh karega.",
+   "fx": "none",
+   "say": "ज़रूरी है, बेटा। कोई तो करेगा।"
+  },
+  {
+   "image": "Priya sees a live feed of her cousin studying, with Dadi's sister on a small window, both critiquing his posture.",
+   "speaker": "dadi_kusum",
+   "line": "Dekha? Woh phir jhuk kar padh raha hai.",
+   "fx": "none",
+   "say": "देखा? वो फिर झुक कर पढ़ रहा है।"
+  },
+  {
+   "image": "Priya is speechless, her mouth open in disbelief. Dadi is entirely focused on the screen.",
+   "speaker": "narrator",
+   "line": "Dadi, ab ek digital detective ban chuki thi.",
+   "fx": "none",
+   "say": "दादी, अब एक डिजिटल डिटेक्टिव बन चुकी थी।"
+  },
+  {
+   "image": "Dadi gets a notification. She taps it. It's a group chat with other grandmas, 'Society Watch Committee.'",
+   "speaker": "dadi_kusum",
+   "line": "Oh! New report aa gayi hai.",
+   "fx": "none",
+   "say": "ओह! न्यू रिपोर्ट आ गई है।"
+  },
+  {
+   "image": "Close-up of the chat: 'Mrs. Sharma: I saw the milkman today, he was late by 5 mins!' Dadi types furiously.",
+   "speaker": "dadi_kusum",
+   "line": "Maine bhi dekha! Yeh galti nahin chalegi.",
+   "fx": "none",
+   "say": "मैंने भी देखा! ये गलती नहीं चलेगी।"
+  },
+  {
+   "image": "Priya looks over Dadi's shoulder, witnessing the digital 'strictness' firsthand.",
+   "speaker": "priya",
+   "line": "Dadi, aap toh poori CID officer ban gayi!",
+   "fx": "none",
+   "say": "दादी, आप तो पूरी सीआईडी ऑफिसर बन गई!"
+  },
+  {
+   "image": "Dadi gives Priya a stern look, holding up a finger.",
+   "speaker": "dadi_kusum",
+   "line": "Discipline bahut zaroori hai, Priya.",
+   "fx": "none",
+   "say": "डिसिप्लिन बहुत ज़रूरी है, प्रिया।"
+  },
+  {
+   "image": "Priya sees a new app: 'Priya's Social Life Tracker'. Her eyes widen in horror.",
+   "speaker": "priya",
+   "line": "Dadi, yeh mere phone mein kya hai?",
+   "fx": "none",
+   "say": "दादी, ये मेरे फोन में क्या है?"
+  },
+  {
+   "image": "Dadi gives a mischievous smile, then quickly composes herself.",
+   "speaker": "dadi_kusum",
+   "line": "Woh toh... tumhari safety ke liye hai, beta.",
+   "fx": "none",
+   "say": "वो तो... तुम्हारी सेफ्टी के लिए है, बेटा।"
+  },
+  {
+   "image": "Priya scrolls through the app, seeing her call logs, message counts, and frequently visited locations. All tracked.",
+   "speaker": "narrator",
+   "line": "Priya ko Dadi ki asli intention pata chali.",
+   "fx": "none",
+   "say": "प्रिया को दादी की असली इंटेंशन पता चली।"
+  },
+  {
+   "image": "Priya confronts Dadi, pointing at the phone, a look of exasperation.",
+   "speaker": "priya",
+   "line": "Dadi, aap mera phone track kar rahi ho?",
+   "fx": "none",
+   "say": "दादी, आप मेरा फोन ट्रैक कर रही हो?"
+  },
+  {
+   "image": "Dadi calmly sips her tea, pretending not to hear, but a faint smile plays on her lips.",
+   "speaker": "dadi_kusum",
+   "line": "Kya? Mujhe kuch sunai nahin diya.",
+   "fx": "none",
+   "say": "क्या? मुझे कुछ सुनाई नहीं दिया।"
+  },
+  {
+   "image": "Priya tries to delete the tracking app. Dadi instantly snatches the phone away.",
+   "speaker": "dadi_kusum",
+   "line": "Haan, main kar rahi hoon. Aur yeh delete nahin hoga.",
+   "fx": "none",
+   "say": "हाँ, मैं कर रही हूँ। और ये डिलीट नहीं होगा।"
+  },
+  {
+   "image": "Dadi taps the screen, showing Priya a new feature: a live map of the entire neighborhood with little dots representing people.",
+   "speaker": "priya",
+   "line": "Yeh kya hai? Yeh toh poora GPS hai!",
+   "fx": "none",
+   "say": "ये क्या है? ये तो पूरा जीपीएस है!"
+  },
+  {
+   "image": "Dadi points at a specific dot moving away from a house.",
+   "speaker": "dadi_kusum",
+   "line": "Woh dekho, Raju subah-subah gym jaane ke bahane park ja raha hai.",
+   "fx": "none",
+   "say": "वो देखो, राजू सुबह-सुबह जिम जाने के बहाने पार्क जा रहा है।"
+  },
+  {
+   "image": "Priya is completely stunned, her hands flying to her head in disbelief.",
+   "speaker": "narrator",
+   "line": "Dadi ne neighborhood ko apne control mein le liya tha.",
+   "fx": "none",
+   "say": "दादी ने नेबरहुड को अपने कंट्रोल में ले लिया था।"
+  },
+  {
+   "image": "Dadi is now sitting proudly with her phone, a regal, all-knowing expression.",
+   "speaker": "dadi_kusum",
+   "line": "Koi bhi galti se bhi galat kadam nahin uthayega.",
+   "fx": "none",
+   "say": "कोई भी गलती से भी गलत कदम नहीं उठाएगा।"
+  },
+  {
+   "image": "Priya is slumped on the sofa, utterly defeated, while Dadi continues monitoring.",
+   "speaker": "priya",
+   "line": "Meri Dadi toh ab ek super-spy ban gayi hai!",
+   "fx": "none",
+   "say": "मेरी दादी तो अब एक सुपर-स्पाई बन गई है!"
+  },
+  {
+   "image": "Dadi is on a video call, pointing the phone towards the kitchen. A faint sound of someone not washing dishes properly.",
+   "speaker": "dadi_kusum",
+   "line": "Arre maid, bartan theek se dho! Dhyaan se.",
+   "fx": "none",
+   "say": "अरे मेड, बर्तन ठीक से धो! ध्यान से।"
+  },
+  {
+   "image": "The maid, visible through the video call, looks up in shock, wondering how Dadi knew.",
+   "speaker": "narrator",
+   "line": "Dadi ki 'digital eye' har jagah thi.",
+   "fx": "none",
+   "say": "दादी की 'डिजिटल आई' हर जगह थी।"
+  },
+  {
+   "image": "Close-up of Dadi's triumphant face, a mischievous glint in her eye.",
+   "speaker": "dadi_kusum",
+   "line": "Ab koi shaitani nahin chalegi.",
+   "fx": "none",
+   "say": "अब कोई शैतानी नहीं चलेगी।"
+  },
+  {
+   "image": "Priya holds her head, shaking it slowly. The strict grandma is now stricter with tech.",
+   "speaker": "priya",
+   "line": "Technology ne Dadi ko aur powerful bana diya.",
+   "fx": "none",
+   "say": "टेक्नोलॉजी ने दादी को और पावरफुल बना दिया।"
+  },
+  {
+   "image": "Dadi is now wearing a headset, looking like a call center operator, but with a serious, commanding expression.",
+   "speaker": "dadi_kusum",
+   "line": "Achha, suno. Aaj shaam ka khana time par banna chahiye.",
+   "fx": "none",
+   "say": "अच्छा, सुनो। आज शाम का खाना टाइम पर बनना चाहिए।"
+  },
+  {
+   "image": "Priya looks directly at the camera, utterly resigned, gesturing at Dadi.",
+   "speaker": "priya",
+   "line": "Maine toh socha tha, phone se Dadi modern banengi.",
+   "fx": "none",
+   "say": "मैंने तो सोचा था, फोन से दादी मॉडर्न बनेंगी।"
+  },
+  {
+   "image": "Dadi turns to Priya, a slight smirk.",
+   "speaker": "dadi_kusum",
+   "line": "Main toh hamesha modern hi thi, beta.",
+   "fx": "none",
+   "say": "मैं तो हमेशा मॉडर्न ही थी, बेटा।"
+  },
+  {
+   "image": "Dadi points her phone at Priya, who flinches, as if Dadi is going to scan her.",
+   "speaker": "dadi_kusum",
+   "line": "Bas ab mere paas behtar tools hain.",
+   "fx": "none",
+   "say": "बस अब मेरे पास बेहतर टूल्स हैं।"
+  },
+  {
+   "image": "Dadi is seen on a large screen, like a big boss, giving orders to her virtual 'committee' of grandmas, all holding phones.",
+   "speaker": "dadi_kusum",
+   "line": "Toh batao, aaj kisne rules tode?",
+   "fx": "none",
+   "say": "तो बताओ, आज किसने रूल्स तोड़े?"
+  }
+ ],
+ "caption": "My Strict Grandma Got a Smartphone... And Became a Digital Spy 📱",
+ "slug": "2026-11-11_part2",
+ "story_no": 45,
+ "yt_title": "My Strict Grandma Got a Smartphone... And Became a Digital Spy 📱",
+ "description": "My grandma never touched tech. Then she got a phone. You won't believe how she uses it! Is your grandma secretly a tech guru too?",
+ "comment_question": "Would your Dadi use a smartphone like this?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiangrandma",
+  "#funnygrandma",
+  "#digitaldadi",
+  "#relatablecomedy",
+  "#familyfun",
+  "#techfail",
+  "#grandmalife",
+  "#comedyvideos",
+  "#shortsindia"
+ ]
+}

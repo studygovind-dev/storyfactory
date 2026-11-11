@@ -1,0 +1,605 @@
+{
+ "series": "Her Unseen Guardian",
+ "episode": 1,
+ "title": "Her Unseen Guardian",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Meera, a young woman in her late 20s. Long soft wavy dark-brown hair, often pulled back, natural makeup, small silver hoop earrings, light blue cotton kurta with intricate white embroidery. Kind, observant expression.",
+   "voice": "hindi_narrator_female"
+  },
+  "ammaji": {
+   "look": "Radha Devi, an elderly woman in her 70s. Silver hair tied in a neat, low bun, gentle wrinkles around her kind eyes, fair skin. Wears a simple, faded pink cotton saree, glasses perched on her nose. Frail, slightly stooped posture.",
+   "voice": "hindi_narrator_female"
+  },
+  "shero": {
+   "look": "A medium-sized street dog. Sandy brown fur, lean build, intelligent, alert brown eyes, initially no collar. Later, a simple red collar.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "UNSEEN GUARDIAN",
+ "scenes": [
+  {
+   "image": "Close-up of Meera's thoughtful face, looking out a window, slightly concerned. Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Maine Ammaji ko dekha, aur us dog ko. Roz.",
+   "fx": "none",
+   "sub": "I saw Ammaji, and that dog. Every day.",
+   "say": "मैंने अम्माजी को देखा, और उस डॉग को। रोज़।"
+  },
+  {
+   "image": "Ammaji, frail, slowly walking down a bustling Indian street, carrying a small cloth bag. Sunlight filtering through the street.",
+   "speaker": "narrator",
+   "line": "Radha Devi Ammaji. Akeli rehti thin, ek chote ghar mein.",
+   "fx": "none",
+   "sub": "Radha Devi Ammaji. She lived alone, in a small house.",
+   "say": "राधा देवी अम्माजी। अकेली रहती थीं, एक छोटे घर में।"
+  },
+  {
+   "image": "Shero, a sandy brown street dog, sitting patiently a short distance behind Ammaji, watching her with alert eyes.",
+   "speaker": "narrator",
+   "line": "Aur yeh dog, Shero. Unke peechhe chalta tha hamesha.",
+   "fx": "none",
+   "sub": "And this dog, Shero. He always followed her.",
+   "say": "और ये डॉग, शेरो। उनके पीछे चलता था हमेशा।"
+  },
+  {
+   "image": "Ammaji at a vibrant vegetable stall in a local market, haggling gently with the vendor, a faint kind smile.",
+   "speaker": "narrator",
+   "line": "Ammaji sabzi khareedne jaati, market mein. Roz.",
+   "fx": "none",
+   "sub": "Ammaji would go to buy vegetables, in the market. Every day.",
+   "say": "अम्माजी सब्ज़ी खरीदने जातीं, मार्केट में। रोज़।"
+  },
+  {
+   "image": "Shero sitting patiently under a cart near the market, discreetly watching Ammaji from a distance, head low.",
+   "speaker": "narrator",
+   "line": "Shero bas door se dekhta rehta tha. Kabhi paas nahi aata.",
+   "fx": "none",
+   "sub": "Shero would just watch from afar. Never coming close.",
+   "say": "शेरो बस दूर से देखता रहता था। कभी पास नहीं आता।"
+  },
+  {
+   "image": "Ammaji, back home, slowly unlocking her weathered wooden front door, looking a bit tired.",
+   "speaker": "narrator",
+   "line": "Ghar aake woh apna kaam karti, shanti se.",
+   "fx": "none",
+   "sub": "Coming home, she would do her work, peacefully.",
+   "say": "घर आके वो अपना काम करतीं, शांति से।"
+  },
+  {
+   "image": "Shero lying down near Ammaji's gate, head resting on paws, still alert, looking at the door.",
+   "speaker": "narrator",
+   "line": "Shero unke gate ke bahar let jaata tha.",
+   "fx": "none",
+   "sub": "Shero would lie down outside her gate.",
+   "say": "शेरो उनके गेट के बाहर लेट जाता था।"
+  },
+  {
+   "image": "Meera, looking thoughtfully at Ammaji's small old house from her window, a cup of chai in hand, concern in her eyes.",
+   "speaker": "narrator",
+   "line": "Mujhe unki akelapan achha nahi lagta tha.",
+   "fx": "none",
+   "sub": "I didn't like her loneliness.",
+   "say": "मुझे उनकी अकेलापन अच्छा नहीं लगता था।"
+  },
+  {
+   "image": "Close-up of Shero's eyes, focused and intense, observing something unseen.",
+   "speaker": "narrator",
+   "line": "Lekin Shero ki aankhon mein kuch alag tha.",
+   "fx": "none",
+   "sub": "But there was something different in Shero's eyes.",
+   "say": "लेकिन शेरो की आँखों में कुछ अलग था।"
+  },
+  {
+   "image": "Ammaji, inside her small, tidy living room, gently dusting an intricately carved old wooden box with a soft cloth, a faint smile on her face.",
+   "speaker": "narrator",
+   "line": "Unke paas ek purana box tha, bahut keemti.",
+   "fx": "dust",
+   "sub": "She had an old box, very precious.",
+   "say": "उनके पास एक पुराना बॉक्स था, बहुत क़ीमती।"
+  },
+  {
+   "image": "Extreme close-up on the intricate, detailed carvings of the old wooden box, showing its craftsmanship.",
+   "speaker": "narrator",
+   "line": "Pati ki aakhri nishaani. Unki jaan thi woh.",
+   "fx": "dust",
+   "sub": "Her husband's last keepsake. It was her life.",
+   "say": "पति की आख़िरी निशानी। उनकी जान थी वो।"
+  },
+  {
+   "image": "Meera observing Ammaji and Shero from her balcony, a curious, pondering expression on her face.",
+   "speaker": "narrator",
+   "line": "Maine kabhi Shero ko Ammaji ke paas nahi dekha.",
+   "fx": "none",
+   "sub": "I never saw Shero near Ammaji.",
+   "say": "मैंने कभी शेरो को अम्माजी के पास नहीं देखा।"
+  },
+  {
+   "image": "Ammaji stumbles slightly on the busy street, catches herself on a lamppost, looking a bit shaky and frail.",
+   "speaker": "narrator",
+   "line": "Haal hi mein, Ammaji kamzor lagne lagi thin.",
+   "fx": "none",
+   "sub": "Recently, Ammaji had started looking weaker.",
+   "say": "हाल ही में, अम्माजी कमज़ोर लगने लगी थीं।"
+  },
+  {
+   "image": "Shero, hidden behind a street vendor's stall, watching Ammaji with an intensely worried, focused expression.",
+   "speaker": "narrator",
+   "line": "Shero ki nazar unpar hi rehti thi. Har pal.",
+   "fx": "none",
+   "sub": "Shero's gaze remained on her. Every moment.",
+   "say": "शेरो की नज़र उनपर ही रहती थी। हर पल।"
+  },
+  {
+   "image": "Meera looking at Ammaji's house with a shadow of concern on her face, biting her lip.",
+   "speaker": "narrator",
+   "line": "Mujhe chinta hone lagi thi unki sehat ki.",
+   "fx": "none",
+   "sub": "I started worrying about her health.",
+   "say": "मुझे चिंता होने लगी थी उनकी सेहत की।"
+  },
+  {
+   "image": "Two rough-looking men, whispering conspiratorially, observing Ammaji's house from a street corner, partially hidden.",
+   "speaker": "narrator",
+   "line": "Tabhi kuch ajeeb log dikhne lage area mein.",
+   "fx": "none",
+   "sub": "Then some strange people started appearing in the area.",
+   "say": "तभी कुछ अजीब लोग दिखने लगे एरिया में।"
+  },
+  {
+   "image": "Shero, hidden behind a parked auto-rickshaw, snarling quietly at the two men, eyes narrowed.",
+   "speaker": "narrator",
+   "line": "Shero unhe dekh ke ghurrata tha, chupchaap.",
+   "fx": "none",
+   "sub": "Shero would growl at them, silently.",
+   "say": "शेरो उन्हें देख के घुर्राता था, चुपचाप।"
+  },
+  {
+   "image": "One of the men subtly pointing towards Ammaji's house, a sinister, greedy look on his face.",
+   "speaker": "narrator",
+   "line": "Woh log Ammaji ke ghar ko dekhte the.",
+   "fx": "none",
+   "sub": "Those people would look at Ammaji's house.",
+   "say": "वो लोग अम्माजी के घर को देखते थे।"
+  },
+  {
+   "image": "Meera, standing by her window, noticing the men's suspicious behavior and Shero's intense reaction, her eyes widening slightly.",
+   "speaker": "narrator",
+   "line": "Maine yeh sab notice kiya. Kuch theek nahi tha.",
+   "fx": "none",
+   "sub": "I noticed all this. Something wasn't right.",
+   "say": "मैंने यह सब नोटिस किया। कुछ ठीक नहीं था।"
+  },
+  {
+   "image": "Ammaji, inside her house, sitting in a chair, looking at the carved box with a sad, wistful smile, her hand gently tracing its patterns.",
+   "speaker": "narrator",
+   "line": "Ammaji apne box ko roz dekhti thin.",
+   "fx": "dust",
+   "sub": "Ammaji would look at her box every day.",
+   "say": "अम्माजी अपने बॉक्स को रोज़ देखती थीं।"
+  },
+  {
+   "image": "Shero, curled up and sleeping soundly near Ammaji's gate, looking like any other stray dog.",
+   "speaker": "narrator",
+   "line": "Lagta tha Shero bas ek normal street dog hai.",
+   "fx": "none",
+   "sub": "It seemed Shero was just a normal street dog.",
+   "say": "लगता था शेरो बस एक नॉर्मल स्ट्रीट डॉग है।"
+  },
+  {
+   "image": "Ammaji is seen in her kitchen, suddenly clutches her chest, face contorted in sharp pain, dropping a vegetable.",
+   "speaker": "narrator",
+   "line": "Ek din, Ammaji ko chest pain hua. Bahut tez.",
+   "fx": "none",
+   "sub": "One day, Ammaji had chest pain. Very sharp.",
+   "say": "एक दिन, अम्माजी को चेस्ट पेन हुआ। बहुत तेज़।"
+  },
+  {
+   "image": "She drops a steel utensil loudly, collapsing to the floor slowly, hand still clutching her chest, eyes wide in distress.",
+   "speaker": "narrator",
+   "line": "Woh girne lagin, haath se bartan chhoot gaya.",
+   "fx": "none",
+   "sub": "She started falling, the utensil slipped from her hand.",
+   "say": "वो गिरने लगीं, हाथ से बर्तन छूट गया।"
+  },
+  {
+   "image": "Shero, outside the house, suddenly jolts awake, ears perked up, head snapping towards the house, sensing urgent danger.",
+   "speaker": "narrator",
+   "line": "Bahar, Shero ekdum se uth gaya. Ghabraya hua.",
+   "fx": "none",
+   "sub": "Outside, Shero suddenly got up. Agitated.",
+   "say": "बाहर, शेरो एकदम से उठ गया। घबराया हुआ।"
+  },
+  {
+   "image": "Ammaji on the kitchen floor, struggling to breathe, reaching out a weak hand for help, fear in her eyes.",
+   "speaker": "narrator",
+   "line": "Andar Ammaji ko help chahiye thi, turant.",
+   "fx": "none",
+   "sub": "Inside, Ammaji needed help, immediately.",
+   "say": "अंदर अम्maजी को हेल्प चाहिए थी, तुरंत।"
+  },
+  {
+   "image": "The two men from before, approaching Ammaji's house stealthily from the alley, carrying crowbars and tools, sinister smiles.",
+   "speaker": "narrator",
+   "line": "Usi waqt, woh badmaash ghar ke paas aaye.",
+   "fx": "none",
+   "sub": "At that very moment, those villains came near the house.",
+   "say": "उसी वक़्त, वो बदमाश घर के पास आए।"
+  },
+  {
+   "image": "Shero, seeing the men, instantly transforms into a protective stance, baring teeth, growling fiercely, hackles raised.",
+   "speaker": "narrator",
+   "line": "Shero unhe dekh ke gusse se chillane laga.",
+   "fx": "none",
+   "sub": "Seeing them, Shero started growling angrily.",
+   "say": "शेरो उन्हें देख के गुस्से से चिल्लाने लगा।"
+  },
+  {
+   "image": "The men look surprised and annoyed at Shero's sudden, violent aggression, one recoiling slightly.",
+   "speaker": "narrator",
+   "line": "Woh log hairan the. Dog itna aggressive kyun hai?",
+   "fx": "none",
+   "sub": "Those people were surprised. Why was the dog so aggressive?",
+   "say": "वो लोग हैरान थे। डॉग इतना अग्रेसिव क्यों है?"
+  },
+  {
+   "image": "One man tries to kick Shero away, but Shero dodges quickly and barks louder, lunging slightly.",
+   "speaker": "narrator",
+   "line": "Unhone use bhagane ki koshish ki, lekin bekar.",
+   "fx": "none",
+   "sub": "They tried to chase him away, but it was useless.",
+   "say": "उन्होंने उसे भगाने की कोशिश की, लेकिन बेकार।"
+  },
+  {
+   "image": "Shero is now actively attacking the men's legs, biting at their ankles, preventing them from reaching the door, a blur of motion.",
+   "speaker": "narrator",
+   "line": "Shero unpar jhapta, ghar ko bachane ke liye.",
+   "fx": "none",
+   "sub": "Shero lunged at them, to save the house.",
+   "say": "शेरो उनपर झपटा, घर को बचाने के लिए।"
+  },
+  {
+   "image": "Meera, at her window, hears the frantic barks and shouts, looks out with wide-eyed alarm and fear.",
+   "speaker": "narrator",
+   "line": "Maine yeh shor suna. Meri jaan nikal gayi.",
+   "fx": "none",
+   "sub": "I heard this noise. My heart jumped.",
+   "say": "मैंने यह शोर सुना। मेरी जान निकल गई।"
+  },
+  {
+   "image": "Close-up of Meera's shocked and worried face, hand flying to her mouth.",
+   "speaker": "narrator",
+   "line": "Ye kya ho raha hai Ammaji ke ghar pe?",
+   "fx": "none",
+   "sub": "What is happening at Ammaji's house?",
+   "say": "ये क्या हो रहा है अम्माजी के घर पे?"
+  },
+  {
+   "image": "Shero, bleeding slightly from a scratch on his shoulder, but still fighting fiercely, pinning one man's leg.",
+   "speaker": "narrator",
+   "line": "Shero unse akela lad raha tha, bahut bahaduri se.",
+   "fx": "none",
+   "sub": "Shero was fighting them alone, very bravely.",
+   "say": "शेरो उनसे अकेला लड़ रहा था, बहुत बहादुरी से।"
+  },
+  {
+   "image": "The other man, ignoring Shero for a moment, uses a crowbar to force open Ammaji's rickety front door, wood splintering.",
+   "speaker": "narrator",
+   "line": "Lekin ek aadmi darwaza todne mein laga tha.",
+   "fx": "none",
+   "sub": "But one man was busy breaking the door.",
+   "say": "लेकिन एक आदमी दरवाज़ा तोड़ने में लगा था।"
+  },
+  {
+   "image": "Meera grabs her phone from a table, dialling police with trembling hands, panic in her eyes.",
+   "speaker": "narrator",
+   "line": "Maine turant police ko call kiya. Jaldi karo!",
+   "fx": "none",
+   "sub": "I immediately called the police. Hurry!",
+   "say": "मैंने तुरंत पुलिस को कॉल किया। जल्दी करो!"
+  },
+  {
+   "image": "Shero sees the door about to break open, lets out a frantic, desperate bark, looking torn between the men and the door.",
+   "speaker": "narrator",
+   "line": "Shero ko pata tha, time kam hai. Danger tha.",
+   "fx": "none",
+   "sub": "Shero knew, time was short. There was danger.",
+   "say": "शेरो को पता था, टाइम कम है। डेंजर था।"
+  },
+  {
+   "image": "The door creaks open fully, revealing Ammaji collapsed on the kitchen floor just inside, still struggling.",
+   "speaker": "narrator",
+   "line": "Darwaza khul gaya. Ammaji andar zameen par thin.",
+   "fx": "none",
+   "sub": "The door opened. Ammaji was on the floor inside.",
+   "say": "दरवाज़ा खुल गया। अम्माजी अंदर ज़मीन पर थीं।"
+  },
+  {
+   "image": "Shero, seeing Ammaji, lets out a heart-wrenching whimper, then turns back to the robbers with renewed fury, a fierce protector.",
+   "speaker": "narrator",
+   "line": "Shero ki aankhon mein Ammaji ka dard dikha.",
+   "fx": "none",
+   "sub": "In Shero's eyes, Ammaji's pain was visible.",
+   "say": "शेरो की आँखों में अम्माजी का दर्द दिखा।"
+  },
+  {
+   "image": "Shero bites one man's arm severely, making him drop his crowbar with a clang and yell in pain, clutching his arm.",
+   "speaker": "narrator",
+   "line": "Usne ek chor ko buri tarah kaata. Woh cheekha!",
+   "fx": "none",
+   "sub": "He bit one thief badly. He screamed!",
+   "say": "उसने एक चोर को बुरी तरह काटा। वो चीखा!"
+  },
+  {
+   "image": "The other man, distracted by his partner's pain, gets lunged at by Shero too, falling backward.",
+   "speaker": "narrator",
+   "line": "Doosra bhi Shero ki chapet mein aa gaya.",
+   "fx": "none",
+   "sub": "The other one also got caught by Shero.",
+   "say": "दूसरा भी शेरो की चपेट में आ गया।"
+  },
+  {
+   "image": "Distant police siren growing louder. The robbers exchange panicked, desperate looks at each other.",
+   "speaker": "narrator",
+   "line": "Police ki siren sunte hi chor ghabra gaye.",
+   "fx": "none",
+   "sub": "Hearing the police siren, the thieves panicked.",
+   "say": "पुलिस की सायरन सुनते ही चोर घबरा गए।"
+  },
+  {
+   "image": "Shero, despite his injuries, stands defiantly, blocking their escape path from the front door, growling.",
+   "speaker": "narrator",
+   "line": "Shero unhe bhagne nahi de raha tha. Wah!",
+   "fx": "none",
+   "sub": "Shero wasn't letting them escape. Wow!",
+   "say": "शेरो उन्हें भागने नहीं दे रहा था। वाह!"
+  },
+  {
+   "image": "Police car screeching to a halt outside Ammaji's house. Officers rush out with urgency.",
+   "speaker": "narrator",
+   "line": "Police pahunch gayi! Sab control mein aa gaya.",
+   "fx": "none",
+   "sub": "Police arrived! Everything came under control.",
+   "say": "पुलिस पहुँच गई! सब कंट्रोल में आ गया।"
+  },
+  {
+   "image": "Police officers apprehend the struggling robbers, pinning them against the wall, handcuffs being applied.",
+   "speaker": "narrator",
+   "line": "Chor pakde gaye. Unki planning fail ho gayi.",
+   "fx": "none",
+   "sub": "The thieves were caught. Their planning failed.",
+   "say": "चोर पकड़े गए। उनकी प्लानिंग फेल हो गई।"
+  },
+  {
+   "image": "Shero, exhausted but relieved, runs inside the open door towards Ammaji, ignoring the police and robbers.",
+   "speaker": "narrator",
+   "line": "Shero andar bhaaga, Ammaji ke paas. Jaldi se.",
+   "fx": "none",
+   "sub": "Shero ran inside, towards Ammaji. Quickly.",
+   "say": "शेरो अंदर भागा, अम्माजी के पास। जल्दी से।"
+  },
+  {
+   "image": "Meera rushes into the house, seeing Ammaji still on the floor and Shero nudging her gently with his nose.",
+   "speaker": "narrator",
+   "line": "Main bhi andar gayi. Ammaji ko dekha.",
+   "fx": "none",
+   "sub": "I also went inside. Saw Ammaji.",
+   "say": "मैं भी अंदर गई। अम्माजी को देखा।"
+  },
+  {
+   "image": "Close-up of Ammaji's pale face, but she's weakly patting Shero's head, a glimmer of recognition and relief in her eyes.",
+   "speaker": "narrator",
+   "line": "Woh behosh nahi thin, bas bahut kamzor thin.",
+   "fx": "none",
+   "sub": "She wasn't unconscious, just very weak.",
+   "say": "वो बेहोश नहीं थीं, बस बहुत कमज़ोर थीं।"
+  },
+  {
+   "image": "Meera kneels beside Ammaji, offering comfort and support. Shero rests his head on Ammaji's lap, whimpering softly.",
+   "speaker": "narrator",
+   "line": "Maine unhe sahara diya. Shero wahi tha.",
+   "fx": "none",
+   "sub": "I supported her. Shero was right there.",
+   "say": "मैंने उन्हें सहारा दिया। शेरो वहीं था।"
+  },
+  {
+   "image": "A police officer talks to Meera, pointing at the recovered crowbars and tools near the broken doorframe.",
+   "speaker": "narrator",
+   "line": "Yeh log aapke ghar ke bahar ghoomte the.",
+   "fx": "none",
+   "sub": "These people used to loiter outside your house.",
+   "say": "ये लोग आपके घर के बाहर घूमते थे।"
+  },
+  {
+   "image": "Close-up of Ammaji's face, now showing understanding and a hint of fear, as she looks at her carved box, which is slightly dislodged from its spot.",
+   "speaker": "narrator",
+   "line": "Chor unke box ke peeche the. Kitni badi baat!",
+   "fx": "none",
+   "sub": "The thieves were after her box. What a big deal!",
+   "say": "चोर उनके बॉक्स के पीछे थे। कितनी बड़ी बात!"
+  },
+  {
+   "image": "Meera looks at Shero with awe and overwhelming gratitude, her eyes glistening.",
+   "speaker": "narrator",
+   "line": "Shero ne sab dekha tha, har din.",
+   "fx": "none",
+   "sub": "Shero had seen everything, every day.",
+   "say": "शेरो ने सब देखा था, हर दिन।"
+  },
+  {
+   "image": "Shero looks up at Meera, a deep understanding and unwavering loyalty in his intelligent eyes.",
+   "speaker": "narrator",
+   "line": "Woh Ammaji ka silent guardian tha, hamesha.",
+   "fx": "none",
+   "sub": "He was Ammaji's silent guardian, always.",
+   "say": "वो अम्माजी का साइलेंट गार्डियन था, हमेशा।"
+  },
+  {
+   "image": "Ammaji, now a bit recovered, gently strokes Shero's head, tears of gratitude and affection in her eyes.",
+   "speaker": "ammaji",
+   "line": "Beta, tune meri jaan bacha li.",
+   "fx": "none",
+   "sub": "My child, you saved my life.",
+   "say": "बेटा, तूने मेरी जान बचा ली।"
+  },
+  {
+   "image": "Shero licks Ammaji's hand affectionately, wagging his tail slowly.",
+   "speaker": "narrator",
+   "line": "Usne kabhi kuch nahi maanga tha. Bas saath diya.",
+   "fx": "none",
+   "sub": "He had never asked for anything. Just gave company.",
+   "say": "उसने कभी कुछ नहीं माँगा था। बस साथ दिया।"
+  },
+  {
+   "image": "Meera, smiling warmly, gently offers Shero a bowl of fresh water, which he gratefully laps up.",
+   "speaker": "narrator",
+   "line": "Us din se, Shero hamara hero ban gaya.",
+   "fx": "none",
+   "sub": "From that day, Shero became our hero.",
+   "say": "उस दिन से, शेरो हमारा हीरो बन गया।"
+  },
+  {
+   "image": "Ammaji, now stronger, sitting on her porch swing, Shero lying contentedly at her feet, looking up at her.",
+   "speaker": "narrator",
+   "line": "Ammaji ne usko apna bana liya. Apna beta.",
+   "fx": "none",
+   "sub": "Ammaji adopted him. Her own son.",
+   "say": "अम्माजी ने उसको अपना बना लिया। अपना बेटा।"
+  },
+  {
+   "image": "Close-up of Shero, now wearing a simple, bright red collar, looking happy and well-fed.",
+   "speaker": "narrator",
+   "line": "Use ab ghar mil gaya tha, aur bahut saara pyar.",
+   "fx": "none",
+   "sub": "He now had a home, and lots of love.",
+   "say": "उसे अब घर मिल गया था, और बहुत सारा प्यार।"
+  },
+  {
+   "image": "Meera watching Ammaji and Shero interact warmly, Ammaji stroking Shero, a contented smile on Meera's face.",
+   "speaker": "narrator",
+   "line": "Unka bandhan dekh ke aankhein bhar aati thin.",
+   "fx": "none",
+   "sub": "Seeing their bond would bring tears to my eyes.",
+   "say": "उनका बंधन देख के आँखें भर आती थीं।"
+  },
+  {
+   "image": "Ammaji sharing her simple home-cooked meal with Shero, who eats gratefully from a small plate.",
+   "speaker": "narrator",
+   "line": "Ab woh kabhi akeli nahi thi. Shero tha.",
+   "fx": "none",
+   "sub": "Now she was never alone. Shero was there.",
+   "say": "अब वो कभी अकेली नहीं थी। शेरो था।"
+  },
+  {
+   "image": "Shero, playing happily in Ammaji's small, sunlit garden, chasing a butterfly.",
+   "speaker": "narrator",
+   "line": "Woh sirf ek street dog nahi tha. Woh family tha.",
+   "fx": "none",
+   "sub": "He wasn't just a street dog. He was family.",
+   "say": "वो सिर्फ एक स्ट्रीट डॉग नहीं था। वो फैमिली था।"
+  },
+  {
+   "image": "Ammaji, Meera, and Shero sitting together peacefully on the porch, all smiling, a sense of warmth and belonging.",
+   "speaker": "narrator",
+   "line": "Hum sab uski bahaduri ke liye shukraguzar the.",
+   "fx": "none",
+   "sub": "We were all grateful for his bravery.",
+   "say": "हम सब उसकी बहादुरी के लिए शुक्रगुज़ार थे।"
+  },
+  {
+   "image": "Close-up of Ammaji's aged hand gently stroking Shero's soft fur on his head, a tender moment.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi protection wahan se aati hai.",
+   "fx": "none",
+   "sub": "Sometimes protection comes from there.",
+   "say": "कभी-कभी प्रोटेक्शन वहाँ से आती है।"
+  },
+  {
+   "image": "Shero looking attentively at Ammaji, his eyes full of devotion.",
+   "speaker": "narrator",
+   "line": "Jahan hum ummeed bhi nahi karte.",
+   "fx": "none",
+   "sub": "Where we don't even expect it.",
+   "say": "जहाँ हम उम्मीद भी नहीं करते।"
+  },
+  {
+   "image": "Ammaji smiling warmly at Shero, a look of deep affection and peace on her face.",
+   "speaker": "narrator",
+   "line": "Ek silent promise. Ek unspoken bond.",
+   "fx": "none",
+   "sub": "A silent promise. An unspoken bond.",
+   "say": "एक साइलेंट प्रॉमिस। एक अनस्पोकन बॉन्ड।"
+  },
+  {
+   "image": "Meera looking directly at the camera, a warm, reflective smile, a slight nod of wisdom.",
+   "speaker": "narrator",
+   "line": "Maine Ammaji ko ek sabaq sikhate dekha.",
+   "fx": "none",
+   "sub": "I saw Ammaji teach a lesson.",
+   "say": "मैंने अम्माजी को एक सबक सिखाते देखा।"
+  },
+  {
+   "image": "Shero curled up and sleeping peacefully at Ammaji's feet on a soft mat, looking utterly content.",
+   "speaker": "narrator",
+   "line": "Ki pyar aur wafadaari kisi shart ke nahi hote.",
+   "fx": "none",
+   "sub": "That love and loyalty have no conditions.",
+   "say": "कि प्यार और वफ़ादारी किसी शर्त के नहीं होते।"
+  },
+  {
+   "image": "Ammaji holding the intricately carved wooden box, a smile now of security and profound peace, Shero's head visible near her lap.",
+   "speaker": "narrator",
+   "line": "Unka khazana ab do guna surakshit tha.",
+   "fx": "dust",
+   "sub": "Her treasure was now doubly safe.",
+   "say": "उनका खज़ाना अब दो गुना सुरक्षित था।"
+  },
+  {
+   "image": "Meera, Ammaji, and Shero, a happy family scene, sitting together on the porch, bathed in warm sunlight, all looking content.",
+   "speaker": "narrator",
+   "line": "Yeh thi unki anokhi kahaani, wafadaari ki.",
+   "fx": "none",
+   "sub": "This was their unique story, of loyalty.",
+   "say": "ये थी उनकी अनोखी कहानी, वफ़ादारी की।"
+  },
+  {
+   "image": "Close-up of Shero's intelligent eyes, blinking slowly, showing a deep sense of peace and belonging.",
+   "speaker": "narrator",
+   "line": "Ek dog, ek purani aurat, ek gehra rishta.",
+   "fx": "none",
+   "sub": "A dog, an old woman, a deep connection.",
+   "say": "एक डॉग, एक पुरानी औरत, एक गहरा रिश्ता।"
+  },
+  {
+   "image": "Shero looking up at Ammaji, who smiles down at him, both looking utterly content and connected.",
+   "speaker": "narrator",
+   "line": "Aapne kabhi aisa connection dekha hai?",
+   "fx": "none",
+   "sub": "Have you ever seen such a connection?",
+   "say": "आपने कभी ऐसा कनेक्शन देखा है?"
+  }
+ ],
+ "caption": "This Street Dog Followed an Old Woman Every Single Day... until",
+ "slug": "2026-11-11_part1",
+ "story_no": 44,
+ "yt_title": "This Street Dog Followed an Old Woman Every Single Day... until",
+ "description": "This street dog followed an old woman everywhere she went, a constant, loyal shadow. But he wasn't just a stray; he was her unseen guardian, waiting for the day she needed him most. What would you do for someone you secretly protected?",
+ "comment_question": "What would you do for someone you secretly protected?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#dogstory",
+  "#animalrescue",
+  "#straydog",
+  "#loyalty",
+  "#humananimalbond",
+  "#unseenguardian",
+  "#heartwarming",
+  "#india",
+  "#reels"
+ ]
+}

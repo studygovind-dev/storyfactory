@@ -1,0 +1,605 @@
+{
+ "series": "The Unseen Guardian's Debt",
+ "episode": 3,
+ "title": "The Unseen Guardian's Debt",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Ishani, young woman, early 20s, graceful, light wheatish skin, long soft wavy dark-brown hair, small stud earrings, simple pastel green kurta with white embroidery.",
+   "voice": "hindi_narrator_female"
+  },
+  "Anand_uncle": {
+   "look": "Elderly man, late 70s, thin, gentle face with kind eyes, silver-grey hair neatly combed, light blue full-sleeved shirt, simple dark trousers.",
+   "voice": "hindi_male_young"
+  },
+  "Rajesh_Papa": {
+   "look": "Man, late 40s, slightly tired but kind face, short dark hair, simple formal shirt and trousers.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HIS SILENT SECRET",
+ "scenes": [
+  {
+   "image": "Close-up of Ishani's face, confused and shocked, holding an old, faded photograph. Her eyes are wide with disbelief.",
+   "speaker": "narrator",
+   "line": "My family lived across the street from a ghost.",
+   "fx": "none",
+   "sub": "My family lived across the street from a ghost.",
+   "say": "माई फैमिली लिव्ड अक्रॉस द स्ट्रीट फ्रॉम अ घोस्ट."
+  },
+  {
+   "image": "Ishani standing at the window of her new apartment, looking across the street at an old, slightly run-down house. Her expression is thoughtful.",
+   "speaker": "narrator",
+   "line": "When I moved here, Anand uncle's house felt like that.",
+   "fx": "none",
+   "sub": "When I moved here, Anand uncle's house felt like that.",
+   "say": "व्हेन आई मूव्ड हियर, आनंद अंकल का हाउस फेल्ट लाइक दैट."
+  },
+  {
+   "image": "Anand uncle sitting alone on his porch, staring blankly ahead, looking frail and withdrawn. The house looks quiet.",
+   "speaker": "narrator",
+   "line": "He was always alone, never spoke to anyone.",
+   "fx": "none",
+   "sub": "He was always alone, never spoke to anyone.",
+   "say": "ही वाज़ ऑलवेज़ अलोन, नेवर स्पोक टू एनीवन."
+  },
+  {
+   "image": "Ishani watching Anand uncle from her window, a look of concern on her face.",
+   "speaker": "narrator",
+   "line": "His loneliness was heavy, you could feel it.",
+   "fx": "none",
+   "sub": "His loneliness was heavy, you could feel it.",
+   "say": "हिज़ लोनलीनेस वाज़ हैवी, यू कुड फील इट."
+  },
+  {
+   "image": "Flashback to a young Ishani with her Rajesh_Papa, who is smiling warmly and holding her hand. They are walking in a park.",
+   "speaker": "narrator",
+   "line": "My Papa always taught me kindness, empathy.",
+   "fx": "none",
+   "sub": "My dad always taught me kindness, empathy.",
+   "say": "माई पापा ऑलवेज़ टॉट मी काइंडनेस, एंपैथी."
+  },
+  {
+   "image": "Ishani preparing a plate of fresh pakoras in her kitchen, looking determined.",
+   "speaker": "narrator",
+   "line": "So, I decided to do something. Try at least.",
+   "fx": "none",
+   "sub": "So, I decided to do something. Try at least.",
+   "say": "सो, आई डिसाइडेड टू डू समथिंग. ट्राई एट लीस्ट."
+  },
+  {
+   "image": "Ishani, with a plate of pakoras, knocking gently on Anand uncle's front door, looking a little nervous.",
+   "speaker": "narrator",
+   "line": "First day, I knocked. No answer, just silence.",
+   "fx": "none",
+   "sub": "First day, I knocked. No answer, just silence.",
+   "say": "फर्स्ट डे, आई नॉक्ड. नो आंसर, जस्ट साइलेंस."
+  },
+  {
+   "image": "Ishani leaving the plate of pakoras carefully on his doorstep, looking disappointed.",
+   "speaker": "narrator",
+   "line": "I left the food, thinking, 'Maybe he's asleep.'",
+   "fx": "none",
+   "sub": "I left the food, thinking, 'Maybe he's asleep.'",
+   "say": "आई लेफ्ट द फूड, थिंकिंग, 'मेबी हीज़ अस्लीप.'"
+  },
+  {
+   "image": "Later that evening, Ishani looking across to see the plate is gone from the doorstep. A small smile touches her lips.",
+   "speaker": "narrator",
+   "line": "Later, the plate was empty. A small victory.",
+   "fx": "none",
+   "sub": "Later, the plate was empty. A small victory.",
+   "say": "लेटर, द प्लेट वाज़ एम्प्टी. अ स्माल विक्टरी."
+  },
+  {
+   "image": "Ishani next day, approaching his gate with a bowl of homemade daal, a hopeful expression.",
+   "speaker": "narrator",
+   "line": "Next day, I brought daal. Again, no one.",
+   "fx": "none",
+   "sub": "Next day, I brought daal. Again, no one.",
+   "say": "नेक्स्ट डे, आई ब्रॉट दाल. अगेन, नो वन."
+  },
+  {
+   "image": "Anand uncle, seen through a slightly ajar door, looking surprised to see Ishani. His face is stoic, unreadable.",
+   "speaker": "narrator",
+   "line": "But this time, the door creaked open slightly.",
+   "fx": "none",
+   "sub": "But this time, the door creaked open slightly.",
+   "say": "बट दिस टाइम, द डोर क्रीक्ड ओपन स्लाइडली."
+  },
+  {
+   "image": "Ishani offering the daal to Anand uncle, who looks down at it, then at her, with a hesitant expression.",
+   "speaker": "narrator",
+   "line": "He just nodded, took the bowl silently.",
+   "fx": "none",
+   "sub": "He just nodded, took the bowl silently.",
+   "say": "ही जस्ट नॉडेड, टूक द बाउल साइलेंटली."
+  },
+  {
+   "image": "Close-up on Ishani's hand gently touching his, a fleeting moment of contact, a spark of hope in her eyes.",
+   "speaker": "narrator",
+   "line": "No words, but I felt a tiny shift, a connection.",
+   "fx": "none",
+   "sub": "No words, but I felt a tiny shift, a connection.",
+   "say": "नो वर्ड्स, बट आई फेल्ट अ टाइनी शिफ्ट, अ कनेक्शन."
+  },
+  {
+   "image": "Weeks later, Ishani sitting on his porch swing, talking animatedly. Anand uncle is seated nearby, listening, but still distant.",
+   "speaker": "narrator",
+   "line": "Weeks turned into months. I'd visit daily.",
+   "fx": "none",
+   "sub": "Weeks turned into months. I'd visit daily.",
+   "say": "वीक्स टर्न्ड इंटू मंथ्स. आई वुड विज़िट डेली."
+  },
+  {
+   "image": "Ishani smiling, recounting a story. Anand uncle is looking at her, a hint of curiosity in his eyes.",
+   "speaker": "narrator",
+   "line": "I'd tell him about my day, my dreams.",
+   "fx": "none",
+   "sub": "I'd tell him about my day, my dreams.",
+   "say": "आई वुड टेल हिम अबाउट माय डे, माय ड्रीम्स."
+  },
+  {
+   "image": "Close-up on Anand uncle's hands, resting on his lap. They are old and weathered. He's listening intently.",
+   "speaker": "narrator",
+   "line": "He rarely spoke, mostly just listened.",
+   "fx": "none",
+   "sub": "He rarely spoke, mostly just listened.",
+   "say": "ही रेयरली स्पोक, मोस्टली जस्ट लिसंड."
+  },
+  {
+   "image": "Anand uncle looking at a faded, old photograph in his hands. His face is etched with deep sorrow.",
+   "speaker": "narrator",
+   "line": "One day, I saw him holding a faded photo.",
+   "fx": "none",
+   "sub": "One day, I saw him holding a faded photo.",
+   "say": "वन डे, आई सॉ हिम होल्डिंग अ फेडेड फोटो."
+  },
+  {
+   "image": "Close-up on the photograph: a younger Anand uncle, smiling brightly, standing with a young woman and a child. They look happy.",
+   "speaker": "narrator",
+   "line": "A young family, full of joy. Now, just memories.",
+   "fx": "none",
+   "sub": "A young family, full of joy. Now, just memories.",
+   "say": "अ यंग फैमिली, फुल ऑफ जॉय. नाउ, जस्ट मेमोरीज."
+  },
+  {
+   "image": "Ishani looking at Anand uncle's pained expression, her own eyes filled with compassion.",
+   "speaker": "narrator",
+   "line": "His sorrow touched my heart deeply, 'yaar'.",
+   "fx": "none",
+   "sub": "His sorrow touched my heart deeply, 'friend'.",
+   "say": "हिज़ सॉरो टचड माई हार्ट डीपली, 'यार'."
+  },
+  {
+   "image": "Ishani reaching out and gently placing her hand on Anand uncle's arm, a comforting gesture.",
+   "speaker": "narrator",
+   "line": "I held his arm. He didn't pull away.",
+   "fx": "none",
+   "sub": "I held his arm. He didn't pull away.",
+   "say": "आई हेल्ड हिज़ आर्म. ही डिडंट पुल अवे."
+  },
+  {
+   "image": "Anand uncle finally looks at Ishani, a flicker of something, perhaps gratitude or vulnerability, in his eyes.",
+   "speaker": "narrator",
+   "line": "For the first time, I felt a bond forming.",
+   "fx": "none",
+   "sub": "For the first time, I felt a bond forming.",
+   "say": "फॉर द फर्स्ट टाइम, आई फेल्ट अ बॉन्ड फॉर्मिंग."
+  },
+  {
+   "image": "Ishani smiling brightly at Anand uncle, who is now offering a faint, almost imperceptible smile back.",
+   "speaker": "narrator",
+   "line": "I talked more, he smiled a little, finally.",
+   "fx": "none",
+   "sub": "I talked more, he smiled a little, finally.",
+   "say": "आई टॉक्ड मोर, ही स्माइल्ड अ लिटिल, फाइनली."
+  },
+  {
+   "image": "Anand uncle leaving a small bunch of jasmine flowers on Ishani's doorstep. He's looking back towards her window.",
+   "speaker": "narrator",
+   "line": "He started leaving me small gifts, a flower.",
+   "fx": "none",
+   "sub": "He started leaving me small gifts, a flower.",
+   "say": "ही स्टार्टेड लीविंग मी स्माल गिफ्ट्स, अ फ्लावर."
+  },
+  {
+   "image": "Close-up on a handwritten note, simple Hindi words, 'God bless you beta.'",
+   "speaker": "narrator",
+   "line": "Sometimes a note: 'God bless you, beta.'",
+   "fx": "none",
+   "sub": "Sometimes a note: 'God bless you, child.'",
+   "say": "समटाइम्स अ नोट: 'गॉड ब्लेस यू, बेटा.'"
+  },
+  {
+   "image": "Ishani looking at the note, tears in her eyes, feeling a profound connection.",
+   "speaker": "narrator",
+   "line": "My heart swelled. I felt like his granddaughter.",
+   "fx": "none",
+   "sub": "My heart swelled. I felt like his granddaughter.",
+   "say": "माई हार्ट स्वेलड. आई फेल्ट लाइक हिज़ ग्रैंडडॉटर."
+  },
+  {
+   "image": "Ishani talking on the phone, looking stressed. Her room is a bit messy, indicating financial worries.",
+   "speaker": "narrator",
+   "line": "Meanwhile, my Papa's business was struggling.",
+   "fx": "none",
+   "sub": "Meanwhile, my dad's business was struggling.",
+   "say": "मीनवाइल, माई पापा का बिज़नेस वाज़ स्ट्रगलिंग."
+  },
+  {
+   "image": "Rajesh_Papa on the phone, looking tired and worried, rubbing his forehead.",
+   "speaker": "Rajesh_Papa",
+   "line": "Beta, things are tough. Bahut mushkil hai.",
+   "fx": "none",
+   "sub": "Child, things are tough. It's very difficult.",
+   "say": "बेटा, थिंग्स आर टफ. बहुत मुश्किल है."
+  },
+  {
+   "image": "Ishani listening, her face filled with sadness and helplessness.",
+   "speaker": "narrator",
+   "line": "I felt helpless, wanted to do more for him.",
+   "fx": "none",
+   "sub": "I felt helpless, wanted to do more for him.",
+   "say": "आई फेल्ट हेल्पलेस, वांटेड टू डू मोर फॉर हिम."
+  },
+  {
+   "image": "Ishani sitting with Anand uncle, looking sad. He is looking at her with a knowing expression, a rare depth in his eyes.",
+   "speaker": "narrator",
+   "line": "I shared my worries with Anand uncle too.",
+   "fx": "none",
+   "sub": "I shared my worries with Anand uncle too.",
+   "say": "आई शेयर्ड माई वरीज़ विद आनंद अंकल टू."
+  },
+  {
+   "image": "Close-up on Anand uncle's hand, clenched slightly, a look of resolve on his face.",
+   "speaker": "narrator",
+   "line": "He just listened, but his gaze was different.",
+   "fx": "none",
+   "sub": "He just listened, but his gaze was different.",
+   "say": "ही जस्ट लिसंड, बट हिज़ गेज़ वाज़ डिफरेंट."
+  },
+  {
+   "image": "Ishani looking confused, feeling a strange tension in the air.",
+   "speaker": "narrator",
+   "line": "Almost like he understood something deeper.",
+   "fx": "none",
+   "sub": "Almost like he understood something deeper.",
+   "say": "ऑलमोस्ट लाइक ही अंडरस्टुड समथिंग डीपर."
+  },
+  {
+   "image": "Rajesh_Papa enters Ishani's apartment, his face beaming with joy, holding his phone.",
+   "speaker": "narrator",
+   "line": "One evening, Papa called, his voice ecstatic.",
+   "fx": "none",
+   "sub": "One evening, dad called, his voice ecstatic.",
+   "say": "वन इवनिंग, पापा कॉल्ड, हिज़ वॉइस एक्सटैटिक."
+  },
+  {
+   "image": "Close-up on Rajesh_Papa's face, a huge smile, tears of joy in his eyes.",
+   "speaker": "Rajesh_Papa",
+   "line": "Ishani, beta! A miracle! My business is saved!",
+   "fx": "none",
+   "sub": "Ishani, child! A miracle! My business is saved!",
+   "say": "ईशानी, बेटा! अ मिरेकल! माई बिज़नेस इज़ सेव्ड!"
+  },
+  {
+   "image": "Ishani's face, pure joy and confusion. She hugs her father tightly.",
+   "speaker": "narrator",
+   "line": "My Papa was crying, pure relief, pure joy.",
+   "fx": "none",
+   "sub": "My dad was crying, pure relief, pure joy.",
+   "say": "माई पापा वाज़ क्राइंग, प्योर रिलीफ, प्योर जॉय."
+  },
+  {
+   "image": "Rajesh_Papa showing Ishani an email on his phone. The subject line mentions 'Anonymous Investment'.",
+   "speaker": "Rajesh_Papa",
+   "line": "Anonymous investor. Huge amount. Saved everything!",
+   "fx": "none",
+   "sub": "Anonymous investor. Huge amount. Saved everything!",
+   "say": "एनॉनिमस इन्वेस्टर. ह्यूज अमाउंट. सेव्ड एवरीथिंग!"
+  },
+  {
+   "image": "Ishani's face, still happy, but now a flicker of suspicion, a thought forming.",
+   "speaker": "narrator",
+   "line": "Anonymous? A strange coincidence, I thought.",
+   "fx": "none",
+   "sub": "Anonymous? A strange coincidence, I thought.",
+   "say": "एनॉनिमस? अ स्ट्रेंज कोइंसिडेंस, आई थॉट."
+  },
+  {
+   "image": "Ishani looks across the street at Anand uncle's house, a knowing expression beginning to form.",
+   "speaker": "narrator",
+   "line": "My mind immediately went to Anand uncle.",
+   "fx": "none",
+   "sub": "My mind immediately went to Anand uncle.",
+   "say": "माई माइंड इमीडियेटली वेंट टू आनंद अंकल."
+  },
+  {
+   "image": "Ishani walking purposefully towards Anand uncle's house, a mix of hope and curiosity on her face.",
+   "speaker": "narrator",
+   "line": "I walked over, heart pounding in my chest.",
+   "fx": "none",
+   "sub": "I walked over, heart pounding in my chest.",
+   "say": "आई वॉक्ड ओवर, हार्ट पाउंडिंग इन माई चेस्ट."
+  },
+  {
+   "image": "Anand uncle sitting in his living room, looking at Ishani with a calm, almost serene expression. He seems to be expecting her.",
+   "speaker": "narrator",
+   "line": "He was sitting, serene. Like he knew, somehow.",
+   "fx": "none",
+   "sub": "He was sitting, serene. Like he knew, somehow.",
+   "say": "ही वाज़ सिटिंग, सेरीन. लाइक ही न्यू, समहाउ."
+  },
+  {
+   "image": "Ishani's gaze falls on a new, framed photograph on a nearby table. Her eyes widen.",
+   "speaker": "narrator",
+   "line": "Then I saw the new photograph on his table.",
+   "fx": "none",
+   "sub": "Then I saw the new photograph on his table.",
+   "say": "देन आई सॉ द न्यू फोटोग्राफ ऑन हिज़ टेबल."
+  },
+  {
+   "image": "Close-up on the photograph: a younger Anand uncle, vibrant and smiling, standing next to a very young Rajesh_Papa. They are shaking hands.",
+   "speaker": "narrator",
+   "line": "It was him, a young Anand uncle, with my Papa!",
+   "fx": "none",
+   "sub": "It was him, a young Anand uncle, with my dad!",
+   "say": "इट वाज़ हिम, अ यंग आनंद अंकल, विद माई पापा!"
+  },
+  {
+   "image": "Ishani's face, pure shock and dawning realization. Her mouth is slightly open.",
+   "speaker": "narrator",
+   "line": "My Papa. Young, hopeful. Shaking hands.",
+   "fx": "none",
+   "sub": "My dad. Young, hopeful. Shaking hands.",
+   "say": "माई पापा. यंग, होपफुल. शेकिंग हैंड्स."
+  },
+  {
+   "image": "Ishani looking between the photo and Anand uncle, tears welling up in her eyes.",
+   "speaker": "narrator",
+   "line": "Everything clicked into place in my mind.",
+   "fx": "none",
+   "sub": "Everything clicked into place in my mind.",
+   "say": "एवरीथिंग क्लिकड इंटू प्लेस इन माई माइंड."
+  },
+  {
+   "image": "Close-up on Ishani's face, a mix of heartbreak and profound understanding.",
+   "speaker": "narrator",
+   "line": "He wasn't just a lonely old man, he was a past.",
+   "fx": "none",
+   "sub": "He wasn't just a lonely old man, he was a past.",
+   "say": "ही वाज़ंट जस्ट अ लोनली ओल्ड मैन, ही वाज़ अ पास्ट."
+  },
+  {
+   "image": "Flashback: A slightly younger Anand uncle (from the photo), looking distraught, amidst a scene of a failed business office, papers scattered.",
+   "speaker": "narrator",
+   "line": "He and Papa were partners, long ago.",
+   "fx": "none",
+   "sub": "He and dad were partners, long ago.",
+   "say": "ही एंड पापा वर पार्टनर्स, लॉन्ग अगो."
+  },
+  {
+   "image": "Flashback: Rajesh_Papa looking distraught, turning away from Anand uncle, who looks heartbroken. A silent rift.",
+   "speaker": "narrator",
+   "line": "Their business failed, leaving him devastated.",
+   "fx": "none",
+   "sub": "Their business failed, leaving him devastated.",
+   "say": "देयर बिज़नेस फेल्ड, लीविंग हिम डेवास्टेटेड."
+  },
+  {
+   "image": "Anand uncle, sitting alone in his house, looking out a window, lost in thought. He looks a bit younger, but still lonely.",
+   "speaker": "narrator",
+   "line": "Papa moved on. Anand uncle rebuilt, in silence.",
+   "fx": "none",
+   "sub": "Dad moved on. Anand uncle rebuilt, in silence.",
+   "say": "पापा मूव्ड ऑन. आनंद अंकल रीबिल्ट, इन साइलेंस."
+  },
+  {
+   "image": "Anand uncle looking at an old photo of his family (from earlier scene) with deep sadness, alone in his house.",
+   "speaker": "narrator",
+   "line": "He had lost so much back then, his family too.",
+   "fx": "none",
+   "sub": "He had lost so much back then, his family too.",
+   "say": "ही हैड लॉस्ट सो मच बैक देन, हिज़ फैमिली टू."
+  },
+  {
+   "image": "Anand uncle watching Ishani from his window, a distant but observant look. He's seen her before.",
+   "speaker": "narrator",
+   "line": "He had secretly watched my family for years.",
+   "fx": "none",
+   "sub": "He had secretly watched my family for years.",
+   "say": "ही हैड सीक्रेटली वॉच्ड माई फैमिली फॉर ईयर्स."
+  },
+  {
+   "image": "Ishani, now understanding, looks at Anand uncle with profound respect and a touch of awe. Her eyes are misty.",
+   "speaker": "narrator",
+   "line": "His loneliness? A patient watch, a quiet penance.",
+   "fx": "none",
+   "sub": "His loneliness? A patient watch, a quiet penance.",
+   "say": "हिज़ लोनलीनेस? अ पेशेंट वॉच, अ क्वाइट पेनेंस."
+  },
+  {
+   "image": "Anand uncle, now looking directly at Ishani, a genuine, warm smile spreading across his face for the first time.",
+   "speaker": "narrator",
+   "line": "My kindness had simply opened his door.",
+   "fx": "none",
+   "sub": "My kindness had simply opened his door.",
+   "say": "माई काइंडनेस हैड सिंपली ओपन्ड हिज़ डोर."
+  },
+  {
+   "image": "Ishani walking towards Anand uncle, extending her hand, an unspoken understanding passing between them.",
+   "speaker": "narrator",
+   "line": "He waited for someone to see beyond his silence.",
+   "fx": "none",
+   "sub": "He waited for someone to see beyond his silence.",
+   "say": "ही वेटेड फॉर समवन टू सी बियॉन्ड हिज़ साइलेंस."
+  },
+  {
+   "image": "Ishani and Anand uncle clasping hands, a powerful, emotional connection. He squeezes her hand gently.",
+   "speaker": "narrator",
+   "line": "The investment? It was his way of mending things.",
+   "fx": "none",
+   "sub": "The investment? It was his way of mending things.",
+   "say": "द इन्वेस्टमेंट? इट वाज़ हिज़ वे ऑफ मेंडिंग थिंग्स."
+  },
+  {
+   "image": "Ishani wiping a tear from her eye, looking at Anand uncle with immense love and gratitude.",
+   "speaker": "narrator",
+   "line": "Not just for Papa, but for his own peace.",
+   "fx": "none",
+   "sub": "Not just for dad, but for his own peace.",
+   "say": "नॉट जस्ट फॉर पापा, बट फॉर हिज़ ओन पीस."
+  },
+  {
+   "image": "Anand uncle nodding slowly, a serene expression, as if a great burden has been lifted.",
+   "speaker": "narrator",
+   "line": "His quiet life was a secret vow, finally fulfilled.",
+   "fx": "none",
+   "sub": "His quiet life was a secret vow, finally fulfilled.",
+   "say": "हिज़ क्वाइट लाइफ वाज़ अ सीक्रेट वाउ, फाइनली फुलफिल्ड."
+  },
+  {
+   "image": "Ishani sitting next to Anand uncle, both looking out the window, a comfortable silence now, filled with warmth.",
+   "speaker": "narrator",
+   "line": "I thought I was helping a stranger, a lonely soul.",
+   "fx": "none",
+   "sub": "I thought I was helping a stranger, a lonely soul.",
+   "say": "आई थॉट आई वाज़ हेल्पिंग अ स्ट्रेंजर, अ लोनली सोल."
+  },
+  {
+   "image": "Close-up on Ishani's face, a soft, loving smile as she looks at Anand uncle.",
+   "speaker": "narrator",
+   "line": "But he was my family's unseen guardian all along.",
+   "fx": "none",
+   "sub": "But he was my family's unseen guardian all along.",
+   "say": "बट ही वाज़ माई फैमिलीज़ अनसीन गार्जियन ऑल अलॉन्ग."
+  },
+  {
+   "image": "Anand uncle, looking peaceful, a gentle smile. The sun shines through the window, bathing him in warm light.",
+   "speaker": "narrator",
+   "line": "His silence held decades of pain, hope, and love.",
+   "fx": "none",
+   "sub": "His silence held decades of pain, hope, and love.",
+   "say": "हिज़ साइलेंस हेल्ड डेकेड्स ऑफ पेन, होप, एंड लव."
+  },
+  {
+   "image": "Ishani's hand gently resting on Anand uncle's hand, both looking content and connected.",
+   "speaker": "narrator",
+   "line": "A bond forged by a past I never knew existed.",
+   "fx": "none",
+   "sub": "A bond forged by a past I never knew existed.",
+   "say": "अ बॉन्ड फॉर्जेड बाय अ पास्ट आई नेवर न्यू एक्सिस्टेड."
+  },
+  {
+   "image": "Rajesh_Papa, smiling brightly, now enters and sees Ishani and Anand uncle together. His smile falters slightly in surprise.",
+   "speaker": "narrator",
+   "line": "Papa came over, saw us. His face changed.",
+   "fx": "none",
+   "sub": "Dad came over, saw us. His face changed.",
+   "say": "पापा केम ओवर, सॉ अस. हिज़ फेस चेंज्ड."
+  },
+  {
+   "image": "Rajesh_Papa's eyes widening as he recognizes Anand uncle. A mix of shock, guilt, and dawning recognition.",
+   "speaker": "narrator",
+   "line": "He instantly recognized his long-lost partner.",
+   "fx": "none",
+   "sub": "He instantly recognized his long-lost partner.",
+   "say": "ही इंस्टेंटली रेकग्नाइज्ड हिज़ लॉन्ग-लॉस्ट पार्टनर."
+  },
+  {
+   "image": "Close-up on Rajesh_Papa's face, tears welling up as he looks at Anand uncle, understanding everything without words.",
+   "speaker": "narrator",
+   "line": "Decades of unspoken history in one glance.",
+   "fx": "none",
+   "sub": "Decades of unspoken history in one glance.",
+   "say": "डेकेड्स ऑफ अनस्पोकन हिस्ट्री इन वन ग्लांस."
+  },
+  {
+   "image": "Rajesh_Papa slowly walking towards Anand uncle, extending his hand, his eyes filled with regret and emotion.",
+   "speaker": "narrator",
+   "line": "Papa's eyes were full of unshed tears.",
+   "fx": "none",
+   "sub": "Dad's eyes were full of unshed tears.",
+   "say": "पापा'स आईज़ वर फुल ऑफ अनशेड टियर्स."
+  },
+  {
+   "image": "Anand uncle rising slowly, meeting Rajesh_Papa's gaze with a gentle, forgiving smile. They clasp hands.",
+   "speaker": "narrator",
+   "line": "Anand uncle smiled, a deep, forgiving smile.",
+   "fx": "none",
+   "sub": "Anand uncle smiled, a deep, forgiving smile.",
+   "say": "आनंद अंकल स्माइल्ड, अ डीप, फॉरगिविंग स्माइल."
+  },
+  {
+   "image": "Ishani watching them, a profound sense of peace and joy on her face, tears of happiness streaming down.",
+   "speaker": "narrator",
+   "line": "A broken past, finally mended. A new beginning.",
+   "fx": "none",
+   "sub": "A broken past, finally mended. A new beginning.",
+   "say": "अ ब्रोकन पास्ट, फाइनली मेंडेड. अ न्यू बिगिनिंग."
+  },
+  {
+   "image": "The three of them, Ishani, Anand uncle, and Rajesh_Papa, sitting together on the porch, talking, laughing softly. The atmosphere is warm and joyful.",
+   "speaker": "narrator",
+   "line": "His lonely house was now full of warmth, family.",
+   "fx": "none",
+   "sub": "His lonely house was now full of warmth, family.",
+   "say": "हिज़ लोनली हाउस वाज़ नाउ फुल ऑफ वॉर्मथ, फैमिली."
+  },
+  {
+   "image": "Close-up of Ishani's hands, holding a cup of chai, looking thoughtful but content.",
+   "speaker": "narrator",
+   "line": "Every act of kindness truly has its own echoes.",
+   "fx": "none",
+   "sub": "Every act of kindness truly has its own echoes.",
+   "say": "एवरी एक्ट ऑफ काइंडनेस ट्रूली हैज़ इट्स ओन एकोस."
+  },
+  {
+   "image": "The house exterior, no longer looking lonely, but welcoming, with plants and soft light. The door is open.",
+   "speaker": "narrator",
+   "line": "Sometimes, those echoes are decades in the making.",
+   "fx": "none",
+   "sub": "Sometimes, those echoes are decades in the making.",
+   "say": "समटाइम्स, दोज़ एकोस आर डेकेड्स इन द मेकिंग."
+  },
+  {
+   "image": "Close-up on the new framed photograph, showing young Anand uncle and young Rajesh_Papa, now appearing less like a mystery and more like a cherished memory.",
+   "speaker": "narrator",
+   "line": "A beautiful, complicated way to mend a broken past.",
+   "fx": "none",
+   "sub": "A beautiful, complicated way to mend a broken past.",
+   "say": "अ ब्यूटीफुल, कॉम्प्लिकेटेड वे टू मेंड अ ब्रोकन पास्ट."
+  },
+  {
+   "image": "Ishani smiling warmly at the camera, a final, knowing look.",
+   "speaker": "narrator",
+   "line": "What would you do if you discovered such a hidden connection?",
+   "fx": "none",
+   "sub": "What would you do if you discovered such a hidden connection?",
+   "say": "व्हाट वुड यू डू इफ यू डिस्कवर्ड सच अ हिडन कनेक्शन?"
+  }
+ ],
+ "caption": "I helped a lonely old man. His secret changed everything. 💔",
+ "slug": "2026-11-11_part3",
+ "story_no": 46,
+ "yt_title": "I helped a lonely old man. His secret changed everything. 💔",
+ "description": "I met an old man who seemed utterly alone. My kindness was a small gesture, I thought. But his past held a secret that tied our families together in a way I never imagined. What would you do if you discovered such a hidden connection?",
+ "comment_question": "What would you do if you discovered such a hidden connection?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiastory",
+  "#twistending",
+  "#familysecrets",
+  "#redemption",
+  "#kindness",
+  "#unseenhero",
+  "#lifechanging",
+  "#heartwarming",
+  "#pastrevealed"
+ ]
+}
