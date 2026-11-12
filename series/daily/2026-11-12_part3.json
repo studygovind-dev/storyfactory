@@ -1,0 +1,609 @@
+{
+ "series": "The Chalkboard's Silent Vow",
+ "episode": 3,
+ "title": "The Chalkboard's Silent Vow",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, mid-20s, graceful, pretty, long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta, fair, light wheatish skin and bright soft light on the face.",
+   "voice": "hindi_female_young"
+  },
+  "Priya": {
+   "look": "Young woman, mid-20s, graceful, pretty, long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta, fair, light wheatish skin and bright soft light on the face.",
+   "voice": "hindi_female_young"
+  },
+  "Ms. Anjali": {
+   "look": "Woman, early 40s, serene, kind eyes, slightly melancholic smile, simple cotton saree, light wheatish skin and bright soft light on the face.",
+   "voice": "hindi_narrator_male"
+  },
+  "Ramuji": {
+   "look": "Old man, 60s, wrinkled face, simple dhoti-kurta, white hair, darker skin tone.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HER SILENT SACRIFICE",
+ "scenes": [
+  {
+   "image": "[[Priya]] close-up, a single tear rolling down her cheek, regretful expression, soft light.",
+   "speaker": "narrator",
+   "line": "My teacher changed my life, but I destroyed hers.",
+   "fx": "none",
+   "sub": "My teacher changed my life, but I destroyed hers.",
+   "say": "मेरी टीचर ने मेरी ज़िंदगी बदली, पर मैंने उनकी बर्बाद की."
+  },
+  {
+   "image": "Young [[Priya]] (15, messy hair, defiant look) sitting alone in an empty classroom, sunbeams on dusty floor.",
+   "speaker": "narrator",
+   "line": "I was a difficult student, ekdum ziddi aur bigdi hui.",
+   "fx": "dust",
+   "sub": "I was a difficult student, very stubborn and rebellious.",
+   "say": "मैं एक डिफिकल्ट स्टूडेंट थी, एकदम ज़िद्दी और बिगड़ी हुई."
+  },
+  {
+   "image": "[[Ms. Anjali]] gently places a hand on young [[Priya]]'s shoulder, smiling kindly, light on her face.",
+   "speaker": "narrator",
+   "line": "Sab mujhe chhod dete the, except Anjali Miss.",
+   "fx": "none",
+   "sub": "Everyone gave up on me, except Anjali Miss.",
+   "say": "सब मुझे छोड़ देते थे, एक्सेप्ट अंजली मिस."
+  },
+  {
+   "image": "[[Ms. Anjali]] teaching, her eyes fixed on young [[Priya]] who is actually paying attention, in a rustic classroom.",
+   "speaker": "narrator",
+   "line": "She saw something in me, jo koi nahi dekh paya.",
+   "fx": "dust",
+   "sub": "She saw something in me that no one else could see.",
+   "say": "उन्होंने मुझमें कुछ देखा, जो कोई नहीं देख पाया."
+  },
+  {
+   "image": "[[Ms. Anjali]] hands young [[Priya]] a textbook, a hopeful, gentle look, sunlit classroom.",
+   "speaker": "narrator",
+   "line": "She helped me study, pushed me towards success.",
+   "fx": "dust",
+   "sub": "She helped me study, pushed me towards success.",
+   "say": "उन्होंने मुझे पढ़ने में मदद की, सक्सेस की ओर धकेला."
+  },
+  {
+   "image": "[[Priya]] (now adult) standing confidently in a modern architect's office, city skyline visible through a large window.",
+   "speaker": "narrator",
+   "line": "Years later, I was a successful architect.",
+   "fx": "none",
+   "sub": "Years later, I was a successful architect.",
+   "say": "सालों बाद, मैं एक सक्सेसफुल आर्किटेक्ट थी."
+  },
+  {
+   "image": "[[Priya]] looking at an old, framed photo of [[Ms. Anjali]] with students, a nostalgic smile, warm light on her face.",
+   "speaker": "narrator",
+   "line": "Lekin ek cheez thi, jo chubhti thi.",
+   "fx": "none",
+   "sub": "But there was one thing that bothered me.",
+   "say": "लेकिन एक चीज़ थी, जो चुभती थी."
+  },
+  {
+   "image": "[[Priya]] in a car, looking out at a changing rural landscape, reflective mood.",
+   "speaker": "narrator",
+   "line": "Maine decide kiya, I had to go back.",
+   "fx": "none",
+   "sub": "I decided, I had to go back.",
+   "say": "मैंने डिसाइड किया, आई हैड टू गो बैक."
+  },
+  {
+   "image": "Old, rustic school building, slightly dilapidated, but familiar, bathed in soft afternoon light.",
+   "speaker": "narrator",
+   "line": "Back to my small town, to thank her.",
+   "fx": "none",
+   "sub": "Back to my small town, to thank her.",
+   "say": "अपने छोटे शहर वापस, उन्हें थैंक करने."
+  },
+  {
+   "image": "[[Priya]] walks through the dusty school gates, looking emotional and determined.",
+   "speaker": "narrator",
+   "line": "The school looked exactly the same, almost.",
+   "fx": "dust",
+   "sub": "The school looked exactly the same, almost.",
+   "say": "स्कूल बिल्कुल वैसा ही दिखा, लगभग."
+  },
+  {
+   "image": "[[Ms. Anjali]] teaching a class of young students, smiling warmly, holding a piece of chalk.",
+   "speaker": "narrator",
+   "line": "Aur wahan thi Anjali Miss, still teaching.",
+   "fx": "dust",
+   "sub": "And there was Anjali Miss, still teaching.",
+   "say": "और वहां थी अंजली मिस, स्टिल टीचिंग."
+  },
+  {
+   "image": "[[Priya]] stands at the classroom door, tears welling up in her eyes, a hand over her mouth.",
+   "speaker": "narrator",
+   "line": "My heart swelled with gratitude, and pride.",
+   "fx": "none",
+   "sub": "My heart swelled with gratitude, and pride.",
+   "say": "मेरा दिल थैंकफुलनेस से भर गया, और प्राउड से."
+  },
+  {
+   "image": "[[Ms. Anjali]] turns, sees [[Priya]], her eyes widen in surprise, then a gentle smile of recognition.",
+   "speaker": "Priya",
+   "line": "Anjali Miss! Main Priya! Yaad hai na?",
+   "fx": "none",
+   "sub": "Anjali Miss! It's me, Priya! You remember, right?",
+   "say": "अंजली मिस! मैं प्रिया! याद है ना?"
+  },
+  {
+   "image": "[[Ms. Anjali]] embracing [[Priya]] warmly, a rare, tender hug, both smiling through tears.",
+   "speaker": "Ms. Anjali",
+   "line": "Meri Anjali. Of course! Tum itni badi ho gayi.",
+   "fx": "none",
+   "sub": "My Anjali. Of course! You've grown so big.",
+   "say": "मेरी अंजली. ऑफ़ कोर्स! तुम इतनी बड़ी हो गई."
+  },
+  {
+   "image": "[[Priya]] and [[Ms. Anjali]] sitting on a school bench, talking animatedly, shared laughter.",
+   "speaker": "narrator",
+   "line": "We talked for hours, catching up on everything.",
+   "fx": "none",
+   "sub": "We talked for hours, catching up on everything.",
+   "say": "हमने घंटों बात की, सब कुछ बताया."
+  },
+  {
+   "image": "Close-up on [[Ms. Anjali]]'s hands, simple, a bit worn, no rings, resting on her lap.",
+   "speaker": "narrator",
+   "line": "She seemed content, but ek udasi thi.",
+   "fx": "none",
+   "sub": "She seemed content, but there was a sadness.",
+   "say": "वो कंटेंट दिख रही थी, पर एक उदासी थी."
+  },
+  {
+   "image": "[[Priya]] looking at [[Ms. Anjali]] with concern, Ms. Anjali looking away thoughtfully, a distant look.",
+   "speaker": "narrator",
+   "line": "I noticed she was still single, no family.",
+   "fx": "none",
+   "sub": "I noticed she was still single, no family.",
+   "say": "मैंने देखा वो अभी भी सिंगल थी, कोई फैमिली नहीं."
+  },
+  {
+   "image": "[[Priya]] in a bustling village cafe, looking thoughtful, determined, sipping tea.",
+   "speaker": "narrator",
+   "line": "Maine socha, I must help her find happiness.",
+   "fx": "none",
+   "sub": "I thought, I must help her find happiness.",
+   "say": "मैंने सोचा, आई मस्ट हेल्प हर फाइंड हैपिनेस."
+  },
+  {
+   "image": "[[Priya]] talking to an old school peon, [[Ramuji]], discreetly in a quiet corner of the schoolyard.",
+   "speaker": "narrator",
+   "line": "Next day, main Ramuji se mili, school ke peon.",
+   "fx": "none",
+   "sub": "Next day, I met Ramuji, the school peon.",
+   "say": "अगले दिन, मैं रामूजी से मिली, स्कूल के प्यून."
+  },
+  {
+   "image": "[[Ramuji]] looks surprised by the question, then a bit hesitant to speak, looking around.",
+   "speaker": "Priya",
+   "line": "Ramuji, Anjali Miss ne shaadi nahi ki?",
+   "fx": "none",
+   "sub": "Ramuji, Anjali Miss didn't get married?",
+   "say": "रामूजी, अंजली मिस ने शादी नहीं की?"
+  },
+  {
+   "image": "[[Ramuji]] sighs, shakes his head slowly, a look of pity on his face.",
+   "speaker": "Ramuji",
+   "line": "Nah, bitiya. Unki kismat hi aisi thi.",
+   "fx": "none",
+   "sub": "No, daughter. Her fate was like that.",
+   "say": "नाह, बिटिया. उनकी किस्मत ही ऐसी थी."
+  },
+  {
+   "image": "Flashback: A younger [[Ms. Anjali]] (late 20s) holding a framed photo of a handsome man, looking torn, wistful.",
+   "speaker": "Ramuji",
+   "line": "Unki shaadi hone wali thi, bade sheher mein.",
+   "fx": "none",
+   "sub": "She was going to get married, in a big city.",
+   "say": "उनकी शादी होने वाली थी, बड़े शहर में."
+  },
+  {
+   "image": "Close-up of the faded photo of the handsome man, smiling confidently.",
+   "speaker": "Ramuji",
+   "line": "A wealthy engineer, ekdum perfect match.",
+   "fx": "none",
+   "sub": "A wealthy engineer, a perfectly ideal match.",
+   "say": "एक वेल्थी इंजीनियर, एकदम परफेक्ट मैच."
+  },
+  {
+   "image": "[[Priya]] listening intently, shocked expression, her hand to her chest.",
+   "speaker": "Priya",
+   "line": "Phir kya hua, Ramuji? Why didn't it happen?",
+   "fx": "none",
+   "sub": "Then what happened, Ramuji? Why didn't it happen?",
+   "say": "फिर क्या हुआ, रामूजी? व्हाई डिडन'ट इट हैपन?"
+  },
+  {
+   "image": "[[Ramuji]] looks sad, a distant look in his eyes, as if remembering a painful past.",
+   "speaker": "Ramuji",
+   "line": "Ladke wale chahte the, Miss gaon chhod de.",
+   "fx": "none",
+   "sub": "The boy's family wanted Miss to leave the village.",
+   "say": "लड़के वाले चाहते थे, मिस गाँव छोड़ दे."
+  },
+  {
+   "image": "Flashback: [[Ms. Anjali]] (younger) looking determined, shaking her head firmly, rejecting an offer.",
+   "speaker": "Ramuji",
+   "line": "Lekin Anjali Miss ko yeh manzoor nahi tha.",
+   "fx": "none",
+   "sub": "But Anjali Miss did not agree to this.",
+   "say": "लेकिन अंजली मिस को यह मंजूर नहीं था."
+  },
+  {
+   "image": "[[Priya]]'s face, confused and deeply curious, furrowed brows.",
+   "speaker": "Priya",
+   "line": "Why not? She could have had a great life!",
+   "fx": "none",
+   "sub": "Why not? She could have had a great life!",
+   "say": "क्यों नहीं? शी कुड हैव हैड अ ग्रेट लाइफ!"
+  },
+  {
+   "image": "[[Ramuji]] looks directly at [[Priya]], a knowing, sad look in his eyes.",
+   "speaker": "Ramuji",
+   "line": "Unki wajah thi, Miss. Unke students.",
+   "fx": "none",
+   "sub": "There was a reason, Miss. Her students.",
+   "say": "उनकी वजह थी, मिस. उनके स्टूडेंट्स."
+  },
+  {
+   "image": "Flashback: Young [[Ms. Anjali]] teaching passionately in a small village classroom, young [[Priya]] in the front row, looking rebellious but listening.",
+   "speaker": "Ramuji",
+   "line": "Woh kehti thi, kuch bache unki zimmedari hain.",
+   "fx": "dust",
+   "sub": "She used to say, some children were her responsibility.",
+   "say": "वो कहती थी, कुछ बच्चे उनकी ज़िम्मेदारी हैं."
+  },
+  {
+   "image": "[[Priya]]'s face, a dawning realization, eyes wide with sudden fear and understanding.",
+   "speaker": "Priya",
+   "line": "Responsibility? For whom?",
+   "fx": "none",
+   "sub": "Responsibility? For whom?",
+   "say": "रिस्पॉन्सिबिलिटी? फॉर हूम?"
+  },
+  {
+   "image": "[[Ramuji]]'s sad, gentle smile, looking directly at [[Priya]], a hint of apology in his eyes.",
+   "speaker": "Ramuji",
+   "line": "Ek khaas student thi, Miss. Badi mushkil.",
+   "fx": "none",
+   "sub": "There was one special student, Miss. Very difficult.",
+   "say": "एक ख़ास स्टूडेंट थी, मिस. बड़ी मुश्किल."
+  },
+  {
+   "image": "Close-up on young [[Priya]]'s defiant face in the classroom flashback, isolated from other students, looking troubled.",
+   "speaker": "Ramuji",
+   "line": "Usne school chhoda toh barbaad ho jaati.",
+   "fx": "dust",
+   "sub": "If she left school, she would have been ruined.",
+   "say": "उसने स्कूल छोड़ा तो बर्बाद हो जाती."
+  },
+  {
+   "image": "[[Priya]]'s shocked expression, gasping, hands covering her mouth.",
+   "speaker": "Priya",
+   "line": "Ramuji, aap kiski baat kar rahe ho?",
+   "fx": "none",
+   "sub": "Ramuji, who are you talking about?",
+   "say": "रामूजी, आप किसकी बात कर रहे हो?"
+  },
+  {
+   "image": "[[Ramuji]] points a finger directly at [[Priya]], his gaze firm and regretful.",
+   "speaker": "Ramuji",
+   "line": "Aapki, bitiya. Anjali Miss ne aapke liye kiya.",
+   "fx": "none",
+   "sub": "Yours, daughter. Anjali Miss did it for you.",
+   "say": "आपकी, बिटिया. अंजली मिस ने आपके लिए किया."
+  },
+  {
+   "image": "[[Priya]]'s face, utterly stunned, disbelief turning into horror, tears welling up.",
+   "speaker": "Priya",
+   "line": "Meri wajah se? Woh shaadi nahi hui?",
+   "fx": "none",
+   "sub": "Because of me? That marriage didn't happen?",
+   "say": "मेरी वजह से? वो शादी नहीं हुई?"
+  },
+  {
+   "image": "Flashback: A younger [[Ms. Anjali]] looking distraught, holding an open letter, face etched with pain, soft light.",
+   "speaker": "Ramuji",
+   "line": "Ladke wale ne ultimatum de diya tha.",
+   "fx": "none",
+   "sub": "The groom's family had given an ultimatum.",
+   "say": "लड़के वाले ने अल्टीमेटम दे दिया था."
+  },
+  {
+   "image": "Flashback: Close-up of the letter, clear ultimatum text 'Leave the village or lose him,' blurred background of a crying woman.",
+   "speaker": "Ramuji",
+   "line": "Either leave the village, or lose him.",
+   "fx": "none",
+   "sub": "Either leave the village, or lose him.",
+   "say": "आइदर लीव द विलेज, ऑर लूज़ हिम."
+  },
+  {
+   "image": "Flashback: [[Ms. Anjali]] looking at a class photo with young [[Priya]] prominently in it, a resolute but sad expression.",
+   "speaker": "Ramuji",
+   "line": "Aur Miss ne aapko chuna, apni zindagi chhod di.",
+   "fx": "none",
+   "sub": "And Miss chose you, gave up her own life.",
+   "say": "और मिस ने आपको चुना, अपनी ज़िंदगी छोड़ दी."
+  },
+  {
+   "image": "[[Priya]] is visibly trembling, tears streaming down her face, profound guilt showing.",
+   "speaker": "Priya",
+   "line": "No... this can't be true. Yeh sach nahi.",
+   "fx": "none",
+   "sub": "No... this can't be true. This isn't true.",
+   "say": "नो... दिस कैन'ट बी ट्रू. ये सच नहीं."
+  },
+  {
+   "image": "[[Ramuji]] places a comforting hand on [[Priya]]'s arm, sad but firm gaze, in the schoolyard.",
+   "speaker": "Ramuji",
+   "line": "Unki aankhon mein maine dekha, bitiya.",
+   "fx": "none",
+   "sub": "I saw it in her eyes, daughter.",
+   "say": "उनकी आँखों में मैंने देखा, बिटिया."
+  },
+  {
+   "image": "Close-up on [[Priya]]'s face, anguish and profound guilt, tears blurring her vision.",
+   "speaker": "narrator",
+   "line": "All this time, I thought I was grateful.",
+   "fx": "none",
+   "sub": "All this time, I thought I was grateful.",
+   "say": "ऑल दिस टाइम, आई थॉट आई वॉज़ ग्रेटफुल."
+  },
+  {
+   "image": "Flashback: Young [[Priya]] running away from school, looking angry and defiant. [[Ms. Anjali]] watching her from a distance, looking worried and sad.",
+   "speaker": "narrator",
+   "line": "I was the reason her future vanished.",
+   "fx": "none",
+   "sub": "I was the reason her future vanished.",
+   "say": "मैं थी रीज़न उनका फ्यूचर वैनिश हुआ."
+  },
+  {
+   "image": "[[Priya]] walks slowly towards [[Ms. Anjali]]'s modest, rustic home, head bowed, lost in thought, heavy steps.",
+   "speaker": "narrator",
+   "line": "I walked towards her simple house, guilt heavy.",
+   "fx": "none",
+   "sub": "I walked towards her simple house, guilt heavy.",
+   "say": "मैं उनके सिंपल हाउस की ओर चली, गिल्ट भारी."
+  },
+  {
+   "image": "[[Ms. Anjali]] is watering plants in her small, humble garden, looking peaceful and content, bathed in soft sunlight.",
+   "speaker": "narrator",
+   "line": "There she was, peaceful, completely unaware.",
+   "fx": "none",
+   "sub": "There she was, peaceful, completely unaware.",
+   "say": "वहां वो थी, पीसफुल, कम्प्लीटली अनअवेयर."
+  },
+  {
+   "image": "[[Priya]] stands behind [[Ms. Anjali]], unable to speak, tears flowing silently down her face, heartbroken.",
+   "speaker": "narrator",
+   "line": "How could I ever repay such a sacrifice?",
+   "fx": "none",
+   "sub": "How could I ever repay such a sacrifice?",
+   "say": "हाउ कुड आई एवर रिपे सच अ सैक्रिफाइस?"
+  },
+  {
+   "image": "[[Ms. Anjali]] turns, sees [[Priya]] crying, looks concerned and rushes to her.",
+   "speaker": "Ms. Anjali",
+   "line": "Priya? Kya hua? Tum ro rahi ho?",
+   "fx": "none",
+   "sub": "Priya? What happened? Are you crying?",
+   "say": "प्रिया? क्या हुआ? तुम रो रही हो?"
+  },
+  {
+   "image": "[[Priya]] embraces [[Ms. Anjali]] tightly, sobbing into her shoulder, clutching her teacher's saree.",
+   "speaker": "Priya",
+   "line": "Miss... I am so, so sorry.",
+   "fx": "none",
+   "sub": "Miss... I am so, so sorry.",
+   "say": "मिस... आई एम सो, सो सॉरी."
+  },
+  {
+   "image": "[[Ms. Anjali]] gently pats [[Priya]]'s back, confused but comforting, a tender expression.",
+   "speaker": "Ms. Anjali",
+   "line": "Kya hua, meri beti? Batao mujhe.",
+   "fx": "none",
+   "sub": "What happened, my daughter? Tell me.",
+   "say": "क्या हुआ, मेरी बेटी? बताओ मुझे."
+  },
+  {
+   "image": "Close-up on [[Priya]]'s face, resolute, looking at [[Ms. Anjali]], tears still in her eyes but a firm jaw.",
+   "speaker": "narrator",
+   "line": "I knew I couldn't tell her the truth.",
+   "fx": "none",
+   "sub": "I knew I couldn't tell her the truth.",
+   "say": "मैं जानती थी मैं उन्हें सच नहीं बता सकती."
+  },
+  {
+   "image": "[[Priya]] wipes her tears, forcing a smile, but her eyes are still sad and full of love for her teacher.",
+   "speaker": "Priya",
+   "line": "Bas... bas aapko dekh kar emotional ho gayi.",
+   "fx": "none",
+   "sub": "Just... just got emotional seeing you.",
+   "say": "बस... बस आपको देख कर इमोशनल हो गई."
+  },
+  {
+   "image": "[[Priya]] holds [[Ms. Anjali]]'s hands, looking determined and loving, deep respect in her gaze.",
+   "speaker": "Priya",
+   "line": "Aapne mujhe ek zindagi di, Miss.",
+   "fx": "none",
+   "sub": "You gave me a life, Miss.",
+   "say": "आपने मुझे एक ज़िंदगी दी, मिस."
+  },
+  {
+   "image": "[[Ms. Anjali]] smiles gently, touched by Priya's words, her eyes soft.",
+   "speaker": "Ms. Anjali",
+   "line": "Tumhara mehnat tha, beti. Meri nahi.",
+   "fx": "none",
+   "sub": "It was your hard work, daughter. Not mine.",
+   "say": "तुम्हारा मेहनत था, बेटी. मेरी नहीं."
+  },
+  {
+   "image": "[[Priya]]'s face, a mix of pain and love, looking at her teacher, making a silent decision.",
+   "speaker": "narrator",
+   "line": "Us din I made a new vow to myself.",
+   "fx": "none",
+   "sub": "That day I made a new vow to myself.",
+   "say": "उस दिन आई मेड अ न्यू वाउ टू मायसेल्फ."
+  },
+  {
+   "image": "[[Priya]] talking to a group of villagers and school officials, pointing towards the school building, a blueprint in her hand.",
+   "speaker": "narrator",
+   "line": "I started a foundation, named after her.",
+   "fx": "none",
+   "sub": "I started a foundation, named after her.",
+   "say": "मैंने एक फाउंडेशन स्टार्ट किया, उनके नाम पर."
+  },
+  {
+   "image": "Children studying diligently in a newly renovated, bright classroom, filled with light, Ms. Anjali smiling proudly in the background.",
+   "speaker": "narrator",
+   "line": "To provide education, opportunities, hope.",
+   "fx": "dust",
+   "sub": "To provide education, opportunities, hope.",
+   "say": "एजुकेशन प्रोवाइड करने, ओपोर्चुनिटीज़, होप."
+  },
+  {
+   "image": "[[Ms. Anjali]] smiling proudly, watching the happy children in the new classroom, her face glowing.",
+   "speaker": "narrator",
+   "line": "I ensured she had all comforts, no worries.",
+   "fx": "dust",
+   "sub": "I ensured she had all comforts, no worries.",
+   "say": "मैंने सुनिश्चित किया उन्हें सब कम्फर्ट्स हों, नो वरीज़."
+  },
+  {
+   "image": "[[Priya]] and [[Ms. Anjali]] walking through a lush school garden, built by Priya's foundation, laughing together happily.",
+   "speaker": "narrator",
+   "line": "We built a beautiful garden for her school.",
+   "fx": "none",
+   "sub": "We built a beautiful garden for her school.",
+   "say": "हमने उनके स्कूल के लिए एक ब्यूटीफुल गार्डन बनाया."
+  },
+  {
+   "image": "Close-up on [[Ms. Anjali]]'s serene face, looking truly happy and at peace, eyes sparkling.",
+   "speaker": "narrator",
+   "line": "Her smile was the greatest reward for me.",
+   "fx": "none",
+   "sub": "Her smile was the greatest reward for me.",
+   "say": "उनकी स्माइल मेरे लिए सबसे बड़ा रिवॉर्ड था."
+  },
+  {
+   "image": "[[Priya]] looking at [[Ms. Anjali]] with deep love and respect, a silent promise in her eyes.",
+   "speaker": "narrator",
+   "line": "She never knew the truth, and she never would.",
+   "fx": "none",
+   "sub": "She never knew the truth, and she never would.",
+   "say": "वो कभी सच नहीं जानती थी, और वो कभी नहीं जानती."
+  },
+  {
+   "image": "[[Priya]] holds a simple silver locket, looking wistful, a reflection of light on its surface.",
+   "speaker": "narrator",
+   "line": "That secret stayed buried in my heart.",
+   "fx": "none",
+   "sub": "That secret stayed buried in my heart.",
+   "say": "वो सीक्रेट मेरे हार्ट में दफन रहा."
+  },
+  {
+   "image": "Old, torn photo of young [[Ms. Anjali]] and her handsome fiancé, the tear running through his face.",
+   "speaker": "narrator",
+   "line": "The weight of her sacrifice was immense.",
+   "fx": "none",
+   "sub": "The weight of her sacrifice was immense.",
+   "say": "उनके सैक्रिफाइस का वज़न बहुत बड़ा था."
+  },
+  {
+   "image": "[[Priya]] looking out a window, reflecting, a quiet strength and maturity in her eyes, city lights in background.",
+   "speaker": "narrator",
+   "line": "But it taught me true love, real dedication.",
+   "fx": "none",
+   "sub": "But it taught me true love, real dedication.",
+   "say": "पर इसने मुझे ट्रू लव सिखाया, रियल डेडिकेशन."
+  },
+  {
+   "image": "[[Ms. Anjali]] stands by a chalkboard, writing 'Thank You, students' in Hindi (धन्यवाद, छात्रों) with chalk, a gentle smile.",
+   "speaker": "narrator",
+   "line": "She changed my life, aur main badal gayi.",
+   "fx": "dust",
+   "sub": "She changed my life, and I was transformed.",
+   "say": "उन्होंने मेरी ज़िंदगी बदली, और मैं बदल गई."
+  },
+  {
+   "image": "[[Priya]] looking at a framed photo of [[Ms. Anjali]] in her beautiful home, a respectful, loving gaze.",
+   "speaker": "narrator",
+   "line": "The path I chose, was her legacy.",
+   "fx": "none",
+   "sub": "The path I chose, was her legacy.",
+   "say": "जो पथ मैंने चुना, वो उनका लेगसी था."
+  },
+  {
+   "image": "Close-up of [[Priya]]'s hands, making a silent promise gesture, hands clasped over her heart.",
+   "speaker": "narrator",
+   "line": "I promised to live a life worthy of her.",
+   "fx": "none",
+   "sub": "I promised to live a life worthy of her.",
+   "say": "मैंने प्रॉमिस किया एक ऐसी ज़िंदगी जीने का जो उनके लायक हो."
+  },
+  {
+   "image": "[[Ms. Anjali]] smiling, surrounded by happy children, all looking up at her with adoration, sunbeams streaming.",
+   "speaker": "narrator",
+   "line": "Her life was a lesson in selflessness.",
+   "fx": "dust",
+   "sub": "Her life was a lesson in selflessness.",
+   "say": "उनकी ज़िंदगी सेल्फलेसनेस का एक लेसन थी."
+  },
+  {
+   "image": "[[Priya]] (narrator) looks directly at the camera, a soft, poignant smile, conveying deep emotion.",
+   "speaker": "narrator",
+   "line": "Sometimes, true heroes hide in plain sight.",
+   "fx": "none",
+   "sub": "Sometimes, true heroes hide in plain sight.",
+   "say": "कभी-कभी, सच्चे हीरोज सादी नजर में छिपे होते हैं."
+  },
+  {
+   "image": "A hand (presumably [[Ms. Anjali]]'s) writing 'Priya' (प्रिया) on a dusty blackboard, a ray of light illuminating the name.",
+   "speaker": "narrator",
+   "line": "On a chalkboard, etched in time, forever.",
+   "fx": "dust",
+   "sub": "On a chalkboard, etched in time, forever.",
+   "say": "एक चाकबोर्ड पर, समय में खुदा हुआ, हमेशा के लिए."
+  },
+  {
+   "image": "[[Priya]] looking peaceful, determined, gazing into the distance, a thoughtful expression on her face.",
+   "speaker": "narrator",
+   "line": "My purpose now, was her happiness.",
+   "fx": "none",
+   "sub": "My purpose now, was her happiness.",
+   "say": "मेरा परपस अब, उनकी खुशी थी."
+  },
+  {
+   "image": "[[Priya]] (narrator) looking thoughtfully at the camera, a gentle, inviting expression.",
+   "speaker": "narrator",
+   "line": "Would you make such a sacrifice for someone?",
+   "fx": "none",
+   "sub": "Would you make such a sacrifice for someone?",
+   "say": "क्या आप किसी के लिए ऐसा सैक्रिफाइस करेंगे?"
+  }
+ ],
+ "caption": "My Teacher Changed My Life... But I Destroyed Hers 💔",
+ "slug": "2026-11-12_part3",
+ "story_no": 49,
+ "yt_title": "My Teacher Changed My Life... But I Destroyed Hers 💔",
+ "description": "I thought I returned to thank my teacher for everything. But then I discovered a heartbreaking secret that changed everything. Will she ever know the truth?",
+ "comment_question": "Would you make such a sacrifice for someone?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#teacher",
+  "#sacrifice",
+  "#twistending",
+  "#indianstory",
+  "#inspiration",
+  "#gratitude",
+  "#lifelessons",
+  "#silenthero",
+  "#emotional"
+ ]
+}

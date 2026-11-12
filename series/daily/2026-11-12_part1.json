@@ -1,0 +1,609 @@
+{
+ "series": "Raju's Return: The Monkey's Silent Plea",
+ "episode": 1,
+ "title": "Raju's Return: The Monkey's Silent Plea",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, around 25-28, fair, light wheatish skin, long soft wavy dark-brown hair, natural makeup, small bindi, simple yet elegant pastel blue cotton kurta with delicate embroidery, matching churidar, and a light dupatta. Warm, expressive eyes.",
+   "voice": "hindi_narrator_female"
+  },
+  "Anu": {
+   "look": "Infant, around 8 months old, chubby, innocent face, bright curious dark eyes, soft dark hair, dressed in a cute yellow romper.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Raju": {
+   "look": "Adult male Grey Langur (Hanuman Langur), greyish-brown fur, black face, long tail, expressive and intelligent eyes.",
+   "voice": "hindi_narrator_male"
+  },
+  "Raju's_baby": {
+   "look": "Small, frail Grey Langur infant, lighter fur, smaller black face.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "THE MONKEY'S RETURN",
+ "scenes": [
+  {
+   "image": "Close-up of a baby's empty milk bottle being snatched by a monkey's hand, while a young woman's hand reaches out in shock, eyes wide. Intense moment, bottle suspended in air.",
+   "speaker": "narrator",
+   "line": "Ek bandar ne mere baby ki bottle chura li...",
+   "fx": "none",
+   "sub": "A monkey stole my baby's bottle...",
+   "say": "एक बंदर ने मेरे बेबी की बॉटल चुरा ली..."
+  },
+  {
+   "image": "Young woman, Meena, with a gentle smile, cradling her baby Anu in her arms, sunlight streaming into their cozy, simple home. Soft, loving gaze.",
+   "speaker": "narrator",
+   "line": "It was a normal morning, like any other.",
+   "fx": "none",
+   "sub": "It was a normal morning, like any other.",
+   "say": "इट वाज़ अ नॉर्मल मॉर्निंग, लाइक एनी अदर."
+  },
+  {
+   "image": "Close-up of baby Anu stretching and yawning cutely in her crib, a soft blanket around her.",
+   "speaker": "narrator",
+   "line": "My little Anu was just waking up.",
+   "fx": "none",
+   "sub": "My little Anu was just waking up.",
+   "say": "माई लिटिल अनु वॉज़ जस्ट वेकिंग अप."
+  },
+  {
+   "image": "Meena's face, smiling softly, listening intently, hint of joy, as soft cooing sounds are heard.",
+   "speaker": "narrator",
+   "line": "Her sweet coos filled our small home.",
+   "fx": "none",
+   "sub": "Her sweet coos filled our small home.",
+   "say": "हर स्वीट कूज़ फिल्ड आवर स्मॉल होम."
+  },
+  {
+   "image": "Meena sits by the window, looking content, holding Anu's tiny hand, a serene expression.",
+   "speaker": "narrator",
+   "line": "I loved these quiet, peaceful moments.",
+   "fx": "none",
+   "sub": "I loved these quiet, peaceful moments.",
+   "say": "आई लव्ड दीज़ क्वाइट, पीसफुल मोमेंट्स."
+  },
+  {
+   "image": "Wide shot of Meena's home, simple but charming, nestled at the edge of a lush, vibrant jungle. Greenery visible everywhere.",
+   "speaker": "narrator",
+   "line": "Our home was surrounded by lush nature.",
+   "fx": "none",
+   "sub": "Our home was surrounded by lush nature.",
+   "say": "आवर होम वॉज़ सराउंडेड बाय लश नेचर."
+  },
+  {
+   "image": "A grey langur monkey, Raju, sitting calmly on a tree branch near the house, looking towards the window.",
+   "speaker": "narrator",
+   "line": "Monkeys often visited from the jungle.",
+   "fx": "none",
+   "sub": "Monkeys often visited from the jungle.",
+   "say": "मंकीज़ ऑफन विजिटेड फ्रॉम द जंगल."
+  },
+  {
+   "image": "Meena looking out the window, a thoughtful expression, watching a monkey in the distance, but not interacting.",
+   "speaker": "narrator",
+   "line": "I usually just watched them from afar.",
+   "fx": "none",
+   "sub": "I usually just watched them from afar.",
+   "say": "आई यूज़ुअली जस्ट वॉच्ड देम फ्रॉम अफ़ार."
+  },
+  {
+   "image": "Close-up of baby Anu's mouth opening, a clear hungry expression, little hands reaching out.",
+   "speaker": "narrator",
+   "line": "Today, Anu was hungry, ready for milk.",
+   "fx": "none",
+   "sub": "Today, Anu was hungry, ready for milk.",
+   "say": "टुडे, अनु वॉज़ हंग्री, रेडी फॉर मिल्क."
+  },
+  {
+   "image": "Meena, in her kitchen, carefully pouring warm milk into a baby bottle, a focused expression.",
+   "speaker": "narrator",
+   "line": "I quickly prepared her warm bottle.",
+   "fx": "none",
+   "sub": "I quickly prepared her warm bottle.",
+   "say": "आई क्विकली प्रिपेयर्ड हर वॉर्म बॉटल."
+  },
+  {
+   "image": "Meena turns from the counter, bottle in hand, and suddenly freezes, her eyes wide with surprise.",
+   "speaker": "narrator",
+   "line": "Just then, a shadow flickered nearby.",
+   "fx": "none",
+   "sub": "Just then, a shadow flickered nearby.",
+   "say": "जस्ट देन, अ शैडो फ्लिकर्ड नियरबाई."
+  },
+  {
+   "image": "Raju, the langur monkey, perched on the window sill, peering intently at the milk bottle in Meena's hand, eyes focused.",
+   "speaker": "narrator",
+   "line": "A langur monkey, named Raju, was there.",
+   "fx": "none",
+   "sub": "A langur monkey, named Raju, was there.",
+   "say": "अ लंगूर मंकी, नेम्ड राजू, वॉज़ देयर."
+  },
+  {
+   "image": "Close-up, fast action shot: Raju's hand swiftly snatching the bottle from Meena's grasp, Meena's fingers just missing it.",
+   "speaker": "narrator",
+   "line": "Before I could react, it snatched it.",
+   "fx": "none",
+   "sub": "Before I could react, it snatched it.",
+   "say": "बिफोर आई कुड रिएक्ट, इट स्नैच्ड इट."
+  },
+  {
+   "image": "Meena's face, jaw dropped, eyes wide with pure shock and disbelief, looking at her empty hands.",
+   "speaker": "narrator",
+   "line": "Anu's bottle, gone in a flash!",
+   "fx": "none",
+   "sub": "Anu's bottle, gone in a flash!",
+   "say": "अनु'स बॉटल, गॉन इन अ फ्लैश!"
+  },
+  {
+   "image": "Meena clutches her chest, looking pained, her expression a mix of shock and budding panic.",
+   "speaker": "narrator",
+   "line": "My heart pounded, pure disbelief.",
+   "fx": "none",
+   "sub": "My heart pounded, pure disbelief.",
+   "say": "माई हार्ट पाउंडेड, प्योर डिसबिलीफ."
+  },
+  {
+   "image": "Raju, holding the baby bottle tightly, swiftly climbing up a large tree just outside the window, looking back briefly.",
+   "speaker": "narrator",
+   "line": "Raju scrambled up the nearest tree.",
+   "fx": "none",
+   "sub": "Raju scrambled up the nearest tree.",
+   "say": "राजू स्क्रैम्बल्ड अप द नियरेस्ट ट्री."
+  },
+  {
+   "image": "Baby Anu, in her crib, begins to cry, her face scrunching up, mouth open in a wail.",
+   "speaker": "narrator",
+   "line": "Anu started to cry, a hungry wail.",
+   "fx": "none",
+   "sub": "Anu started to cry, a hungry wail.",
+   "say": "अनु स्टार्टेड टू क्राई, अ हंग्री वेल."
+  },
+  {
+   "image": "Meena rushes to Anu's crib, her face filled with distress, trying to comfort her crying baby.",
+   "speaker": "narrator",
+   "line": "My precious baby was so upset.",
+   "fx": "none",
+   "sub": "My precious baby was so upset.",
+   "say": "माई प्रेशियस बेबी वॉज़ सो अपसेट."
+  },
+  {
+   "image": "Meena looks from Anu to the window, her expression conveying helplessness and confusion.",
+   "speaker": "narrator",
+   "line": "How could this have happened?",
+   "fx": "none",
+   "sub": "How could this have happened?",
+   "say": "हाउ कुड दिस हैव हैपंड?"
+  },
+  {
+   "image": "Meena's hand runs through her hair, a worried frown on her face, deep in thought, looking distressed.",
+   "speaker": "narrator",
+   "line": "My mind raced, what to do now?",
+   "fx": "none",
+   "sub": "My mind raced, what to do now?",
+   "say": "माई माइंड रेस्ड, व्हाट टू डू नाउ?"
+  },
+  {
+   "image": "Meena stands at the open window, calling out towards the dense trees, a pleading look on her face.",
+   "speaker": "narrator",
+   "line": "I ran to the window, yelling softly.",
+   "fx": "none",
+   "sub": "I ran to the window, yelling softly.",
+   "say": "आई रैन टू द विंडो, येलिंग सॉफ्टली."
+  },
+  {
+   "image": "Close-up of Meena's earnest face, a desperate plea in her eyes.",
+   "speaker": "narrator",
+   "line": "Raju, please! Return the bottle!",
+   "fx": "none",
+   "sub": "Raju, please! Return the bottle!",
+   "say": "राजू, प्लीज़! रिटर्न द बॉटल!"
+  },
+  {
+   "image": "Raju, high up in a tree, glances back at Meena, bottle still clutched, before disappearing behind leaves.",
+   "speaker": "narrator",
+   "line": "He just looked back, then vanished.",
+   "fx": "none",
+   "sub": "He just looked back, then vanished.",
+   "say": "ही जस्ट लुक्ड बैक, देन वैनिश्ड."
+  },
+  {
+   "image": "Shot of the dense, green jungle foliage, appearing impenetrable and mysterious.",
+   "speaker": "narrator",
+   "line": "Into the dense green foliage.",
+   "fx": "none",
+   "sub": "Into the dense green foliage.",
+   "say": "इंटू द डेंस ग्रीन फोलिएज."
+  },
+  {
+   "image": "Baby Anu, in her crib, crying harder now, her little mouth wide open, tears streaming down her face.",
+   "speaker": "narrator",
+   "line": "Anu's cries grew even louder.",
+   "fx": "none",
+   "sub": "Anu's cries grew even louder.",
+   "say": "अनु'स क्राइज़ ग्रू ईवन लाउडर."
+  },
+  {
+   "image": "Meena cradling Anu, looking utterly distraught, tears welling up in her own eyes as she tries to comfort the baby.",
+   "speaker": "narrator",
+   "line": "I felt so helpless, so lost.",
+   "fx": "none",
+   "sub": "I felt so helpless, so lost.",
+   "say": "आई फेल्ट सो हेल्पलेस, सो लॉस्ट."
+  },
+  {
+   "image": "Meena looking around the simple room, desperate, as if searching for an invisible solution.",
+   "speaker": "narrator",
+   "line": "My baby was hungry, but I had nothing.",
+   "fx": "none",
+   "sub": "My baby was hungry, but I had nothing.",
+   "say": "माई बेबी वॉज़ हंग्री, बट आई हैड नथिंग."
+  },
+  {
+   "image": "A close-up of an empty baby bottle rack, emphasizing the lack of alternatives.",
+   "speaker": "narrator",
+   "line": "No backup bottle, no extra milk.",
+   "fx": "none",
+   "sub": "No backup bottle, no extra milk.",
+   "say": "नो बैकअप बॉटल, नो एक्स्ट्रा मिल्क."
+  },
+  {
+   "image": "Meena sits on the floor, head in hands, clearly overwhelmed by the situation, almost despairing.",
+   "speaker": "narrator",
+   "line": "This was a disaster, a true mess.",
+   "fx": "none",
+   "sub": "This was a disaster, a true mess.",
+   "say": "दिस वॉज़ अ डिजास्टर, अ ट्रू मेस."
+  },
+  {
+   "image": "Meena looks towards the jungle with a questioning, forlorn expression, hoping against hope.",
+   "speaker": "narrator",
+   "line": "Would he ever bring it back?",
+   "fx": "none",
+   "sub": "Would he ever bring it back?",
+   "say": "वुड ही एवर ब्रिंग इट बैक?"
+  },
+  {
+   "image": "Meena gently swaying Anu, who is still whimpering, her own face etched with worry, trying to stay strong.",
+   "speaker": "narrator",
+   "line": "I held Anu close, trying to soothe her.",
+   "fx": "none",
+   "sub": "I held Anu close, trying to soothe her.",
+   "say": "आई हेल्ड अनु क्लोज, ट्राइंग टू सूद हर."
+  },
+  {
+   "image": "Close-up of Meena's lips as she whispers, a soft, comforting sound.",
+   "speaker": "narrator",
+   "line": "Shhh, beta, I whispered, Don't cry.",
+   "fx": "none",
+   "sub": "Shhh, baby, I whispered, Don't cry.",
+   "say": "श्श, बेटा, आई विस्पर्ड, डोंट क्राई."
+  },
+  {
+   "image": "Close-up of Anu's tiny, red, tear-streaked face, looking utterly miserable.",
+   "speaker": "narrator",
+   "line": "Her tiny face was red with tears.",
+   "fx": "none",
+   "sub": "Her tiny face was red with tears.",
+   "say": "हर टाइनी फेस वॉज़ रेड विद टियर्स."
+  },
+  {
+   "image": "Meena's hand gently caressing Anu's cheek, her eyes filled with sorrow and love.",
+   "speaker": "narrator",
+   "line": "My heart ached for my little one.",
+   "fx": "none",
+   "sub": "My heart ached for my little one.",
+   "say": "माई हार्ट एक्ड फॉर माई लिटिल वन."
+  },
+  {
+   "image": "Meena peers anxiously out the window again, scanning the trees, a desperate glint in her eyes.",
+   "speaker": "narrator",
+   "line": "I looked out, hoping for a sign.",
+   "fx": "none",
+   "sub": "I looked out, hoping for a sign.",
+   "say": "आई लुक्ड आउट, होपिंग फॉर अ साइन."
+  },
+  {
+   "image": "Still shot of the deep, quiet jungle, no movement, no sign of the monkey.",
+   "speaker": "narrator",
+   "line": "The jungle was silent, no movement.",
+   "fx": "none",
+   "sub": "The jungle was silent, no movement.",
+   "say": "द जंगल वॉज़ साइलेंट, नो मूवमेंट."
+  },
+  {
+   "image": "Meena slowly turns away from the window, a look of defeat settling on her face.",
+   "speaker": "narrator",
+   "line": "Raju was truly gone, it seemed.",
+   "fx": "none",
+   "sub": "Raju was truly gone, it seemed.",
+   "say": "राजू वॉज़ ट्रूली गॉन, इट सीम्ड."
+  },
+  {
+   "image": "Close-up of Meena's hand dropping to her side, shoulders slumping, her expression hopeless.",
+   "speaker": "narrator",
+   "line": "My hope began to completely fade.",
+   "fx": "none",
+   "sub": "My hope began to completely fade.",
+   "say": "माई होप बिगेन टू कम्प्लीटली फेड."
+  },
+  {
+   "image": "Anu's hungry cry fills the room, Meena looks at her with raw pain.",
+   "speaker": "narrator",
+   "line": "Anu's hunger was truly heartbreaking.",
+   "fx": "none",
+   "sub": "Anu's hunger was truly heartbreaking.",
+   "say": "अनु'स हंगर वॉज़ ट्रूली हार्टब्रेकिंग."
+  },
+  {
+   "image": "Meena looks down at Anu, then at her own hands, questioning her ability to protect her child.",
+   "speaker": "narrator",
+   "line": "What kind of mother was I, really?",
+   "fx": "none",
+   "sub": "What kind of mother was I, really?",
+   "say": "व्हाट काइंड ऑफ मदर वॉज़ आई, रियली?"
+  },
+  {
+   "image": "Meena gently places Anu in her crib, a tender but worried expression on her face.",
+   "speaker": "narrator",
+   "line": "I gently laid Anu down in her crib.",
+   "fx": "none",
+   "sub": "I gently laid Anu down in her crib.",
+   "say": "आई जेंटली लेड अनु डाउन इन हर क्रिब."
+  },
+  {
+   "image": "Meena walks towards the small kitchen area, her posture heavy with despair, determined to find something.",
+   "speaker": "narrator",
+   "line": "I had to try and find some solution.",
+   "fx": "none",
+   "sub": "I had to try and find some solution.",
+   "say": "आई हैड टू ट्राई एंड फाइंड सम सॉल्यूशन."
+  },
+  {
+   "image": "Meena opens a cupboard, looking inside with a forlorn expression, seeing only adult food items.",
+   "speaker": "narrator",
+   "line": "Maybe some mashed banana, anything.",
+   "fx": "none",
+   "sub": "Maybe some mashed banana, anything.",
+   "say": "मेबी सम मैश्ड बनाना, एनीथिंग."
+  },
+  {
+   "image": "Meena shakes her head slowly, a sad resignation in her eyes, indicating the lack of suitable baby food.",
+   "speaker": "narrator",
+   "line": "But Anu only drank milk, you know.",
+   "fx": "none",
+   "sub": "But Anu only drank milk, you know.",
+   "say": "बट अनु ओन्ली ड्रैंक मिल्क, यू नो."
+  },
+  {
+   "image": "Meena returns to the porch, standing defeated, looking out at the unchanging jungle.",
+   "speaker": "narrator",
+   "line": "I returned to the porch, feeling defeated.",
+   "fx": "none",
+   "sub": "I returned to the porch, feeling defeated.",
+   "say": "आई रिटर्नड टू द पोर्च, फीलिंग डिफीटेड."
+  },
+  {
+   "image": "Meena's eyes slowly scan the canopy of trees, one last desperate look.",
+   "speaker": "narrator",
+   "line": "My eyes scanned the trees one last time.",
+   "fx": "none",
+   "sub": "My eyes scanned the trees one last time.",
+   "say": "माई आईज़ स्कैन्ड द ट्रीज़ वन लास्ट टाइम."
+  },
+  {
+   "image": "A small branch on a tree near the house gently sways, hinting at a hidden presence.",
+   "speaker": "narrator",
+   "line": "And then I saw it, a tiny movement.",
+   "fx": "none",
+   "sub": "And then I saw it, a tiny movement.",
+   "say": "एंड देन आई सॉ इट, अ टाइनी मूवमेंट."
+  },
+  {
+   "image": "Raju, the langur monkey, slowly, cautiously descending a tree trunk, looking wary but determined.",
+   "speaker": "narrator",
+   "line": "Raju was slowly coming back towards us.",
+   "fx": "none",
+   "sub": "Raju was slowly coming back towards us.",
+   "say": "राजू वॉज़ स्लोली कमिंग बैक टुवर्ड्स अस."
+  },
+  {
+   "image": "Meena's face, her mouth slightly open, eyes wide, a mix of apprehension and dawning hope.",
+   "speaker": "narrator",
+   "line": "My breath caught, was this really happening?",
+   "fx": "none",
+   "sub": "My breath caught, was this really happening?",
+   "say": "माई ब्रेथ कॉट, वॉज़ दिस रियली हैपनिंग?"
+  },
+  {
+   "image": "Raju descends further, and behind him, a small, weak monkey baby is visible, clinging to his back.",
+   "speaker": "narrator",
+   "line": "But he wasn't alone; another baby was with him.",
+   "fx": "none",
+   "sub": "But he wasn't alone; another baby was with him.",
+   "say": "बट ही वॉज़न्ट अलोन; अनदर बेबी वॉज़ विद हिम."
+  },
+  {
+   "image": "Raju hops onto the edge of the porch, looking tired, his movements slow and deliberate.",
+   "speaker": "narrator",
+   "line": "Raju hopped onto our porch, looking weary.",
+   "fx": "none",
+   "sub": "Raju hopped onto our porch, looking weary.",
+   "say": "राजू हॉप्ड ओन्टो आवर पोर्च, लुकिंग वियरी."
+  },
+  {
+   "image": "Close-up of Raju's mouth, gently holding Anu's milk bottle, completely intact, not damaged.",
+   "speaker": "narrator",
+   "line": "In his mouth, Anu's bottle, still intact.",
+   "fx": "none",
+   "sub": "In his mouth, Anu's bottle, still intact.",
+   "say": "इन हिज़ माउथ, अनु'स बॉटल, स्टिल इंटैक्ट."
+  },
+  {
+   "image": "Raju carefully places the bottle on the floor near the door, a very gentle motion, looking at Meena.",
+   "speaker": "narrator",
+   "line": "He gently placed it near the door.",
+   "fx": "none",
+   "sub": "He gently placed it near the door.",
+   "say": "ही जेंटली प्लेस्ड इट नियर द डोर."
+  },
+  {
+   "image": "Raju moves aside slightly, revealing the tiny, frail monkey baby now visible on the porch.",
+   "speaker": "narrator",
+   "line": "Then, a small, weak monkey baby emerged.",
+   "fx": "none",
+   "sub": "Then, a small, weak monkey baby emerged.",
+   "say": "देन, अ स्मॉल, वीक मंकी बेबी इमर्ज्ड."
+  },
+  {
+   "image": "Close-up of the monkey baby, looking very thin, eyes half-closed, clearly unwell.",
+   "speaker": "narrator",
+   "line": "It looked so frail, so terribly thin.",
+   "fx": "none",
+   "sub": "It looked so frail, so terribly thin.",
+   "say": "इट लुक्ड सो फ्रेल, सो टेरिबली थिन."
+  },
+  {
+   "image": "Raju nudges his baby softly with his head, looking from the baby to the bottle, then at Meena, a hopeful, pleading look.",
+   "speaker": "narrator",
+   "line": "Raju nudged it softly towards the bottle.",
+   "fx": "none",
+   "sub": "Raju nudged it softly towards the bottle.",
+   "say": "राजू नज्ड इट सॉफ्टली टुवर्ड्स द बॉटल."
+  },
+  {
+   "image": "Meena's face, a sudden realization washing over it, her eyes widening with a flood of understanding and empathy.",
+   "speaker": "narrator",
+   "line": "My eyes met his, and I finally understood.",
+   "fx": "none",
+   "sub": "My eyes met his, and I finally understood.",
+   "say": "माई आईज़ मेट हिज़, एंड आई फाइनली अंडरस्टूड."
+  },
+  {
+   "image": "Close-up of Raju's face, his eyes conveying deep exhaustion and desperation.",
+   "speaker": "narrator",
+   "line": "He wasn't stealing, he was truly desperate.",
+   "fx": "none",
+   "sub": "He wasn't stealing, he was truly desperate.",
+   "say": "ही वॉज़न्ट स्टीलिंग, ही वॉज़ ट्रूली डेस्परेट."
+  },
+  {
+   "image": "A close-up of the bottle on the porch, and next to it, a small, intricately carved wooden bird, looking worn.",
+   "speaker": "narrator",
+   "line": "Next to the bottle, a tiny wooden bird.",
+   "fx": "none",
+   "sub": "Next to the bottle, a tiny wooden bird.",
+   "say": "नेक्स्ट टू द बॉटल, अ टाइनी वुडन बर्ड."
+  },
+  {
+   "image": "Meena's hand reaches out and gently touches the wooden bird, her face showing a sudden flashback of memory and recognition.",
+   "speaker": "narrator",
+   "line": "It was the same one I'd carved long ago.",
+   "fx": "none",
+   "sub": "It was the same one I'd carved long ago.",
+   "say": "इट वॉज़ द सेम वन आई'ड काव्ड लॉन्ग अगो."
+  },
+  {
+   "image": "Flashback image: A younger Meena (still same character but younger styling) offering a newly carved wooden bird to a small, injured Raju (monkey pup) with a bandaged arm, in the jungle. Both looking at each other gently.",
+   "speaker": "narrator",
+   "line": "For a young, injured Raju I had saved.",
+   "fx": "none",
+   "sub": "For a young, injured Raju I had saved.",
+   "say": "फॉर अ यंग, इंजर्ड राजू आई हैड सेव्ड."
+  },
+  {
+   "image": "Meena's face, tears now silently rolling down her cheeks, a profound understanding and emotion in her eyes.",
+   "speaker": "narrator",
+   "line": "He remembered my kindness from that time.",
+   "fx": "none",
+   "sub": "He remembered my kindness from that time.",
+   "say": "ही रिमेंबर्ड माई काइंडनेस फ्रॉम दैट टाइम."
+  },
+  {
+   "image": "Anu whimpering in her crib in the background, but Meena's gaze is fixed on Raju and his baby, her priorities shifted.",
+   "speaker": "narrator",
+   "line": "Anu was crying, but my heart melted.",
+   "fx": "none",
+   "sub": "Anu was crying, but my heart melted.",
+   "say": "अनु वॉज़ क्राइंग, बट माई हार्ट मेल्टेड."
+  },
+  {
+   "image": "Meena is now holding Anu in one arm, feeding her with the returned bottle, while with the other hand, she prepares another small bowl of milk for Raju's baby.",
+   "speaker": "narrator",
+   "line": "I fed Anu, then warmed milk for Raju's baby.",
+   "fx": "none",
+   "sub": "I fed Anu, then warmed milk for Raju's baby.",
+   "say": "आई फेड अनु, देन वॉर्मड मिल्क फॉर राजू'स बेबी."
+  },
+  {
+   "image": "Raju watching Meena intently, his eyes soft, showing gratitude and complete trust, no longer wary.",
+   "speaker": "narrator",
+   "line": "He watched me, trusting completely, without fear.",
+   "fx": "none",
+   "sub": "He watched me, trusting completely, without fear.",
+   "say": "ही वॉच्ड मी, ट्रस्टिंग कम्प्लीटली, विदाउट फीयर."
+  },
+  {
+   "image": "Raju gently pushes his baby closer to Meena, a clear gesture of asking for help, while Meena reaches out a comforting hand.",
+   "speaker": "narrator",
+   "line": "He brought his baby closer, a silent plea.",
+   "fx": "none",
+   "sub": "He brought his baby closer, a silent plea.",
+   "say": "ही ब्रॉट हिज़ बेबी क्लोजर, अ साइलेंट प्ली."
+  },
+  {
+   "image": "Meena gently feeds Raju's baby milk from a small spoon, while Anu watches curiously from her lap, a serene scene of interspecies care.",
+   "speaker": "narrator",
+   "line": "I cared for both babies, feeling so connected.",
+   "fx": "none",
+   "sub": "I cared for both babies, feeling so connected.",
+   "say": "आई केयर्ड फॉर बोथ बेबीज़, फीलिंग सो कनेक्टेड."
+  },
+  {
+   "image": "Close-up of Meena's hand holding the wooden bird, a soft smile on her face, symbolizing the deep bond.",
+   "speaker": "narrator",
+   "line": "Raju's tiny gift, a reminder of our bond.",
+   "fx": "none",
+   "sub": "Raju's tiny gift, a reminder of our bond.",
+   "say": "राजू'स टाइनी गिफ्ट, अ रिमाइंडर ऑफ आवर बॉन्ड."
+  },
+  {
+   "image": "Meena, Anu, Raju, and Raju's baby all together on the porch, a harmonious picture of a shared, peaceful moment, bathed in warm sunlight.",
+   "speaker": "narrator",
+   "line": "A bond built on compassion and shared motherhood.",
+   "fx": "none",
+   "sub": "A bond built on compassion and shared motherhood.",
+   "say": "अ बॉन्ड बिल्ट ऑन कम्पैशन एंड शेयर्ड मदरहुड."
+  },
+  {
+   "image": "Meena looks directly at the camera, a warm, thoughtful smile, inviting reflection.",
+   "speaker": "narrator",
+   "line": "Have you ever experienced such an unexpected animal connection?",
+   "fx": "none",
+   "sub": "Have you ever experienced such an unexpected animal connection?",
+   "say": "हैव यू एवर एक्सपीरियंस्ड सच एन अनएक्सपेक्टेड एनिमल कनेक्शन?"
+  }
+ ],
+ "caption": "Monkey Stole My Baby's Bottle... Then THIS Happened 🥹",
+ "slug": "2026-11-12_part1",
+ "story_no": 47,
+ "yt_title": "Monkey Stole My Baby's Bottle... Then THIS Happened 🥹",
+ "description": "What would you do if a monkey snatched your baby's milk bottle? Meena thought it was gone forever. But what Raju the monkey brought back wasn't just surprising, it was a silent promise. Have you ever experienced such an unexpected animal connection?",
+ "comment_question": "Have you ever experienced such an unexpected animal connection?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalstory",
+  "#monkey",
+  "#baby",
+  "#motherlove",
+  "#kindness",
+  "#unconditionallove",
+  "#wildlife",
+  "#indiastory",
+  "#reels"
+ ]
+}

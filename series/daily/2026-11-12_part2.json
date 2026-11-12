@@ -1,0 +1,500 @@
+{
+ "series": "Kiran's Quirky Delays",
+ "episode": 2,
+ "title": "Kiran's Quirky Delays",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "anya": {
+   "look": "Young woman, 20s. Fair skin, bright soft light on face. Long soft wavy dark-brown hair tied in a neat ponytail. Small silver stud earrings. Wearing an elegant pastel lavender kurta and white palazzo pants. Expressive face, often showing exasperation or amusement.",
+   "voice": "hindi_cartoon_female"
+  },
+  "kiran": {
+   "look": "Young woman, 20s. Light wheatish skin, bright soft light on face. Long soft wavy dark-brown hair, left open, slightly messy but stylish. Small golden hoop earrings. Wearing a vibrant yellow printed oversized casual top and comfortable jeans. Carries a colorful fabric sling bag. Always looks cheerful, sometimes innocently apologetic.",
+   "voice": "hindi_cartoon_female"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "SHE WAS ALWAYS LATE!",
+ "scenes": [
+  {
+   "image": "Close-up of Anya's face, exasperated, looking at her wristwatch. Her brow is furrowed with clear frustration. An empty cafe seat is visible in the background.",
+   "speaker": "narrator",
+   "line": "Meri bestie Kiran hamesha late aati thi!",
+   "fx": "none",
+   "say": "मेरी बेस्टी किरण हमेशा लेट आती थी!"
+  },
+  {
+   "image": "Anya standing alone in front of a bustling cafe, hands on hips, clearly annoyed. She checks her phone again, an exasperated sigh on her face.",
+   "speaker": "anya",
+   "line": "Har plan ke liye bas 5 minute late!",
+   "fx": "none",
+   "say": "हर प्लान के लिए बस 5 मिनट लेट!"
+  },
+  {
+   "image": "Flashback scene: Kiran's phone ringing loudly, Anya picking it up, looking tired.",
+   "speaker": "narrator",
+   "line": "Uska favorite dialogue tha...",
+   "fx": "none",
+   "say": "उसका फेवरेट डायलॉग था..."
+  },
+  {
+   "image": "Kiran's cheerful face in a phone call, slightly disheveled hair, wide smile, as if still getting ready.",
+   "speaker": "kiran",
+   "line": "Bas 5 minute mein pahunchti hoon, pakka!",
+   "fx": "none",
+   "say": "बस 5 मिनट में पहुँचती हूँ, पक्का!"
+  },
+  {
+   "image": "Anya rolling her eyes dramatically, hanging up the phone with a frustrated expression. Her shoulders slump.",
+   "speaker": "anya",
+   "line": "Aur wo 5 minute kabhi nahi aate the.",
+   "fx": "none",
+   "say": "और वो 5 मिनट कभी नहीं आते थे।"
+  },
+  {
+   "image": "Narrator text: 'The Endless 5 Minutes' appearing briefly on screen, then fading. Anya looking at a watch again.",
+   "speaker": "narrator",
+   "line": "Lekin wo 5 minute kabhi aate hi nahi the.",
+   "fx": "none",
+   "say": "लेकिन वो 5 मिनट कभी आते ही नहीं थे।"
+  },
+  {
+   "image": "Anya sitting alone in a dark movie theatre, popcorn in hand, looking at an empty seat next to her. Movie credits are rolling.",
+   "speaker": "narrator",
+   "line": "Ek baar movie ka show chhoot gaya.",
+   "fx": "none",
+   "say": "एक बार मूवी का शो छूट गया।"
+  },
+  {
+   "image": "Kiran rushing into the cinema hall, breathless, apologetic smile, while Anya glares at her.",
+   "speaker": "kiran",
+   "line": "Sorry, thoda traffic tha, bas 5 minute!",
+   "fx": "none",
+   "say": "सॉरी, थोड़ा ट्रैफिक था, बस 5 मिनट!"
+  },
+  {
+   "image": "Close-up on Anya's angry face, she's whispering intensely at Kiran, hands gesturing in frustration.",
+   "speaker": "anya",
+   "line": "Puri movie miss ho gayi tere chakkar mein!",
+   "fx": "none",
+   "say": "पूरी मूवी मिस हो गयी तेरे चक्कर में!"
+  },
+  {
+   "image": "Kiran with puppy dog eyes, holding her hands together in a pleading gesture, a genuinely regretful expression.",
+   "speaker": "kiran",
+   "line": "Aww, sorry na, next time pakka time par.",
+   "fx": "none",
+   "say": "आह्ह, सॉरी ना, नेक्स्ट टाइम पक्का टाइम पर।"
+  },
+  {
+   "image": "Anya sitting at a picnic blanket in a park, food laid out, but ants are starting to crawl on a sandwich. Anya looks horrified.",
+   "speaker": "narrator",
+   "line": "Dusri baar picnic pe khaana thanda ho gaya.",
+   "fx": "none",
+   "say": "दूसरी बार पिकनिक पे खाना ठंडा हो गया।"
+  },
+  {
+   "image": "Kiran skipping towards Anya, waving cheerfully, a bright smile on her face, completely oblivious to the ants.",
+   "speaker": "kiran",
+   "line": "Hello! Bas 5 minutes late hoon, na?",
+   "fx": "none",
+   "say": "हेलो! बस 5 मिनट्स लेट हूँ, ना?"
+  },
+  {
+   "image": "Anya pointing at the ants on the food with a look of absolute disgust and despair on her face.",
+   "speaker": "anya",
+   "line": "Yeh dekh! Hamara lunch barbaad ho gaya!",
+   "fx": "none",
+   "say": "ये देख! हमारा लंच बर्बाद हो गया!"
+  },
+  {
+   "image": "Narrator shaking his head slightly, Anya looks exhausted in a split screen showing different late events.",
+   "speaker": "narrator",
+   "line": "Har baar yahi natak tha, har baar late.",
+   "fx": "none",
+   "say": "हर बार यही नाटक था, हर बार लेट।"
+  },
+  {
+   "image": "Anya clenching her fists, eyes shut, gritting her teeth, radiating pure frustration and irritation.",
+   "speaker": "anya",
+   "line": "Ab toh bohot ho gaya, Kiran!",
+   "fx": "none",
+   "say": "अब तो बहुत हो गया, किरण!"
+  },
+  {
+   "image": "Anya and Kiran at Anya's apartment, looking at concert tickets for their favorite band, both excited.",
+   "speaker": "anya",
+   "line": "Aaj concert hai, please time pe aana!",
+   "fx": "none",
+   "say": "आज कॉन्सर्ट है, प्लीज टाइम पे आना!"
+  },
+  {
+   "image": "Kiran with an over-the-top serious expression, hand on her heart, making a solemn promise.",
+   "speaker": "kiran",
+   "line": "Pakka! Ek second bhi late nahi hoongi!",
+   "fx": "none",
+   "say": "पक्का! एक सेकंड भी लेट नहीं हूँगी!"
+  },
+  {
+   "image": "Anya narrowing her eyes, not entirely convinced, but trying to be hopeful. She points a finger playfully.",
+   "speaker": "anya",
+   "line": "Sirf 5 minutes ki chhoot hai, wo bhi mushkil se.",
+   "fx": "none",
+   "say": "सिर्फ 5 मिनट्स की छूट है, वो भी मुश्किल से।"
+  },
+  {
+   "image": "Kiran giving a thumbs up, a confident, slightly mischievous grin on her face, despite Anya's stern look.",
+   "speaker": "kiran",
+   "line": "Don't worry, aaj no late-shate!",
+   "fx": "none",
+   "say": "डोंट वरी, आज नो लेट-शेट!"
+  },
+  {
+   "image": "A calendar page flipping to the concert date, with a big red circle around it, then a close-up of a concert stage.",
+   "speaker": "narrator",
+   "line": "Concert ka din aa gaya.",
+   "fx": "none",
+   "say": "कॉन्सर्ट का दिन आ गया।"
+  },
+  {
+   "image": "Anya dressed stylishly for the concert, waiting eagerly outside the venue, checking her phone repeatedly.",
+   "speaker": "anya",
+   "line": "Uff, kahan reh gayi yeh ladki?",
+   "fx": "none",
+   "say": "उफ्फ, कहाँ रह गयी ये लड़की?"
+  },
+  {
+   "image": "A stylized clock face, showing minutes ticking by, starting from 7:00 PM and advancing to 7:05, 7:10.",
+   "speaker": "narrator",
+   "line": "Time nikalta jaa raha tha.",
+   "fx": "none",
+   "say": "टाइम निकलता जा रहा था।"
+  },
+  {
+   "image": "Anya holding her phone to her ear, a worried and annoyed expression, trying to call Kiran. The phone shows 'Calling Kiran'.",
+   "speaker": "anya",
+   "line": "Utha le phone, Kiran, please!",
+   "fx": "none",
+   "say": "उठा ले फोन, किरण, प्लीज!"
+  },
+  {
+   "image": "Kiran on her phone, looking slightly flustered, holding a small object in her other hand, still not at the venue.",
+   "speaker": "kiran",
+   "line": "Bas 5 minutes, Anya, I swear! Main pahunchi!",
+   "fx": "none",
+   "say": "बस 5 मिनट, अन्या, आई स्वियर! मैं पहुँची!"
+  },
+  {
+   "image": "Anya walking into the concert hall, looking deflated and sad. The crowd is already cheering, the stage lights are on.",
+   "speaker": "narrator",
+   "line": "Anya ne apna favorite gaana miss kar diya.",
+   "fx": "none",
+   "say": "अन्या ने अपना फेवरेट गाना मिस कर दिया।"
+  },
+  {
+   "image": "Kiran rushing into the hall, a few minutes later, looking around for Anya, a sheepish smile on her face.",
+   "speaker": "kiran",
+   "line": "Sorry, sorry, sorry! Traffic tha thoda.",
+   "fx": "none",
+   "say": "सॉरी, सॉरी, सॉरी! ट्रैफिक था थोड़ा।"
+  },
+  {
+   "image": "Anya turns to Kiran, a deeply hurt and disappointed look, ignoring the concert around them.",
+   "speaker": "anya",
+   "line": "Tune fir se wahi kiya, Kiran!",
+   "fx": "none",
+   "say": "तूने फिर से वही किया, किरण!"
+  },
+  {
+   "image": "Anya walking away from Kiran, her back to her, her shoulders slouched. Kiran looks sad, but Anya's anger is clear.",
+   "speaker": "narrator",
+   "line": "Anya ka patience finally toot gaya.",
+   "fx": "none",
+   "say": "अन्या का पेशेंस फाइनली टूट गया।"
+  },
+  {
+   "image": "Close-up of Anya's determined face, a glint in her eyes. She taps her foot thoughtfully, a plan forming.",
+   "speaker": "anya",
+   "line": "Ab bas, main pata lagake rahoongi!",
+   "fx": "none",
+   "say": "अब बस, मैं पता लगाके रहूँगी!"
+  },
+  {
+   "image": "Anya with a magnifying glass in her hand, dressed like a detective (playful), a mischievous grin.",
+   "speaker": "anya",
+   "line": "Is 5 minute ka raaz toh kholna padega.",
+   "fx": "none",
+   "say": "इस 5 मिनट का राज़ तो खोलना पड़ेगा।"
+  },
+  {
+   "image": "Next morning. Anya is secretly peeking from behind a large potted plant near Kiran's apartment building entrance.",
+   "speaker": "narrator",
+   "line": "Next morning, Anya was on a mission.",
+   "fx": "none",
+   "say": "नेक्स्ट मॉर्निंग, अन्या वाज़ ऑन अ मिशन।"
+  },
+  {
+   "image": "Kiran steps out of her apartment, looking cheerful and ready to go, swinging her colorful bag.",
+   "speaker": "kiran",
+   "line": "Aaj toh time pe nikli hoon!",
+   "fx": "none",
+   "say": "आज तो टाइम पे निकली हूँ!"
+  },
+  {
+   "image": "Anya peeking stealthily, eyes wide, following Kiran from a distance. Her face shows intense concentration.",
+   "speaker": "anya",
+   "line": "Dekhte hain aaj kya hota hai.",
+   "fx": "none",
+   "say": "देखते हैं आज क्या होता है।"
+  },
+  {
+   "image": "Kiran walking down the street, suddenly stops dead in her tracks, looking intently at the ground.",
+   "speaker": "narrator",
+   "line": "Kiran achanak ruk gayi.",
+   "fx": "none",
+   "say": "किरण अचानक रुक गयी।"
+  },
+  {
+   "image": "Close-up of Kiran's face, she looks left and right furtively, as if checking for witnesses, a slight frown of concentration.",
+   "speaker": "kiran",
+   "line": "Koi dekh toh nahi raha?",
+   "fx": "none",
+   "say": "कोई देख तो नहीं रहा?"
+  },
+  {
+   "image": "Anya hiding behind a lamppost, peeking with a confused and curious expression. Her eyes are wide with surprise.",
+   "speaker": "anya",
+   "line": "Ye kya kar rahi hai ab?",
+   "fx": "none",
+   "say": "ये क्या कर रही है अब?"
+  },
+  {
+   "image": "Kiran kneels down on the pavement, looking at something tiny near a cracked tile. Her posture is serious.",
+   "speaker": "narrator",
+   "line": "Kiran pavement par jhuk gayi.",
+   "fx": "none",
+   "say": "किरण पेवमेंट पर झुक गयी।"
+  },
+  {
+   "image": "Close-up of Kiran's hands, carefully picking up a tiny, crumpled silver foil candy wrapper from the ground.",
+   "speaker": "kiran",
+   "line": "Ye toh theek karna padega.",
+   "fx": "none",
+   "say": "ये तो ठीक करना पड़ेगा।"
+  },
+  {
+   "image": "Kiran meticulously unfolding the crumpled wrapper, smoothing it out perfectly on her palm with utmost care.",
+   "speaker": "narrator",
+   "line": "Wo wrapper ko theek karne lagi.",
+   "fx": "none",
+   "say": "वो रैपर को ठीक करने लगी।"
+  },
+  {
+   "image": "Anya, jaw dropped, watching in disbelief from her hiding spot. She looks utterly flummoxed.",
+   "speaker": "anya",
+   "line": "Seriously? Ye sab chal raha hai?",
+   "fx": "none",
+   "say": "सीरियसली? ये सब चल रहा है?"
+  },
+  {
+   "image": "Kiran carefully slides the now perfectly smooth wrapper under a specific, slightly loose paving stone.",
+   "speaker": "kiran",
+   "line": "Perfect! Ab sab theek ho jayega.",
+   "fx": "none",
+   "say": "परफेक्ट! अब सब ठीक हो जाएगा।"
+  },
+  {
+   "image": "Kiran stands up, brushes her hands, checks her wristwatch with a satisfied smile, then looks cheerful.",
+   "speaker": "kiran",
+   "line": "Chalo, ab sab done!",
+   "fx": "none",
+   "say": "चलो, अब सब डन!"
+  },
+  {
+   "image": "Anya stepping out from her hiding spot, her face a mix of shock and utter bewilderment, looking at the paving stone.",
+   "speaker": "anya",
+   "line": "Ye kya nautanki thi, Kiran?",
+   "fx": "none",
+   "say": "ये क्या नौटंकी थी, किरण?"
+  },
+  {
+   "image": "Anya decides to continue following Kiran, a determined look on her face, but also a hint of amusement.",
+   "speaker": "narrator",
+   "line": "Anya ne aur follow kiya.",
+   "fx": "none",
+   "say": "अन्या ने और फॉलो किया।"
+  },
+  {
+   "image": "Kiran walking towards a bus stop, but then she stops again, focusing on something on the ground.",
+   "speaker": "narrator",
+   "line": "Kiran phir se ruk gayi.",
+   "fx": "none",
+   "say": "किरण फिर से रुक गयी।"
+  },
+  {
+   "image": "Close-up of Kiran's feet, next to a small puddle. She carefully selects a fallen leaf.",
+   "speaker": "kiran",
+   "line": "Oh no, ye puddle! Iska bhi kuch karna padega.",
+   "fx": "none",
+   "say": "ओह नो, ये पडल! इसका भी कुछ करना पड़ेगा।"
+  },
+  {
+   "image": "Kiran gently pushing the leaf across the puddle's surface, making sure it creates exactly three small ripples.",
+   "speaker": "kiran",
+   "line": "Ek... do... teen! Bilkul sahi!",
+   "fx": "none",
+   "say": "एक... दो... तीन! बिलकुल सही!"
+  },
+  {
+   "image": "Anya hiding behind a large billboard, facepalming herself, shaking her head in utter disbelief and exasperation.",
+   "speaker": "anya",
+   "line": "Yeh kya pagalpan hai, Kiran?",
+   "fx": "none",
+   "say": "यह क्या पागलपन है, किरण?"
+  },
+  {
+   "image": "Kiran sighing contentedly, checking her watch again, a proud and satisfied expression.",
+   "speaker": "kiran",
+   "line": "Theek hai, ab chalte hain.",
+   "fx": "none",
+   "say": "ठीक है, अब चलते हैं।"
+  },
+  {
+   "image": "Kiran briskly walking towards their meeting spot, the cafe, with a spring in her step.",
+   "speaker": "narrator",
+   "line": "Aur phir wo cafe ki taraf chal di.",
+   "fx": "none",
+   "say": "और फिर वो कैफे की तरफ चल दी।"
+  },
+  {
+   "image": "Kiran enters the cafe, where Anya is already sitting, looking at her with a knowing stare. Kiran looks apologetic.",
+   "speaker": "kiran",
+   "line": "Sorry, Anya! Bas 5 minutes late ho gayi!",
+   "fx": "none",
+   "say": "सॉरी, अन्या! बस 5 मिनट लेट हो गयी!"
+  },
+  {
+   "image": "Anya staring intently at Kiran, a mix of amusement and disbelief on her face, slightly narrowing her eyes.",
+   "speaker": "anya",
+   "line": "Wo... wo sab kya tha, Kiran?",
+   "fx": "none",
+   "say": "वो... वो सब क्या था, किरण?"
+  },
+  {
+   "image": "Kiran shrugs innocently, a confused expression, trying to play it off casually.",
+   "speaker": "kiran",
+   "line": "Kya? Main toh bas aa rahi thi.",
+   "fx": "none",
+   "say": "क्या? मैं तो बस आ रही थी।"
+  },
+  {
+   "image": "Anya leans forward conspiratorially, eyes twinkling with mischief, a smirk on her face.",
+   "speaker": "anya",
+   "line": "Tumhari '5 minute' ki delay ka raaz!",
+   "fx": "none",
+   "say": "तुम्हारी '5 मिनट' की डिले का राज़!"
+  },
+  {
+   "image": "Kiran's eyes widen, her cheerful expression replaced with a look of being caught. She gulps slightly.",
+   "speaker": "kiran",
+   "line": "Oh! Wo... wo toh...",
+   "fx": "none",
+   "say": "ओह! वो... वो तो..."
+  },
+  {
+   "image": "Kiran finally gives in, a sheepish grin. She starts to explain, using exaggerated hand gestures.",
+   "speaker": "kiran",
+   "line": "Wo mera 'lucky charm' ritual hai!",
+   "fx": "none",
+   "say": "वो मेरा 'लकी चार्म' रिचुअल है!"
+  },
+  {
+   "image": "Narrator text: 'The 5-Minute Lucky Charm Ritual' appears. Kiran looking earnest, Anya still processing.",
+   "speaker": "narrator",
+   "line": "Kiran ka quirky secret finally reveal hua.",
+   "fx": "none",
+   "say": "किरण का क्वर्की सीक्रेट फाइनली रिवील हुआ।"
+  },
+  {
+   "image": "Kiran explaining passionately, making funny faces, describing her unique superstitions.",
+   "speaker": "kiran",
+   "line": "Agar main 5 minute ka shubh kaam na karoon...",
+   "fx": "none",
+   "say": "अगर मैं 5 मिनट का शुभ काम न करूँ..."
+  },
+  {
+   "image": "Kiran points at Anya dramatically, a serious expression. A thought bubble shows a 'flopped' concert.",
+   "speaker": "kiran",
+   "line": "...toh humare plans flop ho jaate hain!",
+   "fx": "none",
+   "say": "...तो हमारे प्लान्स फ्लॉप हो जाते हैं!"
+  },
+  {
+   "image": "Anya looking thoughtfully, connecting the dots. Flashbacks of missed movies, cold picnics, and concert song.",
+   "speaker": "anya",
+   "line": "Toh ye thi wajah hamare accidents ki!",
+   "fx": "none",
+   "say": "तो ये थी वजह हमारे एक्सीडेंट्स की!"
+  },
+  {
+   "image": "Anya suddenly bursts into uncontrollable laughter, tears streaming down her face, finding it utterly hilarious.",
+   "speaker": "anya",
+   "line": "OMG! Kiran, tu kitni pagal hai!",
+   "fx": "none",
+   "say": "ओएमजी! किरण, तू कितनी पागल है!"
+  },
+  {
+   "image": "Kiran looking confused why Anya is laughing so hard, a puzzled pout on her face, innocent expression.",
+   "speaker": "kiran",
+   "line": "Kya hua? Main serious hoon!",
+   "fx": "none",
+   "say": "क्या हुआ? मैं सीरियस हूँ!"
+  },
+  {
+   "image": "Anya wipes tears of laughter, then hugs Kiran tightly, still giggling, looking at her with affection.",
+   "speaker": "anya",
+   "line": "Tu itni cute hai, Kiran! Main tujhe maaf karti hoon!",
+   "fx": "none",
+   "say": "तू इतनी क्यूट है, किरण! मैं तुझे माफ़ करती हूँ!"
+  },
+  {
+   "image": "Kiran hugging Anya back, a relieved and happy smile. They both look like true best friends, despite the quirk.",
+   "speaker": "narrator",
+   "line": "Kiran ki 5 minute ki delay... unka apna lucky charm tha.",
+   "fx": "none",
+   "say": "किरण की 5 मिनट की डिले... उनका अपना लकी चार्म था।"
+  },
+  {
+   "image": "Anya and Kiran smiling and waving cheerfully at the camera, a fun, happy ending.",
+   "speaker": "narrator",
+   "line": "Kya aapki life mein bhi koi aisa dost hai?",
+   "fx": "none",
+   "say": "क्या आपकी लाइफ में भी कोई ऐसा दोस्त है?"
+  }
+ ],
+ "caption": "My Friend Was Always 5 Minutes Late... I Found Out Why 🤫",
+ "slug": "2026-11-12_part2",
+ "story_no": 48,
+ "yt_title": "My Friend Was Always 5 Minutes Late... I Found Out Why 🤫",
+ "description": "My best friend Kiran was always just five minutes late for everything!\nI finally snapped and secretly followed her, only to uncover the most hilarious and bizarre reason behind her delays.\nWhat's the funniest excuse you've ever heard for being late?",
+ "comment_question": "Kya aapki life mein bhi koi aisa dost hai?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnyfriends",
+  "#latefriend",
+  "#comedystory",
+  "#relatablestory",
+  "#friendshipgoals",
+  "#hindistory",
+  "#cartoonstory",
+  "#quirkyfriends",
+  "#bizarretwist"
+ ]
+}
