@@ -1,0 +1,545 @@
+{
+ "series": "The Unseen Deed",
+ "episode": 3,
+ "title": "The Unseen Deed",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya: Young woman, early 20s. Long soft wavy dark-brown hair, natural makeup, small gold hoop earrings, often wears simple, elegant pastel kurtas. Fair, clear skin, bright soft light on face. Expressive, warm eyes.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Rohan: Young man, mid-20s. Fair skin, short neat black hair, charming smile. Initially wears simple t-shirts and jeans, later more refined casual wear (linen shirt, smart trousers). Bright soft light on face.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HE LIED ABOUT EVERYTHING.",
+ "scenes": [
+  {
+   "image": "Priya, looking tired but determined, wipes down tables at a small, bustling chai cafe. Early morning light streams in.",
+   "speaker": "narrator",
+   "line": "I fell for a boy who had nothing... or so I thought.",
+   "fx": "none",
+   "sub": "I fell for a boy who had nothing... or so I thought.",
+   "say": "मैं एक लड़के से प्यार कर बैठी जिसके पास कुछ नहीं था... या ऐसा मैंने सोचा।"
+  },
+  {
+   "image": "Priya glances towards a tiny second-hand bookstore next door, seeing Rohan absorbed in a book.",
+   "speaker": "narrator",
+   "line": "Rohan was always there, lost in books.",
+   "fx": "none",
+   "sub": "Rohan was always there, lost in books.",
+   "say": "रोहन हमेशा वहीं होता था, किताबों में खोया हुआ।"
+  },
+  {
+   "image": "Rohan looks up from his book, catches Priya's eye and offers a warm, shy smile. Priya blushes slightly.",
+   "speaker": "narrator",
+   "line": "His smile felt like sunshine on a cloudy day.",
+   "fx": "none",
+   "sub": "His smile felt like sunshine on a cloudy day.",
+   "say": "उसकी मुस्कान बादलों भरे दिन में धूप जैसी लगती थी।"
+  },
+  {
+   "image": "Priya and Rohan chat animatedly over steaming cups of chai outside the cafe. They look comfortable together.",
+   "speaker": "narrator",
+   "line": "We talked for hours, sharing dreams over chai.",
+   "fx": "none",
+   "sub": "We talked for hours, sharing dreams over chai.",
+   "say": "हम घंटों बातें करते, चाय पर सपने साझा करते।"
+  },
+  {
+   "image": "Close-up on Priya's face, a soft, hopeful expression. She looks genuinely smitten.",
+   "speaker": "narrator",
+   "line": "He was different, so down-to-earth, so real.",
+   "fx": "none",
+   "sub": "He was different, so down-to-earth, so real.",
+   "say": "वह अलग था, बहुत सीधा-सादा, बहुत सच्चा।"
+  },
+  {
+   "image": "Priya and Rohan walking hand-in-hand through a vibrant local market, laughing freely.",
+   "speaker": "narrator",
+   "line": "Simple moments, but my heart felt full with him.",
+   "fx": "none",
+   "sub": "Simple moments, but my heart felt full with him.",
+   "say": "साधारण पल, पर उसके साथ मेरा दिल भरा हुआ था।"
+  },
+  {
+   "image": "Priya, with a worried expression, describes her ancestral home to Rohan, who listens intently.",
+   "speaker": "narrator",
+   "line": "I told him about our struggles, our ancestral home.",
+   "fx": "none",
+   "sub": "I told him about our struggles, our ancestral home.",
+   "say": "मैंने उसे अपने संघर्षों, अपने पैतृक घर के बारे में बताया।"
+  },
+  {
+   "image": "Close-up on Rohan's face, a look of deep concern as Priya speaks. He gently squeezes her hand.",
+   "speaker": "Rohan",
+   "line": "Priya, don't worry. Things will get better.",
+   "fx": "none",
+   "sub": "Priya, don't worry. Things will get better.",
+   "say": "प्रिया, चिंता मत करो। सब ठीक हो जाएगा।"
+  },
+  {
+   "image": "Priya leans her head on Rohan's shoulder in a quiet park, feeling comforted. He wraps an arm around her.",
+   "speaker": "narrator",
+   "line": "He promised to always be there for me.",
+   "fx": "none",
+   "sub": "He promised to always be there for me.",
+   "say": "उसने मुझसे हमेशा मेरे साथ रहने का वादा किया।"
+  },
+  {
+   "image": "A montage of small, loving gestures: Rohan helping Priya carry groceries, sharing a single ice cream.",
+   "speaker": "narrator",
+   "line": "Days turned to weeks, our bond grew stronger.",
+   "fx": "none",
+   "sub": "Days turned to weeks, our bond grew stronger.",
+   "say": "दिन हफ्तों में बदल गए, हमारा बंधन मजबूत होता गया।"
+  },
+  {
+   "image": "Priya cooking a simple meal in her modest kitchen, a loving smile on her face.",
+   "speaker": "narrator",
+   "line": "I cooked for us in my small kitchen.",
+   "fx": "none",
+   "sub": "I cooked for us in my small kitchen.",
+   "say": "मैंने अपनी छोटी रसोई में हमारे लिए खाना बनाया।"
+  },
+  {
+   "image": "Rohan clumsily chops vegetables, laughing as Priya playfully corrects him.",
+   "speaker": "narrator",
+   "line": "He tried to help, even if he wasn't very good.",
+   "fx": "none",
+   "sub": "He tried to help, even if he wasn't very good.",
+   "say": "उसने मदद करने की कोशिश की, भले ही वह अच्छा नहीं था।"
+  },
+  {
+   "image": "Close-up of Priya looking at Rohan, her eyes full of affection and contentment.",
+   "speaker": "narrator",
+   "line": "This felt like true love, built on simple things.",
+   "fx": "none",
+   "sub": "This felt like true love, built on simple things.",
+   "say": "यह सच्चा प्यार जैसा महसूस हुआ, साधारण चीजों पर बना।"
+  },
+  {
+   "image": "Priya's father sits at a small wooden table, looking grim, holding an official-looking legal notice.",
+   "speaker": "narrator",
+   "line": "Then, the legal notice arrived. Our worst fear.",
+   "fx": "none",
+   "sub": "Then, the legal notice arrived. Our worst fear.",
+   "say": "फिर, कानूनी नोटिस आ गया। हमारा सबसे बुरा डर।"
+  },
+  {
+   "image": "Close-up on the eviction notice held by Priya's trembling hands. Her eyes are wide with shock and fear.",
+   "speaker": "narrator",
+   "line": "Eviction. We had to leave our home.",
+   "fx": "none",
+   "sub": "Eviction. We had to leave our home.",
+   "say": "बेदखली। हमें अपना घर छोड़ना होगा।"
+  },
+  {
+   "image": "Priya, tears streaming down her face, tells Rohan the bad news. He looks solemn.",
+   "speaker": "narrator",
+   "line": "Rohan, we might lose everything.",
+   "fx": "none",
+   "sub": "Rohan, we might lose everything.",
+   "say": "रोहन, हम सब कुछ खो सकते हैं।"
+  },
+  {
+   "image": "Rohan holds Priya tightly, comforting her, his expression a mix of anger and sadness.",
+   "speaker": "Rohan",
+   "line": "I won't let that happen, Priya. I promise.",
+   "fx": "none",
+   "sub": "I won't let that happen, Priya. I promise.",
+   "say": "मैं ऐसा नहीं होने दूँगा, प्रिया। मैं वादा करता हूँ।"
+  },
+  {
+   "image": "Priya looks at Rohan, finding solace in his words, completely trusting him.",
+   "speaker": "narrator",
+   "line": "He seemed so genuinely upset, I believed him.",
+   "fx": "none",
+   "sub": "He seemed so genuinely upset, I believed him.",
+   "say": "वह इतना सच्चा परेशान लग रहा था, मैंने उस पर विश्वास किया।"
+  },
+  {
+   "image": "Rohan excitedly shows Priya a phone screen, beaming about a new opportunity.",
+   "speaker": "Rohan",
+   "line": "Priya! I got a big job offer!",
+   "fx": "none",
+   "sub": "Priya! I got a big job offer!",
+   "say": "प्रिया! मुझे एक बड़ी नौकरी का प्रस्ताव मिला है!"
+  },
+  {
+   "image": "Priya smiles, happy for him, but a flicker of doubt crosses her face.",
+   "speaker": "narrator",
+   "line": "I was happy, but something felt... different.",
+   "fx": "none",
+   "sub": "I was happy, but something felt... different.",
+   "say": "मैं खुश थी, लेकिन कुछ... अलग लग रहा था।"
+  },
+  {
+   "image": "Rohan now wears a slightly more expensive, but still casual, shirt. He looks confident.",
+   "speaker": "narrator",
+   "line": "He started dressing better, more polished.",
+   "fx": "none",
+   "sub": "He started dressing better, more polished.",
+   "say": "वह बेहतर कपड़े पहनने लगा, अधिक पॉलिशड।"
+  },
+  {
+   "image": "Priya and Rohan sitting at a slightly upscale cafe, a stark contrast to their usual chai stall.",
+   "speaker": "narrator",
+   "line": "Our dates became nicer, the cafes fancier.",
+   "fx": "none",
+   "sub": "Our dates became nicer, the cafes fancier.",
+   "say": "हमारी डेट्स बेहतर हो गईं, कैफे फैंसी हो गए।"
+  },
+  {
+   "image": "Rohan tries to hand Priya a thick wad of cash. Priya looks hesitant, refusing it gently.",
+   "speaker": "Rohan",
+   "line": "Take this for your family. Please, Priya.",
+   "fx": "none",
+   "sub": "Take this for your family. Please, Priya.",
+   "say": "अपने परिवार के लिए यह ले लो। कृपया, प्रिया।"
+  },
+  {
+   "image": "Priya shakes her head gently, her expression a mix of gratitude and discomfort.",
+   "speaker": "narrator",
+   "line": "No, Rohan. This is your hard-earned money.",
+   "fx": "none",
+   "sub": "No, Rohan. This is your hard-earned money.",
+   "say": "नहीं, रोहन। यह तुम्हारी खून-पसीने की कमाई है।"
+  },
+  {
+   "image": "Rohan insists, taking her hands in his, a determined look on his face.",
+   "speaker": "Rohan",
+   "line": "We're a team, right? Hum ek hain, Priya.",
+   "fx": "none",
+   "sub": "We're a team, right? We are one, Priya.",
+   "say": "हम एक टीम हैं, है ना? हम एक हैं, प्रिया।"
+  },
+  {
+   "image": "Priya looks down, a thoughtful expression, still feeling a tiny unease despite his generosity.",
+   "speaker": "narrator",
+   "line": "I smiled, but something deep down still bothered me.",
+   "fx": "none",
+   "sub": "I smiled, but something deep down still bothered me.",
+   "say": "मैं मुस्कुराई, लेकिन अंदर ही अंदर कुछ मुझे परेशान कर रहा था।"
+  },
+  {
+   "image": "Close-up on a calendar, red circle around an upcoming date, highlighting the looming eviction deadline.",
+   "speaker": "narrator",
+   "line": "Months passed. The deadline for eviction came closer.",
+   "fx": "none",
+   "sub": "Months passed. The deadline for eviction came closer.",
+   "say": "महीने बीत गए। बेदखली की समय-सीमा करीब आ गई।"
+  },
+  {
+   "image": "Priya sits on her sofa, watching TV. Her eyes widen as she sees Rohan on the news.",
+   "speaker": "narrator",
+   "line": "Then I saw him on the evening news channel.",
+   "fx": "none",
+   "sub": "Then I saw him on the evening news channel.",
+   "say": "फिर मैंने उसे शाम के समाचार चैनल पर देखा।"
+  },
+  {
+   "image": "Rohan, dressed in a sharp suit, stands confidently at a grand press conference podium, microphones everywhere.",
+   "speaker": "narrator",
+   "line": "He looked completely different, in a sharp suit.",
+   "fx": "none",
+   "sub": "He looked completely different, in a sharp suit.",
+   "say": "वह बिलकुल अलग लग रहा था, एक तेज सूट में।"
+  },
+  {
+   "image": "Close-up on the TV screen: a news ticker reads 'Rohan Sharma, son of real estate mogul Rajeev Sharma'.",
+   "speaker": "narrator",
+   "line": "The anchor introduced him. Rohan Sharma. My Rohan.",
+   "fx": "none",
+   "sub": "The anchor introduced him. Rohan Sharma. My Rohan.",
+   "say": "एंकर ने उसका परिचय दिया। रोहन शर्मा। मेरा रोहन।"
+  },
+  {
+   "image": "Priya drops the remote, her face pale with shock and disbelief. Her mouth slightly agape.",
+   "speaker": "narrator",
+   "line": "My heart stopped. Yeh kya ho raha hai?",
+   "fx": "none",
+   "sub": "My heart stopped. What is happening?",
+   "say": "मेरा दिल रुक गया। ये क्या हो रहा है?"
+  },
+  {
+   "image": "The news report shows a glossy rendering of a futuristic, huge development project.",
+   "speaker": "narrator",
+   "line": "They showed his family's new development plan.",
+   "fx": "none",
+   "sub": "They showed his family's new development plan.",
+   "say": "उन्होंने उसके परिवार की नई विकास योजना दिखाई।"
+  },
+  {
+   "image": "The rendering highlights the exact area of her ancestral home. A chill runs down Priya's spine.",
+   "speaker": "narrator",
+   "line": "It was exactly where my home stands. Hamara ghar.",
+   "fx": "none",
+   "sub": "It was exactly where my home stands. Our home.",
+   "say": "वह ठीक वहीं था जहाँ मेरा घर खड़ा है। हमारा घर।"
+  },
+  {
+   "image": "Priya's hands tremble as she tries to call Rohan on her phone, a look of desperate confusion.",
+   "speaker": "narrator",
+   "line": "I tried calling him. He didn't pick up.",
+   "fx": "none",
+   "sub": "I tried calling him. He didn't pick up.",
+   "say": "मैंने उसे फोन करने की कोशिश की। उसने उठाया नहीं।"
+  },
+  {
+   "image": "Priya standing outside the deserted second-hand bookstore, its shutters down. A 'For Rent' sign is visible.",
+   "speaker": "narrator",
+   "line": "His bookstore? Empty. Just a temporary job.",
+   "fx": "none",
+   "sub": "His bookstore? Empty. Just a temporary job.",
+   "say": "उसकी किताब की दुकान? खाली। सिर्फ एक अस्थायी नौकरी।"
+  },
+  {
+   "image": "Tears well up in Priya's eyes, her face a mixture of hurt and utter betrayal.",
+   "speaker": "narrator",
+   "line": "The betrayal felt like a punch to my gut.",
+   "fx": "none",
+   "sub": "The betrayal felt like a punch to my gut.",
+   "say": "विश्वासघात मेरे पेट में एक मुक्के जैसा महसूस हुआ।"
+  },
+  {
+   "image": "Priya flashes back to Rohan holding her hand, promising to help, a deceptive smile.",
+   "speaker": "narrator",
+   "line": "He knew all along. He was playing with me.",
+   "fx": "none",
+   "sub": "He knew all along. He was playing with me.",
+   "say": "वह सब जानता था। वह मेरे साथ खेल रहा था।"
+  },
+  {
+   "image": "Priya walks aimlessly through her old neighborhood, looking numb and heartbroken.",
+   "speaker": "narrator",
+   "line": "My world crumbled. My trust shattered.",
+   "fx": "none",
+   "sub": "My world crumbled. My trust shattered.",
+   "say": "मेरी दुनिया बिखर गई। मेरा विश्वास टूट गया।"
+  },
+  {
+   "image": "Construction signs bearing the name 'Sharma Estates' are erected near Priya's street.",
+   "speaker": "narrator",
+   "line": "The construction signs. His family's name.",
+   "fx": "none",
+   "sub": "The construction signs. His family's name.",
+   "say": "निर्माण के संकेत। उसके परिवार का नाम।"
+  },
+  {
+   "image": "Priya stands in front of her ancestral home, looking utterly defeated, the eviction notice in her hand.",
+   "speaker": "narrator",
+   "line": "He was the reason for all my family's pain.",
+   "fx": "none",
+   "sub": "He was the reason for all my family's pain.",
+   "say": "वह मेरे परिवार के सारे दर्द का कारण था।"
+  },
+  {
+   "image": "Priya's father emerges from the house, his shoulders slumped, holding another legal document.",
+   "speaker": "narrator",
+   "line": "We have to leave, beti. There's no choice.",
+   "fx": "none",
+   "sub": "We have to leave, daughter. There's no choice.",
+   "say": "हमें जाना होगा, बेटी। कोई विकल्प नहीं है।"
+  },
+  {
+   "image": "Priya's face contorts with a mixture of anger, hurt, and despair.",
+   "speaker": "narrator",
+   "line": "Anger surged through me. How could he?",
+   "fx": "none",
+   "sub": "Anger surged through me. How could he?",
+   "say": "गुस्सा मुझमें उमड़ पड़ा। वह ऐसा कैसे कर सकता था?"
+  },
+  {
+   "image": "Priya furiously dials Rohan's number again. Her eyes are narrowed.",
+   "speaker": "narrator",
+   "line": "I called him one last time. This time, he answered.",
+   "fx": "none",
+   "sub": "I called him one last time. This time, he answered.",
+   "say": "मैंने उसे आखिरी बार फोन किया। इस बार, उसने उठाया।"
+  },
+  {
+   "image": "Close-up on Priya's trembling mouth as she speaks into the phone, her voice barely a whisper.",
+   "speaker": "narrator",
+   "line": "You knew, didn't you, Rohan? Everything.",
+   "fx": "none",
+   "sub": "You knew, didn't you, Rohan? Everything.",
+   "say": "तुम जानते थे, है ना, रोहन? सब कुछ।"
+  },
+  {
+   "image": "Close-up of Rohan's face on the phone screen, his expression a mix of guilt and discomfort.",
+   "speaker": "Rohan",
+   "line": "Priya... I wanted to explain.",
+   "fx": "none",
+   "sub": "Priya... I wanted to explain.",
+   "say": "प्रिया... मैं समझाना चाहता था।"
+  },
+  {
+   "image": "Priya's face, hardened with pain and anger. She clenches her jaw.",
+   "speaker": "narrator",
+   "line": "Explain what? My real pain? Your cruel games?",
+   "fx": "none",
+   "sub": "Explain what? My real pain? Your cruel games?",
+   "say": "क्या समझाना है? मेरा असली दर्द? तुम्हारे क्रूर खेल?"
+  },
+  {
+   "image": "Rohan's face looking desperate on the phone, trying to make amends.",
+   "speaker": "Rohan",
+   "line": "Priya, I truly fell for you. I swear.",
+   "fx": "none",
+   "sub": "Priya, I truly fell for you. I swear.",
+   "say": "प्रिया, मैं सच में तुमसे प्यार करने लगा। कसम से।"
+  },
+  {
+   "image": "Priya hangs up abruptly, her face etched with sorrow and resolution.",
+   "speaker": "narrator",
+   "line": "I hung up. There was nothing more to say.",
+   "fx": "none",
+   "sub": "I hung up. There was nothing more to say.",
+   "say": "मैंने फोन काट दिया। कहने के लिए और कुछ नहीं था।"
+  },
+  {
+   "image": "Priya's family packing their meager belongings into cardboard boxes, the home looking dismantled.",
+   "speaker": "narrator",
+   "line": "Days later, our home was a mess of boxes.",
+   "fx": "none",
+   "sub": "Days later, our home was a mess of boxes.",
+   "say": "कुछ दिनों बाद, हमारा घर बक्सों का ढेर था।"
+  },
+  {
+   "image": "Priya sits amidst the packed boxes, looking forlorn and utterly heartbroken.",
+   "speaker": "narrator",
+   "line": "My heart ached. This was the end.",
+   "fx": "none",
+   "sub": "My heart ached. This was the end.",
+   "say": "मेरा दिल दुख रहा था। यह अंत था।"
+  },
+  {
+   "image": "A hesitant knock on the door. Priya looks up, surprised, then sees Rohan standing there.",
+   "speaker": "narrator",
+   "line": "Then, a knock. It was Rohan, looking distressed.",
+   "fx": "none",
+   "sub": "Then, a knock. It was Rohan, looking distressed.",
+   "say": "फिर, एक दस्तक। वह रोहन था, परेशान दिख रहा था।"
+  },
+  {
+   "image": "Rohan stands at the doorway, his hands clasped, a look of desperate pleading on his face.",
+   "speaker": "Rohan",
+   "line": "Priya, please. Just listen to me.",
+   "fx": "none",
+   "sub": "Priya, please. Just listen to me.",
+   "say": "प्रिया, कृपया। बस मेरी बात सुनो।"
+  },
+  {
+   "image": "Priya glares at him, tears welling up in her eyes again, but her expression is firm.",
+   "speaker": "narrator",
+   "line": "What more could you possibly say?",
+   "fx": "none",
+   "sub": "What more could you possibly say?",
+   "say": "तुम और क्या कह सकते हो?"
+  },
+  {
+   "image": "Rohan slowly extends a thick, official-looking envelope towards Priya.",
+   "speaker": "Rohan",
+   "line": "This is for your family. A small help.",
+   "fx": "none",
+   "sub": "This is for your family. A small help.",
+   "say": "यह तुम्हारे परिवार के लिए है। एक छोटी सी मदद।"
+  },
+  {
+   "image": "Priya takes the envelope cautiously, her brow furrowed in suspicion, then opens it.",
+   "speaker": "narrator",
+   "line": "I opened it. Expecting money, or empty words.",
+   "fx": "none",
+   "sub": "I opened it. Expecting money, or empty words.",
+   "say": "मैंने उसे खोला। पैसे, या खोखले शब्दों की उम्मीद कर रही थी।"
+  },
+  {
+   "image": "Close-up on Priya's hands holding a legal deed. Her eyes widen in complete shock.",
+   "speaker": "narrator",
+   "line": "It was a deed. The deed to our home.",
+   "fx": "none",
+   "sub": "It was a deed. The deed to our home.",
+   "say": "यह एक विलेख था। हमारे घर का विलेख।"
+  },
+  {
+   "image": "Close-up on the deed, clearly showing her father's name as the owner.",
+   "speaker": "narrator",
+   "line": "In my father's name. How was this possible?",
+   "fx": "none",
+   "sub": "In my father's name. How was this possible?",
+   "say": "मेरे पिता के नाम पर। यह कैसे संभव था?"
+  },
+  {
+   "image": "Rohan looks earnestly at Priya, his expression sincere and vulnerable.",
+   "speaker": "Rohan",
+   "line": "My father was selling to another builder. I bought it back.",
+   "fx": "none",
+   "sub": "My father was selling to another builder. I bought it back.",
+   "say": "मेरे पिता दूसरे बिल्डर को बेच रहे थे। मैंने इसे वापस खरीद लिया।"
+  },
+  {
+   "image": "Priya stares at him, then at the deed, then back at him, utterly bewildered.",
+   "speaker": "narrator",
+   "line": "He used his 'job offer', his inheritance, for us.",
+   "fx": "none",
+   "sub": "He used his 'job offer', his inheritance, for us.",
+   "say": "उसने अपनी 'नौकरी का प्रस्ताव', अपनी विरासत, हमारे लिए इस्तेमाल की।"
+  },
+  {
+   "image": "Rohan looks down, his voice filled with regret.",
+   "speaker": "Rohan",
+   "line": "I'm so sorry I lied about who I was, Priya.",
+   "fx": "none",
+   "sub": "I'm so sorry I lied about who I was, Priya.",
+   "say": "मुझे बहुत अफ़सोस है कि मैंने तुमसे झूठ बोला कि मैं कौन था, प्रिया।"
+  },
+  {
+   "image": "Priya holds the deed tightly, her face a complex mix of shock, hurt, and dawning understanding.",
+   "speaker": "narrator",
+   "line": "His deception. His sacrifice. My heart felt torn.",
+   "fx": "none",
+   "sub": "His deception. His sacrifice. My heart felt torn.",
+   "say": "उसका धोखा। उसका बलिदान। मेरा दिल फटा जा रहा था।"
+  },
+  {
+   "image": "Priya looks at Rohan, then around her home, then back at the deed. The weight of the situation is immense.",
+   "speaker": "narrator",
+   "line": "Can love truly grow from such a deceptive beginning?",
+   "fx": "none",
+   "sub": "Can love truly grow from such a deceptive beginning?",
+   "say": "क्या प्यार सच में इतनी धोखे भरी शुरुआत से पनप सकता है?"
+  },
+  {
+   "image": "Rohan watches her, waiting, his expression hopeful but unsure. Priya's face is unreadable.",
+   "speaker": "narrator",
+   "line": "Is true love worth a deceptive beginning?",
+   "fx": "none",
+   "sub": "Is true love worth a deceptive beginning?",
+   "say": "क्या सच्चा प्यार एक धोखे भरी शुरुआत के लायक है?"
+  }
+ ],
+ "caption": "I fell for a poor boy... until the news revealed his family's shocking secret 💔",
+ "slug": "2026-11-13_part3",
+ "story_no": 52,
+ "yt_title": "I fell for a poor boy... until the news revealed his family's shocking secret 💔",
+ "description": "She thought she found true love with a struggling young man. But his hidden identity was tied to her family's impending ruin. Can a love built on deception ever truly be real?",
+ "comment_question": "Would you forgive Rohan for his deception, given his final act?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indianshortfilm",
+  "#twistending",
+  "#lovestory",
+  "#deception",
+  "#familydrama",
+  "#hindistory",
+  "#betrayal",
+  "#unseenlove",
+  "#sacrifice"
+ ]
+}

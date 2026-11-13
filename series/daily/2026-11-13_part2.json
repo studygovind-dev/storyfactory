@@ -1,0 +1,521 @@
+{
+ "series": "Maya's Muffin Mayhem",
+ "episode": 2,
+ "title": "Maya's Muffin Mayhem",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_female"
+  },
+  "Maya": {
+   "look": "Young woman, 24, fair skin, clear face, long soft wavy dark-brown hair tied in a messy bun, simple hoop earrings, wearing a comfortable pastel-green oversized t-shirt and grey sweatpants. Expressive, often frustrated or guilty.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Mithu": {
+   "look": "Fluffy grey Persian cat, big bright green eyes, always has a slightly superior, unimpressed expression.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "DIET DISASTER!",
+ "scenes": [
+  {
+   "image": "[[Maya]] sits on floor, huge half-eaten chocolate cake in front. Wide-eyed, guilty, crumbs on face. [[Mithu]] on sofa behind, smirking.",
+   "speaker": "Maya",
+   "line": "Oh god, maine phir cheat kar liya!",
+   "fx": "none",
+   "say": "ओह गॉड, मैंने फिर चीट कर लिया!"
+  },
+  {
+   "image": "[[Maya]] looking determinedly at a plate of green salad. She's holding a fork, but grimacing.",
+   "speaker": "narrator",
+   "line": "Maya ne finally diet karne ki sochi.",
+   "fx": "none",
+   "say": "माया ने फाइनली डाइट करने की सोची।"
+  },
+  {
+   "image": "[[Maya]] standing on a weighing scale, hands on hips, looking horrified at the reading.",
+   "speaker": "Maya",
+   "line": "Yeh numbers toh har baar badhte hi rehte hain!",
+   "fx": "none",
+   "say": "ये नंबर्स तो हर बार बढ़ते ही रहते हैं!"
+  },
+  {
+   "image": "Close-up of [[Mithu]] on the sofa, looking at Maya with a bored, judgmental expression.",
+   "speaker": "Mithu",
+   "line": "Drama queen. Har mahine ka yehi routine hai.",
+   "fx": "none",
+   "say": "ड्रामा क्वीन। हर महीने का येही रूटीन है।"
+  },
+  {
+   "image": "[[Maya]] dramatically throwing away a packet of chips into the dustbin. Looks resolved.",
+   "speaker": "Maya",
+   "line": "No more junk food! Bas, ab control!",
+   "fx": "none",
+   "say": "नो मोर जंक फूड! बस, अब कंट्रोल!"
+  },
+  {
+   "image": "[[Mithu]] watches the chips packet fall, then looks at Maya, raising an eyebrow.",
+   "speaker": "Mithu",
+   "line": "Good luck with that, my dear human.",
+   "fx": "none",
+   "say": "गुड लक विथ दैट, माई डियर ह्यूमन।"
+  },
+  {
+   "image": "Next morning. [[Maya]] sips a green smoothie, looking disgusted. She pinches her nose.",
+   "speaker": "Maya",
+   "line": "Ugh, iska taste toh totally ghaas jaisa hai.",
+   "fx": "none",
+   "say": "उफ़, इसका टेस्ट तो टोटली घास जैसा है।"
+  },
+  {
+   "image": "[[Mithu]] sits on the kitchen counter, licking his paw, completely uninterested in Maya's struggle.",
+   "speaker": "Mithu",
+   "line": "At least mera food tasty hota hai.",
+   "fx": "none",
+   "say": "एट लीस्ट मेरा फूड टेस्टी होता है।"
+  },
+  {
+   "image": "Lunchtime. [[Maya]] pokes at a small portion of boiled chicken and broccoli, looking miserable.",
+   "speaker": "Maya",
+   "line": "Bhookh toh phir bhi lag rahi hai.",
+   "fx": "none",
+   "say": "भूख तो फिर भी लग रही है।"
+  },
+  {
+   "image": "Later that evening. [[Maya]] watches a food commercial on TV, eyes wide with longing.",
+   "speaker": "narrator",
+   "line": "Sham tak cravings ne attack kar diya.",
+   "fx": "none",
+   "say": "शाम तक क्रेविंग्स ने अटैक कर दिया।"
+  },
+  {
+   "image": "Close-up of a plate of hot, golden samosas. Steam rises enticingly.",
+   "speaker": "Maya",
+   "line": "Ek samosa... bas ek chota sa?",
+   "fx": "none",
+   "say": "एक समोसा... बस एक छोटा सा?"
+  },
+  {
+   "image": "[[Mithu]] is sitting directly in front of the TV, blocking Maya's view, looking unblinking at her.",
+   "speaker": "Mithu",
+   "line": "Nope. Tumhara diet plan yaad hai?",
+   "fx": "none",
+   "say": "नोप। तुम्हारा डाइट प्लान याद है?"
+  },
+  {
+   "image": "[[Maya]] is pacing nervously in her living room, rubbing her tummy.",
+   "speaker": "Maya",
+   "line": "Mujhe kuch sweet khaane ka mann kar raha hai.",
+   "fx": "none",
+   "say": "मुझे कुछ स्वीट खाने का मन कर रहा है।"
+  },
+  {
+   "image": "[[Mithu]] follows her with his eyes, head turning slowly.",
+   "speaker": "Mithu",
+   "line": "Control your urges, human. Control.",
+   "fx": "none",
+   "say": "कंट्रोल योर अर्जेस, ह्यूमन। कंट्रोल।"
+  },
+  {
+   "image": "Night. [[Maya]] secretly opens the fridge, looking around furtively. Moonlight shines through the window.",
+   "speaker": "narrator",
+   "line": "Par cravings itni strong thi ki...",
+   "fx": "none",
+   "say": "पर क्रेविंग्स इतनी स्ट्रांग थी कि..."
+  },
+  {
+   "image": "Close-up. [[Maya]]'s hand reaches for a hidden jar of cookies at the back of the fridge.",
+   "speaker": "Maya",
+   "line": "Sirf ek... koi nahin dekh raha.",
+   "fx": "none",
+   "say": "सिर्फ एक... कोई नहीं देख रहा।"
+  },
+  {
+   "image": "[[Mithu]] is sitting on the floor behind her, eyes glowing in the dark, watching her intently.",
+   "speaker": "Mithu",
+   "line": "Oh, really? I'm right here.",
+   "fx": "none",
+   "say": "ओह, रियली? आई ऍम राईट हियर।"
+  },
+  {
+   "image": "[[Maya]] bites into a cookie, eyes closed in bliss. Then she hears a soft meow.",
+   "speaker": "Maya",
+   "line": "Mithu! Tum kab aaye?",
+   "fx": "none",
+   "say": "मिथु! तुम कब आए?"
+  },
+  {
+   "image": "[[Mithu]] stares at the cookie in her hand, then at her face, with a disapproving glare.",
+   "speaker": "Mithu",
+   "line": "I'm always here. Always watching.",
+   "fx": "none",
+   "say": "आई ऍम आलवेज हियर। आलवेज वाचिंग।"
+  },
+  {
+   "image": "[[Maya]] quickly hides the cookie behind her back, trying to look innocent.",
+   "speaker": "Maya",
+   "line": "Uhh... yeh toh... protein biscuit hai!",
+   "fx": "none",
+   "say": "उह... ये तो... प्रोटीन बिस्किट है!"
+  },
+  {
+   "image": "[[Mithu]] slowly blinks, unimpressed, then turns his head away in disgust.",
+   "speaker": "Mithu",
+   "line": "Protein, my paw. That's a chocolate chip.",
+   "fx": "none",
+   "say": "प्रोटीन, माई पॉ। दैट्स अ चॉकलेट चिप।"
+  },
+  {
+   "image": "Next day. [[Maya]] tries to sneak a small pastry into her bedroom, tiptoeing.",
+   "speaker": "narrator",
+   "line": "Maya ki sneakiness badhti gayi.",
+   "fx": "none",
+   "say": "माया की स्नीकीनेस बढ़ती गई।"
+  },
+  {
+   "image": "[[Mithu]] is perched on top of a bookshelf, looking down at her, eyes narrowed.",
+   "speaker": "Mithu",
+   "line": "Busted again, human. Pathetic.",
+   "fx": "none",
+   "say": "बस्टेड अगेन, ह्यूमन। पैथेटिक।"
+  },
+  {
+   "image": "[[Maya]] sighs, defeated, dropping the pastry onto a plate.",
+   "speaker": "Maya",
+   "line": "Tum toh mere personal diet monitor ho!",
+   "fx": "none",
+   "say": "तुम तो मेरे पर्सनल डाइट मॉनिटर हो!"
+  },
+  {
+   "image": "[[Mithu]] jumps down gracefully, landing silently near her feet.",
+   "speaker": "Mithu",
+   "line": "Someone has to be. Clearly not you.",
+   "fx": "none",
+   "say": "समवन हैज़ टू बी। क्लियरली नॉट यू।"
+  },
+  {
+   "image": "[[Maya]] tries to distract [[Mithu]] with a toy mouse, while reaching for a hidden snack.",
+   "speaker": "Maya",
+   "line": "Dekho, Mithu, tumhara favourite toy!",
+   "fx": "none",
+   "say": "देखो, मिथु, तुम्हारा फेवरेट टॉय!"
+  },
+  {
+   "image": "[[Mithu]] bats the toy away with disdain, eyes still fixed on Maya's snack-hand.",
+   "speaker": "Mithu",
+   "line": "Nice try. I'm not that easily fooled.",
+   "fx": "none",
+   "say": "नाइस ट्राय। आई ऍम नॉट दैट ईज़ीली फूल्ड।"
+  },
+  {
+   "image": "[[Maya]] covers her head with a blanket, eating a chocolate bar secretly. Only her hand is visible.",
+   "speaker": "narrator",
+   "line": "Maya ki tactics aur bhi funny ho gayi.",
+   "fx": "none",
+   "say": "माया की टैक्टिक्स और भी फनी हो गई।"
+  },
+  {
+   "image": "[[Mithu]] sits on the blanket, purring loudly, his tail gently tapping her head.",
+   "speaker": "Mithu",
+   "line": "I can hear the wrapper, you know.",
+   "fx": "none",
+   "say": "आई कैन हियर द रैपर, यू नो।"
+  },
+  {
+   "image": "[[Maya]] peeks out from under the blanket, looking annoyed.",
+   "speaker": "Maya",
+   "line": "Tumhe sab kaise pata chal jaata hai?",
+   "fx": "none",
+   "say": "तुम्हें सब कैसे पता चल जाता है?"
+  },
+  {
+   "image": "[[Mithu]] grooms himself nonchalantly.",
+   "speaker": "Mithu",
+   "line": "It's a cat thing. And your loud chewing.",
+   "fx": "none",
+   "say": "इट्स अ कैट थिंग। एंड योर लाउड च्युइंग।"
+  },
+  {
+   "image": "[[Maya]] holds up her hands in surrender, laughing.",
+   "speaker": "Maya",
+   "line": "Okay, okay! Tum jeet gaye, Maharaj!",
+   "fx": "none",
+   "say": "ओके, ओके! तुम जीत गए, महाराज!"
+  },
+  {
+   "image": "[[Maya]] in bed, scrolling on her phone. She sees an ad for a new bakery.",
+   "speaker": "narrator",
+   "line": "Phir ek din usne ek naya plan banaya.",
+   "fx": "none",
+   "say": "फिर एक दिन उसने एक नया प्लान बनाया।"
+  },
+  {
+   "image": "Close-up of a delicious-looking muffin on the screen, Maya's eyes are wide.",
+   "speaker": "Maya",
+   "line": "Bas ek last cheat meal, phir pakka diet!",
+   "fx": "none",
+   "say": "बस एक लास्ट चीट मील, फिर पक्का डाइट!"
+  },
+  {
+   "image": "[[Mithu]] jumps onto her bed, sits on her pillow, staring intently at the phone screen.",
+   "speaker": "Mithu",
+   "line": "Sure, Janeman. We've heard that before.",
+   "fx": "none",
+   "say": "श्योर, जानेमन। वीव हर्ड दैट बिफोर।"
+  },
+  {
+   "image": "[[Maya]] orders a huge feast on her phone: pizza, muffins, samosas.",
+   "speaker": "narrator",
+   "line": "Usne sab kuch order kar diya.",
+   "fx": "none",
+   "say": "उसने सब कुछ ऑर्डर कर दिया।"
+  },
+  {
+   "image": "Her living room is transformed: pizza boxes, muffin wrappers, samosa plates everywhere. [[Maya]] is ecstatic.",
+   "speaker": "Maya",
+   "line": "Aaj toh party hogi, only for me!",
+   "fx": "none",
+   "say": "आज तो पार्टी होगी, ओनली फॉर मी!"
+  },
+  {
+   "image": "[[Mithu]] sits calmly amidst the chaos, watching Maya devour a pizza slice.",
+   "speaker": "Mithu",
+   "line": "Such a glorious downfall. Predictable.",
+   "fx": "none",
+   "say": "सच अ ग्लोरियस डाउनफॉल। प्रेडिक्टेबल।"
+  },
+  {
+   "image": "[[Maya]] takes a huge bite of a muffin, eyes closed in pure joy. Crumbs fall on her shirt.",
+   "speaker": "Maya",
+   "line": "Mmm! This is what true happiness feels like!",
+   "fx": "none",
+   "say": "मम्म! दिस इज व्हाट ट्रू हैप्पीनेस फील्स लाइक!"
+  },
+  {
+   "image": "[[Mithu]] spots a falling crumb and subtly nudges it towards himself with his paw.",
+   "speaker": "Mithu",
+   "line": "A small tax for my patience.",
+   "fx": "none",
+   "say": "अ स्माल टैक्स फॉर माई पेशेंस।"
+  },
+  {
+   "image": "[[Maya]] offers a tiny piece of pizza crust to [[Mithu]].",
+   "speaker": "Maya",
+   "line": "Arey, tum bhi khao, mera pyaara Mithu.",
+   "fx": "none",
+   "say": "अरे, तुम भी खाओ, मेरा प्यारा मिथु।"
+  },
+  {
+   "image": "[[Mithu]] sniffs it disdainfully, then looks at Maya. He rejects it.",
+   "speaker": "Mithu",
+   "line": "I have standards, unlike some people.",
+   "fx": "none",
+   "say": "आई हैव स्टैंडर्ड्स, अनलाइक सम पीपल।"
+  },
+  {
+   "image": "[[Maya]] is laughing, enjoying her cheat meal. Her phone rings on the table.",
+   "speaker": "narrator",
+   "line": "Tabhi uske phone ki ghanti baji.",
+   "fx": "none",
+   "say": "तभी उसके फोन की घंटी बजी।"
+  },
+  {
+   "image": "Close-up of the phone screen showing 'Mom Calling'. [[Maya]]'s face instantly goes from happy to panicked.",
+   "speaker": "Maya",
+   "line": "Oh no, Mom! Ab kya karun?",
+   "fx": "none",
+   "say": "ओह नो, मॉम! अब क्या करूँ?"
+  },
+  {
+   "image": "[[Maya]] frantically tries to hide the food. Shoving pizza boxes under the sofa.",
+   "speaker": "Maya",
+   "line": "Jaldi! Jaldi! Everything must vanish!",
+   "fx": "none",
+   "say": "जल्दी! जल्दी! एवरीथिंग मस्ट वैनिश!"
+  },
+  {
+   "image": "[[Mithu]] watches her, tail twitching slowly, completely amused by the chaos.",
+   "speaker": "Mithu",
+   "line": "The struggle is real. And hilarious.",
+   "fx": "none",
+   "say": "द स्ट्रगल इज़ रियल। एंड हिलेरियस।"
+  },
+  {
+   "image": "[[Maya]] picks up the phone, trying to sound normal, out of breath.",
+   "speaker": "Maya",
+   "line": "Haan, Mom? Sab theek hai?",
+   "fx": "none",
+   "say": "हाँ, मॉम? सब ठीक है?"
+  },
+  {
+   "image": "[[Maya]] is smiling falsely into the phone, while her eyes dart nervously at the hidden food.",
+   "speaker": "narrator",
+   "line": "Kaisi chal rahi hai tumhari diet, beta?",
+   "fx": "none",
+   "say": "कैसी चल रही है तुम्हारी डाइट, बेटा?"
+  },
+  {
+   "image": "[[Maya]] forces a cheerful expression.",
+   "speaker": "Maya",
+   "line": "Perfect, Mom! Bilkul control mein hoon!",
+   "fx": "none",
+   "say": "परफेक्ट, मॉम! बिलकुल कंट्रोल में हूँ!"
+  },
+  {
+   "image": "[[Mithu]] looks directly at the phone, then back at Maya, with a knowing smirk.",
+   "speaker": "Mithu",
+   "line": "Liar, liar, pants on fire.",
+   "fx": "none",
+   "say": "लायर, लायर, पैंट्स ऑन फायर।"
+  },
+  {
+   "image": "[[Maya]] glares at [[Mithu]], who pretends to be grooming himself.",
+   "speaker": "narrator",
+   "line": "Acha? Mujhe toh lagta hai tum bhookhi hogi.",
+   "fx": "none",
+   "say": "अच्छा? मुझे तो लगता है तुम भूखी होगी।"
+  },
+  {
+   "image": "[[Maya]] looks confused, then quickly denies it, shaking her head.",
+   "speaker": "Maya",
+   "line": "Nahi, Mom! Mai theek hoon, sach mein!",
+   "fx": "none",
+   "say": "नहीं, मॉम! मैं ठीक हूँ, सच में!"
+  },
+  {
+   "image": "[[Maya]] is still on the phone, a knock comes from the door. She freezes.",
+   "speaker": "narrator",
+   "line": "Tabhi darwaze par knock hua.",
+   "fx": "none",
+   "say": "तभी दरवाजे पर नॉक हुआ।"
+  },
+  {
+   "image": "[[Maya]] puts the phone down, runs to the door, peeks through the peephole. Looks shocked.",
+   "speaker": "Maya",
+   "line": "Delivery guy? Par maine toh sab manga liya!",
+   "fx": "none",
+   "say": "डिलीवरी गाय? पर मैंने तो सब मंगा लिया!"
+  },
+  {
+   "image": "[[Maya]] opens the door. The delivery guy holds a huge box of assorted pastries and sweets.",
+   "speaker": "narrator",
+   "line": "Aapki Mom ne extra bheja hai, cheat day emergency ke liye.",
+   "fx": "none",
+   "say": "आपकी मॉम ने एक्स्ट्रा भेजा है, चीट डे इमरजेंसी के लिए।"
+  },
+  {
+   "image": "[[Maya]] stands dumbfounded, holding the box, mouth agape.",
+   "speaker": "Maya",
+   "line": "Meri Mom? Unhe kaise pata?",
+   "fx": "none",
+   "say": "मेरी मॉम? उन्हें कैसे पता?"
+  },
+  {
+   "image": "[[Mithu]] is sitting near the doorstep, looking up at Maya with a superior, 'I-told-you-so' expression.",
+   "speaker": "Mithu",
+   "line": "Moms always know, human. Always.",
+   "fx": "none",
+   "say": "मॉम्स आलवेज नो, ह्यूमन। आलवेज।"
+  },
+  {
+   "image": "[[Maya]] slowly turns to [[Mithu]], eyes wide with realization. She points accusingly.",
+   "speaker": "Maya",
+   "line": "Tum... tumne Mom ko sab bataya?",
+   "fx": "none",
+   "say": "तुम... तुमने मॉम को सब बताया?"
+  },
+  {
+   "image": "[[Mithu]] blinks slowly, then gives a very deliberate, smug smirk, and stretches lazily.",
+   "speaker": "Mithu",
+   "line": "A cat's gotta do what a cat's gotta do.",
+   "fx": "none",
+   "say": "अ कैट्स गोटा डू व्हाट अ कैट्स गोटा डू।"
+  },
+  {
+   "image": "[[Maya]] puts the box down, then kneels and hugs [[Mithu]], laughing despite herself.",
+   "speaker": "Maya",
+   "line": "You little traitor! Par I love you!",
+   "fx": "none",
+   "say": "यू लिटिल ट्रेटर! पर आई लव यू!"
+  },
+  {
+   "image": "[[Mithu]] tolerates the hug for a second, then nudges Maya's hand towards the pastry box.",
+   "speaker": "Mithu",
+   "line": "Now, less hugging, more eating. Mine.",
+   "fx": "none",
+   "say": "नाओ, लेस हगिंग, मोर ईटिंग। माइन।"
+  },
+  {
+   "image": "[[Maya]] sits back down amidst the food, no longer trying to hide it, smiling.",
+   "speaker": "narrator",
+   "line": "Maya ne diet ki tension chhod di.",
+   "fx": "none",
+   "say": "माया ने डाइट की टेंशन छोड़ दी।"
+  },
+  {
+   "image": "[[Maya]] happily eats a muffin, offering a small piece of plain bread to [[Mithu]].",
+   "speaker": "Maya",
+   "line": "I guess Mom knew best, as always.",
+   "fx": "none",
+   "say": "आई गेस मॉम न्यू बेस्ट, एज़ आलवेज।"
+  },
+  {
+   "image": "Close-up of [[Mithu]] nibbling his bread, then looking up at the pastry in Maya's hand, wishing.",
+   "speaker": "Mithu",
+   "line": "For once, I agree with her.",
+   "fx": "none",
+   "say": "फॉर वन्स, आई अग्री विथ हर।"
+  },
+  {
+   "image": "[[Maya]] laughs out loud, covering her mouth with her hand, a pastry in the other.",
+   "speaker": "Maya",
+   "line": "Meri diet toh totally fail ho gayi!",
+   "fx": "none",
+   "say": "मेरी डाइट तो टोटली फेल हो गई!"
+  },
+  {
+   "image": "[[Maya]] and [[Mithu]] are sitting side by side, both happily munching on their snacks (Maya's a muffin, Mithu's a treat).",
+   "speaker": "Maya",
+   "line": "Par abhi toh life mein mithaas hai na?",
+   "fx": "none",
+   "say": "पर अभी तो लाइफ में मिठास है ना?"
+  },
+  {
+   "image": "Zoom out on [[Maya]] and [[Mithu]] chilling. Maya pats Mithu's head. Both content.",
+   "speaker": "narrator",
+   "line": "Aur mithas toh sabse important hai!",
+   "fx": "none",
+   "say": "और मिठास तो सबसे इम्पोर्टेंट है!"
+  },
+  {
+   "image": "A close-up of [[Mithu]] looking smugly at the camera, then winking.",
+   "speaker": "Mithu",
+   "line": "So, what's your biggest cheat meal?",
+   "fx": "none",
+   "say": "सो, व्हाट्स योर बिगेस्ट चीट मील?"
+  }
+ ],
+ "caption": "My Strict Diet Failed... My Cat Saw Everything 🤣",
+ "slug": "2026-11-13_part2",
+ "story_no": 51,
+ "yt_title": "My Strict Diet Failed... My Cat Saw Everything 🤣",
+ "description": "This girl's diet was doomed from the start! She tried to hide her cheat meals, but her furry friend knew all her secrets. What happens when your own mom helps you fail your diet?",
+ "comment_question": "Ever had a diet fail this spectacularly?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnycartoons",
+  "#dietfail",
+  "#relatablecomedy",
+  "#catsofinstagram",
+  "#petstories",
+  "#indiancomedy",
+  "#familyhumor",
+  "#cheatmeal",
+  "#mayasmuffinmayhem"
+ ]
+}

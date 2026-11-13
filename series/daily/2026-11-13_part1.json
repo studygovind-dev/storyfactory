@@ -1,0 +1,601 @@
+{
+ "series": "The Eagle's Silent Promise",
+ "episode": 1,
+ "title": "The Eagle's Silent Promise",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, a young Indian woman, fair skin, long soft wavy dark-brown hair, small gold bindi, simple gold hoop earrings. She wears a soft pastel pink cotton kurta with white embroidery and white trousers, or a neat casual top and jeans. Her face shows warmth, determination, and deep emotion. Her age progresses from 10 to 30 through the story.",
+   "voice": "hindi_female_young"
+  },
+  "Shaheen": {
+   "look": "A majestic golden eagle, large and powerful, with piercing dark eyes and strong talons. Initially injured, later strong and graceful, and finally looking older but still dignified.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "HE ALWAYS RETURNED.",
+ "scenes": [
+  {
+   "image": "Close-up of a majestic golden eagle, Shaheen, perched on a branch just outside a rustic window, looking directly into the camera with intense, knowing eyes. Sunlight illuminates its feathers.",
+   "speaker": "narrator",
+   "line": "Uss din, har saal, woh waapas aata tha.",
+   "fx": "none",
+   "sub": "That day, every year, he would return.",
+   "say": "उस दिन, हर साल, वो वापस आता था।"
+  },
+  {
+   "image": "A younger Priya (around 10 years old), with bright eyes, sitting on a sun-drenched porch swing, looking out at a vast, green valley.",
+   "speaker": "narrator",
+   "line": "Humari life bohot simple thi, pahadon ke beech.",
+   "fx": "none",
+   "sub": "Our life was very simple, amidst the mountains.",
+   "say": "हमारी लाइफ बोहोत सिंपल थी, पहाड़ों के बीच।"
+  },
+  {
+   "image": "Priya's father, a kind-faced man with a warm smile, pointing up at the sky, a young Priya (10) looking up intently beside him.",
+   "speaker": "narrator",
+   "line": "Papa ko eagles se bohot pyaar tha.",
+   "fx": "none",
+   "sub": "Papa loved eagles very much.",
+   "say": "पापा को ईगल्स से बोहोत प्यार था।"
+  },
+  {
+   "image": "Priya (15, looking sad) standing alone, staring at an empty chair on the porch, a wistful look on her face.",
+   "speaker": "narrator",
+   "line": "Phir ek din, Papa chale gaye, kabhi lautke nahi aaye.",
+   "fx": "none",
+   "sub": "Then one day, Papa left, never to return.",
+   "say": "फिर एक दिन, पापा चले गए, कभी लौट के नहीं आए।"
+  },
+  {
+   "image": "A half-eaten birthday cake on a table, a single unlit candle. Priya (15) sits alone, looking forlorn.",
+   "speaker": "narrator",
+   "line": "Mera birthday bhi ussi din tha, jab woh gayab hue.",
+   "fx": "none",
+   "sub": "My birthday was also the day he disappeared.",
+   "say": "मेरा बर्थडे भी उसी दिन था, जब वो गायब हुए।"
+  },
+  {
+   "image": "Wide shot of a beautiful, dense forest with tall trees and a river flowing. Sunlight filters through the canopy.",
+   "speaker": "narrator",
+   "line": "Humara ghar jungle ke paas tha, bohot hi shaant jagah.",
+   "fx": "none",
+   "sub": "Our house was near the jungle, a very peaceful place.",
+   "say": "हमारा घर जंगल के पास था, बोहोत ही शांत जगह।"
+  },
+  {
+   "image": "Priya (now 18, wearing simple casual clothes) walking through a forest path, looking observant and peaceful.",
+   "speaker": "narrator",
+   "line": "Roz main jungle mein ghoomne jaati thi.",
+   "fx": "none",
+   "sub": "Every day I would go for a walk in the jungle.",
+   "say": "रोज़ मैं जंगल में घूमने जाती थी।"
+  },
+  {
+   "image": "Close-up of Priya's face, eyes wide with concern, looking down intently.",
+   "speaker": "narrator",
+   "line": "Ek subah, mujhe kuch dikha, zameen par.",
+   "fx": "none",
+   "sub": "One morning, I saw something, on the ground.",
+   "say": "एक सुबह, मुझे कुछ दिखा, ज़मीन पर।"
+  },
+  {
+   "image": "Shaheen, a large golden eagle, lying still on the forest floor, one wing bent at an odd angle. Its eyes are closed.",
+   "speaker": "narrator",
+   "line": "Ek eagle, zakhmi, bejaan sa pada tha.",
+   "fx": "none",
+   "sub": "An eagle, injured, lying lifeless.",
+   "say": "एक ईगल, ज़ख़्मी, बेजान सा पड़ा था।"
+  },
+  {
+   "image": "Priya (18) kneeling beside Shaheen, hand hovering over it, fear and compassion mixed on her face.",
+   "speaker": "narrator",
+   "line": "Main darr gayi, par uski halat dekh ke dil pighal gaya.",
+   "fx": "none",
+   "sub": "I got scared, but seeing its condition, my heart melted.",
+   "say": "मैं डर गई, पर उसकी हालत देख के दिल पिघल गया।"
+  },
+  {
+   "image": "Close-up of Priya's determined face, as she gently reaches for Shaheen.",
+   "speaker": "narrator",
+   "line": "Usse aise chhod nahi sakti thi. Mujhe help karni thi.",
+   "fx": "none",
+   "sub": "I couldn't leave it like that. I had to help.",
+   "say": "उसे ऐसे छोड़ नहीं सकती थी। मुझे हेल्प करनी थी।"
+  },
+  {
+   "image": "Priya (18), struggling but determined, carefully carrying Shaheen wrapped in her shawl, walking through the forest.",
+   "speaker": "narrator",
+   "line": "Dheere se uthaya, aur ghar le aayi.",
+   "fx": "none",
+   "sub": "Slowly I lifted it, and brought it home.",
+   "say": "धीरे से उठाया, और घर ले आई।"
+  },
+  {
+   "image": "Priya (18) gently cleaning Shaheen's wound with a cloth, its eye half-open, watching her.",
+   "speaker": "narrator",
+   "line": "Uske wounds saaf kiye, dawa lagayi.",
+   "fx": "none",
+   "sub": "I cleaned its wounds, applied medicine.",
+   "say": "उसके वुंड्स साफ किए, दवा लगाई।"
+  },
+  {
+   "image": "Shaheen resting in a large, soft basket lined with blankets, inside a corner of Priya's room.",
+   "speaker": "narrator",
+   "line": "Ek corner mein uske liye bed banaya.",
+   "fx": "none",
+   "sub": "I made a bed for him in a corner.",
+   "say": "एक कॉर्नर में उसके लिए बेड बनाया।"
+  },
+  {
+   "image": "Close-up of Priya's hand, offering a small piece of meat to Shaheen. The eagle cautiously pecks at it.",
+   "speaker": "narrator",
+   "line": "Roz usse khana khilati, paani pilaati.",
+   "fx": "none",
+   "sub": "Every day I would feed him, give him water.",
+   "say": "रोज़ उसे खाना खिलाती, पानी पिलाती।"
+  },
+  {
+   "image": "Shaheen, now looking a bit stronger, trying to stretch its wing. Priya watches with hope.",
+   "speaker": "narrator",
+   "line": "Dheere dheere, woh theek hone laga.",
+   "fx": "none",
+   "sub": "Slowly, he started getting better.",
+   "say": "धीरे धीरे, वो ठीक होने लगा।"
+  },
+  {
+   "image": "Priya (18) sitting on the floor near Shaheen's basket, reading a book, the eagle silently observing her. A peaceful scene.",
+   "speaker": "narrator",
+   "line": "Humara ek silent bond ban gaya.",
+   "fx": "none",
+   "sub": "A silent bond formed between us.",
+   "say": "हमारा एक साइलेंट बॉन्ड बन गया।"
+  },
+  {
+   "image": "Priya smiling gently, stroking Shaheen's head very carefully.",
+   "speaker": "narrator",
+   "line": "Maine uska naam Shaheen rakha.",
+   "fx": "none",
+   "sub": "I named him Shaheen.",
+   "say": "मैंने उसका नाम शाहीन रखा।"
+  },
+  {
+   "image": "Shaheen perched on a sturdy branch outside Priya's window, flapping his wings tentatively.",
+   "speaker": "narrator",
+   "line": "Ab woh udne ki koshish karne laga tha.",
+   "fx": "none",
+   "sub": "Now he was trying to fly.",
+   "say": "अब वो उड़ने की कोशिश करने लगा था।"
+  },
+  {
+   "image": "Priya (18) standing in an open field, looking up at Shaheen perched on her outstretched arm, ready to fly.",
+   "speaker": "narrator",
+   "line": "Ek din aaya, jab usse jaana tha.",
+   "fx": "none",
+   "sub": "A day came, when he had to leave.",
+   "say": "एक दिन आया, जब उसे जाना था।"
+  },
+  {
+   "image": "Shaheen soaring majestically into the clear blue sky, getting smaller as he flies away.",
+   "speaker": "narrator",
+   "line": "Maine usse azaad kar diya.",
+   "fx": "none",
+   "sub": "I set him free.",
+   "say": "मैंने उसे आज़ाद कर दिया।"
+  },
+  {
+   "image": "Close-up of Priya's face, a single tear rolling down her cheek, watching Shaheen disappear.",
+   "speaker": "narrator",
+   "line": "Usse jaate dekh ke, aankhein bhar aayi.",
+   "fx": "none",
+   "sub": "Seeing him leave, my eyes welled up.",
+   "say": "उसे जाते देख के, आँखें भर आईं।"
+  },
+  {
+   "image": "Priya sitting alone in her room, looking at the empty corner where Shaheen used to be.",
+   "speaker": "narrator",
+   "line": "Ghar mein phir se khamoshi chha gayi.",
+   "fx": "none",
+   "sub": "Silence fell over the house once more.",
+   "say": "घर में फिर से खामोशी छा गई।"
+  },
+  {
+   "image": "Priya (18) looking at a calendar, circling a date. Her expression is somber.",
+   "speaker": "narrator",
+   "line": "Mera birthday phir se kareeb aa raha tha.",
+   "fx": "none",
+   "sub": "My birthday was approaching again.",
+   "say": "मेरा बर्थडे फिर से करीब आ रहा था।"
+  },
+  {
+   "image": "Priya (18) sitting alone by the window, gazing out, a melancholy expression.",
+   "speaker": "narrator",
+   "line": "Papa ke chale jaane ki saalgirah bhi thi woh.",
+   "fx": "none",
+   "sub": "It was also the anniversary of Papa's disappearance.",
+   "say": "पापा के चले जाने की सालगिरह भी थी वो।"
+  },
+  {
+   "image": "Priya (18) suddenly looks up, startled, a flicker of surprise and hope on her face.",
+   "speaker": "narrator",
+   "line": "Phir achanak, ek awaaz suni...",
+   "fx": "none",
+   "sub": "Then suddenly, I heard a sound...",
+   "say": "फिर अचानक, एक आवाज़ सुनी..."
+  },
+  {
+   "image": "Shaheen perched on the windowsill, looking directly at Priya, his feathers glistening.",
+   "speaker": "narrator",
+   "line": "Shaheen! Woh waapas aa gaya tha!",
+   "fx": "none",
+   "sub": "Shaheen! He had returned!",
+   "say": "शाहीन! वो वापस आ गया था!"
+  },
+  {
+   "image": "Close-up of Priya's face, pure joy and wonder, eyes wide, a hand flying to her mouth.",
+   "speaker": "narrator",
+   "line": "Main hairan thi, khush bhi. Mera dil zor se dhadak raha tha.",
+   "fx": "none",
+   "sub": "I was surprised, and happy. My heart was pounding.",
+   "say": "मैं हैरान थी, खुश भी। मेरा दिल ज़ोर से धड़क रहा था।"
+  },
+  {
+   "image": "Shaheen and Priya (18) looking at each other through the window, a sense of peace between them.",
+   "speaker": "narrator",
+   "line": "Uss din, woh bas mere paas baitha raha.",
+   "fx": "none",
+   "sub": "That day, he just sat beside me.",
+   "say": "उस दिन, वो बस मेरे पास बैठा रहा।"
+  },
+  {
+   "image": "Shaheen flying away at sunset, Priya watching him with a hopeful smile.",
+   "speaker": "narrator",
+   "line": "Agle saal bhi woh aaya. Ussi din, usi waqt.",
+   "fx": "none",
+   "sub": "He came next year too. The same day, same time.",
+   "say": "अगले साल भी वो आया। उसी दिन, उसी वक़्त।"
+  },
+  {
+   "image": "Priya (now 20) with Shaheen perched on her windowsill, looking out together at the valley.",
+   "speaker": "narrator",
+   "line": "Saalon tak, woh mera silent saathi ban gaya.",
+   "fx": "none",
+   "sub": "For years, he became my silent companion.",
+   "say": "सालों तक, वो मेरा साइलेंट साथी बन गया।"
+  },
+  {
+   "image": "Montage of Shaheen on the windowsill, in different seasons, always on her birthday. Priya (22, 24, 26) is always there, older and more mature.",
+   "speaker": "narrator",
+   "line": "Har birthday par, woh aata, aur mujhe complete feel karwata.",
+   "fx": "none",
+   "sub": "Every birthday, he'd come, and make me feel complete.",
+   "say": "हर बर्थडे पर, वो आता, और मुझे कम्प्लीट फील करवाता।"
+  },
+  {
+   "image": "Priya (now 28), looking stressed, holding her head in her hands, amidst papers on a desk.",
+   "speaker": "narrator",
+   "line": "Life mein bohot challenges aaye. Main akela feel karti thi.",
+   "fx": "none",
+   "sub": "Many challenges came in life. I felt alone.",
+   "say": "लाइफ में बोहोत चैलेंजेस आए। मैं अकेला फील करती थी।"
+  },
+  {
+   "image": "Priya (28) sitting by the window, looking out expectantly, a flicker of sadness in her eyes.",
+   "speaker": "narrator",
+   "line": "Main har saal uske aane ka intezaar karti thi.",
+   "fx": "none",
+   "sub": "Every year, I would wait for him to come.",
+   "say": "मैं हर साल उसके आने का इंतज़ार करती थी।"
+  },
+  {
+   "image": "Shaheen, majestic, flying high against a cloudy sky, a beacon of strength.",
+   "speaker": "narrator",
+   "line": "Shaheen mere liye hope ban gaya tha.",
+   "fx": "none",
+   "sub": "Shaheen had become hope for me.",
+   "say": "शाहीन मेरे लिए होप बन गया था।"
+  },
+  {
+   "image": "Priya (28) looking lost and sad, holding a faded photograph of her father.",
+   "speaker": "narrator",
+   "line": "Iss saal, mujhe bohot akelapan lag raha tha.",
+   "fx": "none",
+   "sub": "This year, I was feeling very lonely.",
+   "say": "इस साल, मुझे बोहोत अकेलापन लग रहा था।"
+  },
+  {
+   "image": "Priya (28) with a questioning look on her face, wondering if this year Shaheen would come, her brow furrowed.",
+   "speaker": "narrator",
+   "line": "Kya woh ab bhi aayega? Woh itna old ho gaya hai.",
+   "fx": "none",
+   "sub": "Will he still come now? He's become so old.",
+   "say": "क्या वो अब भी आएगा? वो इतना ओल्ड हो गया है।"
+  },
+  {
+   "image": "Shaheen not landing on the windowsill, but hovering in the air just outside, looking at Priya intently, something unusual in his stance.",
+   "speaker": "narrator",
+   "line": "Phir woh aaya, par kuch alag tha.",
+   "fx": "none",
+   "sub": "Then he came, but something was different.",
+   "say": "फिर वो आया, पर कुछ अलग था।"
+  },
+  {
+   "image": "Shaheen flapping his wings, then flying a short distance away from the window, looking back at Priya, as if urging her to follow.",
+   "speaker": "narrator",
+   "line": "Woh mere taraf dekha, phir ud gaya, jaise bula raha ho.",
+   "fx": "none",
+   "sub": "He looked at me, then flew away, as if calling me.",
+   "say": "वो मेरे तरफ देखा, फिर उड़ गया, जैसे बुला रहा हो।"
+  },
+  {
+   "image": "Close-up of Priya's face, a mix of curiosity and determination. She grabs her shawl quickly.",
+   "speaker": "narrator",
+   "line": "Main samajh gayi. Uski baat sunni thi.",
+   "fx": "none",
+   "sub": "I understood. I had to listen to him.",
+   "say": "मैं समझ गई। उसकी बात सुननी थी।"
+  },
+  {
+   "image": "Priya (28) following Shaheen, who is flying gracefully ahead through the forest canopy, leading the way.",
+   "speaker": "narrator",
+   "line": "Main uske peeche jungle mein chal padi.",
+   "fx": "none",
+   "sub": "I started walking after him into the jungle.",
+   "say": "मैं उसके पीछे जंगल में चल पड़ी।"
+  },
+  {
+   "image": "Priya (28) walking through denser parts of the forest, a little unsure but trusting, pushing aside branches.",
+   "speaker": "narrator",
+   "line": "Hum aise raaste par the, jahan main kabhi nahi gayi thi.",
+   "fx": "none",
+   "sub": "We were on a path where I had never gone.",
+   "say": "हम ऐसे रास्ते पर थे, जहाँ मैं कभी नहीं गई थी।"
+  },
+  {
+   "image": "Shaheen landing on a cliff edge overlooking a hidden, beautiful waterfall, waiting for Priya to catch up.",
+   "speaker": "narrator",
+   "line": "Woh ek hidden jagah par land kiya, jahan ek jharna tha.",
+   "fx": "none",
+   "sub": "He landed at a hidden spot, where there was a waterfall.",
+   "say": "वो एक हिडन जगह पर लैंड किया, जहाँ एक झरना था।"
+  },
+  {
+   "image": "Shaheen pecking gently and repeatedly at a small, moss-covered rock near the waterfall, drawing Priya's attention.",
+   "speaker": "narrator",
+   "line": "Phir usne apni beak se ek rock ko tap kiya.",
+   "fx": "none",
+   "sub": "Then he tapped a rock with his beak.",
+   "say": "फिर उसने अपनी बीक से एक रॉक को टैप किया।"
+  },
+  {
+   "image": "Priya (28) carefully moving the moss, revealing a small, intricately carved wooden box embedded in the rock.",
+   "speaker": "narrator",
+   "line": "Maine moss hataya, toh ek chhota sa box dikha.",
+   "fx": "none",
+   "sub": "I removed the moss, and a small box appeared.",
+   "say": "मैंने मॉस हटाया, तो एक छोटा सा बॉक्स दिखा।"
+  },
+  {
+   "image": "Close-up of the wooden box, and a single, distinctive eagle feather lying beside it, identical to Shaheen's feathers.",
+   "speaker": "narrator",
+   "line": "Box ke paas ek eagle feather tha. Bilkul Shaheen jaisa.",
+   "fx": "none",
+   "sub": "Beside the box was an eagle feather. Just like Shaheen's.",
+   "say": "बॉक्स के पास एक ईगल फेदर था। बिल्कुल शाहीन जैसा।"
+  },
+  {
+   "image": "Priya's trembling hands slowly opening the old wooden box. Her face is filled with anticipation and a hint of fear.",
+   "speaker": "narrator",
+   "line": "Mere haath kaanp rahe the, jab maine box khola.",
+   "fx": "none",
+   "sub": "My hands were trembling, as I opened the box.",
+   "say": "मेरे हाथ काँप रहे थे, जब मैंने बॉक्स खोला।"
+  },
+  {
+   "image": "Inside the box, a folded, yellowed letter, slightly brittle with age.",
+   "speaker": "narrator",
+   "line": "Uske andar ek purana, handwritten letter tha.",
+   "fx": "none",
+   "sub": "Inside it was an old, handwritten letter.",
+   "say": "उसके अंदर एक पुराना, हैंड रिटेन लेटर था।"
+  },
+  {
+   "image": "Close-up of the letter, revealing her father's familiar handwriting. Priya's eyes well up, tears forming.",
+   "speaker": "narrator",
+   "line": "Papa ki handwriting thi. Meri aankhon mein aansu aa gaye.",
+   "fx": "none",
+   "sub": "It was Papa's handwriting. Tears came to my eyes.",
+   "say": "पापा की हैंडराइटिंग थी। मेरी आँखों में आँसू आ गए।"
+  },
+  {
+   "image": "Priya (28) sitting on the cliff edge, reading the letter, Shaheen perched calmly on a nearby branch, watching her.",
+   "speaker": "narrator",
+   "line": "Unhone likha tha, \"Meri pyaari beti, agar Shaheen tumhe yahan laaya hai...\"",
+   "fx": "none",
+   "sub": "He had written, \"My dear daughter, if Shaheen has brought you here...\"",
+   "say": "उन्होंने लिखा था, \"मेरी प्यारी बेटी, अगर शाहीन तुम्हें यहाँ लाया है...\""
+  },
+  {
+   "image": "Close-up of the letter, showing a specific paragraph where her father mentions Shaheen as a rescued chick, detailing their bond.",
+   "speaker": "narrator",
+   "line": "\"...toh woh mera chhota sa dost hai, jisse maine bachpan mein bachaya tha.\"",
+   "fx": "none",
+   "sub": "...then he is my little friend, whom I saved in his childhood.",
+   "say": "\"...तो वो मेरा छोटा सा दोस्त है, जिसे मैंने बचपन में बचाया था।\""
+  },
+  {
+   "image": "Priya's face, a look of profound understanding and love. Shaheen looks at her, a gentle tilt of his head.",
+   "speaker": "narrator",
+   "line": "\"Maine usse kaha tha, hamesha tumhara khayal rakhega.\"",
+   "fx": "none",
+   "sub": "I told him, he will always take care of you.",
+   "say": "\"मैंने उसे कहा था, हमेशा तुम्हारा ख़्याल रखेगा।\""
+  },
+  {
+   "image": "Close-up of the letter again, revealing her father's dream for her, a passage about protecting nature and the eagles.",
+   "speaker": "narrator",
+   "line": "\"Tumhari birthday par woh tumhe hope ka sign dega.\"",
+   "fx": "none",
+   "sub": "On your birthday, he will give you a sign of hope.",
+   "say": "\"तुम्हारी बर्थडे पर वो तुम्हें होप का साइन देगा।\""
+  },
+  {
+   "image": "Priya clutching the letter to her chest, tears streaming, a look of renewed purpose and deep emotion. Shaheen watches her with quiet intensity.",
+   "speaker": "narrator",
+   "line": "\"Never lose hope, my love. Follow your heart.\"",
+   "fx": "none",
+   "sub": "Never lose hope, my love. Follow your heart.",
+   "say": "\"नेवर लूज़ होप, माई लव। फॉलो योर हार्ट।\""
+  },
+  {
+   "image": "Shaheen extending his neck slightly, as if nuzzling her hand gently, a tender moment of connection.",
+   "speaker": "narrator",
+   "line": "Shaheen ne Papa ka promise nibhaaya tha.",
+   "fx": "none",
+   "sub": "Shaheen had fulfilled Papa's promise.",
+   "say": "शाहीन ने पापा का प्रॉमिस निभाया था।"
+  },
+  {
+   "image": "Priya looking at Shaheen, a deep, knowing bond visible in her eyes, a shared understanding.",
+   "speaker": "narrator",
+   "line": "Woh sirf ek eagle nahi tha, woh Papa ka love tha.",
+   "fx": "none",
+   "sub": "He wasn't just an eagle, he was Papa's love.",
+   "say": "वो सिर्फ एक ईगल नहीं था, वो पापा का लव था।"
+  },
+  {
+   "image": "Priya (28) standing tall on the cliff, holding the letter, looking out at the beautiful landscape with determination and a hopeful smile.",
+   "speaker": "narrator",
+   "line": "Us letter ne mujhe naya rasta dikhaya.",
+   "fx": "none",
+   "sub": "That letter showed me a new path.",
+   "say": "उस लेटर ने मुझे नया रास्ता दिखाया।"
+  },
+  {
+   "image": "Priya (28) back in her village, talking passionately to other villagers, showing them something on a map related to nature conservation, looking engaged and confident.",
+   "speaker": "narrator",
+   "line": "Maine Papa ke dream ko follow karne ka decide kiya.",
+   "fx": "none",
+   "sub": "I decided to follow Papa's dream.",
+   "say": "मैंने पापा के ड्रीम को फॉलो करने का डिसाइड किया।"
+  },
+  {
+   "image": "Priya (28) working in a small nature center, surrounded by local plants and perhaps a small injured bird in a cage, looking happy and fulfilled.",
+   "speaker": "narrator",
+   "line": "Unka dream, ab mera future tha.",
+   "fx": "none",
+   "sub": "His dream, was now my future.",
+   "say": "उनका ड्रीम, अब मेरा फ्यूचर था।"
+  },
+  {
+   "image": "Priya (30, looking a bit older, fulfilled) sitting by the window, Shaheen perched there, looking older, his feathers duller, but still majestic.",
+   "speaker": "narrator",
+   "line": "Agle saal bhi Shaheen aaya, par kamzor lag raha tha.",
+   "fx": "none",
+   "sub": "Shaheen came next year too, but he looked weaker.",
+   "say": "अगले साल भी शाहीन आया, पर कमज़ोर लग रहा था।"
+  },
+  {
+   "image": "Close-up of Priya's hand gently touching Shaheen's head, a sad but grateful expression on her face, tears in her eyes.",
+   "speaker": "narrator",
+   "line": "Humne ek aakhri farewell share kiya.",
+   "fx": "none",
+   "sub": "We shared a final farewell.",
+   "say": "हमने एक आख़िरी फेयरवेल शेयर किया।"
+  },
+  {
+   "image": "Shaheen flying into the sunset, very slowly, then disappearing into the orange sky. Priya watches him with tears streaming down her face.",
+   "speaker": "narrator",
+   "line": "Uss din woh ud gaya, aur phir kabhi nahi lauta.",
+   "fx": "none",
+   "sub": "That day he flew away, and never returned again.",
+   "say": "उस दिन वो उड़ गया, और फिर कभी नहीं लौटा।"
+  },
+  {
+   "image": "Priya (30) smiling softly, holding the eagle feather and the yellowed letter in her hands.",
+   "speaker": "narrator",
+   "line": "Par uski yaad, aur Papa ka promise hamesha mere saath hai.",
+   "fx": "none",
+   "sub": "But his memory, and Papa's promise are always with me.",
+   "say": "पर उसकी याद, और पापा का प्रॉमिस हमेशा मेरे साथ है।"
+  },
+  {
+   "image": "Wide shot of Priya (30) standing on the cliff edge near the waterfall, looking peaceful and strong, holding the feather up to the sky.",
+   "speaker": "narrator",
+   "line": "Yeh trust aur love ki anokhi kahani thi.",
+   "fx": "none",
+   "sub": "This was a unique story of trust and love.",
+   "say": "ये ट्रस्ट और लव की अनोखी कहानी थी।"
+  },
+  {
+   "image": "A metaphorical image of a strong eagle flying over a vibrant, thriving forest, symbolising protection and guidance.",
+   "speaker": "narrator",
+   "line": "Shaheen sirf ek eagle nahi tha. Woh mera guardian angel tha.",
+   "fx": "none",
+   "sub": "Shaheen wasn't just an eagle. He was my guardian angel.",
+   "say": "शाहीन सिर्फ एक ईगल नहीं था। वो मेरा गार्डियन एंजल था।"
+  },
+  {
+   "image": "Close-up of Priya's face, serene and content, knowing she's living her purpose, a soft smile on her lips.",
+   "speaker": "narrator",
+   "line": "Har saal uska aana, Papa ka pyaar tha.",
+   "fx": "none",
+   "sub": "His coming every year, was Papa's love.",
+   "say": "हर साल उसका आना, पापा का प्यार था।"
+  },
+  {
+   "image": "Priya looking up at the sky with a gentle smile, as if conversing with someone unseen, a sense of peace.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi, sabse important messages silent hote hain.",
+   "fx": "none",
+   "sub": "Sometimes, the most important messages are silent.",
+   "say": "कभी कभी, सबसे इंपोर्टेंट मैसेजेस साइलेंट होते हैं।"
+  },
+  {
+   "image": "Priya (30) leading a group of children, pointing out birds in the forest, happy and confident, teaching them about nature.",
+   "speaker": "narrator",
+   "line": "Ab main Papa ke dream ko poora kar rahi hoon.",
+   "fx": "none",
+   "sub": "Now I am fulfilling Papa's dream.",
+   "say": "अब मैं पापा के ड्रीम को पूरा कर रही हूँ।"
+  },
+  {
+   "image": "Close-up of the eagle feather and the letter, lying together on a wooden table, as cherished mementos.",
+   "speaker": "narrator",
+   "line": "Ek eagle aur ek letter ne meri zindagi badal di.",
+   "fx": "none",
+   "sub": "An eagle and a letter changed my life.",
+   "say": "एक ईगल और एक लेटर ने मेरी ज़िंदगी बदल दी।"
+  },
+  {
+   "image": "Priya (30), looking directly at the camera with a warm, inviting smile, at peace.",
+   "speaker": "narrator",
+   "line": "Aapki life mein koi aisa \"Shaheen\" hai?",
+   "fx": "none",
+   "sub": "Is there a \"Shaheen\" like this in your life?",
+   "say": "आपकी लाइफ में कोई ऐसा \"शाहीन\" है?"
+  }
+ ],
+ "caption": "Injured Eagle Returned on My Birthday for Years. What It Meant...",
+ "slug": "2026-11-13_part1",
+ "story_no": 50,
+ "yt_title": "Injured Eagle Returned on My Birthday for Years. What It Meant...",
+ "description": "An injured eagle returns every year on Priya's birthday, becoming her unwavering symbol of hope. But the true reason for his annual visits, and a hidden message from her late father, will change everything. What special signs do you look for in your life?",
+ "comment_question": "What special signs do you look for in your life?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#eagle",
+  "#wildlife",
+  "#animalstory",
+  "#hope",
+  "#promise",
+  "#daughterfather",
+  "#yearlytradition",
+  "#miracle",
+  "#indiantradition"
+ ]
+}
