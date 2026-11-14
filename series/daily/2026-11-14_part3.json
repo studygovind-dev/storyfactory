@@ -1,0 +1,541 @@
+{
+ "series": "The Golden Apron's Secret",
+ "episode": 3,
+ "title": "The Golden Apron's Secret",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Meera, young woman (20s), fair skin, long soft wavy dark-brown hair, natural makeup, small gold hoop earrings, elegant pastel green kurta set. Expressive, warm eyes.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Rohan, man (late 20s), light wheatish skin, neatly combed dark hair, gentle smile. Initially in a spotless white waiter's shirt and black trousers, later in a smart charcoal grey suit.",
+   "voice": "hindi_male_young"
+  },
+  "Mrs. Malhotra": {
+   "look": "Elderly woman (60s), fair skin, styled grey hair, sharp features, expensive silk saree and heavy jewelry. Impatient and demanding expression.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "MY INTERVIEW WAS A TRAP",
+ "scenes": [
+  {
+   "image": "Meera sits nervously at a cafe table, clutching a file, looking at a luxurious, empty chair across from her with wide, anxious eyes.",
+   "speaker": "narrator",
+   "line": "Mera interview tha. Meri zindagi ka sabse bada.",
+   "fx": "none",
+   "sub": "It was my interview. The biggest of my life.",
+   "say": "मेरा इंटरव्यू था। मेरी ज़िंदगी का सबसे बड़ा।"
+  },
+  {
+   "image": "Close-up of Meera's hands, trembling slightly as she smooths the papers in her file.",
+   "speaker": "narrator",
+   "line": "Har ek second, lag raha tha ek ghanta.",
+   "fx": "none",
+   "sub": "Every second felt like an hour.",
+   "say": "हर एक सेकंड, लग रहा था एक घंटा।"
+  },
+  {
+   "image": "Wide shot of the elegant 'Aarambh Cafe', sunbeams filtering through large windows, creating a warm glow.",
+   "speaker": "narrator",
+   "line": "Aarambh Cafe, kitna shaandaar aur mehenga.",
+   "fx": "none",
+   "sub": "Aarambh Cafe, so grand and expensive.",
+   "say": "आरंभ कैफे, कितना शानदार और महंगा।"
+  },
+  {
+   "image": "Meera glances around, admiring the decor, a faint hopeful smile on her face.",
+   "speaker": "narrator",
+   "line": "Ek sapna tha yahan kaam karna.",
+   "fx": "none",
+   "sub": "It was a dream to work here.",
+   "say": "एक सपना था यहाँ काम करना।"
+  },
+  {
+   "image": "A waiter, Rohan, with a gentle, focused expression, carries a tray of coffee to a distant table.",
+   "speaker": "narrator",
+   "line": "Phir maine us waiter ko dekha.",
+   "fx": "none",
+   "sub": "Then I saw that waiter.",
+   "say": "फिर मैंने उस वेटर को देखा।"
+  },
+  {
+   "image": "Close-up of Rohan's hands carefully placing a cup on a table, his uniform spotless.",
+   "speaker": "narrator",
+   "line": "Kitna humble, kitna mehnatkash lag raha tha.",
+   "fx": "none",
+   "sub": "He seemed so humble, so hardworking.",
+   "say": "कितना हम्बल, कितना मेहनतकश लग रहा था।"
+  },
+  {
+   "image": "Meera's eyes follow Rohan, a slight frown of thought on her face.",
+   "speaker": "narrator",
+   "line": "Dil mein ek ajeeb sa dard utha.",
+   "fx": "none",
+   "sub": "A strange pang rose in my heart.",
+   "say": "दिल में एक अजीब सा दर्द उठा।"
+  },
+  {
+   "image": "A well-dressed, elderly woman, Mrs. Malhotra, and her daughter enter, looking around disdainfully.",
+   "speaker": "narrator",
+   "line": "Tabhi woh Mrs. Malhotra aayi, apni beti ke saath.",
+   "fx": "none",
+   "sub": "Just then, Mrs. Malhotra arrived, with her daughter.",
+   "say": "तभी वो मिसेज मल्होत्रा आई, अपनी बेटी के साथ।"
+  },
+  {
+   "image": "Mrs. Malhotra points imperiously at a table, her daughter stands with folded arms, looking bored.",
+   "speaker": "narrator",
+   "line": "Unka attitude, jaise duniya unke liye bani ho.",
+   "fx": "none",
+   "sub": "Their attitude, as if the world was made for them.",
+   "say": "उनका एटीट्यूड, जैसे दुनिया उनके लिए बनी हो।"
+  },
+  {
+   "image": "Rohan approaches Mrs. Malhotra's table, a polite, almost tired smile on his face.",
+   "speaker": "narrator",
+   "line": "Rohan ne bade adab se unhe welcome kiya.",
+   "fx": "none",
+   "sub": "Rohan welcomed them with great respect.",
+   "say": "रोहन ने बड़े अदब से उन्हें वेलकम किया।"
+  },
+  {
+   "image": "Mrs. Malhotra snatches a menu from Rohan's hand, barely making eye contact, looking dismissive.",
+   "speaker": "Mrs. Malhotra",
+   "line": "Jaldi karo, hamare paas time nahi hai.",
+   "fx": "none",
+   "sub": "Hurry up, we don't have time.",
+   "say": "जल्दी करो, हमारे पास टाइम नहीं है।"
+  },
+  {
+   "image": "Rohan nods respectfully, his expression unchanging, and steps back.",
+   "speaker": "narrator",
+   "line": "Usne sirf sar jhukaya aur peeche hat gaya.",
+   "fx": "none",
+   "sub": "He just bowed his head and stepped back.",
+   "say": "उसने सिर्फ सर झुकाया और पीछे हट गया।"
+  },
+  {
+   "image": "Meera watches, her eyebrows furrowed in a slight disapproving frown.",
+   "speaker": "narrator",
+   "line": "Mujhe unka ghamand bilkul pasand nahi aaya.",
+   "fx": "none",
+   "sub": "I didn't like their arrogance at all.",
+   "say": "मुझे उनका घमंड बिल्कुल पसंद नहीं आया।"
+  },
+  {
+   "image": "Rohan brings water glasses, and Mrs. Malhotra waves him away impatiently, spilling a little water.",
+   "speaker": "Mrs. Malhotra",
+   "line": "Yeh kya hai? Thanda paani lao!",
+   "fx": "none",
+   "sub": "What is this? Bring cold water!",
+   "say": "ये क्या है? ठंडा पानी लाओ!"
+  },
+  {
+   "image": "Rohan quickly wipes the spilled water, still maintaining his calm demeanor.",
+   "speaker": "narrator",
+   "line": "Usne turant saaf kiya, ek bhi shikayat nahi.",
+   "fx": "none",
+   "sub": "He cleaned it instantly, not a single complaint.",
+   "say": "उसने तुरंत साफ़ किया, एक भी शिकायत नहीं।"
+  },
+  {
+   "image": "Meera shifts uncomfortably in her seat, feeling a growing sympathy for Rohan.",
+   "speaker": "narrator",
+   "line": "Kitna mushkil hoga aise kaam karna.",
+   "fx": "none",
+   "sub": "How difficult it must be to work like this.",
+   "say": "कितना मुश्किल होगा ऐसे काम करना।"
+  },
+  {
+   "image": "Rohan takes their order, patiently listening to Mrs. Malhotra's daughter's specific demands.",
+   "speaker": "narrator",
+   "line": "Unke nakhre sunkar bhi woh shaant raha.",
+   "fx": "none",
+   "sub": "Even after hearing their tantrums, he remained calm.",
+   "say": "उनके नखरे सुनकर भी वो शांत रहा।"
+  },
+  {
+   "image": "Meera checks her watch anxiously; her interviewer is late.",
+   "speaker": "narrator",
+   "line": "Mera interviewer ab tak nahi aaya tha.",
+   "fx": "none",
+   "sub": "My interviewer hadn't arrived yet.",
+   "say": "मेरा इंटरव्यूअर अब तक नहीं आया था।"
+  },
+  {
+   "image": "Close-up of Meera's worried face, her eyes still drawn to Rohan.",
+   "speaker": "narrator",
+   "line": "Socha, shayad usse naukri na mile.",
+   "fx": "none",
+   "sub": "I thought, maybe he won't get the job.",
+   "say": "सोचा, शायद उसे नौकरी ना मिले।"
+  },
+  {
+   "image": "Rohan returns with their food, presenting it carefully.",
+   "speaker": "narrator",
+   "line": "Khana aaya. Mrs. Malhotra ne muh bana liya.",
+   "fx": "none",
+   "sub": "The food arrived. Mrs. Malhotra made a face.",
+   "say": "खाना आया। मिसेज मल्होत्रा ने मुँह बना लिया।"
+  },
+  {
+   "image": "Mrs. Malhotra pokes at her food with a fork, looking disgusted.",
+   "speaker": "Mrs. Malhotra",
+   "line": "Yeh kya banaya hai? Bilkul bekaar!",
+   "fx": "none",
+   "sub": "What is this? Absolutely awful!",
+   "say": "ये क्या बनाया है? बिल्कुल बेकार!"
+  },
+  {
+   "image": "Rohan looks genuinely apologetic, but his voice is steady.",
+   "speaker": "Rohan",
+   "line": "Maafi chahta hoon, ma'am. Main change kar deta hoon.",
+   "fx": "none",
+   "sub": "I apologize, ma'am. I'll change it.",
+   "say": "माफ़ी चाहता हूँ, मैम। मैं चेंज कर देता हूँ।"
+  },
+  {
+   "image": "Meera's eyes widen slightly, surprised by his unwavering patience.",
+   "speaker": "narrator",
+   "line": "Uska sabr dekhkar main hairaan thi.",
+   "fx": "none",
+   "sub": "I was surprised to see his patience.",
+   "say": "उसका सब्र देखकर मैं हैरान थी।"
+  },
+  {
+   "image": "Rohan carries the plate back to the kitchen, his shoulders slightly slumped.",
+   "speaker": "narrator",
+   "line": "Woh chupchaap wapas chala gaya.",
+   "fx": "none",
+   "sub": "He quietly went back.",
+   "say": "वो चुपचाप वापस चला गया।"
+  },
+  {
+   "image": "Meera shakes her head, feeling a surge of pity and annoyance at the customers.",
+   "speaker": "narrator",
+   "line": "Dil mein aaya, koi itna kaise kar sakta hai?",
+   "fx": "none",
+   "sub": "It came to my heart, how can anyone be so mean?",
+   "say": "दिल में आया, कोई इतना कैसे कर सकता है?"
+  },
+  {
+   "image": "Rohan returns with a new plate of food, a faint hopeful smile for Mrs. Malhotra.",
+   "speaker": "narrator",
+   "line": "Dusra dish lekar aaya. Hope thi uski aankhon mein.",
+   "fx": "none",
+   "sub": "He brought another dish. There was hope in his eyes.",
+   "say": "दूसरा डिश लेकर आया। होप थी उसकी आँखों में।"
+  },
+  {
+   "image": "Mrs. Malhotra tastes it, still looks critical, but reluctantly nods.",
+   "speaker": "narrator",
+   "line": "Tab bhi complaint, par maan gayi.",
+   "fx": "none",
+   "sub": "Still a complaint, but she agreed.",
+   "say": "तब भी कम्प्लेन, पर मान गई।"
+  },
+  {
+   "image": "Rohan lets out a silent sigh of relief, unnoticeable to others, but Meera catches it.",
+   "speaker": "narrator",
+   "line": "Maine uski rahat dekhi. Chhoti si.",
+   "fx": "none",
+   "sub": "I saw his relief. A small one.",
+   "say": "मैंने उसकी राहत देखी। छोटी सी।"
+  },
+  {
+   "image": "Meera looks down at her file, feeling conflicted, her ambition clashing with her empathy.",
+   "speaker": "narrator",
+   "line": "Kya yahi meri zindagi hone wali hai?",
+   "fx": "none",
+   "sub": "Is this what my life is going to be like?",
+   "say": "क्या यही मेरी ज़िंदगी होने वाली है?"
+  },
+  {
+   "image": "Rohan accidentally bumps a table while cleaning, and a glass clatters but doesn't break.",
+   "speaker": "narrator",
+   "line": "Ek baar usse thodi galti ho gayi.",
+   "fx": "none",
+   "sub": "Once he made a small mistake.",
+   "say": "एक बार उससे थोड़ी गलती हो गई।"
+  },
+  {
+   "image": "Mrs. Malhotra glares fiercely at Rohan, making a loud, disapproving 'tsk' sound.",
+   "speaker": "Mrs. Malhotra",
+   "line": "Kitne clumsy ho! Dhyaan nahi hai kya?",
+   "fx": "none",
+   "sub": "How clumsy you are! Aren't you paying attention?",
+   "say": "कितने क्लम्ज़ी हो! ध्यान नहीं है क्या?"
+  },
+  {
+   "image": "Rohan bows his head, looking genuinely embarrassed, quickly righting the glass.",
+   "speaker": "narrator",
+   "line": "Uska chehra sharm se lal ho gaya.",
+   "fx": "none",
+   "sub": "His face turned red with shame.",
+   "say": "उसका चेहरा शर्म से लाल हो गया।"
+  },
+  {
+   "image": "Meera's expression hardens, a silent anger for Rohan's humiliation.",
+   "speaker": "narrator",
+   "line": "Mujhe uske liye bura laga. Bahut bura.",
+   "fx": "none",
+   "sub": "I felt bad for him. Very bad.",
+   "say": "मुझे उसके लिए बुरा लगा। बहुत बुरा।"
+  },
+  {
+   "image": "Rohan walks past Meera's table, his eyes briefly meeting hers. He offers a small, tired smile.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein ek ajeeb si gehrayi thi.",
+   "fx": "none",
+   "sub": "There was a strange depth in his eyes.",
+   "say": "उसकी आँखों में एक अजीब सी गहराई थी।"
+  },
+  {
+   "image": "Meera returns a sympathetic glance, then looks away, feeling a pang of guilt for her own comfort.",
+   "speaker": "narrator",
+   "line": "Mujhe apni naram kursi bhi chubhne lagi.",
+   "fx": "none",
+   "sub": "Even my soft chair started bothering me.",
+   "say": "मुझे अपनी नरम कुर्सी भी चुभने लगी।"
+  },
+  {
+   "image": "Meera checks her phone, still no message from her interviewer. She sighs.",
+   "speaker": "narrator",
+   "line": "Ab tak koi khabar nahi. Hope kam ho rahi thi.",
+   "fx": "none",
+   "sub": "Still no news. Hope was fading.",
+   "say": "अब तक कोई खबर नहीं। होप कम हो रही थी।"
+  },
+  {
+   "image": "Rohan cleans a table nearby, meticulously wiping every surface, focused.",
+   "speaker": "narrator",
+   "line": "Par woh waiter, woh apna kaam karta raha.",
+   "fx": "none",
+   "sub": "But that waiter, he kept doing his work.",
+   "say": "पर वो वेटर, वो अपना काम करता रहा।"
+  },
+  {
+   "image": "Meera imagines herself in his shoes, and shudders slightly.",
+   "speaker": "narrator",
+   "line": "Socha, kya main aise sabr rakh paati?",
+   "fx": "none",
+   "sub": "I wondered, could I have such patience?",
+   "say": "सोचा, क्या मैं ऐसे सब्र रख पाती?"
+  },
+  {
+   "image": "A cafe manager approaches Meera's table, smiling warmly.",
+   "speaker": "narrator",
+   "line": "Meera ji? Aapka appointment ka time ho gaya hai.",
+   "fx": "none",
+   "sub": "Meera ji? Your appointment time is here.",
+   "say": "मीरा जी? आपका अपॉइंटमेंट का टाइम हो गया है।"
+  },
+  {
+   "image": "Meera stands up, her heart pounding with renewed hope, clutching her file.",
+   "speaker": "narrator",
+   "line": "Mera dil phir se tezi se dhadakne laga.",
+   "fx": "none",
+   "sub": "My heart started beating fast again.",
+   "say": "मेरा दिल फिर से तेज़ी से धड़कने लगा।"
+  },
+  {
+   "image": "The manager gestures towards a closed door labeled 'Private Meeting Room'.",
+   "speaker": "narrator",
+   "line": "Andar Rohan sir aapka wait kar rahe hain.",
+   "fx": "none",
+   "sub": "Rohan sir is waiting for you inside.",
+   "say": "अंदर रोहन सर आपका वेट कर रहे हैं।"
+  },
+  {
+   "image": "Meera's face shows confusion, then a dawning realization, her mouth slightly open.",
+   "speaker": "narrator",
+   "line": "Rohan sir? Koun Rohan sir?",
+   "fx": "none",
+   "sub": "Rohan sir? Which Rohan sir?",
+   "say": "रोहन सर? कौन रोहन सर?"
+  },
+  {
+   "image": "Close-up of Meera's stunned face, eyes wide, as she looks towards the door.",
+   "speaker": "narrator",
+   "line": "Mera dimag ghoom gaya.",
+   "fx": "none",
+   "sub": "My mind reeled.",
+   "say": "मेरा दिमाग़ घूम गया।"
+  },
+  {
+   "image": "Meera slowly pushes open the door to the meeting room, a mix of fear and disbelief on her face.",
+   "speaker": "narrator",
+   "line": "Maine dheere se darwaza khola.",
+   "fx": "none",
+   "sub": "I slowly opened the door.",
+   "say": "मैंने धीरे से दरवाज़ा खोला।"
+  },
+  {
+   "image": "Rohan is sitting at the head of a large table, wearing a smart suit, smiling calmly at Meera.",
+   "speaker": "narrator",
+   "line": "Aur wahan, Rohan baitha tha. Suit mein.",
+   "fx": "none",
+   "sub": "And there, Rohan was sitting. In a suit.",
+   "say": "और वहाँ, रोहन बैठा था। सूट में।"
+  },
+  {
+   "image": "Close-up of Rohan's calm, knowing smile, a nameplate 'Rohan Sharma, CEO' visible on the table.",
+   "speaker": "Rohan",
+   "line": "Welcome, Meera. Please have a seat.",
+   "fx": "none",
+   "sub": "Welcome, Meera. Please have a seat.",
+   "say": "वेलकम, मीरा। प्लीज हैव अ सीट।"
+  },
+  {
+   "image": "Meera stands frozen, her file slipping slightly in her hand, utterly shocked.",
+   "speaker": "narrator",
+   "line": "Main toh hil bhi nahi payi.",
+   "fx": "none",
+   "sub": "I couldn't even move.",
+   "say": "मैं तो हिल भी नहीं पाई।"
+  },
+  {
+   "image": "Rohan gestures to the chair, his smile gentle but firm.",
+   "speaker": "Rohan",
+   "line": "Toh, aapka pehla interview kaisa raha?",
+   "fx": "none",
+   "sub": "So, how was your first interview?",
+   "say": "तो, आपका पहला इंटरव्यू कैसा रहा?"
+  },
+  {
+   "image": "Meera sits down slowly, eyes wide, looking at him with disbelief.",
+   "speaker": "narrator",
+   "line": "Mera dimag bas ek hi baat soch raha tha.",
+   "fx": "none",
+   "sub": "My mind was just thinking one thing.",
+   "say": "मेरा दिमाग़ बस एक ही बात सोच रहा था।"
+  },
+  {
+   "image": "Rohan leans forward, his expression serious now.",
+   "speaker": "Rohan",
+   "line": "Maine aapko observe kiya hai, Meera.",
+   "fx": "none",
+   "sub": "I've been observing you, Meera.",
+   "say": "मैंने आपको ऑब्जर्व किया है, मीरा।"
+  },
+  {
+   "image": "Close-up of Meera's face, a mix of confusion, shock, and a hint of understanding.",
+   "speaker": "narrator",
+   "line": "Yeh sab ek test tha. Ek bahut bada test.",
+   "fx": "none",
+   "sub": "This was all a test. A very big test.",
+   "say": "ये सब एक टेस्ट था। एक बहुत बड़ा टेस्ट।"
+  },
+  {
+   "image": "Rohan explains, hands clasped, looking thoughtful.",
+   "speaker": "Rohan",
+   "line": "Humare liye empathy aur respect bahut zaroori hai.",
+   "fx": "none",
+   "sub": "For us, empathy and respect are very important.",
+   "say": "हमारे लिए एम्पैथी और रेस्पेक्ट बहुत ज़रूरी है।"
+  },
+  {
+   "image": "Meera listens intently, her shock turning to awe and understanding.",
+   "speaker": "narrator",
+   "line": "Woh 'waiter' CEO tha. Aarambh Cafe ka malik.",
+   "fx": "none",
+   "sub": "That 'waiter' was the CEO. The owner of Aarambh Cafe.",
+   "say": "वो 'वेटर' सीईओ था। आरंभ कैफे का मालिक।"
+  },
+  {
+   "image": "Rohan smiles, gesturing with an open hand.",
+   "speaker": "Rohan",
+   "line": "Aapne paas kiya, Meera. Bahut achhe se.",
+   "fx": "none",
+   "sub": "You passed, Meera. Very well.",
+   "say": "आपने पास किया, मीरा। बहुत अच्छे से।"
+  },
+  {
+   "image": "Close-up of Meera's face, a tear welling up, a genuine, relieved smile spreading.",
+   "speaker": "narrator",
+   "line": "Meri aankhon mein khushi ke aansu aa gaye.",
+   "fx": "none",
+   "sub": "Tears of joy came to my eyes.",
+   "say": "मेरी आँखों में खुशी के आँसू आ गए।"
+  },
+  {
+   "image": "Meera extends her hand, still a bit overwhelmed, but now full of gratitude.",
+   "speaker": "narrator",
+   "line": "Maine use shukriya kaha, dil se.",
+   "fx": "none",
+   "sub": "I thanked him, from my heart.",
+   "say": "मैंने उसे शुक्रिया कहा, दिल से।"
+  },
+  {
+   "image": "Rohan shakes her hand, his smile genuine and encouraging.",
+   "speaker": "Rohan",
+   "line": "Welcome to Aarambh Cafe, Meera.",
+   "fx": "none",
+   "sub": "Welcome to Aarambh Cafe, Meera.",
+   "say": "वेलकम टू आरंभ कैफे, मीरा।"
+  },
+  {
+   "image": "Meera looks out a window, a thoughtful, satisfied expression on her face.",
+   "speaker": "narrator",
+   "line": "Zindagi mein kabhi kisi ko judge mat karna.",
+   "fx": "none",
+   "sub": "Never judge anyone in life.",
+   "say": "ज़िंदगी में कभी किसी को जज मत करना।"
+  },
+  {
+   "image": "Close-up of Rohan, now in his suit, walking confidently through the cafe, greeting staff warmly.",
+   "speaker": "narrator",
+   "line": "Kya pata kaun kahan aur kyu hai.",
+   "fx": "none",
+   "sub": "Who knows who is where and why.",
+   "say": "क्या पता कौन कहाँ और क्यों है।"
+  },
+  {
+   "image": "Mrs. Malhotra and her daughter are seen leaving the cafe, still looking dismissive, but Rohan barely notices them now.",
+   "speaker": "narrator",
+   "line": "Unhe toh ab bhi nahi pata tha kya hua.",
+   "fx": "none",
+   "sub": "They still didn't know what had happened.",
+   "say": "उन्हें तो अब भी नहीं पता था क्या हुआ।"
+  },
+  {
+   "image": "Meera smiles, holding her accepted job offer letter, a bright future ahead.",
+   "speaker": "narrator",
+   "line": "Mera sabse bada sabak, sabse chote roop mein.",
+   "fx": "none",
+   "sub": "My biggest lesson, in the humblest form.",
+   "say": "मेरा सबसे बड़ा सबक, सबसे छोटे रूप में।"
+  },
+  {
+   "image": "Close-up of Meera's beaming face, looking directly at the camera with sincere eyes.",
+   "speaker": "narrator",
+   "line": "Kya aap aise test ke liye ready ho?",
+   "fx": "none",
+   "sub": "Are you ready for such a test?",
+   "say": "क्या आप ऐसे टेस्ट के लिए रेडी हो?"
+  }
+ ],
+ "caption": "She Judged the Humble Waiter... Then He Called Her Name 🤫",
+ "slug": "2026-11-14_part3",
+ "story_no": 55,
+ "yt_title": "She Judged the Humble Waiter... Then He Called Her Name 🤫",
+ "description": "I thought I was walking into the most important job interview of my life. I was wrong.\nMy whole perception shattered when the 'humble waiter' revealed his true identity. \nWhat would you have done in my place?",
+ "comment_question": "What would you have done if your interviewer tested you this way?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiantwist",
+  "#lifelessons",
+  "#empathy",
+  "#karma",
+  "#humility",
+  "#waiterstory",
+  "#jobinterview",
+  "#shockingtwist",
+  "#relatablestory"
+ ]
+}

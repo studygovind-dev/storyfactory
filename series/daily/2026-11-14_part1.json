@@ -1,0 +1,609 @@
+{
+ "series": "The Unbroken Promise of Toofan",
+ "episode": 1,
+ "title": "The Unbroken Promise of Toofan",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A young woman in her mid-20s, fair skin, long soft wavy dark-brown hair tied in a loose braid, natural makeup, small silver earrings, wearing a simple but elegant pastel green cotton kurta with white salwar. Her face shows warmth and deep emotion.",
+   "voice": "hindi_narrator_female"
+  },
+  "siya": {
+   "look": "A cheerful little girl, around 6 years old, light wheatish skin, two neat pigtails, wearing a bright pink frock. Her face is innocent and full of wonder.",
+   "voice": "hindi_female_young"
+  },
+  "rohan": {
+   "look": "A kind-faced man in his late 20s, light wheatish skin, short dark hair, wearing a practical blue shirt and trousers. His face shows concern and resilience.",
+   "voice": "hindi_male_young"
+  },
+  "toofan": {
+   "look": "A majestic, strong dark-brown Marwari horse with a flowing black mane and tail. Its eyes are intelligent and expressive.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "HE WAS FAMILY.",
+ "scenes": [
+  {
+   "image": "Close-up of [[narrator]]'s teary eyes, looking slightly away, face full of poignant emotion. Rain streaking window in background.",
+   "speaker": "narrator",
+   "line": "Maine kabhi socha na tha mera Toofan aisa karega.",
+   "fx": "rain",
+   "sub": "I never thought my Toofan would do such a thing.",
+   "say": "मैंने कभी सोचा न था मेरा तूफ़ान ऐसा करेगा।"
+  },
+  {
+   "image": "[[narrator]] as a young girl, about 10, gently patting [[toofan]]'s nose in a sunny field. Happy smile.",
+   "speaker": "narrator",
+   "line": "Toofan mera bachpan ka saathi tha, mera sab kuch.",
+   "fx": "dust",
+   "sub": "Toofan was my childhood friend, my everything.",
+   "say": "तूफ़ान मेरा बचपन का साथी था, मेरा सब कुछ।"
+  },
+  {
+   "image": "Close-up of [[toofan]]'s majestic face, eyes calm, looking directly at the camera.",
+   "speaker": "narrator",
+   "line": "Uska naam Toofan, par woh bohot shareef tha.",
+   "fx": "dust",
+   "sub": "His name was Toofan, but he was very gentle.",
+   "say": "उसका नाम तूफ़ान, पर वो बहुत शरीफ़ था।"
+  },
+  {
+   "image": "[[narrator]] (current age) fondly brushing [[toofan]]'s mane in the stable, a loving smile.",
+   "speaker": "narrator",
+   "line": "Main uske bina ek din bhi imagine nahi karti thi.",
+   "fx": "none",
+   "sub": "I couldn't imagine a single day without him.",
+   "say": "मैं उसके बिना एक दिन भी इमेजिन नहीं करती थी।"
+  },
+  {
+   "image": "[[siya]] giggling, sitting on [[toofan]]'s back, being gently led by [[narrator]]. Bright sunlight.",
+   "speaker": "narrator",
+   "line": "Aur meri beti Siya, uski jaan thi Toofan mein.",
+   "fx": "dust",
+   "sub": "And my daughter Siya, her life was in Toofan.",
+   "say": "और मेरी बेटी सिया, उसकी जान थी तूफ़ान में।"
+  },
+  {
+   "image": "Close-up of [[siya]]'s small hand stroking [[toofan]]'s muzzle, [[toofan]] nuzzling her hand gently.",
+   "speaker": "narrator",
+   "line": "Unka bond dekhkar dil khush ho jaata tha.",
+   "fx": "dust",
+   "sub": "Seeing their bond would make my heart happy.",
+   "say": "उनका बॉन्ड देखकर दिल खुश हो जाता था।"
+  },
+  {
+   "image": "[[siya]] feeding [[toofan]] an apple, both looking happy.",
+   "speaker": "narrator",
+   "line": "Roz subah pehle Toofan ko milne jaati thi.",
+   "fx": "dust",
+   "sub": "Every morning she would first go to meet Toofan.",
+   "say": "रोज़ सुबह पहले तूफ़ान को मिलने जाती थी।"
+  },
+  {
+   "image": "[[narrator]] and [[rohan]] sitting at a simple wooden table, looking at bills, faces worried. Low light.",
+   "speaker": "narrator",
+   "line": "Par hamari zindagi mein mushkilein aane lagi.",
+   "fx": "none",
+   "sub": "But difficulties started coming into our lives.",
+   "say": "पर हमारी ज़िंदगी में मुश्किलें आने लगीं।"
+  },
+  {
+   "image": "Close-up of a stack of overdue bills, hand reaching for them.",
+   "speaker": "narrator",
+   "line": "Kheti mein nuksan, upar se karza badh gaya.",
+   "fx": "none",
+   "sub": "Loss in farming, and debt increased on top of that.",
+   "say": "खेती में नुक़सान, ऊपर से कर्ज़ा बढ़ गया।"
+  },
+  {
+   "image": "[[rohan]] looking down, defeated, with [[narrator]] putting a comforting hand on his shoulder.",
+   "speaker": "narrator",
+   "line": "Rohan bohot pareshaan tha. Koi raasta nahi dikh raha tha.",
+   "fx": "none",
+   "sub": "Rohan was very troubled. No way was visible.",
+   "say": "रोहन बहुत परेशान था। कोई रास्ता नहीं दिख रहा था।"
+  },
+  {
+   "image": "[[narrator]] looking out of a window with a sad, distant expression.",
+   "speaker": "narrator",
+   "line": "Ek din Rohan ne woh baat kahi.",
+   "fx": "none",
+   "sub": "One day Rohan said that thing.",
+   "say": "एक दिन रोहन ने वो बात कही।"
+  },
+  {
+   "image": "[[rohan]] and [[narrator]] standing near [[toofan]]'s stable, [[rohan]] has a pained expression, [[narrator]] is looking at [[toofan]] with a heartbroken face.",
+   "speaker": "rohan",
+   "line": "Rohan: \"Leena, humein Toofan ko bechna padega.\"",
+   "fx": "none",
+   "sub": "Rohan: \"Leena, we will have to sell Toofan.\"",
+   "say": "रोहन: \"लीना, हमें तूफ़ान को बेचना पड़ेगा।\""
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, eyes wide with shock and disbelief.",
+   "speaker": "narrator",
+   "line": "Mere pairon tale zameen khisak gayi thi.",
+   "fx": "none",
+   "sub": "The ground beneath my feet had slipped away.",
+   "say": "मेरे पैरों तले ज़मीन खिसक गयी थी।"
+  },
+  {
+   "image": "[[narrator]] hugging [[toofan]]'s neck, tears streaming down her face, [[toofan]] looking sad.",
+   "speaker": "narrator",
+   "line": "Main ro padi, Toofan ko kaise alag karti?",
+   "fx": "none",
+   "sub": "I started crying, how could I separate from Toofan?",
+   "say": "मैं रो पड़ी, तूफ़ान को कैसे अलग करती?"
+  },
+  {
+   "image": "[[siya]] running cheerfully towards [[toofan]] in the field.",
+   "speaker": "narrator",
+   "line": "Par Siya ka kya? Woh Toofan ke bina kaise rahegi?",
+   "fx": "dust",
+   "sub": "But what about Siya? How will she live without Toofan?",
+   "say": "पर सिया का क्या? वो तूफ़ान के बिना कैसे रहेगी?"
+  },
+  {
+   "image": "[[rohan]]'s face, looking helpless and apologetic.",
+   "speaker": "narrator",
+   "line": "Rohan ne bola, \"Koi aur option nahi hai, Leena.\"",
+   "fx": "none",
+   "sub": "Rohan said, \"There is no other option, Leena.\"",
+   "say": "रोहन ने बोला, \"कोई और ऑप्शन नहीं है, लीना।\""
+  },
+  {
+   "image": "[[narrator]] looking at [[siya]] who is playing happily nearby, unaware of the conversation, then looking back at [[rohan]] with resignation.",
+   "speaker": "narrator",
+   "line": "Majboori thi. Dil par patthar rakh liya.",
+   "fx": "dust",
+   "sub": "It was helplessness. I hardened my heart.",
+   "say": "मजबूरी थी। दिल पर पत्थर रख लिया।"
+  },
+  {
+   "image": "A man inspecting [[toofan]]'s teeth, [[narrator]] looking on with a heavy heart.",
+   "speaker": "narrator",
+   "line": "Humne buyer se baat ki, woh next day aane wala tha.",
+   "fx": "none",
+   "sub": "We talked to a buyer, he was coming the next day.",
+   "say": "हमने बायर से बात की, वो नेक्स्ट डे आने वाला था।"
+  },
+  {
+   "image": "[[narrator]] gently putting a blanket over [[toofan]] in the stable, a silent goodbye.",
+   "speaker": "narrator",
+   "line": "Aakhri raat thi Toofan ke saath. Bahut dard tha.",
+   "fx": "none",
+   "sub": "It was the last night with Toofan. There was a lot of pain.",
+   "say": "आख़िरी रात थी तूफ़ान के साथ। बहुत दर्द था।"
+  },
+  {
+   "image": "Dark, ominous clouds gathering in the sky over the village, strong wind blowing.",
+   "speaker": "narrator",
+   "line": "Us raat mausam suddenly kharab ho gaya.",
+   "fx": "none",
+   "sub": "That night the weather suddenly turned bad.",
+   "say": "उस रात मौसम सडनली ख़राब हो गया।"
+  },
+  {
+   "image": "Heavy rain lashing against a windowpane, water dripping from the roof.",
+   "speaker": "narrator",
+   "line": "Tez baarish shuru ho gayi, rukne ka naam hi nahi.",
+   "fx": "rain",
+   "sub": "Heavy rain started, no sign of stopping.",
+   "say": "तेज़ बारिश शुरू हो गयी, रुकने का नाम ही नहीं।"
+  },
+  {
+   "image": "Close-up of [[narrator]] looking worriedly out of the window.",
+   "speaker": "narrator",
+   "line": "Humein flood warnings milne lage, par hum busy the.",
+   "fx": "rain",
+   "sub": "We started getting flood warnings, but we were busy.",
+   "say": "हमें फ्लड वार्निंग्ज़ मिलने लगे, पर हम बिज़ी थे।"
+  },
+  {
+   "image": "[[narrator]] packing a small bag for [[toofan]] with horse feed and some essentials, still preoccupied with the sale.",
+   "speaker": "narrator",
+   "line": "Toofan ko kal jaana tha, uski tayaari mein lage the.",
+   "fx": "none",
+   "sub": "Toofan had to leave tomorrow, we were busy preparing.",
+   "say": "तूफ़ान को कल जाना था, उसकी तैयारी में लगे थे।"
+  },
+  {
+   "image": "[[rohan]] trying to secure a loose door, looking anxious.",
+   "speaker": "narrator",
+   "line": "Rohan ne bandobast kiya, sab kuch safe ho.",
+   "fx": "rain",
+   "sub": "Rohan made arrangements, ensuring everything was safe.",
+   "say": "रोहन ने बंदोबस्त किया, सब कुछ सेफ़ हो।"
+  },
+  {
+   "image": "[[siya]] fast asleep in her bed, looking peaceful, oblivious.",
+   "speaker": "narrator",
+   "line": "Siya chain ki neend so rahi thi.",
+   "fx": "none",
+   "sub": "Siya was sleeping peacefully.",
+   "say": "सिया चैन की नींद सो रही थी।"
+  },
+  {
+   "image": "Water slowly creeping into the courtyard, [[narrator]] looking down at it with concern.",
+   "speaker": "narrator",
+   "line": "Subah tak paani hamare ghar ke andar aa gaya.",
+   "fx": "rain",
+   "sub": "By morning, water had entered our house.",
+   "say": "सुबह तक पानी हमारे घर के अंदर आ गया।"
+  },
+  {
+   "image": "[[narrator]] and [[rohan]] quickly lifting items to higher ground, faces strained.",
+   "speaker": "narrator",
+   "line": "Hum ghabra gaye, cheezein upar rakhne lage.",
+   "fx": "rain",
+   "sub": "We got scared, started putting things up high.",
+   "say": "हम घबरा गए, चीज़ें ऊपर रखने लगे।"
+  },
+  {
+   "image": "Outside shot, the river nearby overflowing its banks, strong currents visible.",
+   "speaker": "narrator",
+   "line": "Nadi ka paani had se zyada badh chuka tha.",
+   "fx": "rain",
+   "sub": "The river water had risen beyond limits.",
+   "say": "नदी का पानी हद से ज़्यादा बढ़ चुका था।"
+  },
+  {
+   "image": "[[toofan]] in his stable, looking restless, pawing the ground, water around his hooves.",
+   "speaker": "narrator",
+   "line": "Toofan bhi bechain tha, uski aankhon mein darr tha.",
+   "fx": "rain",
+   "sub": "Toofan was also restless, there was fear in his eyes.",
+   "say": "तूफ़ान भी बेचैन था, उसकी आँखों में डर था।"
+  },
+  {
+   "image": "[[narrator]] quickly checking on [[siya]] who is now awake, sitting on the bed, looking confused.",
+   "speaker": "narrator",
+   "line": "Maine Siya ko uthaya, \"Beta, upar aa jao.\"",
+   "fx": "none",
+   "sub": "I woke Siya up, \"Child, come upstairs.\"",
+   "say": "मैंने सिया को उठाया, \"बेटा, ऊपर आ जाओ।\""
+  },
+  {
+   "image": "[[narrator]] carrying [[siya]] on her hip, wading through knee-deep water inside the house, worried expression.",
+   "speaker": "narrator",
+   "line": "Paani tezi se badh raha tha, dar lag raha tha.",
+   "fx": "rain",
+   "sub": "The water was rising fast, I was scared.",
+   "say": "पानी तेज़ी से बढ़ रहा था, डर लग रहा था।"
+  },
+  {
+   "image": "[[rohan]] trying to secure the main door, water pushing against it.",
+   "speaker": "narrator",
+   "line": "Rohan ne darwaza lock kiya, par paani andar aa raha tha.",
+   "fx": "rain",
+   "sub": "Rohan locked the door, but water was coming in.",
+   "say": "रोहन ने दरवाज़ा लॉक किया, पर पानी अंदर आ रहा था।"
+  },
+  {
+   "image": "[[narrator]] and [[rohan]] looking at each other, helplessness and fear on their faces.",
+   "speaker": "narrator",
+   "line": "Poora gaon doobne laga tha, log bhag rahe the.",
+   "fx": "rain",
+   "sub": "The entire village was starting to drown, people were fleeing.",
+   "say": "पूरा गाँव डूबने लगा था, लोग भाग रहे थे।"
+  },
+  {
+   "image": "[[narrator]] looking around frantically, realizing something is missing.",
+   "speaker": "narrator",
+   "line": "Aur phir... maine Siya ko dekha.",
+   "fx": "rain",
+   "sub": "And then... I saw Siya.",
+   "say": "और फिर... मैंने सिया को देखा।"
+  },
+  {
+   "image": "A wide shot of the house, water around it, a small window slightly ajar. [[siya]] is not visible. [[narrator]]'s panicked expression.",
+   "speaker": "narrator",
+   "line": "Woh wahan nahi thi jahan chhoda tha!",
+   "fx": "rain",
+   "sub": "She wasn't where I had left her!",
+   "say": "वो वहाँ नहीं थी जहाँ छोड़ा था!"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, pure terror, gasping.",
+   "speaker": "narrator",
+   "line": "Mera dil baith gaya. Siya kahan gayi?",
+   "fx": "rain",
+   "sub": "My heart sank. Where did Siya go?",
+   "say": "मेरा दिल बैठ गया। सिया कहाँ गयी?"
+  },
+  {
+   "image": "[[rohan]] and [[narrator]] frantically searching through the flooded house, calling Siya's name.",
+   "speaker": "narrator",
+   "line": "Humne usse pukara, par koi jawab nahi.",
+   "fx": "rain",
+   "sub": "We called out to her, but no answer.",
+   "say": "हमने उसे पुकारा, पर कोई जवाब नहीं।"
+  },
+  {
+   "image": "Outside the stable, the door is now broken open, [[toofan]] is gone.",
+   "speaker": "narrator",
+   "line": "Toofan bhi apne stable se nikal chuka tha.",
+   "fx": "rain",
+   "sub": "Toofan had also escaped from his stable.",
+   "say": "तूफ़ान भी अपने स्टेबल से निकल चुका था।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, tears mixed with rain, absolute despair.",
+   "speaker": "narrator",
+   "line": "Yeh kya ho raha tha? Sab kuch khatam?",
+   "fx": "rain",
+   "sub": "What was happening? Everything over?",
+   "say": "ये क्या हो रहा था? सब कुछ ख़त्म?"
+  },
+  {
+   "image": "Underwater shot of a small, submerged toy.",
+   "speaker": "narrator",
+   "line": "Baarish mein bahar jaana impossible tha.",
+   "fx": "rain",
+   "sub": "Going outside in the rain was impossible.",
+   "say": "बारिश में बाहर जाना इम्पॉसिबल था।"
+  },
+  {
+   "image": "[[narrator]] covering her mouth, eyes wide, seeing something far in the distance.",
+   "speaker": "narrator",
+   "line": "Phir maine paani mein ek shadow dekhi.",
+   "fx": "rain",
+   "sub": "Then I saw a shadow in the water.",
+   "say": "फिर मैंने पानी में एक शैडो देखी।"
+  },
+  {
+   "image": "A blurry, distant shot of [[toofan]] wading through rapidly flowing water.",
+   "speaker": "narrator",
+   "line": "Toofan? Woh kahan ja raha tha?",
+   "fx": "rain",
+   "sub": "Toofan? Where was he going?",
+   "say": "तूफ़ान? वो कहाँ जा रहा था?"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s eyes, squinting, trying to see through the heavy rain.",
+   "speaker": "narrator",
+   "line": "Meri aankhon ko yakeen nahi ho raha tha.",
+   "fx": "rain",
+   "sub": "My eyes couldn't believe it.",
+   "say": "मेरी आँखों को यक़ीन नहीं हो रहा था।"
+  },
+  {
+   "image": "[[toofan]] stopping near a partially submerged small structure (maybe a small storage shed or a treehouse Siya built).",
+   "speaker": "narrator",
+   "line": "Toofan ek jagah par ruk gaya.",
+   "fx": "rain",
+   "sub": "Toofan stopped at one place.",
+   "say": "तूफ़ान एक जगह पर रुक गया।"
+  },
+  {
+   "image": "Camera angle from behind [[toofan]], showing [[siya]] clinging to a branch or top of the small structure, looking terrified.",
+   "speaker": "narrator",
+   "line": "Aur wahan... Siya! Pareshan aur darr se kaanpti.",
+   "fx": "rain",
+   "sub": "And there... Siya! Troubled and trembling with fear.",
+   "say": "और वहाँ... सिया! परेशान और डर से काँपती।"
+  },
+  {
+   "image": "[[toofan]] gently nudging [[siya]] with his nose, encouraging her.",
+   "speaker": "narrator",
+   "line": "Toofan ne usse apni taraf khincha.",
+   "fx": "rain",
+   "sub": "Toofan pulled her towards himself.",
+   "say": "तूफ़ान ने उसे अपनी तरफ़ खींचा।"
+  },
+  {
+   "image": "[[siya]] carefully climbing onto [[toofan]]'s back, still looking scared.",
+   "speaker": "narrator",
+   "line": "Chhoti Siya ne himmat ki aur upar chadh gayi.",
+   "fx": "rain",
+   "sub": "Little Siya gathered courage and climbed up.",
+   "say": "छोटी सिया ने हिम्मत की और ऊपर चढ़ गयी।"
+  },
+  {
+   "image": "[[toofan]] carefully turning around, navigating the strong currents with [[siya]] on his back.",
+   "speaker": "narrator",
+   "line": "Phir Toofan ne wapas aana shuru kiya.",
+   "fx": "rain",
+   "sub": "Then Toofan started coming back.",
+   "say": "फिर तूफ़ान ने वापस आना शुरू किया।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, tears of relief and hope now.",
+   "speaker": "narrator",
+   "line": "Meri saansein tham gayi thi, main bas dekhti rahi.",
+   "fx": "rain",
+   "sub": "My breath was held, I just kept watching.",
+   "say": "मेरी साँसें थम गयी थी, मैं बस देखती रही।"
+  },
+  {
+   "image": "Wide shot from a slight distance, [[toofan]] and [[siya]] slowly approaching the house through the flood.",
+   "speaker": "narrator",
+   "line": "Har step ek challenge tha, paani bohot tez tha.",
+   "fx": "rain",
+   "sub": "Every step was a challenge, the water was very fast.",
+   "say": "हर स्टेप एक चैलेंज था, पानी बहुत तेज़ था।"
+  },
+  {
+   "image": "[[toofan]] finally reaching the house, [[rohan]] rushing to help [[siya]] off his back.",
+   "speaker": "narrator",
+   "line": "Aakhir Toofan ghar ke kareeb pahunch gaya.",
+   "fx": "rain",
+   "sub": "Finally Toofan reached near the house.",
+   "say": "आख़िर तूफ़ान घर के क़रीब पहुँच गया।"
+  },
+  {
+   "image": "[[narrator]] rushing forward, hugging [[siya]] tightly, sobbing with relief. [[siya]] is also crying.",
+   "speaker": "narrator",
+   "line": "Maine Siya ko pakad liya, usse gale laga liya.",
+   "fx": "rain",
+   "sub": "I held Siya, hugged her tightly.",
+   "say": "मैंने सिया को पकड़ लिया, उसे गले लगा लिया।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s tear-stained face, looking at [[toofan]] with immense gratitude.",
+   "speaker": "narrator",
+   "line": "Uss pal, maine Toofan ko dekha.",
+   "fx": "rain",
+   "sub": "In that moment, I looked at Toofan.",
+   "say": "उस पल, मैंने तूफ़ान को देखा।"
+  },
+  {
+   "image": "[[toofan]] looking calm and tired, but alert.",
+   "speaker": "narrator",
+   "line": "Usne meri beti ko bachaya tha.",
+   "fx": "rain",
+   "sub": "He had saved my daughter.",
+   "say": "उसने मेरी बेटी को बचाया था।"
+  },
+  {
+   "image": "[[narrator]] extending a hand to gently pat [[toofan]]'s head, tears still flowing.",
+   "speaker": "narrator",
+   "line": "Woh sirf ek ghoda nahi tha, woh family tha.",
+   "fx": "rain",
+   "sub": "He wasn't just a horse, he was family.",
+   "say": "वो सिर्फ़ एक घोड़ा नहीं था, वो फ़ैमिली था।"
+  },
+  {
+   "image": "[[rohan]] also patting [[toofan]]'s neck, a look of profound respect and relief on his face.",
+   "speaker": "narrator",
+   "line": "Rohan ne bhi Toofan ko pyaar kiya.",
+   "fx": "rain",
+   "sub": "Rohan also showed love to Toofan.",
+   "say": "रोहन ने भी तूफ़ान को प्यार किया।"
+  },
+  {
+   "image": "[[narrator]], [[rohan]], and [[siya]] all gathered around [[toofan]], hugging him or petting him, a scene of profound gratitude and reunion.",
+   "speaker": "narrator",
+   "line": "Hum sab ne Toofan ko thank you kaha, aankhon se.",
+   "fx": "rain",
+   "sub": "We all thanked Toofan, with our eyes.",
+   "say": "हम सब ने तूफ़ान को थैंक यू कहा, आँखों से।"
+  },
+  {
+   "image": "[[narrator]] shaking her head slightly, a small, resolute smile forming.",
+   "speaker": "narrator",
+   "line": "Uss din humne ek decision liya.",
+   "fx": "none",
+   "sub": "That day we made a decision.",
+   "say": "उस दिन हमने एक डिसिज़न लिया।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s determined face, looking directly at the camera.",
+   "speaker": "narrator",
+   "line": "Hum Toofan ko kabhi nahi becheinge.",
+   "fx": "none",
+   "sub": "We will never sell Toofan.",
+   "say": "हम तूफ़ान को कभी नहीं बेचेंगे।"
+  },
+  {
+   "image": "Sunny day, [[toofan]] grazing peacefully in a green field, a rainbow faintly in the background.",
+   "speaker": "narrator",
+   "line": "Flood ke baad cheezein mushkil thi.",
+   "fx": "dust",
+   "sub": "After the flood, things were difficult.",
+   "say": "फ्लड के बाद चीज़ें मुश्किल थी।"
+  },
+  {
+   "image": "Villagers helping clear debris from the house, a sense of community.",
+   "speaker": "narrator",
+   "line": "Par gaon walon ne bohot help ki.",
+   "fx": "dust",
+   "sub": "But the villagers helped a lot.",
+   "say": "पर गाँव वालों ने बहुत हेल्प की।"
+  },
+  {
+   "image": "[[narrator]] and [[rohan]] working hard in their fields, tired but hopeful.",
+   "speaker": "narrator",
+   "line": "Humne milkar sab theek kar liya.",
+   "fx": "dust",
+   "sub": "We fixed everything together.",
+   "say": "हमने मिलकर सब ठीक कर लिया।"
+  },
+  {
+   "image": "[[siya]] drawing a picture of [[toofan]] with a big heart, smiling.",
+   "speaker": "narrator",
+   "line": "Siya ka Toofan ke liye pyaar aur badh gaya.",
+   "fx": "none",
+   "sub": "Siya's love for Toofan grew even more.",
+   "say": "सिया का तूफ़ान के लिए प्यार और बढ़ गया।"
+  },
+  {
+   "image": "[[toofan]] with a new, colorful bridle, being proudly shown off by [[narrator]].",
+   "speaker": "narrator",
+   "line": "Toofan ab hamari shaan hai, hamari pride.",
+   "fx": "dust",
+   "sub": "Toofan is now our glory, our pride.",
+   "say": "तूफ़ान अब हमारी शान है, हमारी प्राइड।"
+  },
+  {
+   "image": "[[narrator]] petting [[toofan]]'s head, smiling gently.",
+   "speaker": "narrator",
+   "line": "Har baar jab main usse dekhti hoon.",
+   "fx": "dust",
+   "sub": "Every time I look at him.",
+   "say": "हर बार जब मैं उसे देखती हूँ।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s eyes, full of love and gratitude.",
+   "speaker": "narrator",
+   "line": "Mujhe uss raat ki himmat yaad aati hai.",
+   "fx": "none",
+   "sub": "I remember his courage that night.",
+   "say": "मुझे उस रात की हिम्मत याद आती है।"
+  },
+  {
+   "image": "[[toofan]] and [[siya]] playing gently in the field, bathed in warm sunlight.",
+   "speaker": "narrator",
+   "line": "Woh sirf ek jaanwar nahi, woh ek guardian angel hai.",
+   "fx": "dust",
+   "sub": "He's not just an animal, he's a guardian angel.",
+   "say": "वो सिर्फ़ एक जानवर नहीं, वो एक गार्डियन एंजेल है।"
+  },
+  {
+   "image": "[[narrator]] standing next to [[toofan]], holding [[siya]]'s hand, looking forward with hope.",
+   "speaker": "narrator",
+   "line": "Usne hamare ghar ko, hamari family ko bachaya.",
+   "fx": "dust",
+   "sub": "He saved our home, our family.",
+   "say": "उसने हमारे घर को, हमारी फ़ैमिली को बचाया।"
+  },
+  {
+   "image": "Close-up of [[toofan]]'s intelligent eyes, reflecting peace and loyalty.",
+   "speaker": "narrator",
+   "line": "Aur uska pyaar, ek anokhi kahani ban gaya.",
+   "fx": "none",
+   "sub": "And his love became a unique story.",
+   "say": "और उसका प्यार, एक अनोखी कहानी बन गया।"
+  },
+  {
+   "image": "[[narrator]] smiling warmly, looking directly at the camera. [[toofan]] in soft focus behind her.",
+   "speaker": "narrator",
+   "line": "Kya aapki life mein koi aisa hero animal hai?",
+   "fx": "none",
+   "sub": "Is there such a hero animal in your life?",
+   "say": "क्या आपकी लाइफ़ में कोई ऐसा हीरो एनिमल है?"
+  }
+ ],
+ "caption": "A horse for sale saves owner's daughter from flood 🐴",
+ "slug": "2026-11-14_part1",
+ "story_no": 53,
+ "yt_title": "A horse for sale saves owner's daughter from flood 🐴",
+ "description": "My beloved horse, Toofan, was about to be sold due to financial hardship. But when a sudden, devastating flood endangers my daughter's life, our loyal Toofan reveals his true spirit. Has an animal ever been a hero in your life?",
+ "comment_question": "Has an animal ever been a hero in your life?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#horsestory",
+  "#animalhero",
+  "#floodrescue",
+  "#loyalhorse",
+  "#familybond",
+  "#indianshorts",
+  "#heartwarming",
+  "#petstory",
+  "#unconditionallove"
+ ]
+}

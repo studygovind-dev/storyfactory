@@ -1,0 +1,487 @@
+{
+ "series": "Mithu's Rishta Mayhem",
+ "episode": 2,
+ "title": "Mithu's Rishta Mayhem",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_female"
+  },
+  "Priya": {
+   "look": "Young woman, early 20s, fair skin, long soft wavy dark-brown hair tied in a loose braid, small gold hoop earrings, a vibrant pastel pink kurti with white palazzo pants. Gentle face, often expressive.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Mithu": {
+   "look": "Green parrot with a red beak, blue collar with a tiny bell. Often perched on a shoulder or cage. Expressive bird eyes.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Rohan": {
+   "look": "Young man, late 20s, light wheatish skin, neatly combed short black hair, clean-shaven, wearing a light blue button-down shirt and dark trousers. Kind eyes.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Mrs. Sharma": {
+   "look": "Middle-aged woman, fair skin, grey hair neatly tied in a bun, wearing an elegant cream saree with a gold border. Strict but caring expression.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "MY PARROT EXPOSED ME!",
+ "scenes": [
+  {
+   "image": "Priya (fair skin, long soft wavy dark-brown hair tied in a loose braid, small gold hoop earrings, vibrant pastel pink kurti) is holding her face in her hands, looking absolutely mortified, eyes wide with shock. Mithu (green parrot with a red beak, blue collar), perched on her shoulder, looks innocently at the viewer.",
+   "speaker": "Priya",
+   "line": "My parrot nearly ruined my Rishta, yaar!",
+   "fx": "none",
+   "say": "माय पैरट नियरली रुइंड माय रिश्ता, यार!"
+  },
+  {
+   "image": "Priya (stressed expression) is meticulously cleaning her cozy living room, dusting furniture with a feather duster. Mithu is playfully pecking at the duster.",
+   "speaker": "narrator",
+   "line": "Priya was excited, par thodi nervous bhi thi.",
+   "fx": "none",
+   "say": "प्रिया एक्साइटेड, पर थोड़ी नर्वस भी थी।"
+  },
+  {
+   "image": "Close-up on Priya's face, a nervous smile, as she smooths her kurti. Her eyes dart towards the door.",
+   "speaker": "narrator",
+   "line": "Today was a big day. Rohan and his mother were coming.",
+   "fx": "none",
+   "say": "टुडे वॉज़ अ बिग डे। रोहन एंड हिज़ मदर वर कमिंग।"
+  },
+  {
+   "image": "Mithu is perched on his stand in the living room, chirping happily. Priya looks at him with a mix of affection and apprehension.",
+   "speaker": "Priya",
+   "line": "Mithu, aaj shanti se rehna, please.",
+   "fx": "none",
+   "say": "मिथु, आज शांति से रहना, प्लीज़।"
+  },
+  {
+   "image": "Mithu cocks his head, mimicking Priya's worried expression with his bird eyes, then lets out a playful squawk.",
+   "speaker": "Mithu",
+   "line": "Shanti se rehna, please!",
+   "fx": "none",
+   "say": "शांति से रहना, प्लीज़!"
+  },
+  {
+   "image": "Priya sighs, running a hand through her hair. The doorbell rings. Her eyes widen in panic.",
+   "speaker": "Priya",
+   "line": "Oh no! They are here!",
+   "fx": "none",
+   "say": "ओह नो! दे आर हियर!"
+  },
+  {
+   "image": "Priya opens the door, forcing a bright smile. Rohan (light blue shirt, kind eyes) and Mrs. Sharma (elegant cream saree, strict expression) stand at the entrance. Mrs. Sharma observes the living room.",
+   "speaker": "Priya",
+   "line": "Namaste, please come inside.",
+   "fx": "none",
+   "say": "नमस्ते, प्लीज़ कम इनसाइड।"
+  },
+  {
+   "image": "Mrs. Sharma (grey hair, gold border saree) enters, looking around with a critical but polite gaze. Rohan smiles warmly at Priya.",
+   "speaker": "Mrs. Sharma",
+   "line": "Ghar bahut pyara hai, beta.",
+   "fx": "none",
+   "say": "घर बहुत प्यारा है, बेटा।"
+  },
+  {
+   "image": "Priya blushes, her heart pounding. Mithu is on his perch, quietly watching the new guests.",
+   "speaker": "Priya",
+   "line": "Thank you, aunty ji.",
+   "fx": "none",
+   "say": "थैंक यू, आंटी जी।"
+  },
+  {
+   "image": "They are seated on the sofa. Priya is offering tea. Rohan looks at her admiringly.",
+   "speaker": "Rohan",
+   "line": "Priya, you look lovely today.",
+   "fx": "none",
+   "say": "प्रिया, यू लुक लवली टुडे।"
+  },
+  {
+   "image": "Priya, blushing deeply, fumbles slightly with the teacup. Her inner thoughts: 'Uff, itna compliment?'",
+   "speaker": "Priya",
+   "line": "Oh, thank you, Rohan.",
+   "fx": "none",
+   "say": "ओह, थैंक यू, रोहन।"
+  },
+  {
+   "image": "Mithu, perched on his stand, tilts his head. He repeats Priya's inner thought loudly.",
+   "speaker": "Mithu",
+   "line": "Uff, itna compliment?",
+   "fx": "none",
+   "say": "उफ़्फ़, इतना कॉम्प्लिमेंट?"
+  },
+  {
+   "image": "Mrs. Sharma's eyebrow raises slightly. Rohan hides a small smile. Priya's face turns beet red.",
+   "speaker": "Priya",
+   "line": "Mithu! Chup!",
+   "fx": "none",
+   "say": "मिथु! चुप!"
+  },
+  {
+   "image": "Priya glares at Mithu, who shrugs his wings innocently. She quickly apologizes, a forced laugh.",
+   "speaker": "Priya",
+   "line": "He just repeats everything, aunty ji.",
+   "fx": "none",
+   "say": "ही जस्ट रिपीट्स एव्रीथिंग, आंटी जी।"
+  },
+  {
+   "image": "Mrs. Sharma nods, still with that discerning look. The atmosphere stiffens slightly.",
+   "speaker": "Mrs. Sharma",
+   "line": "Pets can be a little… unpredictable.",
+   "fx": "none",
+   "say": "पेट्स कैन बी अ लिटल… अनप्रेडिक्टेबल।"
+  },
+  {
+   "image": "Priya nervously clears her throat. She desperately wants the meeting to go well.",
+   "speaker": "narrator",
+   "line": "Priya tried to regain control of the situation.",
+   "fx": "none",
+   "say": "प्रिया ट्राइड टू रिगेन कंट्रोल ऑफ द सिचुएशन।"
+  },
+  {
+   "image": "Mrs. Sharma takes a sip of tea. She then addresses Priya with a serious expression.",
+   "speaker": "Mrs. Sharma",
+   "line": "Tell me, Priya, do you cook well?",
+   "fx": "none",
+   "say": "टेल मी, प्रिया, डू यू कुक वेल?"
+  },
+  {
+   "image": "Close-up on Priya's face. She recalls a recent kitchen disaster, a burnt roti. Her eyes widen in internal dread. Inner thought: 'Oh god, not this question!'",
+   "speaker": "Priya",
+   "line": "Uh, yes, I... try.",
+   "fx": "none",
+   "say": "उह, यस, आई… ट्राय।"
+  },
+  {
+   "image": "Mithu, still on his perch, suddenly squawks loudly, mimicking Priya's exact inner thought.",
+   "speaker": "Mithu",
+   "line": "Oh god, not this question!",
+   "fx": "none",
+   "say": "ओह गॉड, नॉट दिस क्वेश्चन!"
+  },
+  {
+   "image": "Mrs. Sharma's eyes narrow. Rohan quickly interjects, trying to make light of it, but fails.",
+   "speaker": "Rohan",
+   "line": "Mother, Mithu is quite a character!",
+   "fx": "none",
+   "say": "मदर, मिथु इज़ क्वाइट अ करैक्टर!"
+  },
+  {
+   "image": "Priya scrambles, trying to cover Mithu's cage with a cloth, her face flushed with embarrassment.",
+   "speaker": "Priya",
+   "line": "I'm so sorry, aunty ji! He is just too naughty.",
+   "fx": "none",
+   "say": "आई एम सो सॉरी, आंटी जी! ही इज़ जस्ट टू नॉटी।"
+  },
+  {
+   "image": "Mithu peeks out from under the cloth, sticking his tongue out playfully at Priya.",
+   "speaker": "Mithu",
+   "line": "Too naughty!",
+   "fx": "none",
+   "say": "टू नॉटी!"
+  },
+  {
+   "image": "Mrs. Sharma looks unimpressed, her lips pursed. The silence stretches uncomfortably.",
+   "speaker": "Mrs. Sharma",
+   "line": "It's important for a bahu to be well-versed.",
+   "fx": "none",
+   "say": "इट्स इम्पोर्टेन्ट फॉर अ बहू टू बी वेल-वर्स्ड।"
+  },
+  {
+   "image": "Priya shrinks in her seat, feeling judged. She mutters under her breath, 'Oh God, this is a disaster.'",
+   "speaker": "Priya",
+   "line": "I understand, aunty ji.",
+   "fx": "none",
+   "say": "आई अंडरस्टैंड, आंटी जी।"
+  },
+  {
+   "image": "Mithu, still partially hidden, echoes Priya's distressed thought.",
+   "speaker": "Mithu",
+   "line": "Oh God, this is a disaster!",
+   "fx": "none",
+   "say": "ओह गॉड, दिस इज़ अ डिज़ास्टर!"
+  },
+  {
+   "image": "Mrs. Sharma stares at Mithu's cage, then at Priya, her expression hardening into visible disapproval.",
+   "speaker": "Mrs. Sharma",
+   "line": "Rohan, perhaps we should leave.",
+   "fx": "none",
+   "say": "रोहन, परहेप्स वी शुड लीव।"
+  },
+  {
+   "image": "Rohan (concerned look) looks from his mother to a distraught Priya, trying to find words.",
+   "speaker": "Rohan",
+   "line": "Mother, please, let's just talk.",
+   "fx": "none",
+   "say": "मदर, प्लीज़, लेट्स जस्ट टॉक।"
+  },
+  {
+   "image": "Priya's eyes well up with tears. She feels utterly humiliated and defeated.",
+   "speaker": "Priya",
+   "line": "I'm really so sorry for Mithu's behavior.",
+   "fx": "none",
+   "say": "आई एम रियली सो सॉरी फॉर मिथुज़ बिहेवियर।"
+  },
+  {
+   "image": "Mrs. Sharma stands up. Her expression is stern, indicating the meeting is over.",
+   "speaker": "Mrs. Sharma",
+   "line": "It's alright, beta. We should get going.",
+   "fx": "none",
+   "say": "इट्स आलराइट, बेटा। वी शुड गेट गोइंग।"
+  },
+  {
+   "image": "Priya (tears in her eyes) watches them, her shoulders slumped. Her dream rishta is slipping away.",
+   "speaker": "narrator",
+   "line": "Priya felt her hopes shattering into pieces.",
+   "fx": "none",
+   "say": "प्रिया फेल्ट हर होप्स शैटरिंग इनटु पीसेज़।"
+  },
+  {
+   "image": "Rohan looks back at Priya with a sympathetic expression, then follows his mother towards the door.",
+   "speaker": "Rohan",
+   "line": "I'll call you, Priya.",
+   "fx": "none",
+   "say": "आई विल कॉल यू, प्रिया।"
+  },
+  {
+   "image": "As Mrs. Sharma reaches the door, she sighs, muttering to Rohan quietly, but loud enough for Mithu to hear.",
+   "speaker": "Mrs. Sharma",
+   "line": "What a shame! She seemed so sweet, but no sanskaar.",
+   "fx": "none",
+   "say": "व्हाट अ शेम! शी सीम्ड सो स्वीट, बट नो संस्कार।"
+  },
+  {
+   "image": "Priya is still sitting, head down, heartbroken. Mithu suddenly pushes off the cloth, his eyes wide.",
+   "speaker": "Mithu",
+   "line": "No sanskaar? Mummy ji toh herself was a rebel!",
+   "fx": "none",
+   "say": "नो संस्कार? मम्मी जी तो हरसेल्फ वाज़ अ रेबेल!"
+  },
+  {
+   "image": "Mrs. Sharma freezes mid-step, her back to Priya. Rohan's eyes widen, looking at his mother.",
+   "speaker": "Mrs. Sharma",
+   "line": "What did you just say, Mithu?",
+   "fx": "none",
+   "say": "व्हाट डिड यू जस्ट से, मिथु?"
+  },
+  {
+   "image": "Priya looks up, confused and horrified. She had told Mithu this playfully days ago, referring to Mrs. Sharma's strictness.",
+   "speaker": "Priya",
+   "line": "Mithu! No!",
+   "fx": "none",
+   "say": "मिथु! नो!"
+  },
+  {
+   "image": "Mithu, unfazed, repeats with a mischievous glint in his eyes.",
+   "speaker": "Mithu",
+   "line": "Mummy ji, she herself was a rebel!",
+   "fx": "none",
+   "say": "मम्मी जी, शी हरसेल्फ वाज़ अ रेबेल!"
+  },
+  {
+   "image": "Mrs. Sharma slowly turns around, her face now a mix of shock and a faint blush. Rohan is trying hard to suppress a smile.",
+   "speaker": "Mrs. Sharma",
+   "line": "Priya... kya tumne yeh kaha?",
+   "fx": "none",
+   "say": "प्रिया… क्या तुमने ये कहा?"
+  },
+  {
+   "image": "Priya's face is crimson. She nods slightly, embarrassed, unable to meet Mrs. Sharma's gaze.",
+   "speaker": "Priya",
+   "line": "Mera matlab... not in a bad way...",
+   "fx": "none",
+   "say": "मेरा मतलब… नॉट इन अ बैड वे…"
+  },
+  {
+   "image": "Mrs. Sharma's strict expression softens. A small smile plays on her lips as she looks at Rohan.",
+   "speaker": "Mrs. Sharma",
+   "line": "Rohan, do you remember my college days?",
+   "fx": "none",
+   "say": "रोहन, डू यू रिमेंबर माय कॉलेज डेज़?"
+  },
+  {
+   "image": "Rohan grins, nodding. Priya watches, bewildered but hopeful.",
+   "speaker": "Rohan",
+   "line": "Yes, mother. You were quite famous!",
+   "fx": "none",
+   "say": "यस, मदर। यू वर क्वाइट फेमस!"
+  },
+  {
+   "image": "Mrs. Sharma (a wistful smile) sits back down, looking directly at Priya, her eyes twinkling.",
+   "speaker": "Mrs. Sharma",
+   "line": "Actually, Mithu is right, beta.",
+   "fx": "none",
+   "say": "एक्चुअली, मिथु इज़ राइट, बेटा।"
+  },
+  {
+   "image": "Priya looks stunned. Rohan smiles at his mother, clearly enjoying her confession.",
+   "speaker": "Mrs. Sharma",
+   "line": "Main college mein bahut natkhat thi.",
+   "fx": "none",
+   "say": "मैं कॉलेज में बहुत नटखट थी।"
+  },
+  {
+   "image": "Mrs. Sharma laughs, a warm, genuine laugh. Priya watches, surprised but relieved.",
+   "speaker": "Mrs. Sharma",
+   "line": "Once I even jumped a wall to attend a concert!",
+   "fx": "none",
+   "say": "वन्स आई इवन जंप्ड अ वॉल टू अटेंड अ कॉन्सर्ट!"
+  },
+  {
+   "image": "Priya bursts out laughing, a genuine, relieved laugh. The tension instantly melts away.",
+   "speaker": "Priya",
+   "line": "Sach mein, aunty ji? Wow!",
+   "fx": "none",
+   "say": "सच में, आंटी जी? वाओ!"
+  },
+  {
+   "image": "Rohan joins in the laughter, happy to see his mother and Priya finally connecting.",
+   "speaker": "Rohan",
+   "line": "She used to tell me crazy stories!",
+   "fx": "none",
+   "say": "शी यूज़्ड टू टेल मी क्रेज़ी स्टोरीज़!"
+  },
+  {
+   "image": "Mithu, seeing everyone happy, squawks with delight, flapping his wings. He finally feels useful.",
+   "speaker": "Mithu",
+   "line": "Crazy stories! Happy!",
+   "fx": "none",
+   "say": "क्रेज़ी स्टोरीज़! हैप्पी!"
+  },
+  {
+   "image": "Mrs. Sharma smiles at Mithu. Her stern exterior has completely vanished. She looks at Priya with new warmth.",
+   "speaker": "Mrs. Sharma",
+   "line": "Sometimes, a little mischief is good, na?",
+   "fx": "none",
+   "say": "समटाइम्स, अ लिटल मिसचीफ इज़ गुड, ना?"
+  },
+  {
+   "image": "Priya (beaming) looks at Mithu, then back at Mrs. Sharma, a shy smile on her face.",
+   "speaker": "Priya",
+   "line": "Definitely, aunty ji!",
+   "fx": "none",
+   "say": "डेफिनिटली, आंटी जी!"
+  },
+  {
+   "image": "Mrs. Sharma reaches out and gently pats Priya's hand, a gesture of acceptance.",
+   "speaker": "narrator",
+   "line": "The ice was completely broken.",
+   "fx": "none",
+   "say": "द आइस वाज़ कम्पलीटली ब्रोकन।"
+  },
+  {
+   "image": "Priya, Rohan, and Mrs. Sharma are now chatting animatedly, laughing, and sharing stories. Mithu watches them proudly.",
+   "speaker": "narrator",
+   "line": "What started as a disaster, turned into a delightful afternoon.",
+   "fx": "none",
+   "say": "व्हाट स्टार्टेड ऐज़ अ डिज़ास्टर, टर्न्ड इनटू अ डिलाइटफुल आफ्टरनून।"
+  },
+  {
+   "image": "Close-up on Mithu, winking at the camera, as if he planned it all along.",
+   "speaker": "Mithu",
+   "line": "Mithu sab jaanta hai!",
+   "fx": "none",
+   "say": "मिथु सब जानता है!"
+  },
+  {
+   "image": "Priya, looking relieved and happy, glances at Mithu with a grateful smile. Her future suddenly looks brighter.",
+   "speaker": "narrator",
+   "line": "Priya realized Mithu was not a nuisance, but a blessing.",
+   "fx": "none",
+   "say": "प्रिया रियलाइज्ड मिथु वाज़ नॉट अ न्यूसेंस, बट अ ब्लेसिंग।"
+  },
+  {
+   "image": "Mrs. Sharma (smiling warmly) and Rohan (kind smile) stand up to leave, looking pleased. Priya walks them to the door.",
+   "speaker": "Mrs. Sharma",
+   "line": "We had a wonderful time, beta. Thank you.",
+   "fx": "none",
+   "say": "वी हैड अ वंडरफुल टाइम, बेटा। थैंक यू।"
+  },
+  {
+   "image": "Rohan gives Priya a reassuring smile and a subtle nod, indicating things went well.",
+   "speaker": "Rohan",
+   "line": "I'll call you soon, Priya.",
+   "fx": "none",
+   "say": "आई विल कॉल यू सून, प्रिया।"
+  },
+  {
+   "image": "Priya waves goodbye, a huge smile on her face. Her parrot saved her Rishta in the most unexpected way.",
+   "speaker": "Priya",
+   "line": "Goodbye! Take care!",
+   "fx": "none",
+   "say": "गुडबाय! टेक केयर!"
+  },
+  {
+   "image": "Priya walks back into the living room, looking at Mithu (perched innocently) with pure adoration.",
+   "speaker": "Priya",
+   "line": "Mithu, you are a menace and a miracle!",
+   "fx": "none",
+   "say": "मिथु, यू आर अ मेनेस एंड अ मिरेकल!"
+  },
+  {
+   "image": "Mithu puffs out his chest proudly, then chirps a funny sound.",
+   "speaker": "Mithu",
+   "line": "Menace and a miracle!",
+   "fx": "none",
+   "say": "मेनेस एंड अ मिरेकल!"
+  },
+  {
+   "image": "Priya laughs, shaking her head. She knew her life would never be boring with Mithu around.",
+   "speaker": "narrator",
+   "line": "Sometimes, the biggest troubles hide the biggest blessings.",
+   "fx": "none",
+   "say": "समटाइम्स, द बिगेस्ट ट्रबल्स हाइड द बिगेस्ट ब्लेसिंग्ज़।"
+  },
+  {
+   "image": "Close-up on Priya, holding Mithu gently. She looks at the camera, a knowing smile.",
+   "speaker": "Priya",
+   "line": "My Rishta was almost doomed, but my parrot saved it!",
+   "fx": "none",
+   "say": "माय रिश्ता वॉज़ ऑलमोस्ट डूमड, बट माय पैरट सेव्ड इट!"
+  },
+  {
+   "image": "Priya (smiling warmly) cuddles Mithu (looking content). They are a perfect, if chaotic, team.",
+   "speaker": "narrator",
+   "line": "Priya's future was now looking bright and full of laughter.",
+   "fx": "none",
+   "say": "प्रियाज़ फ्यूचर वॉज़ नाउ लुकिंग ब्राइट एंड फुल ऑफ़ लाफ्टर।"
+  },
+  {
+   "image": "Mithu (perched on Priya's shoulder) looks directly at the camera, a cheeky expression.",
+   "speaker": "Mithu",
+   "line": "Aur aap? Kya aapka pet bhi aise bolta hai?",
+   "fx": "none",
+   "say": "और आप? क्या आपका पेट भी ऐसे बोलता है?"
+  },
+  {
+   "image": "Priya (a playful look) points to Mithu, then to the viewer, smiling.",
+   "speaker": "Priya",
+   "line": "Would you trust your parrot with your big day?",
+   "fx": "none",
+   "say": "वुड यू ट्रस्ट योर पैरट विथ योर बिग डे?"
+  }
+ ],
+ "caption": "Her Parrot Exposed Her Secret Thoughts To Her Future In-Laws! 😂",
+ "slug": "2026-11-14_part2",
+ "story_no": 54,
+ "yt_title": "Her Parrot Exposed Her Secret Thoughts To Her Future In-Laws! 😂",
+ "description": "My parrot Mithu almost ruined my life, for real! He kept repeating the wrong things at the worst times. But then, something truly unexpected happened... Would you trust your parrot with your big day?",
+ "comment_question": "Would you trust your parrot with your big day?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiancomedy",
+  "#desicomedy",
+  "#petparrot",
+  "#funnyanimals",
+  "#reelsindia",
+  "#hindicomedy",
+  "#rishta",
+  "#marriagecomedy",
+  "#relatable"
+ ]
+}
