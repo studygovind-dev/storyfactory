@@ -1,0 +1,629 @@
+{
+ "series": "The Unseen Symphony",
+ "episode": 3,
+ "title": "The Unseen Symphony",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Anya, early 30s, fair skin, long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta set. Expressive, often thoughtful or frustrated.",
+   "voice": "hindi_narrator_female"
+  },
+  "Maa": {
+   "look": "Anya's mother. Young (20s) in flashbacks: graceful classical dancer in traditional costume, vibrant. Older (50s-60s) in memories: simple saree, silver hair tied back, kind but weary eyes.",
+   "voice": "hindi_narrator_male"
+  },
+  "Aunty Geeta": {
+   "look": "Elderly woman, 60s, warm, wise, traditional saree, silver hair neatly tied back, often smiling gently.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "MY MOTHER'S SECRET...",
+ "scenes": [
+  {
+   "image": "Close-up of Anya's hand, frustratedly throwing a paint brush onto a canvas, her face in the background, distressed.",
+   "speaker": "narrator",
+   "line": "Yeh canvas bhi aaj mujhse naraz hai, Maa ki tarah.",
+   "fx": "none",
+   "sub": "This canvas is also upset with me today, just like Maa.",
+   "say": "ये कैनवस भी आज मुझसे नाराज़ है, माँ की तरह।"
+  },
+  {
+   "image": "Anya looking around a dusty, empty childhood room, a wistful expression on her face. Sunlight streams through a window.",
+   "speaker": "narrator",
+   "line": "Maa ke jaane ke baad, yeh kamra bohot khaali lagta hai.",
+   "fx": "dust",
+   "sub": "After Maa left, this room feels very empty.",
+   "say": "माँ के जाने के बाद, ये कमरा बहुत खाली लगता है।"
+  },
+  {
+   "image": "Anya, kneeling, pulling a small, old, wooden trunk from under a bed. It's covered in a thin layer of dust.",
+   "speaker": "narrator",
+   "line": "Saalon se band, ek purani peti mili almaari ke neeche.",
+   "fx": "dust",
+   "sub": "Closed for years, an old trunk found under the cupboard.",
+   "say": "सालों से बंद, एक पुरानी पेटी मिली अलमारी के नीचे।"
+  },
+  {
+   "image": "Anya's hands dusting off the trunk, a thoughtful, curious look on her face.",
+   "speaker": "narrator",
+   "line": "I remembered Maa telling me, 'Isko kabhi mat kholna.'",
+   "fx": "none",
+   "sub": "I remembered Maa telling me, 'Never open this.'",
+   "say": "आई रिमेंबर्ड माँ टेलिंग मी, 'इसको कभी मत खोलना।'"
+  },
+  {
+   "image": "Close-up of the trunk's rusty latch. Anya's fingers hesitate, then unlatch it.",
+   "speaker": "narrator",
+   "line": "Lekin aaj main ruk nahi paayi. Curiosity thi, ya kuch aur?",
+   "fx": "none",
+   "sub": "But today I couldn't stop. Was it curiosity, or something else?",
+   "say": "लेकिन आज मैं रुक नहीं पाई। क्यूरिओसिटी थी, या कुछ और?"
+  },
+  {
+   "image": "Inside the trunk: bundles of old letters, a few yellowed photographs, and a small, ornate wooden box.",
+   "speaker": "narrator",
+   "line": "Andar kuch purani chitthi, tasveerein, aur ek chhota box.",
+   "fx": "none",
+   "sub": "Inside, some old letters, pictures, and a small box.",
+   "say": "अंदर कुछ पुरानी चिट्ठी, तस्वीरें, और एक छोटा बॉक्स।"
+  },
+  {
+   "image": "Anya picking up a faded, sepia-toned photograph from the trunk, looking at it intently.",
+   "speaker": "narrator",
+   "line": "Pehli tasveer uthaayi. Aur main shock ho gayi.",
+   "fx": "none",
+   "sub": "I picked up the first picture. And I was shocked.",
+   "say": "पहली तस्वीर उठाई। और मैं शॉक हो गई।"
+  },
+  {
+   "image": "Close-up of the photograph: a young Maa, radiant, mid-performance in a classical Indian dance pose, on a stage.",
+   "speaker": "narrator",
+   "line": "Yeh Maa hain? Itni alag, itni khubsoorat! Ek dancer!",
+   "fx": "none",
+   "sub": "Is this Maa? So different, so beautiful! A dancer!",
+   "say": "ये माँ हैं? इतनी अलग, इतनी खूबसूरत! एक डांसर!"
+  },
+  {
+   "image": "Anya's face, wide-eyed with disbelief and wonder, holding the photo up.",
+   "speaker": "narrator",
+   "line": "Meri Maa? Jinhone hamesha art ko 'time-pass' kaha?",
+   "fx": "none",
+   "sub": "My Maa? Who always called art 'time-pass'?",
+   "say": "मेरी माँ? जिन्होंने हमेशा आर्ट को 'टाइम-पास' कहा?"
+  },
+  {
+   "image": "Anya digging deeper, finding more photos: Maa receiving awards, surrounded by other dancers.",
+   "speaker": "narrator",
+   "line": "Aur bhi tasveerein mili. Awards, certificate, sabhi dance ke.",
+   "fx": "none",
+   "sub": "Found more pictures. Awards, certificates, all for dance.",
+   "say": "और भी तस्वीरें मिलीं। अवार्ड्स, सर्टिफिकेट, सभी डांस के।"
+  },
+  {
+   "image": "Anya's hand tracing the signature on an old dance certificate, her expression a mix of confusion and awe.",
+   "speaker": "narrator",
+   "line": "Unka naam tha, 'Anjali Sharma'. Wahi Anjali Sharma.",
+   "fx": "none",
+   "sub": "Her name was, 'Anjali Sharma'. The same Anjali Sharma.",
+   "say": "उनका नाम था, 'अंजलि शर्मा'। वही अंजलि शर्मा।"
+  },
+  {
+   "image": "Flashback: A young Maa (Anjali) gracefully practicing a dance step in a simple room, her eyes full of passion.",
+   "speaker": "narrator",
+   "line": "Maa ne kabhi bataya hi nahi apni life ke baare mein.",
+   "fx": "none",
+   "sub": "Maa never told me about her life.",
+   "say": "माँ ने कभी बताया ही नहीं अपनी लाइफ के बारे में।"
+  },
+  {
+   "image": "Anya picking up the small, ornate wooden box. It looks old and cherished.",
+   "speaker": "narrator",
+   "line": "Phir maine woh chhota, lakdi ka box uthaya.",
+   "fx": "none",
+   "sub": "Then I picked up that small, wooden box.",
+   "say": "फिर मैंने वो छोटा, लकड़ी का बॉक्स उठाया।"
+  },
+  {
+   "image": "Close-up of the box. It has a tiny, intricate lock. Anya examines it, searching for a key.",
+   "speaker": "narrator",
+   "line": "Usme ek chhota taala laga tha, jiska pata nahi tha.",
+   "fx": "none",
+   "sub": "It had a small lock, whose key I didn't know.",
+   "say": "उसमें एक छोटा ताला लगा था, जिसका पता नहीं था।"
+  },
+  {
+   "image": "Anya's eyes scan the trunk's contents again, then spot a tiny, rusty key hidden under a loose lining.",
+   "speaker": "narrator",
+   "line": "Lekin ek chabhi mili, purani kapde ke neeche chhupi hui.",
+   "fx": "none",
+   "sub": "But I found a key, hidden under an old cloth.",
+   "say": "लेकिन एक चाबी मिली, पुराने कपड़े के नीचे छुपी हुई।"
+  },
+  {
+   "image": "Anya's trembling hand carefully inserting the key into the lock. Her expression is a mix of apprehension and hope.",
+   "speaker": "narrator",
+   "line": "Dhadakte dil se maine taala khola. Kya hoga andar?",
+   "fx": "none",
+   "sub": "With a pounding heart, I opened the lock. What would be inside?",
+   "say": "धड़कते दिल से मैंने ताला खोला। क्या होगा अंदर?"
+  },
+  {
+   "image": "Inside the box: a worn, leather-bound diary and a single, delicate ghungroo (ankle bell) set.",
+   "speaker": "narrator",
+   "line": "Ek purani diary aur ek jodi ghungroo mili usmein.",
+   "fx": "none",
+   "sub": "An old diary and a pair of ghungroo found inside.",
+   "say": "एक पुरानी डायरी और एक जोड़ी घुंघरू मिली उसमें।"
+  },
+  {
+   "image": "Close-up of Anya's hand gently touching the ghungroo, a poignant look on her face.",
+   "speaker": "narrator",
+   "line": "Wahi ghungroo jo Maa ne apni jawani mein pehne honge.",
+   "fx": "none",
+   "sub": "The same ghungroo Maa must have worn in her youth.",
+   "say": "वही घुंघरू जो माँ ने अपनी जवानी में पहने होंगे।"
+  },
+  {
+   "image": "Anya opening the diary to a random page. Her eyes are wide, reading the faded ink.",
+   "speaker": "narrator",
+   "line": "Diary kholi. Pehle page par hi ek line ne mujhe hila diya.",
+   "fx": "none",
+   "sub": "I opened the diary. One line on the first page shook me.",
+   "say": "डायरी खोली। पहले पेज पर ही एक लाइन ने मुझे हिला दिया।"
+  },
+  {
+   "image": "Close-up of a diary page, showing Maa's elegant handwriting. A specific line highlighted: 'My dreams will live through my little artist.'",
+   "speaker": "Maa",
+   "line": "Mere sapne meri choti artist ke zariye zinda rahenge.",
+   "fx": "none",
+   "sub": "My dreams will live through my little artist.",
+   "say": "मेरे सपने मेरी छोटी आर्टिस्ट के ज़रिए ज़िंदा रहेंगे।"
+  },
+  {
+   "image": "Anya's face, tears welling up in her eyes, clutching the diary to her chest, overwhelmed.",
+   "speaker": "narrator",
+   "line": "Meri aankhon mein aansu aa gaye. Yeh Maa ki awaaz thi.",
+   "fx": "none",
+   "sub": "Tears came to my eyes. This was Maa's voice.",
+   "say": "मेरी आँखों में आँसू आ गए। ये माँ की आवाज़ थी।"
+  },
+  {
+   "image": "Anya walking through a bustling market, lost in thought, the diary clutched tightly. She looks confused and guilty.",
+   "speaker": "narrator",
+   "line": "Mujhe kuch samajh nahi aa raha tha. Kya chhupa rahi thi Maa?",
+   "fx": "none",
+   "sub": "I couldn't understand anything. What was Maa hiding?",
+   "say": "मुझे कुछ समझ नहीं आ रहा था। क्या छुपा रही थी माँ?"
+  },
+  {
+   "image": "Anya approaching Aunty Geeta's house, a worried expression on her face. The door is slightly ajar.",
+   "speaker": "narrator",
+   "line": "Main seedhe Aunty Geeta ke ghar gayi, unse poochhne.",
+   "fx": "none",
+   "sub": "I went straight to Aunty Geeta's house, to ask her.",
+   "say": "मैं सीधे आँटी गीता के घर गई, उनसे पूछने।"
+  },
+  {
+   "image": "Anya sitting across from Aunty Geeta in her living room, holding the diary and photos. Aunty Geeta looks at them with a sad, knowing smile.",
+   "speaker": "narrator",
+   "line": "Maine Aunty ko Maa ki tasveerein aur diary dikhaayi.",
+   "fx": "none",
+   "sub": "I showed Aunty Maa's pictures and diary.",
+   "say": "मैंने आँटी को माँ की तस्वीरें और डायरी दिखाई।"
+  },
+  {
+   "image": "Close-up of Aunty Geeta's hand gently caressing one of Maa's dance photos, a tear in her eye.",
+   "speaker": "Aunty Geeta",
+   "line": "Anjali... woh toh ek sitara thi. Badi dancer banti.",
+   "fx": "none",
+   "sub": "Anjali... she was a star. Would have been a great dancer.",
+   "say": "अंजलि... वो तो एक सितारा थी। बड़ी डांसर बनती।"
+  },
+  {
+   "image": "Anya's face, listening intently, eyes wide with a mix of sorrow and dawning realization.",
+   "speaker": "narrator",
+   "line": "Phir Aunty ne woh sach bataya jo mujhe tod gaya.",
+   "fx": "none",
+   "sub": "Then Aunty told me the truth that broke me.",
+   "say": "फिर आँटी ने वो सच बताया जो मुझे तोड़ गया।"
+  },
+  {
+   "image": "Flashback: A worried young Maa (Anjali) talking to Anya's father, who looks pale and ill in bed.",
+   "speaker": "Aunty Geeta",
+   "line": "Tere Papa ki tabiyat achanak kharab ho gayi thi.",
+   "fx": "none",
+   "sub": "Your Papa's health suddenly deteriorated.",
+   "say": "तेरे पापा की तबियत अचानक खराब हो गई थी।"
+  },
+  {
+   "image": "Flashback: A doctor explaining something grim to Maa (Anjali), who looks devastated.",
+   "speaker": "Aunty Geeta",
+   "line": "Badi surgery chahiye thi, bohot saare paise lagne the.",
+   "fx": "none",
+   "sub": "A big surgery was needed, a lot of money was required.",
+   "say": "बड़ी सर्जरी चाहिए थी, बहुत सारे पैसे लगने थे।"
+  },
+  {
+   "image": "Flashback: Maa (Anjali) looking at a young Anya (5-6 years old) happily sketching in a notebook, a conflicted expression on her face.",
+   "speaker": "Aunty Geeta",
+   "line": "Ussi waqt, tu apni art classes shuru kar rahi thi.",
+   "fx": "none",
+   "sub": "At that very moment, you were starting your art classes.",
+   "say": "उसी वक़्त, तू अपनी आर्ट क्लासेस शुरू कर रही थी।"
+  },
+  {
+   "image": "Flashback: Maa (Anjali) looking at her ghungroo, then at a photo of young Anya. A heavy decision weighing on her.",
+   "speaker": "Aunty Geeta",
+   "line": "Uski career ki savings, uske sapne... sab kuch.",
+   "fx": "none",
+   "sub": "Her career savings, her dreams... everything.",
+   "say": "उसकी करियर की सेविंग्स, उसके सपने... सब कुछ।"
+  },
+  {
+   "image": "Flashback: Maa (Anjali) selling her precious, intricate ghungroo and jewelry to a jeweler, a tear silently falling down her cheek.",
+   "speaker": "Aunty Geeta",
+   "line": "Usne sab bech diya, taaki tere Papa theek ho jaayein.",
+   "fx": "none",
+   "sub": "She sold everything, so your Papa could get well.",
+   "say": "उसने सब बेच दिया, ताकि तेरे पापा ठीक हो जाएँ।"
+  },
+  {
+   "image": "Flashback: Maa (Anjali) handing money to Anya's young art teacher, a faint smile, while young Anya plays happily nearby.",
+   "speaker": "Aunty Geeta",
+   "line": "Aur teri art classes ke fees bhi wohi deti rahi chupchaap.",
+   "fx": "none",
+   "sub": "And she quietly kept paying your art class fees.",
+   "say": "और तेरी आर्ट क्लासेस के फीस भी वही देती रही चुपचाप।"
+  },
+  {
+   "image": "Close-up of Anya's face, a single tear rolling down her cheek as she processes the revelation. Her mouth slightly open in shock.",
+   "speaker": "narrator",
+   "line": "Meri Maa ne apna sab kuch kurbaan kar diya mere liye.",
+   "fx": "none",
+   "sub": "My Maa sacrificed everything for me.",
+   "say": "मेरी माँ ने अपना सब कुछ कुर्बान कर दिया मेरे लिए।"
+  },
+  {
+   "image": "Anya remembering past arguments: Maa (older, weary) telling a younger Anya (teenage) to 'be practical', while Anya looks annoyed.",
+   "speaker": "Maa",
+   "line": "Beta, art mein future kahaan? Kuch practical karo.",
+   "fx": "none",
+   "sub": "Child, where is the future in art? Do something practical.",
+   "say": "बेटा, आर्ट में फ्यूचर कहाँ? कुछ प्रैक्टिकल करो।"
+  },
+  {
+   "image": "Anya, looking down with immense guilt, recalling her own dismissive replies to her mother.",
+   "speaker": "narrator",
+   "line": "Aur main sochti rahi woh mujhe support nahi karti.",
+   "fx": "none",
+   "sub": "And I kept thinking she doesn't support me.",
+   "say": "और मैं सोचती रही वो मुझे सपोर्ट नहीं करती।"
+  },
+  {
+   "image": "Aunty Geeta placing a comforting hand on Anya's shoulder, a gentle, understanding smile.",
+   "speaker": "Aunty Geeta",
+   "line": "Usse pata tha artist ki zindagi kitni mushkil hoti hai.",
+   "fx": "none",
+   "sub": "She knew how difficult an artist's life is.",
+   "say": "उसे पता था आर्टिस्ट की ज़िंदगी कितनी मुश्किल होती है।"
+  },
+  {
+   "image": "Aunty Geeta, teary-eyed, looking at the ghungroo.",
+   "speaker": "Aunty Geeta",
+   "line": "Isliye woh tumhe sambhalna chahti thi, apni experience se.",
+   "fx": "none",
+   "sub": "That's why she wanted to protect you, with her experience.",
+   "say": "इसलिए वो तुम्हें संभालना चाहती थी, अपनी एक्सपीरियंस से।"
+  },
+  {
+   "image": "Anya sitting alone in her room, holding the ghungroo, her face reflecting deep remorse and love.",
+   "speaker": "narrator",
+   "line": "Maa ki har 'na' mein, unka 'haan' chupa tha mere liye.",
+   "fx": "none",
+   "sub": "In every 'no' of Maa, her 'yes' was hidden for me.",
+   "say": "माँ की हर 'ना' में, उनका 'हाँ' छुपा था मेरे लिए।"
+  },
+  {
+   "image": "Anya looking at her own art supplies, now with a new understanding and respect.",
+   "speaker": "narrator",
+   "line": "Meri art, ab sirf meri nahi, Maa ka sapna bhi thi.",
+   "fx": "none",
+   "sub": "My art, now not just mine, but Maa's dream too.",
+   "say": "मेरी आर्ट, अब सिर्फ मेरी नहीं, माँ का सपना भी थी।"
+  },
+  {
+   "image": "Anya painting with renewed passion and determination, a focused, tearful smile on her face.",
+   "speaker": "narrator",
+   "line": "Main unke sapne ko apne rangon mein zinda rakhungi.",
+   "fx": "none",
+   "sub": "I will keep her dream alive in my colors.",
+   "say": "मैं उनके सपने को अपने रंगों में ज़िंदा रखूँगी।"
+  },
+  {
+   "image": "A close-up of Anya's artwork: a beautiful, vibrant painting of a classical Indian dancer.",
+   "speaker": "narrator",
+   "line": "Har stroke mein Maa ki mehnat aur pyaar dikhega.",
+   "fx": "none",
+   "sub": "In every stroke, Maa's hard work and love will be visible.",
+   "say": "हर स्ट्रोक में माँ की मेहनत और प्यार दिखेगा।"
+  },
+  {
+   "image": "Anya lighting a diya (oil lamp) in front of a small framed photo of her Maa (older, smiling serenely).",
+   "speaker": "narrator",
+   "line": "Aaj main samajh gayi Maa ka asli meaning.",
+   "fx": "none",
+   "sub": "Today I understood Maa's true meaning.",
+   "say": "आज मैं समझ गई माँ का असली मीनिंग।"
+  },
+  {
+   "image": "Anya, looking up, a serene and grateful expression on her face, the diya's flame flickering in the foreground.",
+   "speaker": "narrator",
+   "line": "Unka sacrifice, unka pyaar, meri inspiration hai.",
+   "fx": "none",
+   "sub": "Her sacrifice, her love, is my inspiration.",
+   "say": "उनका सैक्रिफाइस, उनका प्यार, मेरी इंस्पिरेशन है।"
+  },
+  {
+   "image": "Anya gently placing the ghungroo next to Maa's photo, a gesture of reverence.",
+   "speaker": "narrator",
+   "line": "Yeh ghungroo ab mere dil mein bajte rahenge hamesha.",
+   "fx": "none",
+   "sub": "These ghungroo will now ring in my heart forever.",
+   "say": "ये घुंघरू अब मेरे दिल में बजते रहेंगे हमेशा।"
+  },
+  {
+   "image": "Anya finishing a painting, a satisfied and emotional look, her eyes shining.",
+   "speaker": "narrator",
+   "line": "Meri Maa, meri sabse badi artist, meri pehli guru.",
+   "fx": "none",
+   "sub": "My Maa, my biggest artist, my first guru.",
+   "say": "मेरी माँ, मेरी सबसे बड़ी आर्टिस्ट, मेरी पहली गुरु।"
+  },
+  {
+   "image": "Anya hugging Aunty Geeta warmly, both with tearful smiles, a sense of shared understanding.",
+   "speaker": "narrator",
+   "line": "Aunty, thank you for showing me Maa ka sach.",
+   "fx": "none",
+   "sub": "Aunty, thank you for showing me Maa's truth.",
+   "say": "आँटी, थैंक यू फॉर शोइंग मी माँ का सच।"
+  },
+  {
+   "image": "Anya walking into an art gallery, confidently displaying her artwork, including the one inspired by her mother.",
+   "speaker": "narrator",
+   "line": "Aaj meri art exhibition mein, Maa bhi mere saath hai.",
+   "fx": "none",
+   "sub": "Today at my art exhibition, Maa is also with me.",
+   "say": "आज मेरी आर्ट एग्ज़िबिशन में, माँ भी मेरे साथ है।"
+  },
+  {
+   "image": "Close-up of a visitor admiring Anya's painting of the classical dancer, a look of appreciation on their face.",
+   "speaker": "narrator",
+   "line": "Har koi unki kahani ko mere kaam mein dekh raha hai.",
+   "fx": "none",
+   "sub": "Everyone is seeing her story in my work.",
+   "say": "हर कोई उनकी कहानी को मेरे काम में देख रहा है।"
+  },
+  {
+   "image": "Anya standing proudly next to her art, a peaceful and determined smile, looking toward the future.",
+   "speaker": "narrator",
+   "line": "Maine Maa ke sapne ko ek naya roop de diya hai.",
+   "fx": "none",
+   "sub": "I have given Maa's dream a new form.",
+   "say": "मैंने माँ के सपने को एक नया रूप दे दिया है।"
+  },
+  {
+   "image": "Anya looks directly at the camera, a thoughtful expression, holding the ghungroo.",
+   "speaker": "narrator",
+   "line": "Kya aapke parents ne bhi aapke liye sacrifice kiya hai?",
+   "fx": "none",
+   "sub": "Have your parents also sacrificed for you?",
+   "say": "क्या आपके पेरेंट्स ने भी आपके लिए सैक्रिफाइस किया है?"
+  },
+  {
+   "image": "Close-up of Anya's hands, gently holding the ghungroo, bathed in soft, warm light, a symbol of her mother's unseen symphony.",
+   "speaker": "narrator",
+   "line": "Sometimes, true love hides in unseen sacrifices, right?",
+   "fx": "dust",
+   "sub": "Sometimes, true love hides in unseen sacrifices, right?",
+   "say": "समटाइम्स, ट्रू लव हाइड्स इन अनसीन सैक्रिफाइसेस, राइट?"
+  },
+  {
+   "image": "Anya, now older, in her 40s, a successful artist. She's teaching young art students, inspired by her mother's legacy. She wears a similar pastel kurta.",
+   "speaker": "narrator",
+   "line": "Meri Maa ne mujhe sirf life nahi, zindagi jeena sikhaya.",
+   "fx": "none",
+   "sub": "My Maa not only gave me life, but taught me how to live it.",
+   "say": "मेरी माँ ने मुझे सिर्फ लाइफ नहीं, ज़िंदगी जीना सिखाया।"
+  },
+  {
+   "image": "Anya showing a young student how to mix colors, her face full of warmth and patience, reminiscent of her mother.",
+   "speaker": "narrator",
+   "line": "Har Maa ka pyaar ek unseen symphony hota hai.",
+   "fx": "none",
+   "sub": "Every mother's love is an unseen symphony.",
+   "say": "हर माँ का प्यार एक अनसीन सिंफनी होता है।"
+  },
+  {
+   "image": "Anya, looking at her old portrait of her mother, a peaceful, understanding smile.",
+   "speaker": "narrator",
+   "line": "Maine uss symphony ko ab finally sun liya hai.",
+   "fx": "none",
+   "sub": "I have finally heard that symphony.",
+   "say": "मैंने उस सिंफनी को अब फाइनली सुन लिया है।"
+  },
+  {
+   "image": "Anya, closing her eyes, a deep sense of peace and connection. The light is soft and warm.",
+   "speaker": "narrator",
+   "line": "Aur ab main usse duniya ko sunaungi apne art se.",
+   "fx": "none",
+   "sub": "And now I will make the world hear it through my art.",
+   "say": "और अब मैं उसे दुनिया को सुनाऊँगी अपने आर्ट से।"
+  },
+  {
+   "image": "A close-up of Anya's hand gently holding a single, vibrant paint brush, symbolizing her connection to her mother's dream.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi sachai ki gehrayi samay leti hai, right?",
+   "fx": "none",
+   "sub": "Sometimes, the depth of truth takes time, right?",
+   "say": "कभी कभी सचाई की गहराई समय लेती है, राइट?"
+  },
+  {
+   "image": "Anya standing before a grand portrait of her mother as a young dancer, now displayed prominently in her studio.",
+   "speaker": "narrator",
+   "line": "Meri Maa ne mujhe art di. Main unhein amar karungi.",
+   "fx": "none",
+   "sub": "My Maa gave me art. I will make her immortal.",
+   "say": "मेरी माँ ने मुझे आर्ट दी। मैं उन्हें अमर करूँगी।"
+  },
+  {
+   "image": "Close-up of Anya's artwork, a detail of the dancer's expressive eyes, full of passion.",
+   "speaker": "narrator",
+   "line": "Yeh mera unke liye, sabse bada tribute hai.",
+   "fx": "none",
+   "sub": "This is my biggest tribute to her.",
+   "say": "यह मेरा उनके लिए, सबसे बड़ा ट्रिब्यूट है।"
+  },
+  {
+   "image": "Anya, with a serene smile, looking out a window at a sunrise, symbolizing new beginnings and hope.",
+   "speaker": "narrator",
+   "line": "Unki story ab meri story ka sabse gehra rang hai.",
+   "fx": "none",
+   "sub": "Her story is now the deepest color of my story.",
+   "say": "उनकी स्टोरी अब मेरी स्टोरी का सबसे गहरा रंग है।"
+  },
+  {
+   "image": "Anya closing the old trunk, but with a peaceful, knowing smile. It's no longer a secret, but a cherished memory.",
+   "speaker": "narrator",
+   "line": "Woh peti ab secrets nahi, memories rakhti hai.",
+   "fx": "none",
+   "sub": "That trunk now holds memories, not secrets.",
+   "say": "वो पेटी अब सीक्रेट्स नहीं, मेमोरीज रखती है।"
+  },
+  {
+   "image": "Anya looking at her own reflection in a mirror, seeing her mother's strength and passion in her own eyes.",
+   "speaker": "narrator",
+   "line": "Unki aankhon mein mera future tha, aur mera present.",
+   "fx": "none",
+   "sub": "In her eyes was my future, and my present.",
+   "say": "उनकी आँखों में मेरा फ्यूचर था, और मेरा प्रेजेंट।"
+  },
+  {
+   "image": "Anya sketching in her notebook, inspired, a focused and content expression.",
+   "speaker": "narrator",
+   "line": "Ab har sketch mein Maa ki awaaz sunai deti hai.",
+   "fx": "none",
+   "sub": "Now in every sketch, Maa's voice is heard.",
+   "say": "अब हर स्केच में माँ की आवाज़ सुनाई देती है।"
+  },
+  {
+   "image": "Anya picking up a single ghungroo, holding it gently, a soft smile on her face.",
+   "speaker": "narrator",
+   "line": "Yeh ghungroo sirf payal nahi, Maa ka dil hai.",
+   "fx": "none",
+   "sub": "This ghungroo is not just an anklet, it's Maa's heart.",
+   "say": "ये घुंघरू सिर्फ पायल नहीं, माँ का दिल है।"
+  },
+  {
+   "image": "Anya, standing in front of her studio, sunlight bathing her, a confident and serene artist.",
+   "speaker": "narrator",
+   "line": "Main unki taaqat hoon, unka adhoora sapna poora kar rahi.",
+   "fx": "dust",
+   "sub": "I am her strength, completing her unfinished dream.",
+   "say": "मैं उनकी ताक़त हूँ, उनका अधूरा सपना पूरा कर रही।"
+  },
+  {
+   "image": "Anya looking towards the sky, a slight smile, as if communicating with her mother.",
+   "speaker": "narrator",
+   "line": "Thank you, Maa. For everything. For my unseen symphony.",
+   "fx": "none",
+   "sub": "Thank you, Maa. For everything. For my unseen symphony.",
+   "say": "थैंक यू, माँ। फॉर एव्रीथिंग। फॉर माय अनसीन सिंफनी।"
+  },
+  {
+   "image": "Anya holding a small, delicate paintbrush, looking at it with deep respect and love.",
+   "speaker": "narrator",
+   "line": "Har brushstroke mein ab Maa ki rooh rehti hai.",
+   "fx": "none",
+   "sub": "In every brushstroke, Maa's soul now resides.",
+   "say": "हर ब्रशस्ट्रोक में अब माँ की रूह रहती है।"
+  },
+  {
+   "image": "Anya, in deep thought, looking at her painting of her mother, tears silently falling.",
+   "speaker": "narrator",
+   "line": "Kabhi kabhi toh lagta hai woh abhi bhi saath hai.",
+   "fx": "none",
+   "sub": "Sometimes it feels like she is still with me.",
+   "say": "कभी कभी तो लगता है वो अभी भी साथ है।"
+  },
+  {
+   "image": "Anya looking at her own hands, then at her painting, a realization of the generational connection.",
+   "speaker": "narrator",
+   "line": "Maa ka talent mujhme flow karta hai, unka blessing hai.",
+   "fx": "none",
+   "sub": "Maa's talent flows in me, it's her blessing.",
+   "say": "माँ का टैलेंट मुझमें फ्लो करता है, उनका ब्लेसिंग है।"
+  },
+  {
+   "image": "Anya, watering a small potted plant on her windowsill, representing nurturing and growth, like her mother's love.",
+   "speaker": "narrator",
+   "line": "Unka pyaar ek chhatri tha, jo mujhe dhup se bachata tha.",
+   "fx": "none",
+   "sub": "Her love was an umbrella, protecting me from the sun.",
+   "say": "उनका प्यार एक छतरी था, जो मुझे धूप से बचाता था।"
+  },
+  {
+   "image": "Anya, looking at her old childhood art, then at her current masterpiece, a bridge between two generations.",
+   "speaker": "narrator",
+   "line": "Bachpan se aaj tak, unka haath mere saath tha.",
+   "fx": "none",
+   "sub": "From childhood until today, her hand was with me.",
+   "say": "बचपन से आज तक, उनका हाथ मेरे साथ था।"
+  },
+  {
+   "image": "Anya, looking at a reflection of herself in a mirror, a young Maa (Anjali) briefly superimposed over her image, showing their deep connection.",
+   "speaker": "narrator",
+   "line": "Main unka aaina hoon, unka reflection.",
+   "fx": "none",
+   "sub": "I am her mirror, her reflection.",
+   "say": "मैं उनका आइना हूँ, उनका रिफ्लेक्शन।"
+  },
+  {
+   "image": "Anya drawing a deep breath, a sense of peace settling over her, surrounded by her art.",
+   "speaker": "narrator",
+   "line": "Dil mein ab koi shikayat nahi, bas shukriya hai Maa.",
+   "fx": "none",
+   "sub": "No complaints in my heart now, just gratitude, Maa.",
+   "say": "दिल में अब कोई शिकायत नहीं, बस शुक्रिया है माँ।"
+  },
+  {
+   "image": "Anya, smiling, holding her finished painting of her mother, looking directly into the camera.",
+   "speaker": "narrator",
+   "line": "Aapka kya hidden sacrifice hai, jo aapne jaana?",
+   "fx": "none",
+   "sub": "What is your hidden sacrifice, that you discovered?",
+   "say": "आपका क्या हिडन सैक्रिफाइस है, जो आपने जाना?"
+  }
+ ],
+ "caption": "My Mother's Secret: A Hidden Sacrifice Revealed Years Later 💔",
+ "slug": "2026-11-15_part3",
+ "story_no": 58,
+ "yt_title": "My Mother's Secret: A Hidden Sacrifice Revealed Years Later 💔",
+ "description": "My mother always pushed me towards a 'stable' life, never understanding my art. But after she passed, I found a hidden box that completely changed my world. Would you have understood your mother's sacrifice sooner?",
+ "comment_question": "Would you have understood your mother's sacrifice sooner?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#motherslove",
+  "#hiddensacrifice",
+  "#indianstory",
+  "#familysecrets",
+  "#hearttouching",
+  "#twistending",
+  "#lifelessons",
+  "#parentalsacrifice",
+  "#india"
+ ]
+}

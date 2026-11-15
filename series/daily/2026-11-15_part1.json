@@ -1,0 +1,605 @@
+{
+ "series": "A Mother's Desperate Trust",
+ "episode": 1,
+ "title": "A Mother's Desperate Trust",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Anya is a kind young woman in her mid-20s. She has fair, light wheatish skin, bright eyes, and long, soft wavy dark-brown hair that falls to her waist. She wears a simple, elegant pastel blue cotton kurta with delicate embroidery, and small silver jhumkas. Her expression is always warm and gentle.",
+   "voice": "hindi_female_young"
+  },
+  "Luna": {
+   "look": "Luna is a sleek, black stray cat with striking green eyes. She has a slight tear in her left ear, a mark from a past struggle. Initially wary, her expressions shift from fear to desperate trust.",
+   "voice": "hindi_narrator_male"
+  },
+  "Kittens": {
+   "look": "Tiny, fluffy kittens of various colors (ginger, tabby, black-and-white), with wide, curious eyes.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "A MOTHER'S DESPERATE GIFT",
+ "scenes": [
+  {
+   "image": "[[narrator]] Anya looks surprised and curious, kneeling by her front door, gently reaching towards a tiny ginger kitten curled on her mat. Her face shows initial confusion.",
+   "speaker": "narrator",
+   "line": "Mere darwaze par roz ek anokha tohfa aata tha.",
+   "fx": "none",
+   "sub": "My doorstep received a unique gift, day after day.",
+   "say": "मेरे दरवाज़े पर रोज़ एक अनोखा तोहफ़ा आता था।"
+  },
+  {
+   "image": "[[narrator]] Anya is in her backyard, gently placing a small bowl of cat food near some bushes. [[Luna]], a sleek black cat, watches from a distance, wary.",
+   "speaker": "narrator",
+   "line": "Main hamesha apne lane ki stray cats ko khana deti thi.",
+   "fx": "none",
+   "sub": "I always fed the stray cats in our lane.",
+   "say": "मैं हमेशा अपने लेन की स्ट्रे कैट्स को खाना देती थी।"
+  },
+  {
+   "image": "Close-up of [[Luna]] quickly eating from the bowl, her head up, darting glances at [[narrator]] Anya who is standing a few feet away, smiling softly.",
+   "speaker": "narrator",
+   "line": "Khaas kar Luna ko, ek khoobsurat kali billi.",
+   "fx": "none",
+   "sub": "Especially Luna, a beautiful black cat.",
+   "say": "ख़ास कर लूना को, एक ख़ूबसूरत काली बिल्ली।"
+  },
+  {
+   "image": "[[narrator]] Anya, with a gentle, slightly sad smile, watches as [[Luna]] quickly disappears into the dense bushes at the edge of the garden.",
+   "speaker": "narrator",
+   "line": "Woh hamesha itni timid thi, kabhi paas nahi aati thi.",
+   "fx": "none",
+   "sub": "She was always so timid, never letting me get close.",
+   "say": "वो हमेशा इतनी टिमिट थी, कभी पास नहीं आती थी।"
+  },
+  {
+   "image": "Close-up of [[narrator]] Anya's worried face, looking out an open window into a quiet, empty garden.",
+   "speaker": "narrator",
+   "line": "Phir, ek din, Luna gayab ho gayi.",
+   "fx": "none",
+   "sub": "Then, one day, Luna just vanished.",
+   "say": "फिर, एक दिन, लूना ग़ायब हो गई।"
+  },
+  {
+   "image": "[[narrator]] Anya stands in her backyard, calling softly, her gaze searching the usual spots where Luna would appear.",
+   "speaker": "narrator",
+   "line": "Maine uska naam pukara, dinon tak wait kiya, par woh nahi aayi.",
+   "fx": "none",
+   "sub": "I called her name, waited for days, but she didn't return.",
+   "say": "मैंने उसका नाम पुकारा, दिनों तक वेट किया, पर वो नहीं आई।"
+  },
+  {
+   "image": "[[narrator]] Anya's hand gently stroking an empty, small cat bed placed on a garden chair, a look of longing on her face.",
+   "speaker": "narrator",
+   "line": "Mujhe apne garden mein uski quiet presence ki kami mehsoos hui.",
+   "fx": "none",
+   "sub": "I missed her quiet presence in my garden.",
+   "say": "मुझे अपने गार्डन में उसकी क्वाइट प्रेज़ेंस की कमी महसूस हुई।"
+  },
+  {
+   "image": "[[narrator]] Anya watering plants in her garden, looking a bit lonely, her thoughts seemingly far away.",
+   "speaker": "narrator",
+   "line": "Life chalti rahi, par kuch adhura sa laga.",
+   "fx": "none",
+   "sub": "Life went on, but a small piece felt missing.",
+   "say": "लाइफ़ चलती रही, पर कुछ अधूरा सा लगा।"
+  },
+  {
+   "image": "A beautiful sunrise casting warm light over [[narrator]] Anya's peaceful house, with her front door visible.",
+   "speaker": "narrator",
+   "line": "Ek subah, ek surprising sight ne mera swagat kiya.",
+   "fx": "none",
+   "sub": "One morning, a surprising sight greeted me.",
+   "say": "एक सुबह, एक सरप्राइज़िंग साइट ने मेरा स्वागत किया।"
+  },
+  {
+   "image": "[[narrator]] Anya gasping softly, her eyes wide with curiosity, looking down at her doorstep from an overhead angle.",
+   "speaker": "narrator",
+   "line": "Mere shoe ke paas, ek chota sa bundle pada tha.",
+   "fx": "none",
+   "sub": "Right by my shoe, a tiny bundle lay.",
+   "say": "मेरे शू के पास, एक छोटा सा बंडल पड़ा था।"
+  },
+  {
+   "image": "Close-up of a small, sleeping ginger [[Kittens]] curled up on the doormat, completely oblivious.",
+   "speaker": "narrator",
+   "line": "Yeh ek tiny, helpless kitten tha.",
+   "fx": "none",
+   "sub": "It was a tiny, helpless kitten.",
+   "say": "ये एक टाइनी, हेल्पलेस किटन था।"
+  },
+  {
+   "image": "[[narrator]] Anya carefully picking up the kitten with both hands, a worried and protective expression on her face.",
+   "speaker": "narrator",
+   "line": "Mera dil pighal gaya. Kya ise chhod diya gaya tha?",
+   "fx": "none",
+   "sub": "My heart melted. Was it abandoned?",
+   "say": "मेरा दिल पिघल गया। क्या इसे छोड़ दिया गया था?"
+  },
+  {
+   "image": "Close-up of [[narrator]] Anya gently feeding the kitten milk from a small dropper, her face full of tenderness.",
+   "speaker": "narrator",
+   "line": "Main use andar le aayi, garam doodh aur soft blanket.",
+   "fx": "none",
+   "sub": "I brought it inside, warm milk and soft blanket.",
+   "say": "मैं उसे अंदर ले आई, गरम दूध और सॉफ़्ट ब्लैंकेट।"
+  },
+  {
+   "image": "[[narrator]] Anya looking out the window, holding the kitten close, a thoughtful and slightly confused expression on her face.",
+   "speaker": "narrator",
+   "line": "Main sochti rahi uski mama kahan thi, kya hua hoga.",
+   "fx": "none",
+   "sub": "I wondered where its mama was, what happened.",
+   "say": "मैं सोचती रही उसकी मामा कहाँ थी, क्या हुआ होगा।"
+  },
+  {
+   "image": "The ginger kitten curled up and sleeping soundly in a cozy basket on a blanket, looking content.",
+   "speaker": "narrator",
+   "line": "Uss raat, mere ghar mein ek nayi warmth thi.",
+   "fx": "none",
+   "sub": "That night, I felt a new warmth in my home.",
+   "say": "उस रात, मेरे घर में एक नई वॉर्मथ थी।"
+  },
+  {
+   "image": "Sunrise again, [[narrator]] Anya, dressed in her blue kurta, slowly opening her front door with a hopeful expression.",
+   "speaker": "narrator",
+   "line": "Agli subah, ek aur surprise wait kar raha tha.",
+   "fx": "none",
+   "sub": "The next morning, another surprise awaited.",
+   "say": "अगली सुबह, एक और सरप्राइज़ वेट कर रहा था।"
+  },
+  {
+   "image": "[[narrator]] Anya kneeling by her doorstep, her expression of disbelief as another tiny, black-and-white kitten sits patiently, looking up at her.",
+   "speaker": "narrator",
+   "line": "Ek aur tiny kitten, mat par patiently baitha tha.",
+   "fx": "none",
+   "sub": "Another tiny kitten, waiting patiently on the mat.",
+   "say": "एक और टाइनी किटन, मैट पर पेशेंटली बैठा था।"
+  },
+  {
+   "image": "Close-up of [[narrator]] Anya's face, a look of utter bewilderment and wonder, as she holds the first kitten and gazes at the second.",
+   "speaker": "narrator",
+   "line": "Do kittens? Yeh sirf coincidence nahi tha.",
+   "fx": "none",
+   "sub": "Two kittens? This was more than a coincidence.",
+   "say": "दो किटन्स? ये सिर्फ़ कोइंसिडेंस नहीं था।"
+  },
+  {
+   "image": "[[narrator]] Anya looking around her garden, then her eyes widening slightly as she spots something hidden near the wall.",
+   "speaker": "narrator",
+   "line": "Aur tab maine use dekha, shadows mein chhupi hui.",
+   "fx": "none",
+   "sub": "And then I saw her, hidden in the shadows.",
+   "say": "और तब मैंने उसे देखा, शैडोज़ में छुपी हुई।"
+  },
+  {
+   "image": "[[Luna]]'s striking green eyes peeking from behind a large bush, watching [[narrator]] Anya intently, then slowly turning and disappearing.",
+   "speaker": "narrator",
+   "line": "Luna. Usne mujhe dekha, phir chupchap chali gayi.",
+   "fx": "none",
+   "sub": "Luna. She watched me, then quietly slipped away.",
+   "say": "लूना। उसने मुझे देखा, फिर चुपचाप चली गई।"
+  },
+  {
+   "image": "Close-up of [[narrator]] Anya's face, a sudden realization dawning, her mouth slightly open in surprise.",
+   "speaker": "narrator",
+   "line": "Mujhe samajh aaya. Yeh Luna ke babies the.",
+   "fx": "none",
+   "sub": "It hit me. These were Luna's babies.",
+   "say": "मुझे समझ आया। ये लूना के बेबीज़ थे।"
+  },
+  {
+   "image": "[[narrator]] Anya's face, a mix of shock, awe, and dawning understanding, as she looks between the two kittens.",
+   "speaker": "narrator",
+   "line": "Woh unhe mere paas laa rahi thi, one by one.",
+   "fx": "none",
+   "sub": "She was bringing them to me, one by one.",
+   "say": "वो उन्हें मेरे पास ला रही थी, वन बाय वन।"
+  },
+  {
+   "image": "[[narrator]] Anya sitting on the floor in her living room, smiling softly as the two kittens play playfully around her feet.",
+   "speaker": "narrator",
+   "line": "Mera dil strange emotions se bhar gaya.",
+   "fx": "none",
+   "sub": "My heart swelled with a strange mix of emotions.",
+   "say": "मेरा दिल स्ट्रेंज इमोशंस से भर गया।"
+  },
+  {
+   "image": "[[narrator]] Anya looking towards her doorway with a sense of anticipation, a soft smile on her lips.",
+   "speaker": "narrator",
+   "line": "Aur woh aati rahi. Har kuch din mein, ek aur.",
+   "fx": "none",
+   "sub": "And she kept coming. Every few days, another.",
+   "say": "और वो आती रही। हर कुछ दिन में, एक और।"
+  },
+  {
+   "image": "[[narrator]] Anya bending down, discovering a third, tabby kitten curled up near a potted jasmine plant on her porch.",
+   "speaker": "narrator",
+   "line": "Ek teesra aaya, meri jasmine ke paas curled.",
+   "fx": "none",
+   "sub": "A third one appeared, curled near my jasmine.",
+   "say": "एक तीसरा आया, मेरी जैस्मिन के पास कर्ल्ड।"
+  },
+  {
+   "image": "[[narrator]] Anya carefully gathering all three [[Kittens]] in a soft, cozy basket, her movements tender and protective.",
+   "speaker": "narrator",
+   "line": "Jaldi hi, mera chota ghar tiny purrs se bhar gaya.",
+   "fx": "none",
+   "sub": "Soon, my small home was filled with tiny purrs.",
+   "say": "जल्दी ही, मेरा छोटा घर टाइनी पर्ज़ से भर गया।"
+  },
+  {
+   "image": "[[narrator]] Anya's concerned expression, looking towards the garden entrance, a hint of worry in her eyes.",
+   "speaker": "narrator",
+   "line": "Par Luna kahan thi? Woh unke saath kyun nahi thi?",
+   "fx": "none",
+   "sub": "But where was Luna? Why wasn't she with them?",
+   "say": "पर लूना कहाँ थी? वो उनके साथ क्यूँ नहीं थी?"
+  },
+  {
+   "image": "[[narrator]] Anya in her backyard, calling softly, holding out a plate of food, looking hopefully towards the bushes.",
+   "speaker": "narrator",
+   "line": "Maine khana aur pani rakha, hope kiya woh rukegi.",
+   "fx": "none",
+   "sub": "I left food and water, hoping she'd stay.",
+   "say": "मैंने खाना और पानी रखा, होप किया वो रुकेगी।"
+  },
+  {
+   "image": "[[Luna]]'s silhouette briefly seen at the edge of the garden, looking tired and thinner, before she quickly moves out of sight.",
+   "speaker": "narrator",
+   "line": "Woh aati, jaldi khaati, phir phir gayab ho jaati.",
+   "fx": "none",
+   "sub": "She'd come, eat quickly, then disappear again.",
+   "say": "वो आती, जल्दी खाती, फिर फिर ग़ायब हो जाती।"
+  },
+  {
+   "image": "Close-up of [[narrator]] Anya's hand, placing a small bowl of water near a bush, her movements gentle, hinting at deeper concern.",
+   "speaker": "narrator",
+   "line": "Uski trips dheemi ho rahi thi, uski movements heavy.",
+   "fx": "none",
+   "sub": "Her trips were getting slower, her movements heavy.",
+   "say": "उसकी ट्रिप्स धीमी हो रही थी, उसकी मूवमेंट्स हेवी।"
+  },
+  {
+   "image": "[[narrator]] Anya watching from a distance as [[Luna]] limps slightly while moving away from the food bowl, her struggle visible.",
+   "speaker": "narrator",
+   "line": "Ek din, maine uski halki limp dekhi, ek struggle.",
+   "fx": "none",
+   "sub": "One day, I noticed a slight limp, a struggle.",
+   "say": "एक दिन, मैंने उसकी हल्की लिंप देखी, एक स्ट्रगल।"
+  },
+  {
+   "image": "Close-up of [[narrator]] Anya's worried eyes watching [[Luna]] from behind a partly open door, concern etched on her face.",
+   "speaker": "narrator",
+   "line": "Woh injured thi. Mera dil uske liye dukha.",
+   "fx": "none",
+   "sub": "She was injured. My heart ached for her.",
+   "say": "वो इंजर्ड थी। मेरा दिल उसके लिए दुखा।"
+  },
+  {
+   "image": "[[narrator]] Anya holding a small towel, slowly and cautiously approaching [[Luna]], who is partially visible near a wall.",
+   "speaker": "narrator",
+   "line": "Maine paas jaane ki koshish ki, uski help karne ki.",
+   "fx": "none",
+   "sub": "I tried to get closer, to help her.",
+   "say": "मैंने पास जाने की कोशिश की, उसकी हेल्प करने की।"
+  },
+  {
+   "image": "[[Luna]] flinching dramatically, then darting away quickly into the shadows of the garden, her fear evident.",
+   "speaker": "narrator",
+   "line": "Par uski wild instincts haavi ho gayi, woh bhaag gayi.",
+   "fx": "none",
+   "sub": "But her wild instincts prevailed, she fled.",
+   "say": "पर उसकी वाइल्ड इंस्टिंक्ट्स हावी हो गई, वो भाग गई।"
+  },
+  {
+   "image": "[[narrator]] Anya looking sad, her shoulders slumped slightly, as she retreats from the bushes, realizing her attempt failed.",
+   "speaker": "narrator",
+   "line": "Main uske fear ko samajhti thi, par I worried.",
+   "fx": "none",
+   "sub": "I understood her fear, but I worried.",
+   "say": "मैं उसके फ़ीयर को समझती थी, पर आई वरीड।"
+  },
+  {
+   "image": "[[narrator]] Anya playing gently with the three [[Kittens]] in her living room, but her gaze keeps drifting towards the window, a thoughtful expression.",
+   "speaker": "narrator",
+   "line": "Yeh chote ones ko bhi apni mama ki zaroorat thi.",
+   "fx": "none",
+   "sub": "These little ones needed their mama, too.",
+   "say": "ये छोटे वन्स को भी अपनी मामा की ज़रूरत थी।"
+  },
+  {
+   "image": "[[narrator]] Anya in the evening, sitting by the window, looking out into the dark, quiet garden, a pensive look on her face.",
+   "speaker": "narrator",
+   "line": "Phir aaya chautha kitten, sabse chota wala.",
+   "fx": "none",
+   "sub": "Then came the fourth kitten, the smallest one.",
+   "say": "फिर आया चौथा किटन, सबसे छोटा वाला।"
+  },
+  {
+   "image": "Close-up of the tiny, fragile fourth kitten, looking very weak, barely moving.",
+   "speaker": "narrator",
+   "line": "Itna weak, itna tiny, mushkil se saans le raha tha.",
+   "fx": "none",
+   "sub": "So weak, so tiny, barely breathing.",
+   "say": "इतना वीक, इतना टाइनी, मुश्किल से साँस ले रहा था।"
+  },
+  {
+   "image": "[[narrator]] Anya desperately trying to feed the tiny kitten with a dropper, tears glistening in her eyes, her face full of concern.",
+   "speaker": "narrator",
+   "line": "Maine use bachane ke liye sab kiya, apni poori care di.",
+   "fx": "none",
+   "sub": "I rushed to save it, pouring all my care.",
+   "say": "मैंने उसे बचाने के लिए सब किया, अपनी पूरी केयर दी।"
+  },
+  {
+   "image": "[[narrator]] Anya looking up towards the doorstep from inside, seeing a faint shadow of [[Luna]] collapsing onto the mat, utterly exhausted.",
+   "speaker": "narrator",
+   "line": "Aur woh wahan thi, Luna, mere doorstep par gir gayi.",
+   "fx": "none",
+   "sub": "And there she was, Luna, collapsing on my doorstep.",
+   "say": "और वो वहाँ थी, लूना, मेरे डोरस्टेप पर गिर गई।"
+  },
+  {
+   "image": "Close-up of [[Luna]]'s exhausted, panting face, her green eyes meeting the camera, filled with desperation and a flicker of trust.",
+   "speaker": "narrator",
+   "line": "Uski aankhein meri aankhon se mili, desperation aur trust se bhari.",
+   "fx": "none",
+   "sub": "Her eyes met mine, filled with desperation and trust.",
+   "say": "उसकी आँखें मेरी आँखों से मिली, डेस्पिरेशन और ट्रस्ट से भरी।"
+  },
+  {
+   "image": "[[narrator]] Anya rushing to [[Luna]], tears streaming down her face, her hands gently reaching out to the exhausted cat.",
+   "speaker": "narrator",
+   "line": "Usne apne saare babies laa diye the, phir surrendered.",
+   "fx": "none",
+   "sub": "She had brought all her babies, then surrendered.",
+   "say": "उसने अपने सारे बेबीज़ ला दिए थे, फिर सरेंडर किया।"
+  },
+  {
+   "image": "[[narrator]] Anya gently stroking [[Luna]]'s head, whose body is frail and unmoving, too weak to flinch or run.",
+   "speaker": "narrator",
+   "line": "Uska shareer frail tha, uski spirit dard se tooti hui.",
+   "fx": "none",
+   "sub": "Her body was frail, her spirit broken by pain.",
+   "say": "उसका शरीर फ़्रेजल था, उसकी स्पिरिट दर्द से टूटी हुई।"
+  },
+  {
+   "image": "Close-up of [[Luna]]'s injured leg, a visible deep gash, infected and swollen, clearly showing her pain.",
+   "speaker": "narrator",
+   "line": "Uski taang par ek gehra gash tha, infected aur swollen.",
+   "fx": "none",
+   "sub": "A deep gash on her leg, infected and swollen.",
+   "say": "उसकी टाँग पर एक गहरा गैश था, इंफेक्टेड और स्वॉलन।"
+  },
+  {
+   "image": "[[narrator]] Anya carefully cleaning [[Luna]]'s wound with antiseptic, [[Luna]] whimpering softly but not struggling, her trust evident.",
+   "speaker": "narrator",
+   "line": "Usne apne bachchon ke liye fight kiya tha, unhe yahan laane ke liye.",
+   "fx": "none",
+   "sub": "She had fought for her children, to bring them here.",
+   "say": "उसने अपने बच्चों के लिए फ़ाइट किया था, उन्हें यहाँ लाने के लिए।"
+  },
+  {
+   "image": "[[narrator]] Anya gently lifting [[Luna]] into a soft, warm blanket, her face showing immense compassion and care.",
+   "speaker": "narrator",
+   "line": "Usne mujh par poora trust kiya, finally.",
+   "fx": "none",
+   "sub": "She trusted me completely, finally.",
+   "say": "उसने मुझ पर पूरा ट्रस्ट किया, फ़ाइनली।"
+  },
+  {
+   "image": "[[narrator]] Anya cradling [[Luna]] in her arms, walking slowly and carefully into the house, her expression soft and determined.",
+   "speaker": "narrator",
+   "line": "Mera dil immense love aur gratitude se bhar gaya.",
+   "fx": "none",
+   "sub": "My heart swelled with immense love and gratitude.",
+   "say": "मेरा दिल इमेंस लव और ग्रैटीट्यूड से भर गया।"
+  },
+  {
+   "image": "[[narrator]] Anya gently placing [[Luna]] down on a soft bed, right next to where her four kittens are huddled together.",
+   "speaker": "narrator",
+   "line": "Luna ko uski jagah mil gayi, finally uski family ke saath.",
+   "fx": "none",
+   "sub": "Luna found her place, finally with her family.",
+   "say": "लूना को उसकी जगह मिल गई, फ़ाइनली उसकी फ़ैमिली के साथ।"
+  },
+  {
+   "image": "Close-up of [[Luna]] purring softly, her eyes half-closed in relief, as her tiny kittens nudge against her side.",
+   "speaker": "narrator",
+   "line": "Purrs se room bhar gaya, ek melody of relief.",
+   "fx": "none",
+   "sub": "The purrs filled the room, a melody of relief.",
+   "say": "पर्ज़ से रूम भर गया, एक मेलोडी ऑफ़ रिलीफ़।"
+  },
+  {
+   "image": "[[narrator]] Anya gently stroking [[Luna]] and the kittens, smiling through tears, overwhelmed with emotion.",
+   "speaker": "narrator",
+   "line": "Maine ek brave mother ko dekha, jisne fight kiya.",
+   "fx": "none",
+   "sub": "I saw the brave mother, the one who fought.",
+   "say": "मैंने एक ब्रेव मदर को देखा, जिसने फ़ाइट किया।"
+  },
+  {
+   "image": "[[narrator]] Anya feeding [[Luna]] small bits of chicken from her hand, [[Luna]] eating slowly but steadily, looking less frail.",
+   "speaker": "narrator",
+   "line": "Medicine aur care se, Luna dheere-dheere recover hui.",
+   "fx": "none",
+   "sub": "With medicine and care, Luna slowly recovered.",
+   "say": "मेडिसिन और केयर से, लूना धीरे-धीरे रिकवर हुई।"
+  },
+  {
+   "image": "[[Luna]] nuzzling [[narrator]] Anya's hand, a deep, contented purr vibrating, her wariness completely replaced by gentle affection.",
+   "speaker": "narrator",
+   "line": "Uski wariness fade ho gayi, gentle affection ne uski jagah li.",
+   "fx": "none",
+   "sub": "Her wariness faded, replaced by gentle affection.",
+   "say": "उसकी वेयरिनेस फ़ेड हो गई, जेंटल अफ़ेक्शन ने उसकी जगह ली।"
+  },
+  {
+   "image": "All four [[Kittens]] playing energetically in [[narrator]] Anya's living room, chasing toys and pouncing on each other.",
+   "speaker": "narrator",
+   "line": "Sab kittens meri living room mein energetically khel rahe the.",
+   "fx": "none",
+   "sub": "The kittens grew strong, playful, full of life.",
+   "say": "सब किटन्स मेरी लिविंग रूम में एनर्जेटिकली खेल रहे थे।"
+  },
+  {
+   "image": "[[narrator]] Anya sitting on her couch, smiling widely, surrounded by [[Luna]] and all four kittens, who are sleeping or playing around her.",
+   "speaker": "narrator",
+   "line": "Mera ghar, jo kabhi quiet tha, ab joy se goonj raha tha.",
+   "fx": "none",
+   "sub": "My house, once quiet, now echoed with joy.",
+   "say": "मेरा घर, जो कभी क्वाइट था, अब जॉय से गूँज रहा था।"
+  },
+  {
+   "image": "[[narrator]] Anya looking at [[Luna]] with deep affection, [[Luna]] is lying peacefully next to her, looking very content.",
+   "speaker": "narrator",
+   "line": "Luna ko apna safe haven mil gaya, uska home.",
+   "fx": "none",
+   "sub": "Luna found her safe haven, her home.",
+   "say": "लूना को अपना सेफ़ हेवन मिल गया, उसका होम।"
+  },
+  {
+   "image": "Close-up of [[Luna]]'s face, now calm, relaxed, and full of peace, her eyes soft and trusting.",
+   "speaker": "narrator",
+   "line": "Woh sirf ek stray nahi thi; she was family.",
+   "fx": "none",
+   "sub": "She was not just a stray; she was family.",
+   "say": "वो सिर्फ़ एक स्ट्रे नहीं थी; शी वॉज़ फ़ैमिली।"
+  },
+  {
+   "image": "[[narrator]] Anya holding [[Luna]] close, both looking peaceful and connected, a deep bond visible between them.",
+   "speaker": "narrator",
+   "line": "Uske desperate trust ne mujhe ek profound lesson sikhaya.",
+   "fx": "none",
+   "sub": "Her desperate trust taught me a profound lesson.",
+   "say": "उसके डेस्पिरेशन ट्रस्ट ने मुझे एक प्रोफ़ाउंड लेसन सिखाया।"
+  },
+  {
+   "image": "[[narrator]] Anya smiling, surrounded by a happy cat family: [[Luna]] and her four playful [[Kittens]] all interacting with her.",
+   "speaker": "narrator",
+   "line": "Love ki koi seema nahi, na hi ek maa ki ichha ki.",
+   "fx": "none",
+   "sub": "Love knows no bounds, nor does a mother's will.",
+   "say": "लव की कोई सीमा नहीं, न ही एक माँ की इच्छा की।"
+  },
+  {
+   "image": "[[narrator]] Anya petting [[Luna]], looking out towards the now vibrant and lively garden, a symbol of new beginnings.",
+   "speaker": "narrator",
+   "line": "Mera garden badal gaya, reunion ki jagah ban gaya.",
+   "fx": "none",
+   "sub": "My garden changed, became a place of reunion.",
+   "say": "मेरा गार्डन बदल गया, रियूनियन की जगह बन गया।"
+  },
+  {
+   "image": "[[Luna]] lying in a sunbeam on the grass, purring contentedly, with her four playful [[Kittens]] pouncing around her.",
+   "speaker": "narrator",
+   "line": "Luna theek ho gayi, sun mein contented purring karti thi.",
+   "fx": "none",
+   "sub": "Luna healed, purring contentedly in the sun.",
+   "say": "लूना ठीक हो गई, सन में कंटेंटेड पर्जिंग करती थी।"
+  },
+  {
+   "image": "[[narrator]] Anya picking up a playful ginger kitten, a wide, joyful smile on her face.",
+   "speaker": "narrator",
+   "line": "Har kitten uski incredible fight ki reminder tha.",
+   "fx": "none",
+   "sub": "Each kitten a reminder of her incredible fight.",
+   "say": "हर किटन उसकी इनक्रेडिबल फ़ाइट की रिमाइंडर था।"
+  },
+  {
+   "image": "[[narrator]] Anya holding [[Luna]] in her arms, both looking at each other, sharing a quiet, understanding smile.",
+   "speaker": "narrator",
+   "line": "Usne mujhe true strength, true sacrifice dikhaya.",
+   "fx": "none",
+   "sub": "She showed me true strength, true sacrifice.",
+   "say": "उसने मुझे ट्रू स्ट्रेंथ, ट्रू सैक्रिफ़ाइस दिखाया।"
+  },
+  {
+   "image": "[[narrator]] Anya's eyes looking directly at the camera, a deeply emotional and heartfelt expression on her face.",
+   "speaker": "narrator",
+   "line": "Yeh family, desperation se janam lekar, meri joy ban gayi.",
+   "fx": "none",
+   "sub": "This family, born of desperation, became my joy.",
+   "say": "ये फ़ैमिली, डेस्पिरेशन से जनम लेकर, मेरी जॉय बन गई।"
+  },
+  {
+   "image": "[[narrator]] Anya and [[Luna]] sitting together on the floor, watching the four kittens play, a sense of shared peace.",
+   "speaker": "narrator",
+   "line": "Hum ek family ban gaye, uske trust se bandhe hue.",
+   "fx": "none",
+   "sub": "We became a family, bound by her trust.",
+   "say": "हम एक फ़ैमिली बन गए, उसके ट्रस्ट से बँधे हुए।"
+  },
+  {
+   "image": "Close up of [[narrator]] Anya's hand gently petting [[Luna]] and a kitten nestled beside her, showing their close bond.",
+   "speaker": "narrator",
+   "line": "Kabhi-kabhi greatest gifts chote paws mein aate hain.",
+   "fx": "none",
+   "sub": "Sometimes the greatest gifts come in small paws.",
+   "say": "कभी-कभी ग्रेटेस्ट गिफ़्ट्स छोटे पॉज़ में आते हैं।"
+  },
+  {
+   "image": "[[narrator]] Anya laughing softly as a kitten pounces playfully on her hand, her face beaming with happiness.",
+   "speaker": "narrator",
+   "line": "Meri life richer hai, fuller hai, thanks to Luna.",
+   "fx": "none",
+   "sub": "My life is richer, fuller, thanks to Luna.",
+   "say": "मेरी लाइफ़ रिचर है, फ़ुलर है, थैंक्स टू लूना।"
+  },
+  {
+   "image": "[[narrator]] Anya looking lovingly at [[Luna]], who gazes back at her with soft, grateful eyes.",
+   "speaker": "narrator",
+   "line": "Usne mujhe purest form of love sikhaya.",
+   "fx": "none",
+   "sub": "She taught me the purest form of love.",
+   "say": "उसने मुझे प्योरेस्ट फ़ॉर्म ऑफ़ लव सिखाया।"
+  },
+  {
+   "image": "[[Luna]] looking up at [[narrator]] Anya, her green eyes full of deep gratitude and affection.",
+   "speaker": "narrator",
+   "line": "Ek bond jo silence mein bana, shabdon se strong.",
+   "fx": "none",
+   "sub": "A bond forged in silence, stronger than words.",
+   "say": "एक बॉन्ड जो साइलेंस में बना, शब्दों से स्ट्रॉन्ग।"
+  },
+  {
+   "image": "[[narrator]] Anya and the entire cat family (Luna and her four kittens) are cozily nestled together in a warm, sunlit spot in her living room, a picture of domestic bliss.",
+   "speaker": "narrator",
+   "line": "Mere dil ko uski missing piece unke purrs mein mili.",
+   "fx": "none",
+   "sub": "My heart found its missing piece in their purrs.",
+   "say": "मेरे दिल को उसकी मिसिंग पीस उनके पर्ज़ में मिली।"
+  },
+  {
+   "image": "[[narrator]] Anya smiling warmly at the camera, her face full of contentment and wisdom.",
+   "speaker": "narrator",
+   "line": "Kya aapne kabhi aisa selfless love dekha hai?",
+   "fx": "none",
+   "sub": "Have you ever witnessed such selfless love?",
+   "say": "क्या आपने कभी ऐसा सेल्फ़लेस लव देखा है?"
+  }
+ ],
+ "caption": "Stray Cat's Shocking Daily Delivery to Woman 🐈",
+ "slug": "2026-11-15_part1",
+ "story_no": 56,
+ "yt_title": "Stray Cat's Shocking Daily Delivery to Woman 🐈",
+ "description": "Every day, a unique and surprising gift appeared at my doorstep. A timid stray cat, Luna, started bringing her kittens to me, one by one, for a heartbreaking reason. Have you ever witnessed such selfless love from an animal?",
+ "comment_question": "Kya aapne kabhi aisa selfless love dekha hai?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#catstory",
+  "#straycat",
+  "#kittens",
+  "#animalrescue",
+  "#mothercat",
+  "#animaltrust",
+  "#heartwarming",
+  "#indianstory",
+  "#petlove"
+ ]
+}

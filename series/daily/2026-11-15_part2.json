@@ -1,0 +1,528 @@
+{
+ "series": "The Parrot's Perfect Plan",
+ "episode": 2,
+ "title": "The Parrot's Perfect Plan",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A kind, warm female storyteller. Invisible, but her voice sets the tone.",
+   "voice": "hindi_narrator_female"
+  },
+  "Rohan": {
+   "look": "20 years old, fair skin, messy dark hair, wide eyes, anxious but kind face. Wears an oversized faded blue t-shirt and grey sweatpants.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Mithu": {
+   "look": "Bright green parrot, sleek feathers, short curved beak, small black eyes, a red ring around its neck. Sits on a wooden perch next to Rohan's desk.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "EXAM NIGHT CHAOS!",
+ "scenes": [
+  {
+   "image": "[[Rohan]], face pale, wide-eyed, clutching his head, surrounded by open books on a messy desk. A clock on the wall shows very late night.",
+   "speaker": "Rohan",
+   "line": "OMG! Kal exam hai, maine kuch nahi padha!",
+   "fx": "none",
+   "say": "ओएमजी! कल एग्जाम है, मैंने कुछ नहीं पढ़ा!"
+  },
+  {
+   "image": "Close-up of [[Rohan]]'s panicked face, sweat beading on his forehead.",
+   "speaker": "Rohan",
+   "line": "Sab toh bhool gaya, ab kya hoga?",
+   "fx": "none",
+   "say": "सब तो भूल गया, अब क्या होगा?"
+  },
+  {
+   "image": "[[Mithu]] on its perch, head tilted, observing [[Rohan]] with a curious, slightly mischievous look.",
+   "speaker": "narrator",
+   "line": "Rohan ka exam tha, aur uski planning zero thi.",
+   "fx": "none",
+   "say": "रोहन का एग्जाम था, और उसकी प्लानिंग ज़ीरो थी।"
+  },
+  {
+   "image": "[[Rohan]] grabs a thick textbook, opens it to a random page, looking utterly lost.",
+   "speaker": "Rohan",
+   "line": "Theorie of Relativity... yeh kya hai?",
+   "fx": "none",
+   "say": "थ्योरी ऑफ़ रिलेटिविटी... ये क्या है?"
+  },
+  {
+   "image": "[[Rohan]] sighs dramatically, resting his head on the book. [[Mithu]] mimics his sigh faintly.",
+   "speaker": "Rohan",
+   "line": "Uff, itna syllabus... kaise hoga?",
+   "fx": "none",
+   "say": "उफ़, इतना सिलेबस... कैसे होगा?"
+  },
+  {
+   "image": "[[Rohan]] picks up his phone, eyes glued to the screen, a slight smile forming.",
+   "speaker": "Rohan",
+   "line": "Ek quick reel dekh leta hoon, bas ek!",
+   "fx": "none",
+   "say": "एक क्विक रील देख लेता हूँ, बस एक!"
+  },
+  {
+   "image": "[[Mithu]] hops on its perch, looking towards the phone screen with interest.",
+   "speaker": "Mithu",
+   "line": "Reel! Reel!",
+   "fx": "none",
+   "say": "रील! रील!"
+  },
+  {
+   "image": "[[Rohan]] laughs nervously, puts phone down, tries to focus on the book.",
+   "speaker": "Rohan",
+   "line": "Nahi, nahi, focus Rohan, focus!",
+   "fx": "none",
+   "say": "नहीं, नहीं, फोकस रोहन, फोकस!"
+  },
+  {
+   "image": "Close-up on [[Rohan]]'s eyes darting between the book and his phone.",
+   "speaker": "narrator",
+   "line": "Par padhai se zyada, distractions bula rahe the.",
+   "fx": "none",
+   "say": "पर पढ़ाई से ज़्यादा, डिस्ट्रैक्शन्स बुला रहे थे।"
+  },
+  {
+   "image": "[[Rohan]] yawns widely, stretching his arms above his head.",
+   "speaker": "Rohan",
+   "line": "Thodi neend aa rahi hai, kya karun?",
+   "fx": "none",
+   "say": "थोड़ी नींद आ रही है, क्या करूँ?"
+  },
+  {
+   "image": "[[Mithu]] closes its eyes briefly, then opens one eye to peek at [[Rohan]].",
+   "speaker": "Mithu",
+   "line": "Neend! Neend!",
+   "fx": "none",
+   "say": "नींद! नींद!"
+  },
+  {
+   "image": "[[Rohan]] gets up, walks to the fridge, opens it, light illuminates his face.",
+   "speaker": "Rohan",
+   "line": "Kuch khaane ko mile toh energy milegi.",
+   "fx": "none",
+   "say": "कुछ खाने को मिले तो एनर्जी मिलेगी।"
+  },
+  {
+   "image": "[[Rohan]] pulls out a large pizza box, a triumphant grin on his face.",
+   "speaker": "Rohan",
+   "line": "Ah, pizza! The ultimate study fuel!",
+   "fx": "none",
+   "say": "आह, पिज्ज़ा! द अल्टीमेट स्टडी फ्यूल!"
+  },
+  {
+   "image": "[[Rohan]] takes a huge bite of pizza, cheese stretching. [[Mithu]] watches intently.",
+   "speaker": "Mithu",
+   "line": "Pizza! Yummy!",
+   "fx": "none",
+   "say": "पिज्ज़ा! यम्मी!"
+  },
+  {
+   "image": "[[Rohan]] is back at his desk, surrounded by pizza crumbs, looking slightly bloated.",
+   "speaker": "narrator",
+   "line": "Study session se zyada, yeh feast session ban gaya.",
+   "fx": "none",
+   "say": "स्टडी सेशन से ज़्यादा, ये फ़ीस्ट सेशन बन गया।"
+  },
+  {
+   "image": "[[Rohan]] tries to read, but his eyes keep drifting to a video game controller on his bed.",
+   "speaker": "Rohan",
+   "line": "Ek round game khel loon? Mood fresh ho jayega.",
+   "fx": "none",
+   "say": "एक राउंड गेम खेल लूँ? मूड फ़्रेश हो जाएगा।"
+  },
+  {
+   "image": "[[Mithu]] chirps excitedly, flapping its wings slightly, looking at the controller.",
+   "speaker": "Mithu",
+   "line": "Game! Game!",
+   "fx": "none",
+   "say": "गेम! गेम!"
+  },
+  {
+   "image": "[[Rohan]] is now fully engrossed in a video game, shouting at the screen.",
+   "speaker": "Rohan",
+   "line": "Headshot! Take that, villain!",
+   "fx": "none",
+   "say": "हेडशॉट! टेक दैट, विलेन!"
+  },
+  {
+   "image": "Hours later, [[Rohan]] is slumped in his chair, game controller on the floor, looking exhausted.",
+   "speaker": "narrator",
+   "line": "Subah hone wali thi, aur padhai zero thi.",
+   "fx": "none",
+   "say": "सुबह होने वाली थी, और पढ़ाई ज़ीरो थी।"
+  },
+  {
+   "image": "[[Rohan]] looks at the clock in horror, then at the pile of unread books.",
+   "speaker": "Rohan",
+   "line": "Oh no, time is running out!",
+   "fx": "none",
+   "say": "ओह नो, टाइम इज़ रनिंग आउट!"
+  },
+  {
+   "image": "[[Rohan]] vigorously shakes his head, then splashes water on his face.",
+   "speaker": "Rohan",
+   "line": "No more distractions! Ab bas padhai!",
+   "fx": "none",
+   "say": "नो मोर डिस्ट्रैक्शन्स! अब बस पढ़ाई!"
+  },
+  {
+   "image": "[[Rohan]] gulps down a cup of black coffee, making a face.",
+   "speaker": "Rohan",
+   "line": "Kadwi hai par zaroori hai!",
+   "fx": "none",
+   "say": "कड़वी है पर ज़रूरी है!"
+  },
+  {
+   "image": "[[Rohan]] tries to read intensely, furrowing his brow. His eyes are bloodshot.",
+   "speaker": "Rohan",
+   "line": "Electro-magnetic fields... Maxwell's equations...",
+   "fx": "none",
+   "say": "इलेक्ट्रो-मैग्नेटिक फील्ड्स... मैक्सवेल की इक्वेशन्स..."
+  },
+  {
+   "image": "[[Mithu]] mimics Rohan's mumbling, slightly off-key.",
+   "speaker": "Mithu",
+   "line": "Fields! Maxwell! Equations!",
+   "fx": "none",
+   "say": "फील्ड्स! मैक्सवेल! इक्वेशन्स!"
+  },
+  {
+   "image": "[[Rohan]] blinks, looking around, confused. He shakes his head.",
+   "speaker": "Rohan",
+   "line": "Yeh mera dimaag chal raha hai ya kya?",
+   "fx": "none",
+   "say": "ये मेरा दिमाग़ चल रहा है या क्या?"
+  },
+  {
+   "image": "[[Rohan]] tries to write notes, but his hand is shaky and his writing is illegible.",
+   "speaker": "Rohan",
+   "line": "Concentrate, Rohan! Last chance!",
+   "fx": "none",
+   "say": "कंसन्ट्रेट, रोहन! लास्ट चांस!"
+  },
+  {
+   "image": "[[Rohan]] slams the book shut in frustration, face contorted in despair.",
+   "speaker": "Rohan",
+   "line": "Mujhse nahi hoga! I give up!",
+   "fx": "none",
+   "say": "मुझसे नहीं होगा! आई गिव अप!"
+  },
+  {
+   "image": "[[Mithu]] looks at [[Rohan]] with wide, understanding eyes, then glances at the books.",
+   "speaker": "narrator",
+   "line": "Rohan ne haar maan li thi.",
+   "fx": "none",
+   "say": "रोहन ने हार मान ली थी।"
+  },
+  {
+   "image": "[[Rohan]] collapses onto his bed, pulling a blanket over his head.",
+   "speaker": "Rohan",
+   "line": "Bas ek chhoti si power nap...",
+   "fx": "none",
+   "say": "बस एक छोटी सी पावर नैप..."
+  },
+  {
+   "image": "Close-up on the clock, showing time quickly passing, dawn light creeping in.",
+   "speaker": "narrator",
+   "line": "Samay tezi se bhaag raha tha.",
+   "fx": "none",
+   "say": "समय तेज़ी से भाग रहा था।"
+  },
+  {
+   "image": "[[Mithu]] flies off its perch, landing softly on the desk, near the books.",
+   "speaker": "narrator",
+   "line": "Par Mithu, uski aankhon mein ek chamak thi.",
+   "fx": "none",
+   "say": "पर मिठू, उसकी आँखों में एक चमक थी।"
+  },
+  {
+   "image": "[[Mithu]] taps a textbook with its beak, then looks at a closed laptop.",
+   "speaker": "Mithu",
+   "line": "Exam! Exam!",
+   "fx": "none",
+   "say": "एग्जाम! एग्जाम!"
+  },
+  {
+   "image": "[[Mithu]] pecks at the laptop, then looks around, making sure [[Rohan]] is asleep.",
+   "speaker": "narrator",
+   "line": "Uske paas ek secret plan tha.",
+   "fx": "none",
+   "say": "उसके पास एक सीक्रेट प्लान था।"
+  },
+  {
+   "image": "A close-up of [[Mithu]]'s beak gently tapping the laptop's power button. The screen flickers to life.",
+   "speaker": "narrator",
+   "line": "Mithu ne laptop on kar diya.",
+   "fx": "none",
+   "say": "मिठू ने लैपटॉप ऑन कर दिया।"
+  },
+  {
+   "image": "The laptop screen shows an online lecture playing, [[Mithu]] intently watching.",
+   "speaker": "Mithu",
+   "line": "Lecture! Suno!",
+   "fx": "none",
+   "say": "लेक्चर! सुनो!"
+  },
+  {
+   "image": "[[Mithu]] is sitting on the keyboard, head tilted, listening to the lecture.",
+   "speaker": "narrator",
+   "line": "Rohan jab gaaflat mein tha, Mithu padh raha tha.",
+   "fx": "none",
+   "say": "रोहन जब ग़ाफ़लत में था, मिठू पढ़ रहा था।"
+  },
+  {
+   "image": "A montage: [[Mithu]] watching lectures, pecking at notes, flying to a whiteboard and mimicking writing.",
+   "speaker": "narrator",
+   "line": "Usne sab lessons absorb kar liye the.",
+   "fx": "none",
+   "say": "उसने सब लेसन्स एब्जॉॉर्ब कर लिए थे।"
+  },
+  {
+   "image": "Close-up of [[Mithu]]'s intense, focused expression, eyes wide.",
+   "speaker": "Mithu",
+   "line": "Physics! Chemistry! Maths!",
+   "fx": "none",
+   "say": "फ़िज़िक्स! केमिस्ट्री! मैथ्स!"
+  },
+  {
+   "image": "Sunlight streams through the window. [[Rohan]] stirs, slowly waking up, groggy.",
+   "speaker": "Rohan",
+   "line": "Uhh... kitne baj gaye?",
+   "fx": "dust",
+   "say": "उह्ह... कितने बज गए?"
+  },
+  {
+   "image": "[[Rohan]] sits up abruptly, eyes wide with panic as he remembers the exam.",
+   "speaker": "Rohan",
+   "line": "Exam! Oh God, I'm doomed!",
+   "fx": "none",
+   "say": "एग्जाम! ओह गॉड, आइ'एम डूमड!"
+  },
+  {
+   "image": "[[Rohan]] rushes to his desk, looking frantically through his books.",
+   "speaker": "Rohan",
+   "line": "Kuch toh yaad aa jaa, please!",
+   "fx": "none",
+   "say": "कुछ तो याद आ जा, प्लीज़!"
+  },
+  {
+   "image": "[[Mithu]] flies to [[Rohan]]'s shoulder, looking very calm and composed.",
+   "speaker": "narrator",
+   "line": "Tabhi, Mithu ne Rohan ko surprise kiya.",
+   "fx": "none",
+   "say": "तभी, मिठू ने रोहन को सरप्राइज़ किया।"
+  },
+  {
+   "image": "Close-up on [[Mithu]] whispering into [[Rohan]]'s ear, a serious expression.",
+   "speaker": "Mithu",
+   "line": "Newton's First Law: Inertia!",
+   "fx": "none",
+   "say": "न्यूटन का फर्स्ट लॉ: इनर्शिया!"
+  },
+  {
+   "image": "[[Rohan]] freezes, eyes wide open, turning slowly to look at [[Mithu]].",
+   "speaker": "Rohan",
+   "line": "Mithu? Tune kya bola?",
+   "fx": "none",
+   "say": "मिठू? तूने क्या बोला?"
+  },
+  {
+   "image": "[[Mithu]] puffs out its chest proudly, pointing its beak towards a textbook.",
+   "speaker": "Mithu",
+   "line": "E = mc squared! Energy, mass!",
+   "fx": "none",
+   "say": "ई इक्वल्स एम सी स्क्वेयर्ड! एनर्जी, मास!"
+  },
+  {
+   "image": "[[Rohan]] stares at [[Mithu]] in utter disbelief, mouth agape.",
+   "speaker": "Rohan",
+   "line": "Yeh... yeh kaise?",
+   "fx": "none",
+   "say": "ये... ये कैसे?"
+  },
+  {
+   "image": "[[Mithu]] flies to a specific page in a book, tapping a complex diagram with its beak.",
+   "speaker": "Mithu",
+   "line": "Photosynthesis process, carbon dioxide!",
+   "fx": "none",
+   "say": "फोटोसिंथेसिस प्रोसेस, कार्बन डाइऑक्साइड!"
+  },
+  {
+   "image": "[[Rohan]] grabs the book, looks at the diagram, then back at [[Mithu]] with dawning realization.",
+   "speaker": "Rohan",
+   "line": "Tune... tune meri lectures suni?",
+   "fx": "none",
+   "say": "तूने... तूने मेरी लेक्चर्स सुनी?"
+  },
+  {
+   "image": "[[Mithu]] nods its head smugly, a tiny wink.",
+   "speaker": "Mithu",
+   "line": "Main sab jaanta hoon, Rohan!",
+   "fx": "none",
+   "say": "मैं सब जानता हूँ, रोहन!"
+  },
+  {
+   "image": "Close-up of Rohan's face, a mix of shock, amusement, and a tiny bit of awe.",
+   "speaker": "narrator",
+   "line": "Rohan ko vishwas nahi ho raha tha.",
+   "fx": "none",
+   "say": "रोहन को विश्वास नहीं हो रहा था।"
+  },
+  {
+   "image": "[[Mithu]] then mimics Rohan's initial panicked sighs and distraction noises.",
+   "speaker": "Mithu",
+   "line": "Uff! Reel! Game!",
+   "fx": "none",
+   "say": "उफ़! रील! गेम!"
+  },
+  {
+   "image": "[[Rohan]] slaps his forehead, laughing at himself.",
+   "speaker": "Rohan",
+   "line": "Tu toh mujhse zyada smart hai!",
+   "fx": "none",
+   "say": "तू तो मुझसे ज़्यादा स्मार्ट है!"
+  },
+  {
+   "image": "[[Mithu]] flies to Rohan's pen, takes it in its beak, and gestures towards a blank paper.",
+   "speaker": "Mithu",
+   "line": "Write! Write! Exam time!",
+   "fx": "none",
+   "say": "राइट! राइट! एग्जाम टाइम!"
+  },
+  {
+   "image": "[[Rohan]] quickly starts writing down notes, guided by [[Mithu]]'s chirps and pointers.",
+   "speaker": "narrator",
+   "line": "Mithu ne uski sari neend udda di thi.",
+   "fx": "none",
+   "say": "मिठू ने उसकी सारी नींद उड़ा दी थी।"
+  },
+  {
+   "image": "[[Rohan]] is furiously writing, [[Mithu]] on his shoulder, occasionally whispering answers.",
+   "speaker": "Mithu",
+   "line": "Formula! Principle! Definition!",
+   "fx": "none",
+   "say": "फ़ॉर्मूला! प्रिंसिपल! डेफ़िनिशन!"
+  },
+  {
+   "image": "A rapid montage of Rohan writing, Mithu pointing, Rohan's eyes lighting up.",
+   "speaker": "narrator",
+   "line": "Last minute mein, miracle ho raha tha.",
+   "fx": "none",
+   "say": "लास्ट मिनट में, मिरैकल हो रहा था।"
+  },
+  {
+   "image": "[[Rohan]] runs out the door, backpack on, looking determined. [[Mithu]] waves from the window.",
+   "speaker": "Rohan",
+   "line": "Thank you, Mithu! Best teacher ever!",
+   "fx": "none",
+   "say": "थैंक यू, मिठू! बेस्ट टीचर एवर!"
+  },
+  {
+   "image": "Close-up on [[Mithu]] smiling smugly, watching Rohan leave.",
+   "speaker": "Mithu",
+   "line": "Pass ho jaayega ab!",
+   "fx": "none",
+   "say": "पास हो जाएगा अब!"
+  },
+  {
+   "image": "Later, [[Rohan]] returns home, looking tired but relieved. [[Mithu]] is waiting.",
+   "speaker": "Rohan",
+   "line": "Exam theek gaya! Thanks to you!",
+   "fx": "none",
+   "say": "एग्जाम ठीक गया! थैंक्स टू यू!"
+  },
+  {
+   "image": "[[Rohan]] gives [[Mithu]] a big hug, careful not to crush him.",
+   "speaker": "narrator",
+   "line": "Rohan ko samajh aa gaya tha.",
+   "fx": "none",
+   "say": "रोहन को समझ आ गया था।"
+  },
+  {
+   "image": "[[Mithu]] now sits on a stack of textbooks, wearing tiny spectacles, looking like a professor.",
+   "speaker": "Mithu",
+   "line": "Padhai karo! Varna fail ho jaoge!",
+   "fx": "none",
+   "say": "पढ़ाई करो! वरना फेल हो जाओगे!"
+  },
+  {
+   "image": "[[Rohan]] bursts into laughter, pointing at [[Mithu]].",
+   "speaker": "Rohan",
+   "line": "Tu toh asli genius hai, Mithu!",
+   "fx": "none",
+   "say": "तू तो असली जीनियस है, मिठू!"
+  },
+  {
+   "image": "[[Mithu]] winks at the camera, then takes a bite of Rohan's snack.",
+   "speaker": "Mithu",
+   "line": "Next exam ka plan bhi ready hai!",
+   "fx": "none",
+   "say": "नेक्स्ट एग्जाम का प्लान भी रेडी है!"
+  },
+  {
+   "image": "[[Rohan]] looks bewildered, then shakes his head, smiling.",
+   "speaker": "narrator",
+   "line": "Rohan ko apni neend ka pachtawa tha.",
+   "fx": "none",
+   "say": "रोहन को अपनी नींद का पछतावा था।"
+  },
+  {
+   "image": "[[Mithu]] is happily perched on a book, nibbling a cookie, looking proud.",
+   "speaker": "narrator",
+   "line": "Lesson learned: Kabhi pet ko underestimate mat karo!",
+   "fx": "none",
+   "say": "लेसन लर्न्ड: कभी पेट को अंडरएस्टीमेट मत करो!"
+  },
+  {
+   "image": "[[Rohan]] is now meticulously organizing his desk, looking at his parrot.",
+   "speaker": "Rohan",
+   "line": "Ab toh time pe padhna hi padega!",
+   "fx": "none",
+   "say": "अब तो टाइम पे पढ़ना ही पड़ेगा!"
+  },
+  {
+   "image": "[[Mithu]] holds up a tiny report card with an 'A' grade, showing it to the camera.",
+   "speaker": "Mithu",
+   "line": "Maine toh top kar liya!",
+   "fx": "none",
+   "say": "मैंने तो टॉप कर लिया!"
+  },
+  {
+   "image": "Rohan is laughing heartily, patting Mithu. Mithu is preening.",
+   "speaker": "narrator",
+   "line": "Kiska exam plan better tha, Rohan ka ya Mithu ka?",
+   "fx": "none",
+   "say": "किसका एग्जाम प्लान बेटर था, रोहन का या मिठू का?"
+  },
+  {
+   "image": "[[Mithu]] sitting on Rohan's shoulder, both smiling broadly at the camera.",
+   "speaker": "Mithu",
+   "line": "Tumhara sabse funny exam experience kya hai?",
+   "fx": "none",
+   "say": "तुम्हारा सबसे फ़नी एग्जाम एक्सपीरियंस क्या है?"
+  }
+ ],
+ "caption": "My Lazy Parrot Had a Secret Exam Plan 🤫",
+ "slug": "2026-11-15_part2",
+ "story_no": 57,
+ "yt_title": "My Lazy Parrot Had a Secret Exam Plan 🤫",
+ "description": "My exam was tomorrow, and I hadn't studied anything! Little did I know, my pet parrot Mithu had a hilarious strategy. What's the craziest thing you've done to avoid studying?",
+ "comment_question": "What's the craziest thing you've done to avoid studying?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#examstress",
+  "#funnystory",
+  "#comedyshorts",
+  "#relatable",
+  "#studentlife",
+  "#petparrot",
+  "#indiancomedy",
+  "#viralshorts",
+  "#cartoonstory"
+ ]
+}
