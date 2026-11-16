@@ -1,0 +1,535 @@
+{
+ "series": "The Riddle House Delivery",
+ "episode": 2,
+ "title": "The Riddle House Delivery",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_male"
+  },
+  "Priya": {
+   "look": "Young woman, early 20s. Long soft wavy dark-brown hair, expressive hazel eyes, natural makeup, small bindi. Elegant pastel yellow kurta with delicate embroidery, white palazzo pants. Fair, light wheatish skin, bright soft light on the face.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Rahul": {
+   "look": "Young man, late 20s. Short, neat black hair, earnest and slightly flustered expression. Standard delivery uniform (light blue shirt, dark trousers), worn backpack. Light wheatish skin, bright soft light on the face.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "CRAZY ADDRESS!",
+ "scenes": [
+  {
+   "image": "Close-up on Priya's face, laughing mischievously, her eyes sparkling. Rahul behind her, utterly bewildered, holding his phone and a package, looking exasperated. Their expressions are exaggerated and cartoonish.",
+   "speaker": "Priya",
+   "line": "My address drives every delivery guy crazy.",
+   "fx": "none",
+   "say": "माई एड्रेस ड्राइव्स एव्री डिलीवरी गाय क्रेज़ी."
+  },
+  {
+   "image": "Rahul on his scooter, a bright blue delivery backpack on his back, looking determined as he checks his phone in a bustling Indian street.",
+   "speaker": "narrator",
+   "line": "Rahul, new to the area, was feeling confident.",
+   "fx": "none",
+   "say": "राहुल, न्यू टू द एरिया, वाज़ फीलिंग कॉन्फिडेंट."
+  },
+  {
+   "image": "Close-up of a delivery package with 'Priya Sharma, Special Delivery' written on it. Rahul's hand holding the package with a thumb up.",
+   "speaker": "narrator",
+   "line": "He had a special package, a delivery for Priya.",
+   "fx": "none",
+   "say": "ही हैड अ स्पेशल पैकेज, अ डिलीवरी फॉर प्रिया."
+  },
+  {
+   "image": "Rahul's face, a slight smile, looking at his phone. The phone screen shows a delivery address.",
+   "speaker": "Rahul",
+   "line": "Priya Sharma, Plot number...",
+   "fx": "none",
+   "say": "प्रिया शर्मा, प्लॉट नंबर..."
+  },
+  {
+   "image": "Close-up of Rahul's face, now frowning and squinting at his phone. The screen text is slightly blurry, showing 'The Golden Door'.",
+   "speaker": "Rahul",
+   "line": "He squinted, \"No plot? Just 'The Golden Door'?\"",
+   "fx": "none",
+   "say": "ही स्क्विंटेड, \"नो प्लॉट? जस्ट 'द गोल्डन डोर'?\""
+  },
+  {
+   "image": "Rahul scratching his head with a confused expression, looking puzzled at his phone. His scooter is parked behind him.",
+   "speaker": "Rahul",
+   "line": "Rahul scratched his head, finding the address quite strange.",
+   "fx": "none",
+   "say": "राहुल स्क्रैच्ड हिज़ हेड, फाइंडिंग द एड्रेस क्वाइट स्ट्रेंज."
+  },
+  {
+   "image": "Rahul riding his scooter slowly down a narrow, colourful street lined with houses of various quirky designs and bright colours.",
+   "speaker": "Rahul",
+   "line": "He rode his scooter down a street with quirky, bright homes.",
+   "fx": "none",
+   "say": "ही रोड हिज़ स्कूटर डाउन अ स्ट्रीट विद क्वर्की, ब्राइट होम्स."
+  },
+  {
+   "image": "Rahul standing in front of a brightly painted red door, holding the package, knocking hesitantly.",
+   "speaker": "Rahul",
+   "line": "Rahul stopped at a bright red door, knocking hesitantly.",
+   "fx": "none",
+   "say": "राहुल स्टॉप्ड एट अ ब्राइट रेड डोर, नॉकिंग हेज़िटेंटली."
+  },
+  {
+   "image": "An elderly man, with a surprised but friendly face, peeking out from behind the red door.",
+   "speaker": "narrator",
+   "line": "Haan ji, kya chahiye beta?",
+   "fx": "none",
+   "say": "हाँ जी, क्या चाहिए बेटा?"
+  },
+  {
+   "image": "Rahul holding up the package to the elderly man, looking hopeful.",
+   "speaker": "Rahul",
+   "line": "Priya Sharma? 'The Golden Door'?",
+   "fx": "none",
+   "say": "प्रिया शर्मा? 'द गोल्डन डोर'?"
+  },
+  {
+   "image": "The elderly man squinting at Rahul and the door, then looking back with a confused frown.",
+   "speaker": "narrator",
+   "line": "Golden door? Beta, yeh toh laal hai!",
+   "fx": "none",
+   "say": "गोल्डन डोर? बेटा, ये तो लाल है!"
+  },
+  {
+   "image": "Rahul looking from the bright red door to his phone screen, his face a picture of utter confusion and slight panic.",
+   "speaker": "Rahul",
+   "line": "Rahul looked at the red door, then his phone, utterly puzzled.",
+   "fx": "none",
+   "say": "राहुल लुक्ड एट द रेड डोर, दैन हिज़ फ़ोन, अटरली पज़ल्ड."
+  },
+  {
+   "image": "Rahul sighing heavily, shoulders slumped, with a thought bubble above his head showing a question mark.",
+   "speaker": "narrator",
+   "line": "Rahul sighed. This delivery was already a puzzle.",
+   "fx": "none",
+   "say": "राहुल साइड. दिस डिलीवरी वाज़ आलरेडी अ पज़ल."
+  },
+  {
+   "image": "Rahul walking away from the red door, head down, adjusting his delivery cap, looking defeated.",
+   "speaker": "Rahul",
+   "line": "Rahul walked away, looking defeated, adjusting his cap.",
+   "fx": "none",
+   "say": "राहुल वॉक्ड अवे, लुकिंग डिफीटेड, एडजस्टिंग हिज़ कैप."
+  },
+  {
+   "image": "Close-up of Rahul's hands frantically scrolling through his phone screen, showing a long list of delivery notes.",
+   "speaker": "Rahul",
+   "line": "He re-checked his phone, scrolling through delivery notes again.",
+   "fx": "none",
+   "say": "ही री-चेक्ड हिज़ फ़ोन, स्क्रॉलिंग थ्रू डिलीवरी नोट्स अगेन."
+  },
+  {
+   "image": "Rahul looking up, eyes wide, at a house with a window clearly shaped like a large musical note, with small decorative music symbols around it.",
+   "speaker": "Rahul",
+   "line": "Rahul spotted a house with a window shaped like a musical note.",
+   "fx": "none",
+   "say": "राहुल स्पॉटेड अ हाउस विद अ विंडो शेप्ड लाइक अ म्यूजिकल नोट."
+  },
+  {
+   "image": "Rahul's face, squinting in thought, then a hopeful expression, pointing towards the musical note window.",
+   "speaker": "Rahul",
+   "line": "He wondered, \"Is this 'The Singing Window' house, maybe?\"",
+   "fx": "none",
+   "say": "ही वंडर्ड, \"इज़ दिस 'द सिंगिंग विंडो' हाउस, मेबी?\""
+  },
+  {
+   "image": "A young woman, not Priya, watering potted plants near the musical note window, looking slightly embarrassed.",
+   "speaker": "narrator",
+   "line": "Sorry, I just hum while gardening.",
+   "fx": "none",
+   "say": "सॉरी, आइ जस्ट हम व्हाइल गार्डनिंग."
+  },
+  {
+   "image": "Rahul facepalming dramatically, his eyes wide in comical despair.",
+   "speaker": "Rahul",
+   "line": "Oh bhai, yeh kya ho raha hai mere saath?",
+   "fx": "none",
+   "say": "ओह भाई, ये क्या हो रहा है मेरे साथ?"
+  },
+  {
+   "image": "Rahul looking around a busy market street, then a determined look crossing his face.",
+   "speaker": "narrator",
+   "line": "He decided to ask for directions, a new approach.",
+   "fx": "none",
+   "say": "ही डिसाइडेड टू आस्क फॉर डायरेक्शन्स, अ न्यू अप्रोच."
+  },
+  {
+   "image": "Rahul talking to a street vendor selling vegetables, who looks up from his stall with a curious expression.",
+   "speaker": "Rahul",
+   "line": "Excuse me, Priya Sharma kahan rehti?",
+   "fx": "none",
+   "say": "एक्सक्यूज़ मी, प्रिया शर्मा कहाँ रहती?"
+  },
+  {
+   "image": "The vendor vaguely pointing his finger in a general direction, with a knowing smile.",
+   "speaker": "narrator",
+   "line": "Woh jahan se meethi khushboo aati hai.",
+   "fx": "none",
+   "say": "वो जहाँ से मीठी खुशबू आती है."
+  },
+  {
+   "image": "Rahul sniffing the air exaggeratedly, looking left and right with a confused expression. Various colourful aromas are depicted as wavy lines.",
+   "speaker": "Rahul",
+   "line": "Rahul sniffed the air, confused. Many sweet smells around!",
+   "fx": "none",
+   "say": "राहुल स्निफ़्ड द एयर, कन्फ़्यूज्ड. मेनी स्वीट स्मेल्स अराउंड!"
+  },
+  {
+   "image": "Rahul walking past a bakery with delicious pastries, then a vibrant flower shop, looking utterly lost and overwhelmed.",
+   "speaker": "Rahul",
+   "line": "He walked past a bakery, then a flower shop, totally lost.",
+   "fx": "none",
+   "say": "ही वॉक्ड पास्ट अ बेकरी, दैन अ फ्लावर शॉप, टोटली लॉस्ट."
+  },
+  {
+   "image": "Rahul holding his phone to his ear, a frustrated look on his face, in a slightly exasperated posture.",
+   "speaker": "Rahul",
+   "line": "Madam, address pura samajh nahi aa raha.",
+   "fx": "none",
+   "say": "मैडम, एड्रेस पूरा समझ नहीं आ रहा."
+  },
+  {
+   "image": "Close-up of Rahul's phone screen showing a generic customer service chat, with a new message popping up.",
+   "speaker": "narrator",
+   "line": "Sir, try the unique clue in description.",
+   "fx": "none",
+   "say": "सर, ट्राय द यूनिक क्लू इन डिस्क्रिप्शन."
+  },
+  {
+   "image": "Close-up of Rahul's phone screen, highlighting a small text box that reads: 'Find the house with a sky of flowers.'",
+   "speaker": "Rahul",
+   "line": "Rahul saw his phone glow: \"Find the house with a sky of flowers.\"",
+   "fx": "none",
+   "say": "राहुल सॉ हिज़ फ़ोन ग्लो: \"फाइंड द हाउस विद अ स्काई ऑफ फ्लावर्स.\""
+  },
+  {
+   "image": "Rahul looking up at the sky, which is filled with an absurd amount of hanging flower pots and floral decorations, his expression even more confused.",
+   "speaker": "Rahul",
+   "line": "Rahul looked up, seeing hanging flower pots everywhere. More confusion!",
+   "fx": "none",
+   "say": "राहुल लुक्ड अप, सीइंग हैंगिंग फ्लावर पॉट्स एवरीवेयर. मोर कन्फ्यूजन!"
+  },
+  {
+   "image": "Rahul slumped against a wall painted with bright, abstract patterns, completely exhausted, package still clutched in his hand.",
+   "speaker": "Rahul",
+   "line": "He slumped against a colourful wall, completely exhausted, package in hand.",
+   "fx": "none",
+   "say": "ही स्लम्पड अगेंस्ट अ कलरफुल वॉल, कंप्लीटली एग्जॉस्टेड, पैकेज इन हैंड."
+  },
+  {
+   "image": "Rahul's eyes widening slightly as he spots a huge, ancient Banyan tree with massive roots and branches, prominently featured on a street corner.",
+   "speaker": "Rahul",
+   "line": "Rahul then noticed a huge, old Banyan tree, branches spreading wide.",
+   "fx": "none",
+   "say": "राहुल दैन नोटिस्ड अ ह्यूज, ओल्ड बनयान ट्री, ब्रांचेस स्प्रेडिंग वाइड."
+  },
+  {
+   "image": "Rahul peering closely at the Banyan tree, almost as if trying to discern a face or mouth among its gnarled features.",
+   "speaker": "Rahul",
+   "line": "He peered closely, \"A talking tree? This is getting really weird.\"",
+   "fx": "none",
+   "say": "ही पियर्ड क्लोजली, \"अ टॉकिंग ट्री? दिस इज़ गेटिंग रियली वियर्ड.\""
+  },
+  {
+   "image": "A small, cartoonish speech bubble emanating from behind the Banyan tree, with a child's voice text inside.",
+   "speaker": "narrator",
+   "line": "Hello, what's your name, mister?",
+   "fx": "none",
+   "say": "हेलो, व्हाट्स योर नेम, मिस्टर?"
+  },
+  {
+   "image": "Rahul jumping back dramatically, startled, his eyes wide, looking behind the tree trunk with apprehension.",
+   "speaker": "Rahul",
+   "line": "Rahul jumped, startled. He looked behind the massive tree trunk.",
+   "fx": "none",
+   "say": "राहुल जम्प्ड, स्टार्लड. ही लुक्ड बिहाइंड द मैसिव ट्री ट्रंक."
+  },
+  {
+   "image": "A little boy with mischievous eyes peeking out from behind the tree, giggling, then quickly pulling back.",
+   "speaker": "narrator",
+   "line": "A little boy peeked out, giggling playfully, then hid again.",
+   "fx": "none",
+   "say": "अ लिटिल बॉय पीक्ड आउट, गिग्लिंग प्लेफुली, दैन हिड अगेन."
+  },
+  {
+   "image": "Rahul sighing in relief, wiping his brow, a small smile appearing as he shakes his head.",
+   "speaker": "Rahul",
+   "line": "Phew! Not a talking tree, just a talking kid.",
+   "fx": "none",
+   "say": "फ्यू! नॉट अ टॉकिंग ट्री, जस्ट अ टॉकिंग किड."
+  },
+  {
+   "image": "Rahul smiling weakly at the boy, who is now fully visible and looking curious.",
+   "speaker": "Rahul",
+   "line": "Beta, Priya Sharma ka ghar pata hai?",
+   "fx": "none",
+   "say": "बेटा, प्रिया शर्मा का घर पता है?"
+  },
+  {
+   "image": "The boy pointing excitedly down a particular path, his face animated.",
+   "speaker": "narrator",
+   "line": "Woh toh 'The Whispering Walls' mein rehti hain!",
+   "fx": "none",
+   "say": "वो तो 'द व्हिस्परिंग वॉल्स' में रहती हैं!"
+  },
+  {
+   "image": "Rahul's face again showing extreme confusion, his eyes wide in disbelief at the new cryptic name.",
+   "speaker": "Rahul",
+   "line": "Whispering Walls? Ab yeh kya naya hai?",
+   "fx": "none",
+   "say": "व्हिस्परिंग वॉल्स? अब ये क्या नया है?"
+  },
+  {
+   "image": "The boy shrugging nonchalantly, as if it's the most obvious thing in the world.",
+   "speaker": "narrator",
+   "line": "Jahan deewaron se kahaniyaan aati hain, obviously!",
+   "fx": "none",
+   "say": "जहाँ दीवारों से कहानियाँ आती हैं, ओबवियसली!"
+  },
+  {
+   "image": "Rahul clutching his head in frustration, almost giving up, with a dramatic, exaggerated expression of despair.",
+   "speaker": "narrator",
+   "line": "Rahul felt like giving up. This was his toughest delivery.",
+   "fx": "none",
+   "say": "राहुल फेल्ट लाइक गिविंग अप. दिस वाज़ हिज़ टफेस्ट डिलीवरी."
+  },
+  {
+   "image": "Close-up on the package in Rahul's hand, his knuckles white, a desperate, sad expression on his face.",
+   "speaker": "Rahul",
+   "line": "He looked at the package, a desperate expression on his face.",
+   "fx": "none",
+   "say": "ही लुक्ड एट द पैकेज, अ डेस्परेट एक्सप्रेशन ऑन हिज़ फेस."
+  },
+  {
+   "image": "Rahul muttering to himself, shoulders slumped, a dark cloud emoji appearing above his head.",
+   "speaker": "Rahul",
+   "line": "My perfect delivery record, totally gone!",
+   "fx": "none",
+   "say": "माई परफेक्ट डिलीवरी रिकॉर्ड, टोटली गॉन!"
+  },
+  {
+   "image": "Rahul's eyes lighting up slightly as he spots a narrow, inviting alleyway between two buildings, its walls adorned with colourful, artistic murals.",
+   "speaker": "Rahul",
+   "line": "He spotted a narrow alleyway with vibrant, artistic murals.",
+   "fx": "none",
+   "say": "ही स्पॉटेड अ नैरो एलीवे विद वाइब्रेंट, आर्टिस्टिक म्यूरल्स."
+  },
+  {
+   "image": "Rahul hesitantly walking into the alley, looking intently at the murals on the walls, his expression a mix of caution and curiosity.",
+   "speaker": "Rahul",
+   "line": "Rahul hesitantly walked into the alley, studying the colourful paintings.",
+   "fx": "none",
+   "say": "राहुल हेज़िटेंटली वॉक्ड इंटू द एली, स्टडीइंग द कलरफुल पेंटिंग्स."
+  },
+  {
+   "image": "Close-up of one mural: a beautiful, artistic depiction of a young woman with long, soft wavy dark-brown hair, exactly matching Priya's description, looking thoughtful.",
+   "speaker": "Rahul",
+   "line": "One mural depicted a girl with long wavy hair, just like Priya.",
+   "fx": "none",
+   "say": "वन म्यूरल डिपिक्टेड अ गर्ल विद लॉन्ग वेवी हेयर, जस्ट लाइक प्रिया."
+  },
+  {
+   "image": "Rahul's face, a look of shocked recognition and surprise, pointing at the mural with wide eyes.",
+   "speaker": "Rahul",
+   "line": "Rahul gasped, \"Yeh toh Priya Sharma hai, pakka!\"",
+   "fx": "none",
+   "say": "राहुल गैस्पड, \"ये तो प्रिया शर्मा है, पक्का!\""
+  },
+  {
+   "image": "Rahul following the mural, which seamlessly transitions into an opening, revealing a hidden, bright courtyard filled with unique, miniature architectural structures.",
+   "speaker": "Rahul",
+   "line": "He followed the mural, which led into a hidden, bright courtyard.",
+   "fx": "none",
+   "say": "ही फॉलोड द म्यूरल, व्हिच लेड इंटू अ हिडन, ब्राइट कोर्टयार्ड."
+  },
+  {
+   "image": "Priya in the courtyard, wearing her elegant kurta, tending to small, intricate architectural models on a table, a gentle smile on her face.",
+   "speaker": "Priya",
+   "line": "Priya was there, tending to tiny architectural models, smiling.",
+   "fx": "dust",
+   "say": "प्रिया वाज़ देयर, टेंडिंग टू टाइनी आर्किटेक्चरल मॉडल्स, स्माइलिंग."
+  },
+  {
+   "image": "Priya looking up, a surprised but welcoming smile on her face as she sees Rahul, who is still panting slightly.",
+   "speaker": "Priya",
+   "line": "Oh, you actually found me, wow!",
+   "fx": "dust",
+   "say": "ओह, यू एक्चुअली फाउंड मी, वाओ!"
+  },
+  {
+   "image": "Rahul, still panting and a bit disheveled, holding out the package to Priya with a mix of exhaustion and relief.",
+   "speaker": "Rahul",
+   "line": "Finally! Madam, aapka address toh ek puzzle hai!",
+   "fx": "dust",
+   "say": "फाइनली! मैडम, आपका एड्रेस तो एक पज़ल है!"
+  },
+  {
+   "image": "Priya giggling softly, covering her mouth with her hand, a knowing smile playing on her lips.",
+   "speaker": "Priya",
+   "line": "Well, I am an architect, you see.",
+   "fx": "dust",
+   "say": "वेल, आइ एम ऐन आर्किटेक्ट, यू सी."
+  },
+  {
+   "image": "Priya gesturing grandly around the unique courtyard, filled with whimsical, artful architectural designs and structures.",
+   "speaker": "Priya",
+   "line": "Priya gestured around her unique courtyard, full of whimsical designs.",
+   "fx": "dust",
+   "say": "प्रिया जेस्चर्ड अराउंड हर यूनिक कोर्टयार्ड, फुल ऑफ व्हिंसिकल डिजाइन्स."
+  },
+  {
+   "image": "Priya smiling brightly, looking at Rahul, as she points to a sign that subtly says 'The Riddle Residences'.",
+   "speaker": "Priya",
+   "line": "Priya smiled brightly, \"This whole area is 'The Riddle Residences'.\"",
+   "fx": "dust",
+   "say": "प्रिया स्माइल्ड ब्राइटली, \"दिस होल एरिया इज़ 'द रिडल रेजिडेंसेस'.\""
+  },
+  {
+   "image": "Rahul's jaw dropped in complete astonishment, looking around at the quirky buildings, then back at Priya.",
+   "speaker": "Rahul",
+   "line": "Riddle Residences? Matlab, ghar aise hi hain?",
+   "fx": "dust",
+   "say": "रिडल रेजिडेंसेस? मतलब, घर ऐसे ही हैं?"
+  },
+  {
+   "image": "Priya nodding with a confident, proud smile, her eyes twinkling mischievously.",
+   "speaker": "Priya",
+   "line": "Yes, har address ek chhota sa clue hai!",
+   "fx": "dust",
+   "say": "यस, हर एड्रेस एक छोटा सा क्लू है!"
+  },
+  {
+   "image": "Rahul shaking his head slowly, a mix of amusement, disbelief, and a grudging respect on his face.",
+   "speaker": "Rahul",
+   "line": "Rahul shook his head, a mix of amusement and disbelief.",
+   "fx": "dust",
+   "say": "राहुल शुक हिज़ हेड, अ मिक्स ऑफ अ म्यूज़मेंट एंड डिसबिलीफ."
+  },
+  {
+   "image": "Priya taking the package from Rahul, a genuinely impressed expression on her face.",
+   "speaker": "Priya",
+   "line": "You're the first one to make it this far!",
+   "fx": "dust",
+   "say": "यू आर द फर्स्ट वन टू मेक इट दिस फार!"
+  },
+  {
+   "image": "Rahul blushing slightly, a shy smile on his face, looking a bit flattered.",
+   "speaker": "Rahul",
+   "line": "Sach mein? Mujhe laga mein toh pagal ho gaya hoon.",
+   "fx": "dust",
+   "say": "सच में? मुझे लगा मैं तो पागल हो गया हूँ."
+  },
+  {
+   "image": "Priya laughing genuinely, her head tilted back slightly.",
+   "speaker": "Priya",
+   "line": "No, you're just very observant, that's all!",
+   "fx": "dust",
+   "say": "नो, यू आर जस्ट वेरी ऑब्जर्वेंट, दैट्स ऑल!"
+  },
+  {
+   "image": "Priya kindly offering Rahul a glass of water from a tray, with a welcoming gesture.",
+   "speaker": "Priya",
+   "line": "Aao, thoda break le lo, you earned it!",
+   "fx": "dust",
+   "say": "आओ, थोड़ा ब्रेक ले लो, यू अर्न्ड इट!"
+  },
+  {
+   "image": "Rahul gratefully accepting the water, taking a sip, while looking at the murals and architectural models with new, admiring eyes.",
+   "speaker": "Rahul",
+   "line": "Rahul gratefully accepted, looking at the murals with new eyes.",
+   "fx": "dust",
+   "say": "राहुल ग्रेटफुली एक्सेप्टेड, लुकिंग एट द म्यूरल्स विद न्यू आइज़."
+  },
+  {
+   "image": "Rahul pointing towards a small, intricate model of a house with a tiny golden doorknob on a red door, a realization dawning on his face.",
+   "speaker": "Rahul",
+   "line": "So, 'The Golden Door' was just a hint?",
+   "fx": "dust",
+   "say": "सो, 'द गोल्डन डोर' वाज़ जस्ट अ हिंट?"
+  },
+  {
+   "image": "Priya winking playfully, a mischievous grin on her face, confirming his guess.",
+   "speaker": "Priya",
+   "line": "Exactly! A golden doorknob on a red door!",
+   "fx": "dust",
+   "say": "एग्जैक्टली! अ गोल्डन डोर्नोब ऑन अ रेड डोर!"
+  },
+  {
+   "image": "Rahul bursting into hearty laughter, throwing his head back, his previous frustration completely gone, replaced by pure amusement.",
+   "speaker": "Rahul",
+   "line": "Aap toh kamal ho, madam, really!",
+   "fx": "dust",
+   "say": "आप तो कमाल हो, मैडम, रियली!"
+  },
+  {
+   "image": "Priya smiling warmly at Rahul, a genuine connection forming between them.",
+   "speaker": "Priya",
+   "line": "Next time, you'll know the way easily!",
+   "fx": "dust",
+   "say": "नेक्स्ट टाइम, यू विल नो द वे ईज़िली!"
+  },
+  {
+   "image": "Rahul shaking his head, still chuckling, a playful smirk on his face.",
+   "speaker": "Rahul",
+   "line": "Next time, I'll bring a treasure map, pakka!",
+   "fx": "dust",
+   "say": "नेक्स्ट टाइम, आइ विल ब्रिंग अ ट्रेजर मैप, पक्का!"
+  },
+  {
+   "image": "Priya laughing again, gently patting his shoulder in a friendly gesture of thanks and appreciation.",
+   "speaker": "Priya",
+   "line": "Priya laughed again, gently patting his shoulder in thanks.",
+   "fx": "dust",
+   "say": "प्रिया लाफ़्ड अगेन, जेंटली पैटिंग हिज़ शोल्डर इन थैंक्स."
+  },
+  {
+   "image": "Rahul on his scooter, riding away from the whimsical 'Riddle Residences', looking back with a final smile.",
+   "speaker": "narrator",
+   "line": "Rahul left, still chuckling, his earlier frustration forgotten.",
+   "fx": "none",
+   "say": "राहुल लेफ्ट, स्टिल चक्लिंग, हिज़ अर्लियर फ्रस्ट्रेशन फॉरगॉटन."
+  },
+  {
+   "image": "Rahul riding away on his scooter, a triumphant, wide grin on his face, looking back at the colourful courtyard entrance.",
+   "speaker": "Rahul",
+   "line": "He rode away on his scooter, a triumphant grin on his face.",
+   "fx": "none",
+   "say": "ही रोड अवे ऑन हिज़ स्कूटर, अ ट्रायम्फन्ट ग्रिन ऑन हिज़ फेस."
+  },
+  {
+   "image": "Rahul looking back over his shoulder at the now visible sign for 'The Riddle Residences', smiling brightly, a knowing look.",
+   "speaker": "Rahul",
+   "line": "Rahul looked back at \"The Riddle Residences,\" smiling brightly.",
+   "fx": "none",
+   "say": "राहुल लुक्ड बैक एट \"द रिडल रेजिडेंसेस,\" स्माइलिंग ब्राइटली."
+  }
+ ],
+ "caption": "Delivery Guy Lost His Mind... My Address is a Riddle 🤯",
+ "slug": "2026-11-16_part2",
+ "story_no": 60,
+ "yt_title": "Delivery Guy Lost His Mind... My Address is a Riddle 🤯",
+ "description": "My address drives delivery guys crazy, but this one almost gave up!\nHe had to solve a hilarious riddle just to find my home.\nWould you have figured out this address?",
+ "comment_question": "Would you have figured out this address?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnydelivery",
+  "#riddles",
+  "#confusingaddress",
+  "#indiancomedy",
+  "#cartoondrama",
+  "#relatablecomedy",
+  "#architectlife",
+  "#quirkyhomes",
+  "#viralshorts"
+ ]
+}

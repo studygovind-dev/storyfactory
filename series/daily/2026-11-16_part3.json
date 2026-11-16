@@ -1,0 +1,609 @@
+{
+ "series": "The Architect of My Heart",
+ "episode": 3,
+ "title": "The Architect of My Heart",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, female_young, light wheatish skin, long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta, warm smile.",
+   "voice": "hindi_female_young"
+  },
+  "Akash": {
+   "look": "Akash, male_young, light wheatish skin, neat short dark hair, kind eyes, smart casual shirt.",
+   "voice": "hindi_male_young"
+  },
+  "lawyer": {
+   "look": "Mr. Sharma, male, 50s, fair skin, neatly combed grey hair, spectacles, formal Indian attire (sherwani or waistcoat over kurta).",
+   "voice": "hindi_narrator_male"
+  },
+  "Dadi": {
+   "look": "Priya's late grandmother, old woman with a kind, wise face, silver hair in a bun, wearing a traditional saree, seen in an old, slightly faded photograph.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HIRED TO LOVE ME.",
+ "scenes": [
+  {
+   "image": "Priya looks directly at the camera, tears welling in her eyes, holding a crumpled, old photograph of a smiling Dadi. Shock and heartbreak on her face.",
+   "speaker": "narrator",
+   "line": "My Dadi found me love... after she passed away.",
+   "fx": "none",
+   "sub": "My grandmother found me love... after she passed away.",
+   "say": "मेरी दादी ने मुझे लव ढूँढा... उनके गुज़रने के बाद।"
+  },
+  {
+   "image": "Priya sits alone on a park bench, looking distant, a faint sad expression. Leaves falling around her.",
+   "speaker": "narrator",
+   "line": "Main love par vishwaas nahi karti thi.",
+   "fx": "none",
+   "sub": "I didn't believe in love.",
+   "say": "मैं लव पर विश्वास नहीं करती थी।"
+  },
+  {
+   "image": "Close-up of Priya's hand, holding a tiny, intricate silver locket. Her thumb gently traces it.",
+   "speaker": "narrator",
+   "line": "Previous heartbreak ne mujhe guarded bana diya tha.",
+   "fx": "none",
+   "sub": "Previous heartbreak had made me guarded.",
+   "say": "प्रीवियस हार्टब्रेक ने मुझे गार्डेड बना दिया था।"
+  },
+  {
+   "image": "Priya sitting in a cozy cafe, sketching in a notebook, but her expression is thoughtful, a little lonely.",
+   "speaker": "narrator",
+   "line": "Dadi always worried, 'Meri Priya akeli reh jaayegi.'",
+   "fx": "none",
+   "sub": "Grandma always worried, 'My Priya will remain alone.'",
+   "say": "दादी हमेशा चिंता करती थीं, 'मेरी प्रिया अकेली रह जाएगी।'"
+  },
+  {
+   "image": "Akash, with a gentle smile, offering Priya a cup of chai in the same cafe. Priya looks surprised.",
+   "speaker": "narrator",
+   "line": "Phir Akash aaya, like a ray of sunshine.",
+   "fx": "none",
+   "sub": "Then Akash came, like a ray of sunshine.",
+   "say": "फिर आकाश आया, लाइक अ रे ऑफ़ सनशाइन।"
+  },
+  {
+   "image": "Close-up of Akash's hand sketching something beautiful in a notebook, Priya's eyes looking at it, impressed.",
+   "speaker": "narrator",
+   "line": "He was an artist, ek dam alag.",
+   "fx": "none",
+   "sub": "He was an artist, completely different.",
+   "say": "ही वाज़ अन आर्टिस्ट, एक दम अलग।"
+  },
+  {
+   "image": "Priya and Akash laughing together over coffee at the cafe, looking comfortable.",
+   "speaker": "narrator",
+   "line": "Usne dheere dheere meri walls todi.",
+   "fx": "none",
+   "sub": "He slowly broke down my walls.",
+   "say": "उसने धीरे धीरे मेरी वॉल्स तोड़ी।"
+  },
+  {
+   "image": "Akash looking at Priya with genuine affection, a soft smile. Priya returns his gaze, shyly.",
+   "speaker": "Akash",
+   "line": "Priya, tum bahut special ho.",
+   "fx": "none",
+   "sub": "Priya, you are very special.",
+   "say": "प्रिया, तुम बहुत स्पेशल हो।"
+  },
+  {
+   "image": "Priya and Akash walking hand-in-hand through a vibrant market, smiling at each other.",
+   "speaker": "narrator",
+   "line": "Humara rishta blooming flower jaisa tha.",
+   "fx": "none",
+   "sub": "Our relationship was like a blooming flower.",
+   "say": "हमारा रिश्ता ब्लूमिंग फ्लावर जैसा था।"
+  },
+  {
+   "image": "Akash reading a poem to Priya under a tree, she listens intently, leaning on his shoulder.",
+   "speaker": "narrator",
+   "line": "Har din, I fell deeper in love.",
+   "fx": "none",
+   "sub": "Every day, I fell deeper in love.",
+   "say": "हर दिन, आई फेल डीपर इन लव।"
+  },
+  {
+   "image": "Close-up of Priya's hand intertwined with Akash's, a new engagement ring on her finger. Pure happiness.",
+   "speaker": "narrator",
+   "line": "He proposed, aur maine haan keh diya.",
+   "fx": "none",
+   "sub": "He proposed, and I said yes.",
+   "say": "ही प्रपोज़्ड, और मैंने हाँ कह दिया।"
+  },
+  {
+   "image": "Priya looking at her reflection in a mirror, glowing, touching her cheek, dreaming of her wedding.",
+   "speaker": "narrator",
+   "line": "Meri life perfect lag rahi thi.",
+   "fx": "none",
+   "sub": "My life felt perfect.",
+   "say": "मेरी लाइफ परफेक्ट लग रही थी।"
+  },
+  {
+   "image": "Priya sitting with a serious-looking lawyer in his office. He holds a manila folder.",
+   "speaker": "narrator",
+   "line": "Then Dadi ke lawyer ka call aaya.",
+   "fx": "none",
+   "sub": "Then Dadi's lawyer called.",
+   "say": "फिर दादी के लॉयर का कॉल आया।"
+  },
+  {
+   "image": "Close-up of an old, ornate wooden box on a desk, a key next to it.",
+   "speaker": "narrator",
+   "line": "Dadi had left a personal box for me.",
+   "fx": "none",
+   "sub": "Dadi had left a personal box for me.",
+   "say": "दादी हैड लेफ्ट अ पर्सनल बॉक्स फॉर मी।"
+  },
+  {
+   "image": "Priya opening the wooden box, her expression curious and a little emotional.",
+   "speaker": "narrator",
+   "line": "Filled with old letters and her diary.",
+   "fx": "none",
+   "sub": "Filled with old letters and her diary.",
+   "say": "फिल्ड विथ ओल्ड लेटर्स एंड हर डायरी।"
+  },
+  {
+   "image": "Close-up of Priya's face, reading a page from the diary. Her eyes widen in shock.",
+   "speaker": "narrator",
+   "line": "And then, I saw Akash's name.",
+   "fx": "none",
+   "sub": "And then, I saw Akash's name.",
+   "say": "एंड देन, आई सॉ आकाश का नाम।"
+  },
+  {
+   "image": "Priya holding the diary, her hand trembling slightly. A look of confusion turning to suspicion.",
+   "speaker": "narrator",
+   "line": "Yeh kya tha? Was Dadi hiding something?",
+   "fx": "none",
+   "sub": "What was this? Was Dadi hiding something?",
+   "say": "ये क्या था? वॉज़ दादी हाइडिंग समथिंग?"
+  },
+  {
+   "image": "Close-up on a specific entry in Dadi's diary, mentioning 'Akash' and 'plan.' Priya's finger points at the words.",
+   "speaker": "narrator",
+   "line": "'Akash... perfect for the plan.'",
+   "fx": "none",
+   "sub": "'Akash... perfect for the plan.'",
+   "say": "'आकाश... परफेक्ट फॉर द प्लान।'"
+  },
+  {
+   "image": "Priya looks up from the diary, her face filled with bewilderment and a hint of fear.",
+   "speaker": "narrator",
+   "line": "Mera sir ghoom gaya. Plan?",
+   "fx": "none",
+   "sub": "My head spun. Plan?",
+   "say": "मेरा सर घूम गया। प्लान?"
+  },
+  {
+   "image": "Priya furiously flipping through the diary, searching for more clues.",
+   "speaker": "narrator",
+   "line": "Har page pe koi hidden message.",
+   "fx": "none",
+   "sub": "Every page had some hidden message.",
+   "say": "हर पेज पे कोई हिडन मैसेज।"
+  },
+  {
+   "image": "Priya, frustrated, pacing in her living room, Akash's photo on a table, she avoids looking at it.",
+   "speaker": "narrator",
+   "line": "I felt a cold knot in my stomach.",
+   "fx": "none",
+   "sub": "I felt a cold knot in my stomach.",
+   "say": "आई फेल्ट अ कोल्ड नॉट इन माय स्टमक।"
+  },
+  {
+   "image": "Close-up of another diary entry, mentioning a specific lawyer's firm or name.",
+   "speaker": "narrator",
+   "line": "Ek naam bar-bar dikh raha tha.",
+   "fx": "none",
+   "sub": "One name kept appearing repeatedly.",
+   "say": "एक नाम बार-बार दिख रहा था।"
+  },
+  {
+   "image": "Priya on the phone, looking determined but worried.",
+   "speaker": "narrator",
+   "line": "I had to know the truth.",
+   "fx": "none",
+   "sub": "I had to know the truth.",
+   "say": "आई हैड टू नो द ट्रुथ।"
+  },
+  {
+   "image": "Priya walking into the lawyer's office again, her face stern, ready for answers.",
+   "speaker": "narrator",
+   "line": "Main wapas lawyer ke paas gayi.",
+   "fx": "none",
+   "sub": "I went back to the lawyer.",
+   "say": "मैं वापस लॉयर के पास गई।"
+  },
+  {
+   "image": "Priya sitting opposite the lawyer, diary open on the table, pointing to an entry. Lawyer looks uncomfortable.",
+   "speaker": "narrator",
+   "line": "'Yeh Akash aur plan kya hai?'",
+   "fx": "none",
+   "sub": "'What is this Akash and plan?'",
+   "say": "'ये आकाश और प्लान क्या है?'"
+  },
+  {
+   "image": "Close-up of the lawyer, looking hesitant, then taking a deep breath.",
+   "speaker": "lawyer",
+   "line": "Beti, tumhari Dadi ka ek sapna tha.",
+   "fx": "none",
+   "sub": "Daughter, your Dadi had a dream.",
+   "say": "बेटी, तुम्हारी दादी का एक सपना था।"
+  },
+  {
+   "image": "Priya's eyes wide with disbelief and dawning realization.",
+   "speaker": "narrator",
+   "line": "Mera dil zor se dhadak raha tha.",
+   "fx": "none",
+   "sub": "My heart was pounding loudly.",
+   "say": "मेरा दिल ज़ोर से धड़क रहा था।"
+  },
+  {
+   "image": "A flashback of Dadi (younger, vibrant) talking to Akash in a formal setting, perhaps a meeting. Akash looks respectful.",
+   "speaker": "lawyer",
+   "line": "Unhone Akash ko personally choose kiya tha.",
+   "fx": "none",
+   "sub": "She had personally chosen Akash.",
+   "say": "उन्होंने आकाश को पर्सनली चूज़ किया था।"
+  },
+  {
+   "image": "Priya's shocked face, eyes welling up with tears. The diary lies open.",
+   "speaker": "narrator",
+   "line": "Akash was... hired? A payment?",
+   "fx": "none",
+   "sub": "Akash was... hired? A payment?",
+   "say": "आकाश वॉज़... हायर्ड? अ पेमेंट?"
+  },
+  {
+   "image": "Close-up of a contract or agreement document, showing Akash's name and some terms.",
+   "speaker": "lawyer",
+   "line": "Tumhe love mein believe karane ke liye.",
+   "fx": "none",
+   "sub": "To make you believe in love.",
+   "say": "तुम्हें लव में बिलीव कराने के लिए।"
+  },
+  {
+   "image": "Priya clutches her chest, pain etched on her face. Her engagement ring glints.",
+   "speaker": "narrator",
+   "line": "Mera poora world toot gaya.",
+   "fx": "none",
+   "sub": "My whole world shattered.",
+   "say": "मेरा पूरा वर्ल्ड टूट गया।"
+  },
+  {
+   "image": "Flashback of Dadi's smiling photo.",
+   "speaker": "lawyer",
+   "line": "Dadi wanted your happiness above all.",
+   "fx": "none",
+   "sub": "Dadi wanted your happiness above all.",
+   "say": "दादी वॉन्टेड योर हैप्पीनेस अबव ऑल।"
+  },
+  {
+   "image": "Priya looking at Akash's smiling face in a photo, her expression now a mix of anger and confusion.",
+   "speaker": "narrator",
+   "line": "Was it all a lie? A performance?",
+   "fx": "none",
+   "sub": "Was it all a lie? A performance?",
+   "say": "वॉज़ इट ऑल अ लाई? अ परफॉरमेंस?"
+  },
+  {
+   "image": "Priya and Akash in a cafe, Priya's face is cold and hurt, Akash looks confused and concerned.",
+   "speaker": "narrator",
+   "line": "I confronted Akash that evening.",
+   "fx": "none",
+   "sub": "I confronted Akash that evening.",
+   "say": "मैंने आकाश को दैट इवनिंग कन्फ्रंट किया।"
+  },
+  {
+   "image": "Close-up of Priya showing Akash the diary entry with his name. His face falls in shock.",
+   "speaker": "narrator",
+   "line": "'Yeh kya hai, Akash? Sach bolo!'",
+   "fx": "none",
+   "sub": "'What is this, Akash? Tell me the truth!'",
+   "say": "'ये क्या है, आकाश? सच बोलो!'"
+  },
+  {
+   "image": "Akash's face, filled with regret and sadness, avoiding Priya's gaze.",
+   "speaker": "Akash",
+   "line": "Priya, please, let me explain.",
+   "fx": "none",
+   "sub": "Priya, please, let me explain.",
+   "say": "प्रिया, प्लीज़, लेट मी एक्सप्लेन।"
+  },
+  {
+   "image": "Priya stands up abruptly, tears streaming down her face, pushing her chair back.",
+   "speaker": "narrator",
+   "line": "'No explanations! You betrayed me!'",
+   "fx": "none",
+   "sub": "'No explanations! You betrayed me!'",
+   "say": "'नो एक्सप्लेनेशन्स! यू बिट्रेयड मी!'"
+  },
+  {
+   "image": "Akash reaching out to Priya, desperate, but she pulls away.",
+   "speaker": "Akash",
+   "line": "'Mera pyaar jhooth nahi hai, Priya.'",
+   "fx": "none",
+   "sub": "'My love is not a lie, Priya.'",
+   "say": "'मेरा प्यार झूठ नहीं है, प्रिया।'"
+  },
+  {
+   "image": "Priya alone in her room, crying, holding Dadi's locket.",
+   "speaker": "narrator",
+   "line": "I felt broken. Cheated.",
+   "fx": "none",
+   "sub": "I felt broken. Cheated.",
+   "say": "आई फेल्ट ब्रोकेन। चीटेड।"
+  },
+  {
+   "image": "Close-up on Dadi's diary, open to a later page, a different entry.",
+   "speaker": "narrator",
+   "line": "But then, ek aur entry dikhi.",
+   "fx": "none",
+   "sub": "But then, another entry appeared.",
+   "say": "बट देन, एक और एंट्री दिखी।"
+  },
+  {
+   "image": "Priya reading the new diary entry, her expression slowly changing to understanding, then soft tears.",
+   "speaker": "narrator",
+   "line": "Dadi ne Akash ke liye bhi likha tha.",
+   "fx": "none",
+   "sub": "Dadi had written for Akash too.",
+   "say": "दादी ने आकाश के लिए भी लिखा था।"
+  },
+  {
+   "image": "Close-up of the diary text: 'Uska dil achha hai. He will truly fall.'",
+   "speaker": "Dadi",
+   "line": "'Uska dil achha hai. He will truly fall.'",
+   "fx": "none",
+   "sub": "He has a good heart. He will truly fall.",
+   "say": "'उसका दिल अच्छा है। ही विल ट्रूली फॉल।'"
+  },
+  {
+   "image": "Priya's tear-streaked face, a small, sad smile forming. She understands.",
+   "speaker": "narrator",
+   "line": "Dadi knew his pure intentions.",
+   "fx": "none",
+   "sub": "Dadi knew his pure intentions.",
+   "say": "दादी न्यू हिज़ प्योर इंटेंशन्स।"
+  },
+  {
+   "image": "Flashback of Akash's kind face, laughing with Priya. Genuine moments.",
+   "speaker": "narrator",
+   "line": "Every moment felt real because it was.",
+   "fx": "none",
+   "sub": "Every moment felt real because it was.",
+   "say": "एव्री मोमेंट फेल्ट रियल बिकॉज़ इट वॉज़।"
+  },
+  {
+   "image": "Priya looking at the locket, then at Dadi's photo, a new understanding in her eyes.",
+   "speaker": "narrator",
+   "line": "Dadi's love was my ultimate matchmaker.",
+   "fx": "none",
+   "sub": "Dadi's love was my ultimate matchmaker.",
+   "say": "दादीज़ लव वॉज़ माय अल्टीमेट मैचमेकर।"
+  },
+  {
+   "image": "Priya rushes out of her house, determined expression.",
+   "speaker": "narrator",
+   "line": "I needed to talk to him.",
+   "fx": "none",
+   "sub": "I needed to talk to him.",
+   "say": "आई नीडेड टू टॉक टू हिम।"
+  },
+  {
+   "image": "Priya finds Akash sitting alone in the cafe where they first met, looking dejected.",
+   "speaker": "narrator",
+   "line": "Akash wahi tha, jahan hum mile the.",
+   "fx": "none",
+   "sub": "Akash was there, where we first met.",
+   "say": "आकाश वहीं था, जहाँ हम मिले थे।"
+  },
+  {
+   "image": "Priya walks up to Akash, gently touching his shoulder. He looks up, surprised.",
+   "speaker": "narrator",
+   "line": "He looked so broken, like me.",
+   "fx": "none",
+   "sub": "He looked so broken, like me.",
+   "say": "ही लुक्ड सो ब्रोकेन, लाइक मी।"
+  },
+  {
+   "image": "Priya holding out Dadi's diary, open to the last entry, to Akash. His eyes read it.",
+   "speaker": "narrator",
+   "line": "'I read Dadi's words, Akash.'",
+   "fx": "none",
+   "sub": "'I read Dadi's words, Akash.'",
+   "say": "'आई रेड दादीज़ वर्ड्स, आकाश।'"
+  },
+  {
+   "image": "Akash's face, tears welling up, a look of immense relief and love.",
+   "speaker": "Akash",
+   "line": "'Priya, my feelings for you are real.'",
+   "fx": "none",
+   "sub": "'Priya, my feelings for you are real.'",
+   "say": "'प्रिया, माय फीलिंग्स फॉर यू आर रियल।'"
+  },
+  {
+   "image": "Priya smiling through her tears, reaching out to cup Akash's face.",
+   "speaker": "narrator",
+   "line": "'I know, Akash. I finally know.'",
+   "fx": "none",
+   "sub": "'I know, Akash. I finally know.'",
+   "say": "'आई नो, आकाश। आई फाइनली नो।'"
+  },
+  {
+   "image": "Priya and Akash hugging tightly, both emotional but relieved.",
+   "speaker": "narrator",
+   "line": "Dadi ka plan worked, in an unexpected way.",
+   "fx": "none",
+   "sub": "Dadi's plan worked, in an unexpected way.",
+   "say": "दादी का प्लान वर्क्ड, इन अन अनएक्सपेक्टेड वे।"
+  },
+  {
+   "image": "Close-up of the engagement ring on Priya's hand, sparkling.",
+   "speaker": "narrator",
+   "line": "True love, found by a loving hand.",
+   "fx": "none",
+   "sub": "True love, found by a loving hand.",
+   "say": "ट्रू लव, फाउंड बाई अ लविंग हैंड।"
+  },
+  {
+   "image": "Priya and Akash walking hand-in-hand, silhouetted against a setting sun, looking towards a bright future.",
+   "speaker": "narrator",
+   "line": "Sometimes, destiny takes a detour.",
+   "fx": "none",
+   "sub": "Sometimes, destiny takes a detour.",
+   "say": "समटाइम्स, डेस्टिनी टेक्स अ डिटूर।"
+  },
+  {
+   "image": "Priya holding Dadi's photo, smiling gently. A sense of peace.",
+   "speaker": "narrator",
+   "line": "And love finds its own true path.",
+   "fx": "none",
+   "sub": "And love finds its own true path.",
+   "say": "एंड लव फाइंड्स इट्स ओन ट्रू पाथ।"
+  },
+  {
+   "image": "Close-up of Dadi's photo, a single ray of sunbeam falling on it.",
+   "speaker": "narrator",
+   "line": "Thank you, Dadi. My matchmaker angel.",
+   "fx": "none",
+   "sub": "Thank you, Dadi. My matchmaker angel.",
+   "say": "थैंक यू, दादी। माय मैचमेकर एंजल।"
+  },
+  {
+   "image": "Priya and Akash sharing a tender kiss, bathed in soft light.",
+   "speaker": "narrator",
+   "line": "Humari love story bahut unique hai.",
+   "fx": "none",
+   "sub": "Our love story is very unique.",
+   "say": "हमारी लव स्टोरी बहुत यूनिक है।"
+  },
+  {
+   "image": "Priya, holding Akash's hand, both smiling brightly at the camera.",
+   "speaker": "narrator",
+   "line": "Pyaar ko bas ek chance chahiye hota hai.",
+   "fx": "none",
+   "sub": "Love just needs one chance.",
+   "say": "प्यार को बस एक चांस चाहिए होता है।"
+  },
+  {
+   "image": "Close-up of Priya's happy face, a single tear of joy.",
+   "speaker": "narrator",
+   "line": "Even if it starts with a secret.",
+   "fx": "none",
+   "sub": "Even if it starts with a secret.",
+   "say": "इवन इफ इट स्टार्ट्स विथ अ सीक्रेट।"
+  },
+  {
+   "image": "Akash holding Priya close, both looking at the horizon.",
+   "speaker": "narrator",
+   "line": "Dadi ka blessing humare saath hai.",
+   "fx": "none",
+   "sub": "Dadi's blessing is with us.",
+   "say": "दादी का ब्लेसिंग हमारे साथ है।"
+  },
+  {
+   "image": "A shot of their hands, intertwined, walking on a path.",
+   "speaker": "narrator",
+   "line": "Har din, ek naya chapter.",
+   "fx": "none",
+   "sub": "Every day, a new chapter.",
+   "say": "हर दिन, एक नया चैप्टर।"
+  },
+  {
+   "image": "Close-up of the engagement ring again, sparkling in sunlight.",
+   "speaker": "narrator",
+   "line": "Humara pyaar, ab aur bhi strong hai.",
+   "fx": "none",
+   "sub": "Our love, now even stronger.",
+   "say": "हमारा प्यार, अब और भी स्ट्रांग है।"
+  },
+  {
+   "image": "Priya looking thoughtfully at Dadi's photo.",
+   "speaker": "narrator",
+   "line": "Dadi taught me a deep lesson.",
+   "fx": "none",
+   "sub": "Dadi taught me a deep lesson.",
+   "say": "दादी टॉट मी अ डीप लेसन।"
+  },
+  {
+   "image": "Akash gently kissing Priya's forehead.",
+   "speaker": "narrator",
+   "line": "Love can come in surprising packages.",
+   "fx": "none",
+   "sub": "Love can come in surprising packages.",
+   "say": "लव कैन कम इन सरप्राइजिंग पैकेजिस।"
+  },
+  {
+   "image": "Priya and Akash hand-in-hand, walking away from the camera into a bright, hopeful future.",
+   "speaker": "narrator",
+   "line": "Humari kahani, ek naya beginning.",
+   "fx": "none",
+   "sub": "Our story, a new beginning.",
+   "say": "हमारी कहानी, एक नया बिगिनिंग।"
+  },
+  {
+   "image": "Close-up of Priya's hopeful, happy eyes.",
+   "speaker": "narrator",
+   "line": "Filled with Dadi's love and blessings.",
+   "fx": "none",
+   "sub": "Filled with Dadi's love and blessings.",
+   "say": "फिल्ड विथ दादीज़ लव एंड ब्लेसिंग्स।"
+  },
+  {
+   "image": "Priya and Akash holding each other, looking at the camera, genuine happiness.",
+   "speaker": "narrator",
+   "line": "Yeh rishta, Dadi ki den hai.",
+   "fx": "none",
+   "sub": "This relationship, is Dadi's gift.",
+   "say": "ये रिश्ता, दादी की देन है।"
+  },
+  {
+   "image": "A single marigold flower (traditional Indian flower) blooming beautifully.",
+   "speaker": "narrator",
+   "line": "Pyaar kabhi na kabhi mil hi jaata hai.",
+   "fx": "none",
+   "sub": "Love always finds its way eventually.",
+   "say": "प्यार कभी ना कभी मिल ही जाता है।"
+  },
+  {
+   "image": "Priya and Akash smiling, looking at each other lovingly.",
+   "speaker": "narrator",
+   "line": "Sometimes, it needs a little push.",
+   "fx": "none",
+   "sub": "Sometimes, it needs a little push.",
+   "say": "समटाइम्स, इट नीड्स अ लिटिल पुश।"
+  },
+  {
+   "image": "Priya holding Dadi's photo and Akash's hand, smiling warmly at the camera.",
+   "speaker": "narrator",
+   "line": "Kya aap aise plan par vishwaas karte?",
+   "fx": "none",
+   "sub": "Would you believe in such a plan?",
+   "say": "क्या आप ऐसे प्लान पर विश्वास करते?"
+  }
+ ],
+ "caption": "My Late Grandma Hired a Man to Love Me... I Found Out Why 💔",
+ "slug": "2026-11-16_part3",
+ "story_no": 61,
+ "yt_title": "My Late Grandma Hired a Man to Love Me... I Found Out Why 💔",
+ "description": "I fell for Akash, a charming artist, but then I found a truth that shattered everything. My Dadi had a secret plan to mend my broken heart. Would you believe in love after such a revelation?",
+ "comment_question": "Can love born from a secret truly be real?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#lovestory",
+  "#indiantwist",
+  "#grandmaslove",
+  "#unexpectedlove",
+  "#indianstory",
+  "#heartbreak",
+  "#healingheart",
+  "#destiny",
+  "#truefeelings"
+ ]
+}
