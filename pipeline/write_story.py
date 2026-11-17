@@ -22,7 +22,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from make_episode import ROOT, env, load_dotenv  # noqa: E402
 
 DAILY = ROOT / "series" / "daily"
-SCENES = 70                 # one line each, about 3 s -> 3.5-4 minute videos
+SCENES = 16                 # one line each, about 3 s -> 45-55 second Reels (saves ElevenLabs credits)
 
 CARTOON_STYLE = ("3D animated movie still in the style of a Pixar film, cute expressive characters with big "
                  "eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16")
@@ -75,6 +75,21 @@ ANIMAL_TOPICS = [
     "a forest ranger who understands animal language becomes famous after saving a wolf pack",
 ]
 
+LOVE_TOPICS = [
+    "a quiet love story with a twist: the letters she kept getting were written by someone she knew",
+    "two strangers keep missing each other at the same railway station, until one rainy evening",
+    "she rejects an arranged-marriage proposal, then finds out who he really is",
+    "a love that waited ten years and the one phone call that changed everything",
+    "a shy boy and the girl who sits next to him on the bus every day",
+    "a wedding called off at the last minute, and the person who stood up in the crowd",
+    "a husband secretly learns to cook for his sick wife; she finds out in the end",
+    "an old couple's anniversary and the surprise only the grandfather remembers",
+    "a rich boy pretending to be poor to find true love",
+    "a long-distance love story that ends at an airport",
+    "a girl finds an old diary and falls for the boy who wrote it",
+    "her mother-in-law was against the love marriage, until one night in the hospital",
+]
+
 # Most watched realistic story types on Shorts / Reels (emotional, twist ending, karma, kindness).
 REAL_TOPICS = [
     "kindness rewarded: someone helps a stranger who turns out to be important",
@@ -94,18 +109,18 @@ REAL_TOPICS = [
 ]
 
 PROMPT = """You write viral YouTube Shorts / Instagram Reels stories that people watch to the end and rewatch.
-Write ONE complete story for a 3.5-4 minute video. {kind}
+Write ONE complete story for a 45-55 second vertical video. {kind}
 Topic: {topic}
 These stories were already made. Use a DIFFERENT title, names, setting and twist:
 {history}
 
 Rules:
 - Exactly {n} scenes. Each scene is one picture and one spoken line. A new picture every line.
-- The whole story is 550-650 spoken words. Each line 6-11 words. Simple, gripping {lang}.
-- LINE 1 IS THE HOOK: a shocking, curious or funny statement that makes people stop scrolling
-  (examples: "My dog stole my wedding ring.", "Everyone laughed at the waiter. Big mistake.").
-- Structure: hook -> quick setup -> problem -> 2-3 turns that raise the stakes (a mini cliffhanger
-  every 30-40 seconds so nobody leaves) -> the big twist -> payoff -> one strong closing line.
+- The whole story is 110-130 spoken words. Each line 6-11 words. Simple, gripping {lang}.
+- LINE 1 IS THE HOOK, spoken in the first 2 seconds: a shocking, curious or funny statement that makes
+  people stop scrolling (examples: "My dog stole my wedding ring.", "Everyone laughed at the waiter. Big mistake.").
+- Structure: hook -> very quick setup -> one problem -> one turn that raises the stakes -> the big
+  twist -> payoff -> one strong closing line. No filler: every line moves the story forward.
 - The last line asks viewers a short question to comment on, or lands the punchline.
 - {speech}
 - Each scene has a "speaker": "narrator" or a character key. Spoken lines are just the words,
@@ -146,7 +161,7 @@ Return ONLY JSON:
                   without spoiling it, line 3 asks the viewers' comment question>",
   "comment_question": "<one short question viewers will want to answer, e.g. 'Would you have forgiven her?'>",
   "hashtags": ["<12 hashtags: 3 broad (#story #emotionalstory #storytime), the rest specific to this
-               story's topic and feelings. NO #shorts (the videos are 3-4 minutes long)>"],
+               story's topic and feelings. NO #shorts (Reels)>"],
   "scenes": [{{"image": "...", "speaker": "<narrator or character key>", "line": "..."{sub_field}, "fx": "<rain|snow|dust|none>"}}]
 }}"""
 
@@ -218,7 +233,7 @@ def check(story, used, voices):
     for s in story.get("scenes", []):
         if s.get("speaker") not in chars:
             s["speaker"] = "narrator"
-    if not SCENES - 10 <= len(story.get("scenes", [])) <= SCENES + 8:
+    if not SCENES - 4 <= len(story.get("scenes", [])) <= SCENES + 4:
         errs.append(f"has {len(story.get('scenes', []))} scenes")
     for s in story.get("scenes", []):
         for name in re.findall(r"\[\[(\w+)\]\]", s.get("image", "")):
@@ -228,36 +243,38 @@ def check(story, used, voices):
 
 
 def slots(day):
-    """What each of today's 3 videos should be."""
+    """Today's 2 videos. Three content types rotate (love, animal + human bond, funny), 2 per day,
+    so every type gets posted regularly without making more videos than ElevenLabs credits allow."""
     d = datetime.date.fromisoformat(day).toordinal()
-    # Most viewers are men, who watch stories led by a woman or girl more: female lead by default.
     lead = (" The MAIN CHARACTER is a woman or girl (young, warm, relatable); tell it in her voice "
             "(first person, narrator_female or female_young).")
-    real = {"style": REAL_STYLE, "shot": "realistic film shot", "lang": "English", "voices": REAL_VOICES,
+    real = {"style": REAL_STYLE, "shot": "realistic film shot", "voices": REAL_VOICES,
             "speech": ("Mostly ONE narrator telling it (first person 'I' works best), with a few short "
                        "emotional lines spoken by the characters at key moments.")}
-    return [
-        {"kind": ("It is an emotional, realistic ANIMAL + HUMAN story (wild or pet animal and people), "
-                  "told mostly through pictures so anyone in the world can follow it.") + lead,
-         "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal", "hindi": True, "talk": True,
-         "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way "
-                  "Indians really talk)")},
-        {"kind": ("It is a FUNNY cartoon story: light, silly, relatable comedy with a punchline at the end."
-                  + (" The main character is a girl or woman." if d % 3 else "")),
-         "topic": FUNNY_TOPICS[d % len(FUNNY_TOPICS)], "style": CARTOON_STYLE,
-         "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
-         "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
-                    "a narrator line now and then to move the story on."),
-         "hindi_voices": True, "mood": "funny", "talk": True,
-         "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way young "
-                  "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')")},
-        {"kind": ("It is an emotional, realistic story with a twist ending, set in India with Indian "
-                  "characters. Mature, adult tone: grown-up dialogue, never childish or baby talk." + lead),
-         "topic": REAL_TOPICS[(2 * d + 1) % len(REAL_TOPICS)], **real, "hindi": True,
-         "voices": ADULT_VOICES,  # human drama / romance: grown-up voices only, no cute voices
-         "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way "
-                  "Indians really talk, e.g. 'Maa, main sach bol raha hoon, please trust me.')")},
-    ]
+    hinglish = ("Hinglish (Hindi written in English letters, mixed with English words, the way "
+                "Indians really talk, e.g. 'Maa, main sach bol raha hoon, please trust me.')")
+    kinds = {
+        "love": {"kind": ("It is an emotional LOVE story set in India with Indian characters and a twist "
+                          "ending. Mature, adult tone: grown-up dialogue, never childish." + lead),
+                 "topic": LOVE_TOPICS[d % len(LOVE_TOPICS)], **real, "voices": ADULT_VOICES, "hindi": True,
+                 "lang": hinglish},
+        "animal": {"kind": ("It is an emotional ANIMAL + HUMAN BOND story (wild or pet animal and people), "
+                            "told mostly through pictures so anyone can follow it." + lead),
+                   "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal", "hindi": True,
+                   "talk": True, "lang": hinglish},
+        "joke": {"kind": ("It is a FUNNY cartoon JOKE-story to help people relax and laugh: a quick "
+                          "setup and a punchline at the end. Light, silly, relatable, family friendly."),
+                 "topic": FUNNY_TOPICS[d % len(FUNNY_TOPICS)], "style": CARTOON_STYLE,
+                 "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
+                 "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
+                            "a narrator line now and then to move the story on."),
+                 "hindi_voices": True, "mood": "funny", "talk": True,
+                 "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way young "
+                          "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')")},
+    }
+    order = ["love", "animal", "joke"]
+    return [kinds[order[d % 3]], kinds[order[(d + 1) % 3]]]
+
 
 
 def main():

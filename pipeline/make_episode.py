@@ -316,10 +316,8 @@ def make_voice_best(ep, i, scene, out):
             except requests.HTTPError as e:
                 code = e.response.status_code
                 if code in (401, 402, 403) or "quota" in e.response.text:
-                    print(f"  ElevenLabs refused ({code}: {e.response.text[:150]}); "
-                          "using free voices for the rest of this video.")
-                    ELEVEN_OFF = True
-                    break
+                    sys.exit(f"ElevenLabs refused ({code}: {e.response.text[:200]}). Stopping so no video "
+                             "goes out in the robotic free voice. Add credits and run again.")
                 print(f"  ElevenLabs busy ({code}), retrying...")
             except requests.RequestException:
                 print("  ElevenLabs connection error, retrying...")
@@ -467,6 +465,8 @@ TEASER_MAX = 85.0  # Instagram Reels must stay under 90 s
 
 def make_teaser(work, final):
     """First ~60-85 s of the story, cut at the end of a line, with a 'full story' card: a Reel."""
+    if duration(final) <= TEASER_MAX:  # a short video is already a Reel: no separate teaser
+        return None
     cuts = json.loads((work / "cuts.json").read_text()) if (work / "cuts.json").exists() else []
     scale = duration(final) / cuts[-1] if cuts else 1.0  # the video may have been sped up
     ok = [c * scale for c in cuts if c * scale <= TEASER_MAX - 4]
@@ -515,7 +515,7 @@ def send_telegram(final, ep):
     token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
     final = fit_for_telegram(final)
     if ep.get("short"):
-        cap = f"📌 Story #{ep['story_no']} · Video {ep['episode']} of 3 today\n{ep['title']}"
+        cap = f"📌 Story #{ep['story_no']} · Video {ep['episode']} of 2 today\n{ep['title']}"
     elif ep.get("story_no"):
         cap = (f"📌 Story #{ep['story_no']} · Part {ep['episode']} of {ep['parts']}\n"
                f"{ep['series']}: {ep['title']}")

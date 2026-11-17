@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Daily runner (used by GitHub Actions). Sends today's story in 3 parts:
-  story at 9:00, cartoon at 13:00, story at 17:00 India time.
+Daily runner (used by GitHub Actions). Sends today's 2 short videos at 9:00 and 17:00 India time.
 
 GitHub starts scheduled runs late or skips them on busy days, so this is
 safe to run many times a day: each run makes every part that is due and
@@ -12,7 +11,7 @@ Usage:
   python pipeline/daily.py           # do whatever is due now
   python pipeline/daily.py --part 2  # make and send part 2 now (manual)
 """
-import argparse, datetime, json, subprocess, sys, time
+import argparse, datetime, json, os, subprocess, sys, time
 
 import requests
 from pathlib import Path
@@ -22,8 +21,8 @@ from make_episode import ROOT, env, load_dotenv, send_telegram  # noqa: E402
 from post_social import post_all  # noqa: E402
 
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
-SEND_AT = {1: (9, 0), 2: (13, 0), 3: (17, 0)}
-START_EARLY = datetime.timedelta(minutes=170)  # a 4-minute video takes 40-70 minutes to make
+SEND_AT = {1: (9, 0), 2: (17, 0)}  # 2 short videos a day (saves ElevenLabs credits)
+START_EARLY = datetime.timedelta(minutes=120)  # a 50-second video takes about 10-20 minutes to make
 DAILY = ROOT / "series" / "daily"
 
 
@@ -43,12 +42,39 @@ def save_to_repo(msg):
             sh("git", "pull", "-q", "--rebase")
 
 
+def eleven_credits_ok():
+    """False (and a Telegram warning) when ElevenLabs credits are too low for a video, so we never
+    post a video in the robotic free voice."""
+    key = os.environ.get("ELEVEN_API_KEY", "").strip()
+    if not key:
+        return True
+    try:
+        r = requests.get("https://api.elevenlabs.io/v1/user/subscription", headers={"xi-api-key": key},
+                         timeout=30)
+        if not r.ok:
+            return True  # cannot tell: let the video try
+        sub = r.json()
+        left = sub["character_limit"] - sub["character_count"]
+    except (requests.RequestException, KeyError, ValueError):
+        return True
+    if left >= 1500:
+        return True
+    requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendMessage",
+                  data={"chat_id": env("TELEGRAM_CHAT_ID"),
+                        "text": f"⚠️ ElevenLabs credits are almost out ({left} left). No video was made, so "
+                                "nothing is posted in a robotic voice. Add credits or wait for the monthly reset."},
+                  timeout=60)
+    return False
+
+
 def make_and_send(day, part, wait):
     ep_file = DAILY / f"{day}_part{part}.json"
     marker = DAILY / f"{day}_part{part}.sent"
     if marker.exists():
         print(f"Part {part} already sent today.")
         return True
+    if not eleven_credits_ok():
+        return False
     if subprocess.run([sys.executable, str(ROOT / "pipeline" / "make_episode.py"),
                        str(ep_file), "--free", "--no-send"], cwd=ROOT).returncode:
         print(f"Making part {part} failed.")
@@ -82,7 +108,7 @@ def make_and_send(day, part, wait):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--part", type=int, choices=[1, 2, 3], help="make and send this part now")
+    ap.add_argument("--part", type=int, choices=[1, 2], help="make and send this part now")
     ap.add_argument("--day", help="story date YYYY-MM-DD (default: today, India time)")
     a = ap.parse_args()
     load_dotenv()

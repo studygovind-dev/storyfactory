@@ -15,7 +15,7 @@ from pathlib import Path
 import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from make_episode import HANDLE, env, load_dotenv  # noqa: E402
+from make_episode import HANDLE, duration, env, load_dotenv  # noqa: E402
 
 GRAPH = "https://graph.facebook.com/" + os.environ.get("META_GRAPH_VERSION", "v24.0")
 
@@ -138,11 +138,14 @@ def post_all(video, ep):
         return []  # auto-posting not set up: nothing to do
     problems = []
     teaser = Path(video).with_name("teaser.mp4")  # Reels must be under 90 s
+    if not teaser.exists() and duration(video) <= 85:
+        teaser = Path(video)  # the video itself is short enough to be the Reel
     jobs = []
-    if not teaser.exists():  # no teaser: post the full video. With a teaser, Facebook gets only the Reel (no double post)
+    if not teaser.exists():  # long video, no teaser: post the full video. Otherwise Facebook gets only the Reel
         jobs.append(("Facebook", post_facebook, video, ep))
     if teaser.exists():
-        reel = {**ep, "yt_title": ep["yt_title"] + "\n\n▶️ Full story on our Facebook page & YouTube"}
+        reel = ep if teaser == Path(video) else {
+            **ep, "yt_title": ep["yt_title"] + "\n\n▶️ Full story on our Facebook page & YouTube"}
         jobs.append(("Instagram", post_instagram, teaser, reel))
         jobs.append(("Facebook Reels", post_facebook_reel, teaser, reel))
     for name, fn, file, info in jobs:
