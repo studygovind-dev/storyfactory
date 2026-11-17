@@ -41,6 +41,9 @@ jobs:
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}          # Facebook + Instagram auto-posting
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
       GH_TOKEN: ${{ github.token }}   # temporary public link for Instagram reels
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}          # YouTube Shorts auto-upload
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
       VOICE_FEMALE: ${{ secrets.VOICE_FEMALE }}
       VOICE_MALE: ${{ secrets.VOICE_MALE }}
       VOICE_CHILD: ${{ secrets.VOICE_CHILD }}

@@ -16,6 +16,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from make_episode import HANDLE, duration, env, load_dotenv  # noqa: E402
+import post_youtube as post_youtube_mod  # noqa: E402
 
 GRAPH = "https://graph.facebook.com/" + os.environ.get("META_GRAPH_VERSION", "v24.0")
 
@@ -134,20 +135,23 @@ def post_instagram(video, ep, page, token):
 def post_all(video, ep):
     """Post everywhere that is set up. Returns the list of problems (empty = all fine)."""
     page, token = os.environ.get("FB_PAGE_ID", "").strip(), os.environ.get("FB_PAGE_TOKEN", "").strip()
-    if not (page and token):
-        return []  # auto-posting not set up: nothing to do
     problems = []
     teaser = Path(video).with_name("teaser.mp4")  # Reels must be under 90 s
     if not teaser.exists() and duration(video) <= 85:
         teaser = Path(video)  # the video itself is short enough to be the Reel
     jobs = []
-    if not teaser.exists():  # long video, no teaser: post the full video. Otherwise Facebook gets only the Reel
-        jobs.append(("Facebook", post_facebook, video, ep))
-    if teaser.exists():
-        reel = ep if teaser == Path(video) else {
-            **ep, "yt_title": ep["yt_title"] + "\n\n▶️ Full story on our Facebook page & YouTube"}
-        jobs.append(("Instagram", post_instagram, teaser, reel))
-        jobs.append(("Facebook Reels", post_facebook_reel, teaser, reel))
+    if page and token:
+        if not teaser.exists():  # long video, no teaser: post the full video. Otherwise Facebook gets only the Reel
+            jobs.append(("Facebook", post_facebook, video, ep))
+        if teaser.exists():
+            reel = ep if teaser == Path(video) else {
+                **ep, "yt_title": ep["yt_title"] + "\n\n▶️ Full story on our Facebook page & YouTube"}
+            jobs.append(("Instagram", post_instagram, teaser, reel))
+            jobs.append(("Facebook Reels", post_facebook_reel, teaser, reel))
+    if post_youtube_mod.configured():  # YouTube Shorts (must be under 3 minutes)
+        yt_file = Path(video) if duration(video) <= 175 else (teaser if teaser.exists() else None)
+        if yt_file:
+            jobs.append(("YouTube", post_youtube_mod.post_youtube, yt_file, ep))
     for name, fn, file, info in jobs:
         if os.environ.get("POST_ONLY") and os.environ["POST_ONLY"] != name:
             continue
