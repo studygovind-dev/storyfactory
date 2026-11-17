@@ -1,0 +1,605 @@
+{
+ "series": "Ganga's Silent Promise",
+ "episode": 1,
+ "title": "Ganga's Silent Promise",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, 22-25 years old (Aarohi). Fair skin, long soft wavy dark-brown hair, expressive eyes, small nose pin and simple earrings. Wears an elegant pastel blue cotton kurta and white churidar.",
+   "voice": "hindi_narrator_female"
+  },
+  "Kishan": {
+   "look": "Young man, 18-19 years old. Light wheatish skin, short dark hair, earnest, determined eyes. Wears a faded grey cotton kurta and simple dark trousers.",
+   "voice": "hindi_male_young"
+  },
+  "Ganga": {
+   "look": "A mature, gentle cow. White with large, soft brown patches, kind eyes. No collar.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "THE IMPOSSIBLE RETURN",
+ "scenes": [
+  {
+   "image": "Close-up of [[narrator]]'s face, eyes wide with shock and a hint of tears, looking intently off-camera.",
+   "speaker": "narrator",
+   "line": "Kabhi socha nahi tha, ek cow itni door chal ke aa sakti hai.",
+   "fx": "none",
+   "sub": "Never thought, a cow could walk so far.",
+   "say": "कभी सोचा नहीं था, एक काऊ इतनी दूर चल के आ सकती है।"
+  },
+  {
+   "image": "Wide shot of a serene Indian village at sunrise, golden light over fields and small homes. [[narrator]] smiles softly in the foreground.",
+   "speaker": "narrator",
+   "line": "Humare chote se gaon mein, zindagi badi simple thi.",
+   "fx": "none",
+   "sub": "In our small village, life was very simple.",
+   "say": "हमारे छोटे से गाँव में, ज़िंदगी बड़ी सिंपल थी।"
+  },
+  {
+   "image": "A young [[Kishan]] (around 10) gently petting [[Ganga]] (a calf) in a sunlit green pasture, both looking content.",
+   "speaker": "narrator",
+   "line": "Aur Kishan ka best friend thi uski cow, Ganga.",
+   "fx": "none",
+   "sub": "And Kishan's best friend was his cow, Ganga.",
+   "say": "और किशन का बेस्ट फ्रेंड थी उसकी काऊ, गंगा।"
+  },
+  {
+   "image": "Teenage [[Kishan]] leaning against [[Ganga]] (now a young cow) under a tree, reading a worn textbook. [[Ganga]] chews peacefully.",
+   "speaker": "narrator",
+   "line": "Ganga uska sahara thi, uske bade sapno ki gawah.",
+   "fx": "none",
+   "sub": "Ganga was his support, a witness to his big dreams.",
+   "say": "गंगा उसका सहारा थी, उसके बड़े सपनों की गवाह।"
+  },
+  {
+   "image": "Close-up of [[Kishan]]'s hand gently stroking [[Ganga]]'s head, showing deep affection. Her soft eyes look at him.",
+   "speaker": "narrator",
+   "line": "Unka rishta, sirf janwar-insaan ka nahi tha.",
+   "fx": "none",
+   "sub": "Their relationship wasn't just animal-human.",
+   "say": "उनका रिश्ता, सिर्फ जानवर-इंसान का नहीं था।"
+  },
+  {
+   "image": "[[narrator]] watching [[Kishan]] and [[Ganga]] from a distance, a warm, knowing smile on her face.",
+   "speaker": "narrator",
+   "line": "Main unki bonding dekhkar hamesha hairan rehti thi.",
+   "fx": "none",
+   "sub": "I was always amazed watching their bond.",
+   "say": "मैं उनकी बॉन्डिंग देखकर हमेशा हैरान रहती थी।"
+  },
+  {
+   "image": "A humble village home, smoke curling from the chimney, with lush green fields stretching behind it.",
+   "speaker": "narrator",
+   "line": "Kishan ke pita ji ne, badi mehnat se kheti ki thi.",
+   "fx": "none",
+   "sub": "Kishan's father had farmed with great effort.",
+   "say": "किशन के पिता जी ने, बड़ी मेहनत से खेती की थी।"
+  },
+  {
+   "image": "[[Kishan]] sitting under a banyan tree, intently looking at an engineering textbook with a determined expression.",
+   "speaker": "narrator",
+   "line": "Par Kishan ke sapne, kheton se bahut aage the.",
+   "fx": "none",
+   "sub": "But Kishan's dreams were far beyond the fields.",
+   "say": "पर किशन के सपने, खेतों से बहुत आगे थे।"
+  },
+  {
+   "image": "Close-up of an old, worn engineering textbook page, with complex diagrams and equations.",
+   "speaker": "narrator",
+   "line": "Vo engineer banna chahta tha, gaon se bahar jaakar.",
+   "fx": "none",
+   "sub": "He wanted to become an engineer, moving outside the village.",
+   "say": "वो इंजीनियर बनना चाहता था, गाँव से बाहर जाकर।"
+  },
+  {
+   "image": "[[narrator]] looking thoughtful, a slight concern etched on her brow as she gazes into the distance.",
+   "speaker": "narrator",
+   "line": "Par gaon mein, padhai ka kharcha bahut mushkil tha.",
+   "fx": "none",
+   "sub": "But in the village, education costs were very difficult.",
+   "say": "पर गाँव में, पढ़ाई का खर्चा बहुत मुश्किल था।"
+  },
+  {
+   "image": "[[Kishan]] hugging [[Ganga]] tightly, his face buried in her neck, looking incredibly sad but resolute.",
+   "speaker": "narrator",
+   "line": "Ek din, usne ek mushkil faisla le liya.",
+   "fx": "none",
+   "sub": "One day, he made a difficult decision.",
+   "say": "एक दिन, उसने एक मुश्किल फ़ैसला ले लिया।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s face, her expression deeply sympathetic, almost sharing [[Kishan]]'s pain.",
+   "speaker": "narrator",
+   "line": "Maine use dekha tha, uska dil toot raha tha.",
+   "fx": "none",
+   "sub": "I had seen him, his heart was breaking.",
+   "say": "मैंने उसे देखा था, उसका दिल टूट रहा था।"
+  },
+  {
+   "image": "[[Kishan]] gently pats [[Ganga]]'s neck, tears welling in his eyes as he tries to compose himself.",
+   "speaker": "narrator",
+   "line": "Usne Ganga ko bechne ka faisla kiya.",
+   "fx": "none",
+   "sub": "He decided to sell Ganga.",
+   "say": "उसने गंगा को बेचने का फ़ैसला किया।"
+  },
+  {
+   "image": "Wider shot: [[Kishan]] talking to an older man (the buyer), reluctantly pointing towards [[Ganga]], who stands nearby.",
+   "speaker": "narrator",
+   "line": "Taaki uski college fees ka intezam ho sake.",
+   "fx": "none",
+   "sub": "So that his college fees could be arranged.",
+   "say": "ताकि उसकी कॉलेज फ़ीस का इंतज़ाम हो सके।"
+  },
+  {
+   "image": "Close-up of [[Kishan]] wiping a single tear from his cheek, looking at [[Ganga]] with a final, pained glance.",
+   "speaker": "narrator",
+   "line": "Uski zindagi ka sabse mushkil din tha.",
+   "fx": "none",
+   "sub": "It was the most difficult day of his life.",
+   "say": "उसकी ज़िंदगी का सबसे मुश्किल दिन था।"
+  },
+  {
+   "image": "[[narrator]] looking worried as she watches the buyer gently but firmly leading [[Ganga]] away from [[Kishan]]'s home.",
+   "speaker": "narrator",
+   "line": "Ganga ko lekar jaane ka scene, dil tod dene wala tha.",
+   "fx": "none",
+   "sub": "The scene of taking Ganga away was heartbreaking.",
+   "say": "गंगा को लेकर जाने का सीन, दिल तोड़ देने वाला था।"
+  },
+  {
+   "image": "[[Ganga]] looking back over her shoulder at [[Kishan]], her eyes wide with confusion and a hint of sadness.",
+   "speaker": "narrator",
+   "line": "Ganga baar baar peeche mudkar dekh rahi thi.",
+   "fx": "none",
+   "sub": "Ganga kept looking back repeatedly.",
+   "say": "गंगा बार बार पीछे मुड़कर देख रही थी।"
+  },
+  {
+   "image": "[[Kishan]] standing alone and still, watching [[Ganga]] disappear down a dusty village road, his head bowed in despair.",
+   "speaker": "narrator",
+   "line": "Kishan wahan khada tha, jaise patthar ban gaya ho.",
+   "fx": "dust",
+   "sub": "Kishan stood there, as if turned to stone.",
+   "say": "किशन वहाँ खड़ा था, जैसे पत्थर बन गया हो।"
+  },
+  {
+   "image": "Close-up of [[Kishan]]'s clenched fist, knuckles white, conveying his silent anguish.",
+   "speaker": "narrator",
+   "line": "Har step ke saath, uska dil aur bhaari ho raha tha.",
+   "fx": "none",
+   "sub": "With every step, his heart grew heavier.",
+   "say": "हर स्टेप के साथ, उसका दिल और भारी हो रहा था।"
+  },
+  {
+   "image": "[[narrator]] placing a comforting hand on [[Kishan]]'s shoulder from behind. He barely reacts, lost in his pain.",
+   "speaker": "narrator",
+   "line": "Maine use console karne ki koshish ki.",
+   "fx": "none",
+   "sub": "I tried to console him.",
+   "say": "मैंने उसे कंसोल करने की कोशिश की।"
+  },
+  {
+   "image": "[[Kishan]] turns his head away slightly, eyes red, unable to speak, his pain evident.",
+   "speaker": "narrator",
+   "line": "Par usne kuch nahi kaha, bas aankhon mein aansu.",
+   "fx": "none",
+   "sub": "But he said nothing, just tears in his eyes.",
+   "say": "पर उसने कुछ नहीं कहा, बस आँखों में आँसू।"
+  },
+  {
+   "image": "Wide shot of [[Ganga]] being led further down the dusty road, becoming a smaller figure in the distance.",
+   "speaker": "narrator",
+   "line": "Ganga chalti gayi, uss anjaan raaste par.",
+   "fx": "dust",
+   "sub": "Ganga kept walking, on that unknown path.",
+   "say": "गंगा चलती गयी, उस अनजान रास्ते पर।"
+  },
+  {
+   "image": "[[narrator]] watching the empty, dusty road where [[Ganga]] disappeared, a somber expression on her face.",
+   "speaker": "narrator",
+   "line": "Pura gaon us din, bahut udaas tha.",
+   "fx": "none",
+   "sub": "The entire village was very sad that day.",
+   "say": "पूरा गाँव उस दिन, बहुत उदास था।"
+  },
+  {
+   "image": "[[Kishan]] packing a small, worn bag in his humble room, his face looking weary and drained.",
+   "speaker": "narrator",
+   "line": "Kuch din baad, Kishan bhi shahar chala gaya.",
+   "fx": "none",
+   "sub": "A few days later, Kishan also left for the city.",
+   "say": "कुछ दिन बाद, किशन भी शहर चला गया।"
+  },
+  {
+   "image": "Close-up of a bus ticket in [[Kishan]]'s hand, showing a city name as the destination.",
+   "speaker": "narrator",
+   "line": "Apne bade sapne poore karne ke liye.",
+   "fx": "none",
+   "sub": "To fulfill his big dreams.",
+   "say": "अपने बड़े सपने पूरे करने के लिए।"
+  },
+  {
+   "image": "[[narrator]] waves goodbye to [[Kishan]] at a small village bus stop, a sad smile on her face as he boards.",
+   "speaker": "narrator",
+   "line": "Use laga tha, usne sahi kiya hai.",
+   "fx": "none",
+   "sub": "He thought, he had done the right thing.",
+   "say": "उसे लगा था, उसने सही किया है।"
+  },
+  {
+   "image": "An empty cattle shed at [[Kishan]]'s house, sunbeams filtering through, highlighting the dust.",
+   "speaker": "narrator",
+   "line": "Ganga ki jagah, ab wahan khali thi.",
+   "fx": "dust",
+   "sub": "Ganga's place, was now empty there.",
+   "say": "गंगा की जगह, अब वहाँ खाली थी।"
+  },
+  {
+   "image": "[[Kishan]]'s mother looking sadly towards the empty shed, a wistful expression on her face.",
+   "speaker": "narrator",
+   "line": "Pura ghar uski kami mehsoos kar raha tha.",
+   "fx": "none",
+   "sub": "The whole family was feeling her absence.",
+   "say": "पूरा घर उसकी कमी महसूस कर रहा था।"
+  },
+  {
+   "image": "[[narrator]] walking slowly through the village, looking thoughtful, her gaze distant.",
+   "speaker": "narrator",
+   "line": "Main bhi Ganga ko bahut miss kar rahi thi.",
+   "fx": "none",
+   "sub": "I was also missing Ganga very much.",
+   "say": "मैं भी गंगा को बहुत मिस कर रही थी।"
+  },
+  {
+   "image": "Shot of the new owner's farm, but [[Ganga]] is noticeably absent. [[narrator]] looks confused, scanning the area.",
+   "speaker": "narrator",
+   "line": "Par tab mujhe kuch ajeeb laga.",
+   "fx": "none",
+   "sub": "But then something strange occurred to me.",
+   "say": "पर तब मुझे कुछ अजीब लगा।"
+  },
+  {
+   "image": "[[narrator]] talking to a neighbor, hands slightly gestured in puzzlement, asking a question.",
+   "speaker": "narrator",
+   "line": "Maine suna, naye maalik ke paas Ganga nahi thi.",
+   "fx": "none",
+   "sub": "I heard, Ganga wasn't with the new owner.",
+   "say": "मैंने सुना, नए मालिक के पास गंगा नहीं थी।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s concerned face, eyebrows furrowed in confusion and worry.",
+   "speaker": "narrator",
+   "line": "Pehle mujhe laga, shayad galat suna hoga.",
+   "fx": "none",
+   "sub": "First I thought, maybe I heard wrong.",
+   "say": "पहले मुझे लगा, शायद गलत सुना होगा।"
+  },
+  {
+   "image": "[[narrator]] visiting the new owner's farm, actively looking around, her gaze searching for [[Ganga]].",
+   "speaker": "narrator",
+   "line": "Main khud dekhne gayi, par Ganga nahi dikhi.",
+   "fx": "none",
+   "sub": "I went to see for myself, but Ganga wasn't visible.",
+   "say": "मैं खुद देखने गयी, पर गंगा नहीं दिखी।"
+  },
+  {
+   "image": "The owner shrugs, looking annoyed, explaining something to [[narrator]] with a dismissive gesture.",
+   "speaker": "narrator",
+   "line": "Usne bataya, Ganga wahan se chali gayi thi.",
+   "fx": "none",
+   "sub": "He said, Ganga had left from there.",
+   "say": "उसने बताया, गंगा वहाँ से चली गयी थी।"
+  },
+  {
+   "image": "[[narrator]]'s eyes widen in disbelief, a hand flying to her mouth in shock.",
+   "speaker": "narrator",
+   "line": "Chali gayi? Kahan ja sakti thi vo?",
+   "fx": "none",
+   "sub": "Left? Where could she have gone?",
+   "say": "चली गयी? कहाँ जा सकती थी वो?"
+  },
+  {
+   "image": "Villagers gathered in small groups, gossiping, looking surprised and bewildered by the news.",
+   "speaker": "narrator",
+   "line": "Pura gaon hairan tha, ye kaise ho sakta hai?",
+   "fx": "none",
+   "sub": "The whole village was surprised, how could this be?",
+   "say": "पूरा गाँव हैरान था, ये कैसे हो सकता है?"
+  },
+  {
+   "image": "[[narrator]] walking along the dusty road, looking intently into the fields, searching for any sign.",
+   "speaker": "narrator",
+   "line": "Maine uski talash shuru kar di.",
+   "fx": "dust",
+   "sub": "I started searching for her.",
+   "say": "मैंने उसकी तलाश शुरू कर दी।"
+  },
+  {
+   "image": "Close-up of [[narrator]]'s determined face, worry lines forming around her eyes, but a flicker of hope.",
+   "speaker": "narrator",
+   "line": "Mujhe lagta tha, Ganga wapas ghar aa rahi hogi.",
+   "fx": "none",
+   "sub": "I felt, Ganga must be coming back home.",
+   "say": "मुझे लगता था, गंगा वापस घर आ रही होगी।"
+  },
+  {
+   "image": "[[Kishan]] in a cramped city hostel room, surrounded by books, looking tired and overwhelmed.",
+   "speaker": "narrator",
+   "line": "Udhar shahar mein, Kishan bhi theek nahi tha.",
+   "fx": "none",
+   "sub": "Meanwhile in the city, Kishan wasn't well either.",
+   "say": "उधर शहर में, किशन भी ठीक नहीं था।"
+  },
+  {
+   "image": "Close-up of [[Kishan]] looking sadly at a small, slightly creased photo of [[Ganga]] that he holds secretly.",
+   "speaker": "narrator",
+   "line": "Uska padhai mein mann nahi lag raha tha.",
+   "fx": "none",
+   "sub": "He wasn't able to focus on his studies.",
+   "say": "उसका पढ़ाई में मन नहीं लग रहा था।"
+  },
+  {
+   "image": "[[narrator]] sees [[Kishan]] sitting alone at the village bus stop, looking even more dejected and defeated than before.",
+   "speaker": "narrator",
+   "line": "Ek din, maine use bus stop par dekha.",
+   "fx": "none",
+   "sub": "One day, I saw him at the bus stop.",
+   "say": "एक दिन, मैंने उसे बस स्टॉप पर देखा।"
+  },
+  {
+   "image": "[[Kishan]] sitting on a wooden bench, head in his hands, slumped posture, looking utterly defeated.",
+   "speaker": "narrator",
+   "line": "Vo wapas aa raha tha, fees bhar nahi paya.",
+   "fx": "none",
+   "sub": "He was coming back, couldn't pay the fees.",
+   "say": "वो वापस आ रहा था, फीस भर नहीं पाया।"
+  },
+  {
+   "image": "[[narrator]] approaches [[Kishan]], her expression a mix of deep concern and gentle reproach.",
+   "speaker": "narrator",
+   "line": "Kya hua, Kishan? Tum kyon wapas aa gaye?",
+   "fx": "none",
+   "sub": "What happened, Kishan? Why did you come back?",
+   "say": "क्या हुआ, किशन? तुम क्यों वापस आ गए?"
+  },
+  {
+   "image": "[[Kishan]] looks up, startled, his eyes red and swollen from crying, his face etched with despair.",
+   "speaker": "Kishan",
+   "line": "Mai… mai nahi kar paya, Aarohi.",
+   "fx": "none",
+   "sub": "I... I couldn't do it, Aarohi.",
+   "say": "मैं… मैं नहीं कर पाया, आरोही।"
+  },
+  {
+   "image": "[[narrator]]'s face softens slightly, seeing his raw pain, her anger replaced by sympathy.",
+   "speaker": "narrator",
+   "line": "Uska sapna, toot chuka tha.",
+   "fx": "none",
+   "sub": "His dream, was broken.",
+   "say": "उसका सपना, टूट चुका था।"
+  },
+  {
+   "image": "[[narrator]] and [[Kishan]] walking silently back towards the village, dust swirling around their feet.",
+   "speaker": "narrator",
+   "line": "Hum dono chupchaap ghar laut rahe the.",
+   "fx": "dust",
+   "sub": "Both of us were returning home in silence.",
+   "say": "हम दोनों चुपचाप घर लौट रहे थे।"
+  },
+  {
+   "image": "Wider shot of the village road, with a small, dusty animal figure visible in the distance, slowly approaching [[Kishan]]'s home.",
+   "speaker": "narrator",
+   "line": "Tabhi maine kuch dekha, door se.",
+   "fx": "none",
+   "sub": "Just then I saw something, from a distance.",
+   "say": "तभी मैंने कुछ देखा, दूर से।"
+  },
+  {
+   "image": "Closer shot of [[Ganga]], walking slowly, heavily, covered in dust, with a slight limp, looking exhausted.",
+   "speaker": "narrator",
+   "line": "Vo Ganga thi! Wapas aa rahi thi!",
+   "fx": "dust",
+   "sub": "It was Ganga! She was coming back!",
+   "say": "वो गंगा थी! वापस आ रही थी!"
+  },
+  {
+   "image": "[[narrator]] gasps, points towards [[Ganga]] with a trembling hand, her eyes wide with shock and joy.",
+   "speaker": "narrator",
+   "line": "Kishan! Dekho, vo kaun hai!",
+   "fx": "none",
+   "sub": "Kishan! Look, who is that!",
+   "say": "किशन! देखो, वो कौन है!"
+  },
+  {
+   "image": "[[Kishan]] looks up, disoriented, then his eyes widen in utter disbelief and overwhelming emotion as he spots [[Ganga]].",
+   "speaker": "Kishan",
+   "line": "Ganga?! Par... ye kaise?",
+   "fx": "none",
+   "sub": "Ganga?! But... how is this possible?",
+   "say": "गंगा?! पर... ये कैसे?"
+  },
+  {
+   "image": "Close-up of [[Kishan]]'s face, pure shock melting into tears of joy and an almost divine awe.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein, ek naya josh tha.",
+   "fx": "none",
+   "sub": "In his eyes, there was a new enthusiasm.",
+   "say": "उसकी आँखों में, एक नया जोश था।"
+  },
+  {
+   "image": "[[Ganga]] sees [[Kishan]], lets out a soft, weary moo, and tries to quicken her limping pace towards him.",
+   "speaker": "narrator",
+   "line": "Ganga ne use pehchan liya tha.",
+   "fx": "none",
+   "sub": "Ganga had recognized him.",
+   "say": "गंगा ने उसे पहचान लिया था।"
+  },
+  {
+   "image": "[[Kishan]] drops his bag, tears streaming down his face, and runs full speed towards [[Ganga]].",
+   "speaker": "narrator",
+   "line": "Vo uski taraf daud pada, bina soche.",
+   "fx": "none",
+   "sub": "He ran towards her, without thinking.",
+   "say": "वो उसकी तरफ दौड़ पड़ा, बिना सोचे।"
+  },
+  {
+   "image": "[[Kishan]] embraces [[Ganga]] tightly, burying his face in her dusty neck, sobbing uncontrollably.",
+   "speaker": "narrator",
+   "line": "Kitni door se aayi thi, apni jaan par khelkar.",
+   "fx": "none",
+   "sub": "She had come so far, risking her life.",
+   "say": "कितनी दूर से आई थी, अपनी जान पर खेलकर।"
+  },
+  {
+   "image": "Close-up of [[Ganga]] gently licking [[Kishan]]'s hair, her eyes filled with gentle affection and relief.",
+   "speaker": "narrator",
+   "line": "Uski loyalty ne, hum sabko rula diya.",
+   "fx": "none",
+   "sub": "Her loyalty made us all cry.",
+   "say": "उसकी लॉयल्टी ने, हम सबको रुला दिया।"
+  },
+  {
+   "image": "[[narrator]] watching the reunion, tears in her own eyes, but a joyful, emotional smile on her face.",
+   "speaker": "narrator",
+   "line": "Yeh sirf ek janwar nahi tha, ek family member thi.",
+   "fx": "none",
+   "sub": "This wasn't just an animal, it was a family member.",
+   "say": "यह सिर्फ एक जानवर नहीं था, एक फ़ैमिली मेंबर थी।"
+  },
+  {
+   "image": "Villagers gather around, watching the emotional reunion, many wiping tears from their eyes.",
+   "speaker": "narrator",
+   "line": "Pura gaon is miracle ka gawah tha.",
+   "fx": "none",
+   "sub": "The whole village was a witness to this miracle.",
+   "say": "पूरा गाँव इस मिरेकल का गवाह था।"
+  },
+  {
+   "image": "[[Kishan]] gently checking [[Ganga]] for injuries, his face full of concern and tender love.",
+   "speaker": "narrator",
+   "line": "Ganga ke jism par, kai chot ke nishan the.",
+   "fx": "none",
+   "sub": "On Ganga's body, there were many injury marks.",
+   "say": "गंगा के जिस्म पर, कई चोट के निशान थे।"
+  },
+  {
+   "image": "Close-up of [[Kishan]] stroking [[Ganga]]'s face, looking at her with immense gratitude and deep understanding.",
+   "speaker": "narrator",
+   "line": "Usne itni mushkil, sirf ghar aane ke liye sahi.",
+   "fx": "none",
+   "sub": "She endured so much hardship, just to come home.",
+   "say": "उसने इतनी मुश्किल, सिर्फ घर आने के लिए सही।"
+  },
+  {
+   "image": "[[narrator]] looking at [[Kishan]] and [[Ganga]] reunited, a profound, inspired expression on her face.",
+   "speaker": "narrator",
+   "line": "Ganga ne Kishan ko, ek naya sabak sikhaya.",
+   "fx": "none",
+   "sub": "Ganga taught Kishan, a new lesson.",
+   "say": "गंगा ने किशन को, एक नया सबक सिखाया।"
+  },
+  {
+   "image": "[[Kishan]] sitting with [[Ganga]] in the shed, gently tending to her minor wounds, a peaceful expression.",
+   "speaker": "narrator",
+   "line": "Usne realise kiya, kuch rishte anmol hote hain.",
+   "fx": "none",
+   "sub": "He realized, some relationships are priceless.",
+   "say": "उसने रियलाइज़ किया, कुछ रिश्ते अनमोल होते हैं।"
+  },
+  {
+   "image": "[[narrator]] talking to the villagers, gesturing passionately, urging them to help [[Kishan]].",
+   "speaker": "narrator",
+   "line": "Maine sabko bataya, hum Kishan ki madad karenge.",
+   "fx": "none",
+   "sub": "I told everyone, we will help Kishan.",
+   "say": "मैंने सबको बताया, हम किशन की मदद करेंगे।"
+  },
+  {
+   "image": "Villagers, some old, some young, contributing small amounts of money or offering grains for [[Ganga]].",
+   "speaker": "narrator",
+   "line": "Gaon walon ne milkar, funds ikatthe kiye.",
+   "fx": "none",
+   "sub": "The villagers together, collected funds.",
+   "say": "गाँव वालों ने मिलकर, फ़ंड्स इकट्ठे किए।"
+  },
+  {
+   "image": "[[Kishan]] looking overwhelmed but deeply grateful, accepting the help from the villagers, tears in his eyes.",
+   "speaker": "narrator",
+   "line": "Uski padhai ke liye, aur Ganga ki dekhbhal ke liye.",
+   "fx": "none",
+   "sub": "For his education, and for Ganga's care.",
+   "say": "उसकी पढ़ाई के लिए, और गंगा की देखभाल के लिए।"
+  },
+  {
+   "image": "[[Kishan]] studying at home, focused, with [[Ganga]] resting peacefully and contentedly near him.",
+   "speaker": "narrator",
+   "line": "Ab Kishan padhai bhi kar raha tha, aur Ganga ke saath bhi.",
+   "fx": "none",
+   "sub": "Now Kishan was studying, and also with Ganga.",
+   "say": "अब किशन पढ़ाई भी कर रहा था, और गंगा के साथ भी।"
+  },
+  {
+   "image": "[[narrator]] smiling warmly, watching [[Kishan]] and [[Ganga]] together, a scene of harmony.",
+   "speaker": "narrator",
+   "line": "Ganga ki loyalty ne, gaon mein ek naya junoon bhar diya.",
+   "fx": "none",
+   "sub": "Ganga's loyalty, filled the village with new passion.",
+   "say": "गंगा की लॉयल्टी ने, गाँव में एक नया जुनून भर दिया।"
+  },
+  {
+   "image": "[[Kishan]] walks [[Ganga]] to pasture, a sense of peace and contentment on his face, both looking happy.",
+   "speaker": "narrator",
+   "line": "Usne seekha, sapne poore karne ke liye sab kuch bechna zaroori nahi.",
+   "fx": "none",
+   "sub": "He learned, selling everything isn't necessary to fulfill dreams.",
+   "say": "उसने सीखा, सपने पूरे करने के लिए सब कुछ बेचना ज़रूरी नहीं।"
+  },
+  {
+   "image": "[[narrator]] looking content and reflective, gazing into the distance as if recalling the entire journey.",
+   "speaker": "narrator",
+   "line": "Ganga sirf wapas nahi aayi, usne sab kuch badal diya.",
+   "fx": "none",
+   "sub": "Ganga didn't just come back, she changed everything.",
+   "say": "गंगा सिर्फ वापस नहीं आई, उसने सब कुछ बदल दिया।"
+  },
+  {
+   "image": "Wider shot of the peaceful village, with [[Ganga]] grazing calmly in a sunlit field in the distance.",
+   "speaker": "narrator",
+   "line": "Uski choti si journey ne, sabki soch badal di.",
+   "fx": "none",
+   "sub": "Her small journey, changed everyone's thinking.",
+   "say": "उसकी छोटी सी जर्नी ने, सबकी सोच बदल दी।"
+  },
+  {
+   "image": "Close-up of [[narrator]] smiling warmly into the camera, thoughtful and engaging.",
+   "speaker": "narrator",
+   "line": "Aapke liye sabse anmol rishta kaun sa hai?",
+   "fx": "none",
+   "sub": "What's the most precious relationship for you?",
+   "say": "आपके लिए सबसे अनमोल रिश्ता कौन सा है?"
+  }
+ ],
+ "caption": "He Sold His Cow for Education... Then She Came Back 💔",
+ "slug": "2026-11-17_part1",
+ "story_no": 62,
+ "yt_title": "He Sold His Cow for Education... Then She Came Back 💔",
+ "description": "This farmer's son made a heartbreaking choice to sell his beloved cow for his dreams. But the cow had a silent promise. What's the most loyal bond you've ever witnessed?",
+ "comment_question": "What's the most precious relationship for you?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalstory",
+  "#cow",
+  "#loyalty",
+  "#village",
+  "#indiantale",
+  "#humananimalbond",
+  "#inspiration",
+  "#sacrifice",
+  "#nevergiveup"
+ ]
+}

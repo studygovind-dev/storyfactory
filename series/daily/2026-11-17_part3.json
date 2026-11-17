@@ -1,0 +1,601 @@
+{
+ "series": "The Stern Shopkeeper's Secret",
+ "episode": 3,
+ "title": "The Stern Shopkeeper's Secret",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Riya, young woman around 18-20, fair skin, long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta, determined and warm expressions.",
+   "voice": "hindi_female_young"
+  },
+  "mrs_sharma": {
+   "look": "An older woman, around 60s-70s, strict and sharp features but with a deep warmth in her eyes, traditional saree, neat bun, spectacles, fair skin.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HER SECRET SACRIFICE",
+ "scenes": [
+  {
+   "image": "[[narrator]] (Riya) studying by a flickering lamp, late night. Her eyes red from exhaustion, a single book open.",
+   "speaker": "narrator",
+   "line": "I thought I was earning my way, paying my own path.",
+   "fx": "none",
+   "sub": "I thought I was earning my way, paying my own path.",
+   "say": "मैं सोच रही थी, अपना रास्ता खुद बना रही हूँ।"
+  },
+  {
+   "image": "[[narrator]] (Riya) holding an engineering textbook, looking hopeful, then at a dilapidated home.",
+   "speaker": "narrator",
+   "line": "Engineering was my dream, my family's only hope.",
+   "fx": "none",
+   "sub": "Engineering was my dream, my family's only hope.",
+   "say": "इंजीनियरिंग मेरा सपना था, मेरे परिवार की अकेली उम्मीद।"
+  },
+  {
+   "image": "[[narrator]] (Riya) in a crowded marketplace, haggling for vegetables, looking worried about money.",
+   "speaker": "narrator",
+   "line": "But money, it was always a cruel, silent wall.",
+   "fx": "none",
+   "sub": "But money, it was always a cruel, silent wall.",
+   "say": "पर पैसा, वो हमेशा एक ज़ालिम, खामोश दीवार था।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looking at a coaching institute brochure with high fees, her face falling.",
+   "speaker": "narrator",
+   "line": "Coaching fees were beyond imagination, a luxury we couldn't afford.",
+   "fx": "none",
+   "sub": "Coaching fees were beyond imagination, a luxury we couldn't afford.",
+   "say": "कोचिंग की फीस, सोच से भी परे थी, हमारी पहुँच से बाहर।"
+  },
+  {
+   "image": "[[narrator]] (Riya) applying for a part-time job at a small, old stationery shop. [[mrs_sharma]] (Aunty) looking skeptical.",
+   "speaker": "narrator",
+   "line": "I found a job at Sharma Aunty’s old stationery shop.",
+   "fx": "none",
+   "sub": "I found a job at Sharma Aunty’s old stationery shop.",
+   "say": "मुझे शर्मा आँटी की पुरानी स्टेशनरी दुकान पर काम मिला।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) pointing at a dust-covered shelf, stern expression. [[narrator]] (Riya) looking apprehensive.",
+   "speaker": "narrator",
+   "line": "She was known for her harsh words, her stern demeanor.",
+   "fx": "none",
+   "sub": "She was known for her harsh words, her stern demeanor.",
+   "say": "वो अपने कड़े बोल और सख़्त मिज़ाज के लिए जानी जाती थीं।"
+  },
+  {
+   "image": "[[narrator]] (Riya) diligently dusting shelves in the shop, looking tired but determined.",
+   "speaker": "narrator",
+   "line": "Every day, I cleaned, arranged, and endured her endless critiques.",
+   "fx": "dust",
+   "sub": "Every day, I cleaned, arranged, and endured her endless critiques.",
+   "say": "हर दिन, मैं साफ़ करती, लगाती और उनकी अंतहीन आलोचनाएँ सहती।"
+  },
+  {
+   "image": "Close-up of [[mrs_sharma]] (Aunty) checking a register, frowning, while [[narrator]] (Riya) looks on nervously.",
+   "speaker": "mrs_sharma",
+   "line": "Yeh bill galat hai, Riya. Focus more!",
+   "fx": "none",
+   "sub": "This bill is wrong, Riya. Focus more!",
+   "say": "ये बिल गलत है, रिया। ज़्यादा ध्यान दो!"
+  },
+  {
+   "image": "[[narrator]] (Riya) sitting on the shop floor, quickly eating a simple meal, a textbook open beside her.",
+   "speaker": "narrator",
+   "line": "Even during breaks, my engineering books were my only companions.",
+   "fx": "none",
+   "sub": "Even during breaks, my engineering books were my only companions.",
+   "say": "ब्रेक में भी, मेरी इंजीनियरिंग की किताबें ही मेरी साथी थीं।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) observing [[narrator]] (Riya) from a distance, a flicker of something in her eyes.",
+   "speaker": "narrator",
+   "line": "She’d watch me, her gaze piercing, sometimes almost mocking.",
+   "fx": "none",
+   "sub": "She'd watch me, her gaze piercing, sometimes almost mocking.",
+   "say": "वो मुझे देखती रहतीं, उनकी नज़रें भेदती हुई, कभी-कभी मज़ाकिया।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looking defeated, holding her head, a failed test paper in hand.",
+   "speaker": "narrator",
+   "line": "My first mock test results were disastrous, a crushing blow.",
+   "fx": "none",
+   "sub": "My first mock test results were disastrous, a crushing blow.",
+   "say": "मेरे पहले मॉक टेस्ट के नतीजे भयानक थे, एक भारी झटका।"
+  },
+  {
+   "image": "[[narrator]] (Riya) crying silently at night, a single tear rolling down her cheek.",
+   "speaker": "narrator",
+   "line": "I cried silently that night, feeling the weight of the world.",
+   "fx": "none",
+   "sub": "I cried silently that night, feeling the weight of the world.",
+   "say": "मैं उस रात चुपचाप रोई, दुनिया का बोझ महसूस करती हुई।"
+  },
+  {
+   "image": "Next day, [[narrator]] (Riya) at the shop, looking pale and tired. [[mrs_sharma]] (Aunty) watches her.",
+   "speaker": "narrator",
+   "line": "The next day, I dragged myself to the shop, hopeless.",
+   "fx": "none",
+   "sub": "The next day, I dragged myself to the shop, hopeless.",
+   "say": "अगले दिन, मैं बेजान सी दुकान पर गई, निराश।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) hands [[narrator]] (Riya) a thick, expensive-looking engineering textbook. [[narrator]] (Riya) looks surprised.",
+   "speaker": "mrs_sharma",
+   "line": "Yeh le. New syllabus, you need this.",
+   "fx": "none",
+   "sub": "Take this. New syllabus, you need this.",
+   "say": "ये ले। नया सिलेबस, तुम्हें इसकी ज़रूरत है।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looks at the book, then at [[mrs_sharma]] (Aunty), bewildered.",
+   "speaker": "narrator",
+   "line": "I wondered how she knew. These books were so costly.",
+   "fx": "none",
+   "sub": "I wondered how she knew. These books were so costly.",
+   "say": "मुझे हैरानी हुई, उन्हें कैसे पता चला। ये किताबें बहुत महँगी थीं।"
+  },
+  {
+   "image": "[[narrator]] (Riya) tries to pay. [[mrs_sharma]] (Aunty) waves her hand dismissively.",
+   "speaker": "narrator",
+   "line": "I tried to pay, but she waved me off, brusquely.",
+   "fx": "none",
+   "sub": "I tried to pay, but she waved me off, brusquely.",
+   "say": "मैंने पैसे देने की कोशिश की, पर उन्होंने मुझे ऐसे ही टाल दिया।"
+  },
+  {
+   "image": "[[narrator]] (Riya) studying the new book earnestly, still tired but with renewed focus.",
+   "speaker": "narrator",
+   "line": "With the new books, my scores slowly, steadily improved.",
+   "fx": "none",
+   "sub": "With the new books, my scores slowly, steadily improved.",
+   "say": "नई किताबों से, मेरे नंबर धीरे-धीरे, लगातार बेहतर हुए।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) observing [[narrator]] (Riya) solving problems on a notepad at the counter, a faint, almost imperceptible smile.",
+   "speaker": "narrator",
+   "line": "She would watch me, sometimes a tiny smile almost formed.",
+   "fx": "none",
+   "sub": "She would watch me, sometimes a tiny smile almost formed.",
+   "say": "वो मुझे देखती रहतीं, कभी-कभी हल्की सी मुस्कान आती उनके होंठों पर।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looking at an application form for an engineering college, deadline approaching.",
+   "speaker": "narrator",
+   "line": "The final entrance exams were just weeks away, a huge pressure.",
+   "fx": "none",
+   "sub": "The final entrance exams were just weeks away, a huge pressure.",
+   "say": "फाइनल एंट्रेंस एग्जाम बस कुछ हफ़्तों दूर थे, बहुत दबाव था।"
+  },
+  {
+   "image": "[[narrator]] (Riya) counting meager savings, looking desperate.",
+   "speaker": "narrator",
+   "line": "Application fees alone were a mountain, impossible to climb.",
+   "fx": "none",
+   "sub": "Application fees alone were a mountain, impossible to climb.",
+   "say": "आवेदन फीस ही एक पहाड़ थी, चढ़ना नामुमकिन सा।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) calls [[narrator]] (Riya) to her office, a serious expression.",
+   "speaker": "narrator",
+   "line": "One evening, Aunty called me into her small, dusty office.",
+   "fx": "dust",
+   "sub": "One evening, Aunty called me into her small, dusty office.",
+   "say": "एक शाम, आँटी ने मुझे अपने छोटे, धूल भरे ऑफ़िस में बुलाया।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) counting out a thick wad of cash onto the desk. [[narrator]] (Riya) looks shocked.",
+   "speaker": "mrs_sharma",
+   "line": "Yeh le. Your month’s salary, double it is.",
+   "fx": "none",
+   "sub": "Take this. Your month's salary, it's double.",
+   "say": "ये ले। तेरी इस महीने की तनख्वाह, डबल है।"
+  },
+  {
+   "image": "[[narrator]] (Riya) staring at the money, then at [[mrs_sharma]] (Aunty), confusion on her face.",
+   "speaker": "narrator",
+   "line": "My salary was never this much. I looked at her, confused.",
+   "fx": "none",
+   "sub": "My salary was never this much. I looked at her, confused.",
+   "say": "मेरी तनख्वाह इतनी कभी नहीं थी। मैंने उन्हें देखा, हैरान।"
+  },
+  {
+   "image": "Close-up of [[mrs_sharma]] (Aunty)'s hand pushing the money towards [[narrator]] (Riya), her expression unreadable.",
+   "speaker": "mrs_sharma",
+   "line": "No questions. Just take it and study.",
+   "fx": "none",
+   "sub": "No questions. Just take it and study.",
+   "say": "कोई सवाल नहीं। बस ले और पढ़ाई कर।"
+  },
+  {
+   "image": "[[narrator]] (Riya) reluctantly taking the money, feeling a mix of gratitude and discomfort.",
+   "speaker": "narrator",
+   "line": "I took the money, my heart a tangle of emotions.",
+   "fx": "none",
+   "sub": "I took the money, my heart a tangle of emotions.",
+   "say": "मैंने पैसे लिए, मेरा दिल भावनाओं से उलझ गया था।"
+  },
+  {
+   "image": "[[narrator]] (Riya) filling out the application form with a pen, looking determined.",
+   "speaker": "narrator",
+   "line": "I submitted my application, a prayer on my lips.",
+   "fx": "none",
+   "sub": "I submitted my application, a prayer on my lips.",
+   "say": "मैंने अपना आवेदन जमा किया, मेरे होठों पर एक प्रार्थना थी।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looking anxious, checking her phone repeatedly for results.",
+   "speaker": "narrator",
+   "line": "The waiting period was torture, every second stretched.",
+   "fx": "none",
+   "sub": "The waiting period was torture, every second stretched.",
+   "say": "इंतज़ार का समय torture था, हर सेकंड खिंच रहा था।"
+  },
+  {
+   "image": "[[narrator]] (Riya) opening an email on her phone, her eyes widening in disbelief.",
+   "speaker": "narrator",
+   "line": "Then, the email arrived. My name, on the selection list.",
+   "fx": "none",
+   "sub": "Then, the email arrived. My name, on the selection list.",
+   "say": "फिर, ईमेल आया। मेरा नाम, चयन सूची में।"
+  },
+  {
+   "image": "[[narrator]] (Riya) crying tears of joy, hugging her family (or hands folded in gratitude).",
+   "speaker": "narrator",
+   "line": "I had done it! My family rejoiced, a dream come true.",
+   "fx": "none",
+   "sub": "I had done it! My family rejoiced, a dream come true.",
+   "say": "मैंने कर दिखाया! मेरा परिवार खुश था, एक सपना सच हो गया।"
+  },
+  {
+   "image": "[[narrator]] (Riya) rushes to the shop, breathless, to tell [[mrs_sharma]] (Aunty), who is calmly dusting.",
+   "speaker": "narrator",
+   "line": "I ran to the shop, eager to share my joyous news.",
+   "fx": "none",
+   "sub": "I ran to the shop, eager to share my joyous news.",
+   "say": "मैं दुकान की तरफ भागी, अपनी खुशी की खबर सुनाने के लिए।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) looks up, her expression softening, but still guarded.",
+   "speaker": "mrs_sharma",
+   "line": "Acha. Good for you, Riya.",
+   "fx": "none",
+   "sub": "Good. Good for you, Riya.",
+   "say": "अच्छा। बढ़िया है, रिया।"
+  },
+  {
+   "image": "[[narrator]] (Riya) feels a pang of disappointment, expecting more enthusiasm.",
+   "speaker": "narrator",
+   "line": "Her reaction was subdued. I felt a sting of disappointment.",
+   "fx": "none",
+   "sub": "Her reaction was subdued. I felt a sting of disappointment.",
+   "say": "उनकी प्रतिक्रिया शांत थी। मुझे थोड़ी निराशा हुई।"
+  },
+  {
+   "image": "[[narrator]] (Riya) decides to thank [[mrs_sharma]] (Aunty) properly, wants to understand her.",
+   "speaker": "narrator",
+   "line": "I wanted to understand this woman, her hidden kindness.",
+   "fx": "none",
+   "sub": "I wanted to understand this woman, her hidden kindness.",
+   "say": "मैं इस औरत को समझना चाहती थी, उनकी छुपी हुई दया को।"
+  },
+  {
+   "image": "[[narrator]] (Riya) helps [[mrs_sharma]] (Aunty) close the shop, then glances towards the small office.",
+   "speaker": "narrator",
+   "line": "That evening, after closing the shop, I stayed back.",
+   "fx": "none",
+   "sub": "That evening, after closing the shop, I stayed back.",
+   "say": "उस शाम, दुकान बंद करने के बाद, मैं वहीं रुक गई।"
+  },
+  {
+   "image": "[[narrator]] (Riya) notices a small, old, framed photograph tucked away behind some books on a shelf in the office.",
+   "speaker": "narrator",
+   "line": "In her office, behind old registers, I saw a photo.",
+   "fx": "dust",
+   "sub": "In her office, behind old registers, I saw a photo.",
+   "say": "उनके ऑफ़िस में, पुरानी बही-खातों के पीछे, मैंने एक तस्वीर देखी।"
+  },
+  {
+   "image": "Close-up of the old photo: a young [[mrs_sharma]] (Aunty) and a young man who strongly resembles Riya's father. They are smiling.",
+   "speaker": "narrator",
+   "line": "A faded picture. A young Aunty, and a man...",
+   "fx": "none",
+   "sub": "A faded picture. A young Aunty, and a man...",
+   "say": "एक धुंधली तस्वीर। जवान आँटी, और एक आदमी..."
+  },
+  {
+   "image": "[[narrator]] (Riya)'s face, shocked recognition.",
+   "speaker": "narrator",
+   "line": "It was my father. Young, smiling, almost unrecognizable.",
+   "fx": "none",
+   "sub": "It was my father. Young, smiling, almost unrecognizable.",
+   "say": "वो मेरे पिताजी थे। जवान, मुस्कुराते हुए, पहचान में नहीं आ रहे थे।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) enters the office, sees [[narrator]] (Riya) with the photo. Her face softens, then looks sad.",
+   "speaker": "narrator",
+   "line": "Aunty walked in, saw me with the photograph. Her face changed.",
+   "fx": "none",
+   "sub": "Aunty walked in, saw me with the photograph. Her face changed.",
+   "say": "आँटी अंदर आईं, उन्होंने मुझे तस्वीर के साथ देखा। उनका चेहरा बदल गया।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) takes the photo gently from [[narrator]] (Riya)'s hands, a tear in her eye.",
+   "speaker": "mrs_sharma",
+   "line": "Woh mere bade bhai the.",
+   "fx": "none",
+   "sub": "He was my elder brother.",
+   "say": "वो मेरे बड़े भाई थे।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looking stunned, putting pieces together.",
+   "speaker": "narrator",
+   "line": "My father? Her elder brother? A secret all these years?",
+   "fx": "none",
+   "sub": "My father? Her elder brother? A secret all these years?",
+   "say": "मेरे पिताजी? उनके बड़े भाई? इतने सालों से एक राज़?"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) sits down, gesturing for [[narrator]] (Riya) to sit.",
+   "speaker": "narrator",
+   "line": "She sat down, gestured for me to join her.",
+   "fx": "none",
+   "sub": "She sat down, gestured for me to join her.",
+   "say": "वो बैठ गईं, और मुझे भी बैठने का इशारा किया।"
+  },
+  {
+   "image": "Close-up of [[mrs_sharma]] (Aunty)'s hand holding the photo, tears silently falling.",
+   "speaker": "mrs_sharma",
+   "line": "He loved this shop. Our father's legacy.",
+   "fx": "none",
+   "sub": "He loved this shop. Our father's legacy.",
+   "say": "उन्हें ये दुकान बहुत पसंद थी। हमारे पिताजी की विरासत।"
+  },
+  {
+   "image": "Flashback: young [[mrs_sharma]] (Aunty) and young Riya's father happily working in the shop.",
+   "speaker": "narrator",
+   "line": "They built it together, their dream, brick by brick.",
+   "fx": "none",
+   "sub": "They built it together, their dream, brick by brick.",
+   "say": "उन्होंने इसे साथ बनाया था, उनका सपना, ईंट-ईंट करके।"
+  },
+  {
+   "image": "Flashback: Young Riya's father encouraging young [[mrs_sharma]] (Aunty) to study.",
+   "speaker": "mrs_sharma",
+   "line": "My father always wanted to be an engineer, just like you.",
+   "fx": "none",
+   "sub": "My father always wanted to be an engineer, just like you.",
+   "say": "मेरे पिताजी हमेशा इंजीनियर बनना चाहते थे, बिल्कुल तुम्हारी तरह।"
+  },
+  {
+   "image": "Flashback: Young Riya's father looking sad, giving up his dreams.",
+   "speaker": "mrs_sharma",
+   "line": "But he sacrificed his studies for our family, for me.",
+   "fx": "none",
+   "sub": "But he sacrificed his studies for our family, for me.",
+   "say": "पर उन्होंने हमारे परिवार के लिए, मेरे लिए अपनी पढ़ाई छोड़ दी।"
+  },
+  {
+   "image": "Close-up of [[mrs_sharma]] (Aunty)'s face, regret and love.",
+   "speaker": "mrs_sharma",
+   "line": "His biggest regret. Always on his mind.",
+   "fx": "none",
+   "sub": "His biggest regret. Always on his mind.",
+   "say": "उनका सबसे बड़ा अफ़सोस। हमेशा उनके मन में रहता था।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) looking at [[narrator]] (Riya) with deep affection.",
+   "speaker": "mrs_sharma",
+   "line": "When he passed, he made me promise something, Riya.",
+   "fx": "none",
+   "sub": "When he passed, he made me promise something, Riya.",
+   "say": "जब वो गुज़रे, उन्होंने मुझसे एक वादा लिया था, रिया।"
+  },
+  {
+   "image": "Flashback: Riya's father on his deathbed, holding young [[mrs_sharma]] (Aunty)'s hand, whispering.",
+   "speaker": "mrs_sharma",
+   "line": "Meri beti ko engineer banana. Usko sapna poora karna.",
+   "fx": "none",
+   "sub": "Make my daughter an engineer. Fulfill her dream.",
+   "say": "मेरी बेटी को इंजीनियर बनाना। उसको सपना पूरा करना।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty)'s hand reaching for [[narrator]] (Riya)'s, tears flowing freely.",
+   "speaker": "mrs_sharma",
+   "line": "So, I watched over you, Riya, just like he asked.",
+   "fx": "none",
+   "sub": "So, I watched over you, Riya, just like he asked.",
+   "say": "तो, मैंने तुम्हारा ध्यान रखा, रिया, बिल्कुल जैसा उन्होंने कहा था।"
+  },
+  {
+   "image": "[[narrator]] (Riya)'s face, tears streaming, understanding dawning.",
+   "speaker": "narrator",
+   "line": "All the harsh words, the 'extra salary'... it was love.",
+   "fx": "none",
+   "sub": "All the harsh words, the 'extra salary'... it was love.",
+   "say": "सारे कड़े बोल, वो 'एक्स्ट्रा तनख्वाह'... वो प्यार था।"
+  },
+  {
+   "image": "[[narrator]] (Riya) stands, kneels before [[mrs_sharma]] (Aunty), touching her feet in reverence.",
+   "speaker": "narrator",
+   "line": "Not a shop owner and employee, but an aunt and niece.",
+   "fx": "none",
+   "sub": "Not a shop owner and employee, but an aunt and niece.",
+   "say": "दुकान मालिक और कर्मचारी नहीं, बल्कि एक बुआ और भतीजी।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) pulls [[narrator]] (Riya) into a warm, tight hug, both crying.",
+   "speaker": "narrator",
+   "line": "We hugged, tears flowing, a lifetime of unspoken love.",
+   "fx": "none",
+   "sub": "We hugged, tears flowing, a lifetime of unspoken love.",
+   "say": "हम गले मिले, आँसू बह रहे थे, अनकहे प्यार की एक ज़िंदगी।"
+  },
+  {
+   "image": "Close-up of [[mrs_sharma]] (Aunty)'s face, now openly kind and proud.",
+   "speaker": "mrs_sharma",
+   "line": "Tumne kar dikhaya, beti. He would be so proud.",
+   "fx": "none",
+   "sub": "You did it, my child. He would be so proud.",
+   "say": "तुमने कर दिखाया, बेटी। वो बहुत गर्व महसूस करते।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looking up, a sense of peace and belonging.",
+   "speaker": "narrator",
+   "line": "My father's dream, now mine, fulfilled through her silent sacrifice.",
+   "fx": "none",
+   "sub": "My father's dream, now mine, fulfilled through her silent sacrifice.",
+   "say": "मेरे पिताजी का सपना, अब मेरा, उनके खामोश बलिदान से पूरा हुआ।"
+  },
+  {
+   "image": "[[narrator]] (Riya) and [[mrs_sharma]] (Aunty) holding hands, smiling through tears, looking at the photo.",
+   "speaker": "narrator",
+   "line": "Her harshness was a shield, protecting a promise, protecting me.",
+   "fx": "none",
+   "sub": "Her harshness was a shield, protecting a promise, protecting me.",
+   "say": "उनकी सख़्ती एक ढाल थी, एक वादे की रक्षा करती, मेरी रक्षा करती।"
+  },
+  {
+   "image": "[[narrator]] (Riya) arriving at her engineering college, looking confident and happy.",
+   "speaker": "narrator",
+   "line": "I started college, carrying their dreams, carrying their love.",
+   "fx": "none",
+   "sub": "I started college, carrying their dreams, carrying their love.",
+   "say": "मैंने कॉलेज शुरू किया, उनके सपनों को, उनके प्यार को साथ लेकर।"
+  },
+  {
+   "image": "[[narrator]] (Riya) studying in the library, focused and calm.",
+   "speaker": "narrator",
+   "line": "Every late night, every difficult problem, I felt their presence.",
+   "fx": "none",
+   "sub": "Every late night, every difficult problem, I felt their presence.",
+   "say": "हर देर रात, हर मुश्किल समस्या, मुझे उनकी मौजूदगी महसूस होती थी।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) proudly showing customers a picture of [[narrator]] (Riya) in her uniform at the shop counter.",
+   "speaker": "mrs_sharma",
+   "line": "Meri beti engineer banegi.",
+   "fx": "none",
+   "sub": "My daughter will become an engineer.",
+   "say": "मेरी बेटी इंजीनियर बनेगी।"
+  },
+  {
+   "image": "[[narrator]] (Riya) at the shop, now helping [[mrs_sharma]] (Aunty) with accounts, looking capable.",
+   "speaker": "narrator",
+   "line": "I still visited the shop, now helping with accounts, not just cleaning.",
+   "fx": "none",
+   "sub": "I still visited the shop, now helping with accounts, not just cleaning.",
+   "say": "मैं अब भी दुकान जाती, अब सिर्फ़ सफ़ाई नहीं, हिसाब में भी मदद करती।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) looking at [[narrator]] (Riya) with pure love and pride.",
+   "speaker": "narrator",
+   "line": "Her stern gaze now held only warmth, only profound love.",
+   "fx": "none",
+   "sub": "Her stern gaze now held only warmth, only profound love.",
+   "say": "उनकी सख़्त नज़रें अब सिर्फ़ गर्माहट, सिर्फ़ गहरा प्यार लिए थीं।"
+  },
+  {
+   "image": "[[narrator]] (Riya) smiling brightly, feeling truly loved.",
+   "speaker": "narrator",
+   "line": "The girl who thought she was alone, found an entire legacy.",
+   "fx": "none",
+   "sub": "The girl who thought she was alone, found an entire legacy.",
+   "say": "जिस लड़की ने सोचा था कि वो अकेली है, उसे पूरी विरासत मिली।"
+  },
+  {
+   "image": "Close-up of the old photo of young [[mrs_sharma]] (Aunty) and Riya's father, now placed prominently in the office.",
+   "speaker": "narrator",
+   "line": "My father's unfulfilled dream, his sister’s hidden devotion.",
+   "fx": "none",
+   "sub": "My father's unfulfilled dream, his sister's hidden devotion.",
+   "say": "मेरे पिताजी का अधूरा सपना, उनकी बहन की छुपी हुई भक्ति।"
+  },
+  {
+   "image": "[[narrator]] (Riya) wearing her graduation cap and gown, smiling triumphantly, holding her degree.",
+   "speaker": "narrator",
+   "line": "Years passed. I graduated, finally an engineer.",
+   "fx": "none",
+   "sub": "Years passed. I graduated, finally an engineer.",
+   "say": "साल बीत गए। मैंने ग्रेजुएशन की, आखिर एक इंजीनियर बन गई।"
+  },
+  {
+   "image": "[[mrs_sharma]] (Aunty) (older now, but smiling proudly) stands beside [[narrator]] (Riya) at her graduation, holding her hand.",
+   "speaker": "narrator",
+   "line": "Aunty was there, beaming, tears in her eyes.",
+   "fx": "none",
+   "sub": "Aunty was there, beaming, tears in her eyes.",
+   "say": "आँटी वहाँ थीं, चमकती हुई, उनकी आँखों में आँसू थे।"
+  },
+  {
+   "image": "[[narrator]] (Riya) holding the photo, looking at it with immense gratitude and love.",
+   "speaker": "narrator",
+   "line": "I placed the graduation photo beside my father's picture.",
+   "fx": "none",
+   "sub": "I placed the graduation photo beside my father's picture.",
+   "say": "मैंने अपनी ग्रेजुएशन की तस्वीर पिताजी की तस्वीर के पास रखी।"
+  },
+  {
+   "image": "[[narrator]] (Riya) and [[mrs_sharma]] (Aunty) sitting together on a bench outside the shop, sharing a cup of tea, peaceful.",
+   "speaker": "narrator",
+   "line": "We talked for hours, sharing stories, sharing a lifetime.",
+   "fx": "none",
+   "sub": "We talked for hours, sharing stories, sharing a lifetime.",
+   "say": "हमने घंटों बातें कीं, कहानियाँ साझा कीं, एक जीवन साझा किया।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looking reflective, slightly sad but content.",
+   "speaker": "narrator",
+   "line": "Her harshness was her love, fierce and unwavering.",
+   "fx": "none",
+   "sub": "Her harshness was her love, fierce and unwavering.",
+   "say": "उनकी सख़्ती उनका प्यार था, प्रचंड और अटल।"
+  },
+  {
+   "image": "[[narrator]] (Riya) looks directly at the camera, a thoughtful expression.",
+   "speaker": "narrator",
+   "line": "Sometimes, true love hides in the most unexpected places.",
+   "fx": "none",
+   "sub": "Sometimes, true love hides in the most unexpected places.",
+   "say": "कभी-कभी, सच्चा प्यार सबसे अप्रत्याशित जगहों में छिप जाता है।"
+  },
+  {
+   "image": "Close-up of [[mrs_sharma]] (Aunty)'s warm, smiling face.",
+   "speaker": "narrator",
+   "line": "A stern face, a tender heart, a promise fulfilled.",
+   "fx": "none",
+   "sub": "A stern face, a tender heart, a promise fulfilled.",
+   "say": "एक सख़्त चेहरा, एक कोमल दिल, एक वादा पूरा हुआ।"
+  },
+  {
+   "image": "[[narrator]] (Riya) and [[mrs_sharma]] (Aunty) smiling at each other, warm light, perhaps holding hands.",
+   "speaker": "narrator",
+   "line": "What hidden sacrifices have you witnessed for someone's dream?",
+   "fx": "none",
+   "sub": "What hidden sacrifices have you witnessed for someone's dream?",
+   "say": "आपने किसी के सपने के लिए कौन से छुपे बलिदान देखे हैं?"
+  }
+ ],
+ "caption": "Strict Aunty's Secret: Her Hidden Sacrifice for My Dream 🤫",
+ "slug": "2026-11-17_part3",
+ "story_no": 64,
+ "yt_title": "Strict Aunty's Secret: Her Hidden Sacrifice for My Dream 🤫",
+ "description": "My journey to become an engineer was full of struggle, and the stern shopkeeper I worked for made it even harder.\nBut her harsh words hid a profound secret and a promise that changed my life forever.\nWhat hidden sacrifices have you witnessed for someone's dream?",
+ "comment_question": "What hidden sacrifices have you witnessed for someone's dream?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indianshorts",
+  "#heartwarming",
+  "#familylove",
+  "#hiddenhero",
+  "#inspiration",
+  "#studentlife",
+  "#sacrifice",
+  "#indiantwist",
+  "#lifelessons"
+ ]
+}

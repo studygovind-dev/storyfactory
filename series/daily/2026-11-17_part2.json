@@ -1,0 +1,512 @@
+{
+ "series": "The Remote's Royal Rumble",
+ "episode": 2,
+ "title": "The Remote's Royal Rumble",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A warm, unseen female storyteller voice.",
+   "voice": "hindi_narrator_female"
+  },
+  "Riya": {
+   "look": "A graceful young woman, early 20s, fair skin, long wavy dark-brown hair, small gold hoop earrings, wearing a comfortable pastel blue kurta with white embroidery. Bright, expressive face.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Rahul": {
+   "look": "A mischievous young man, late teens, light wheatish skin, short spiky black hair, wearing a casual orange graphic tee and dark blue jeans. Energetic, expressive face.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Kitty": {
+   "look": "A sleek, black cat with bright green eyes and a tiny, sparkly silver collar. Expressive, slightly smug cat face, often looking unimpressed or amused.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "CAT CONTROLS TV?!",
+ "scenes": [
+  {
+   "image": "Close-up on a sleek, black cat, Kitty, with bright green eyes, sitting casually on a large, comfy sofa armrest. One paw subtly rests on a tiny, futuristic-looking silver remote. A mischievous smirk plays on its face. The background is a blurry living room and a large TV.",
+   "speaker": "narrator",
+   "line": "Hamari family mein ek secret shashak hai.",
+   "fx": "none",
+   "say": "हमारी फैमिली में एक सीक्रेट शासक है।"
+  },
+  {
+   "image": "Riya, looking exasperated, holds a large, traditional TV remote tightly, pulling it towards herself. Rahul, equally determined, grips the other end, pulling it away. They are on a plush sofa in a cozy Indian living room, a large TV screen visible in the background showing a reality show.",
+   "speaker": "Riya",
+   "line": "Rahul, channel change mat karo! Mera show hai!",
+   "fx": "none",
+   "say": "राहुल, चैनल चेंज मत करो! मेरा शो है!"
+  },
+  {
+   "image": "Rahul grins cheekily, tugging harder on the remote. His eyes are fixed on the TV, which now displays a video game menu. Riya looks frustrated.",
+   "speaker": "Rahul",
+   "line": "Arey Didi, mera game time hai abhi!",
+   "fx": "none",
+   "say": "अरे दीदी, मेरा गेम टाइम है अभी!"
+  },
+  {
+   "image": "Riya pulls with all her might, hands clamped onto the remote. Her pastel blue kurta is slightly ruffled. Determination on her face.",
+   "speaker": "Riya",
+   "line": "No way! Maine kal game dekha tumhara!",
+   "fx": "none",
+   "say": "नो वे! मैंने कल गेम देखा तुम्हारा!"
+  },
+  {
+   "image": "Rahul, with a mock-serious expression, fakes a cough dramatically, clutching his chest. He tries to distract Riya, who looks at him suspiciously. Kitty watches from the armrest, unimpressed.",
+   "speaker": "Rahul",
+   "line": "Uff, Didi, remote chhod do. Meri tabiyat kharab hai.",
+   "fx": "none",
+   "say": "उफ़, दीदी, रिमोट छोड़ दो। मेरी तबीयत खराब है।"
+  },
+  {
+   "image": "Riya narrows her eyes, not falling for the trick. She holds the remote even tighter, a suspicious look on her face.",
+   "speaker": "Riya",
+   "line": "Stop acting! Tumhara acting flop hai!",
+   "fx": "none",
+   "say": "स्टॉप एक्टिंग! तुम्हारा एक्टिंग फ्लॉप है!"
+  },
+  {
+   "image": "Rahul pouts, then suddenly lunges, grabbing the remote from Riya's relaxed grip. Riya gasps in surprise, losing her hold.",
+   "speaker": "Rahul",
+   "line": "Got it! Ab meri baari!",
+   "fx": "none",
+   "say": "गॉट इट! अब मेरी बारी!"
+  },
+  {
+   "image": "Riya's face shows shock and then immediate anger. Rahul triumphantly presses a button on the remote, changing the channel to his game. Kitty blinks slowly.",
+   "speaker": "Riya",
+   "line": "Cheater! Yeh toh cheating hai!",
+   "fx": "none",
+   "say": "चीटर! ये तो चीटिंग है!"
+  },
+  {
+   "image": "Rahul laughs loudly, holding the remote high above his head, out of Riya's reach. He's standing on the sofa cushion. Kitty looks slightly annoyed at the noise.",
+   "speaker": "Rahul",
+   "line": "Ha ha! Loser! First come, first serve!",
+   "fx": "none",
+   "say": "हा हा! लूज़र! फर्स्ट कम, फर्स्ट सर्व!"
+  },
+  {
+   "image": "Riya jumps up, determined, trying to snatch the remote. She's reaching high, her frustration visible. The TV screen still shows Rahul's game.",
+   "speaker": "Riya",
+   "line": "Wait, Rahul! Give it back, I said!",
+   "fx": "none",
+   "say": "वेट, राहुल! गिव इट बैक, आई सेड!"
+  },
+  {
+   "image": "Rahul sticks out his tongue, playfully dodging Riya's grab. He's enjoying the chase. The remote is still safely in his hand.",
+   "speaker": "Rahul",
+   "line": "Pakad ke dikhao! Remote mera ab!",
+   "fx": "none",
+   "say": "पकड़ के दिखाओ! रिमोट मेरा अब!"
+  },
+  {
+   "image": "Riya, with a mischievous glint in her eyes, quickly grabs a sofa cushion and playfully shoves it at Rahul. He stumbles slightly.",
+   "speaker": "Riya",
+   "line": "Oh really? Remote kisika nahin!",
+   "fx": "none",
+   "say": "ओह रियली? रिमोट किसीका नहीं!"
+  },
+  {
+   "image": "Rahul yelps in surprise, momentarily losing balance. The remote slips from his grasp and flies through the air towards the floor.",
+   "speaker": "Rahul",
+   "line": "Oye! Remote gir gaya!",
+   "fx": "none",
+   "say": "ओये! रिमोट गिर गया!"
+  },
+  {
+   "image": "Both Riya and Rahul dive towards the falling remote in slow motion, arms outstretched, expressions of horror on their faces. Kitty watches, paws neatly tucked.",
+   "speaker": "Riya",
+   "line": "Oh no! Remote bachao!",
+   "fx": "none",
+   "say": "ओह नो! रिमोट बचाओ!"
+  },
+  {
+   "image": "The remote lands with a soft thud on a thick, shaggy rug. It's intact, but hidden partially under a cushion that also fell.",
+   "speaker": "narrator",
+   "line": "Remote gir toh gaya, par kahan?",
+   "fx": "none",
+   "say": "रिमोट गिर तो गया, पर कहां?"
+  },
+  {
+   "image": "Riya and Rahul are on their knees, frantically patting down the rug and lifting cushions, looking for the remote. They are both desperate.",
+   "speaker": "Rahul",
+   "line": "Kahan gaya? Didi, tumne giraya!",
+   "fx": "none",
+   "say": "कहां गया? दीदी, तुमने गिराया!"
+  },
+  {
+   "image": "Riya glares at Rahul, pointing an accusing finger. Her hair is slightly dishevelled from the scramble. She denies responsibility.",
+   "speaker": "Riya",
+   "line": "Meri galti nahin! Tumne uchhala!",
+   "fx": "none",
+   "say": "मेरी गलती नहीं! तुमने उछाला!"
+  },
+  {
+   "image": "Kitty jumps gracefully from the armrest, landing silently near where the remote fell. It glances at the siblings with a knowing look.",
+   "speaker": "narrator",
+   "line": "Jabki Kitty sab dekh rahi thi.",
+   "fx": "none",
+   "say": "जबकि किट्टी सब देख रही थी।"
+  },
+  {
+   "image": "Rahul lifts a cushion, revealing only the shaggy rug. He scratches his head in confusion, looking around helplessly.",
+   "speaker": "Rahul",
+   "line": "Idhar nahin hai. Ab kya karein?",
+   "fx": "none",
+   "say": "इधर नहीं है। अब क्या करें?"
+  },
+  {
+   "image": "Riya gets up and checks under the sofa. She peers into the dark space, her face showing concern. No remote.",
+   "speaker": "Riya",
+   "line": "Mujhe bhi nahin mil raha. Oh god!",
+   "fx": "none",
+   "say": "मुझे भी नहीं मिल रहा। ओह गॉड!"
+  },
+  {
+   "image": "Kitty casually walks past them, its tail swishing gently. It nudges a small, decorative cushion on a side table with its nose.",
+   "speaker": "narrator",
+   "line": "Kitty ne ek clue diya.",
+   "fx": "none",
+   "say": "किट्टी ने एक क्लू दिया।"
+  },
+  {
+   "image": "Riya and Rahul exchange a look, then simultaneously rush towards the side table. They hope Kitty led them to it.",
+   "speaker": "Rahul",
+   "line": "Wahan hoga! Jaldi, Didi!",
+   "fx": "none",
+   "say": "वहां होगा! जल्दी, दीदी!"
+  },
+  {
+   "image": "Rahul eagerly lifts the cushion. Underneath, a very old, dusty, non-functioning TV remote is revealed. They stare at it blankly.",
+   "speaker": "Riya",
+   "line": "Yeh toh purana wala hai!",
+   "fx": "none",
+   "say": "ये तो पुराना वाला है!"
+  },
+  {
+   "image": "Rahul picks up the old remote, presses a button. Nothing happens. He looks deflated, then throws it back onto the table.",
+   "speaker": "Rahul",
+   "line": "Bekar! Yeh kaam nahin karta!",
+   "fx": "none",
+   "say": "बेकार! ये काम नहीं करता!"
+  },
+  {
+   "image": "Riya sinks onto the sofa, burying her face in her hands. The thought of no TV is unbearable. Kitty watches from a distance.",
+   "speaker": "Riya",
+   "line": "Mera show! Poora miss ho jayega!",
+   "fx": "none",
+   "say": "मेरा शो! पूरा मिस हो जाएगा!"
+  },
+  {
+   "image": "Rahul paces around the living room, rubbing his temples. He's clearly stressed about the missing remote now.",
+   "speaker": "Rahul",
+   "line": "Aur mera game! Kya karein ab?",
+   "fx": "none",
+   "say": "और मेरा गेम! क्या करें अब?"
+  },
+  {
+   "image": "Kitty jumps onto the back of the sofa, looking down at the distressed siblings. Its gaze is calm, almost superior.",
+   "speaker": "narrator",
+   "line": "Kitty ko koi tension nahin thi.",
+   "fx": "none",
+   "say": "किट्टी को कोई टेंशन नहीं थी।"
+  },
+  {
+   "image": "Riya suddenly points at Rahul, eyes wide. A new idea, or accusation, forming.",
+   "speaker": "Riya",
+   "line": "Mujhe pata hai! Tumne chhupaya hai!",
+   "fx": "none",
+   "say": "मुझे पता है! तुमने छुपाया है!"
+  },
+  {
+   "image": "Rahul's eyes widen in disbelief. He gestures wildly with his hands, denying the accusation vehemently.",
+   "speaker": "Rahul",
+   "line": "Main kyun chhupunga? Mera bhi remote hai!",
+   "fx": "none",
+   "say": "मैं क्यों छुपूंगा? मेरा भी रिमोट है!"
+  },
+  {
+   "image": "They start arguing loudly again, pointing fingers at each other, their faces close, animated with mock fury. Kitty yawns widely, unbothered.",
+   "speaker": "Riya",
+   "line": "Jhoot mat bolo! Tum hi ho culprit!",
+   "fx": "none",
+   "say": "झूठ मत बोलो! तुम ही हो कल्प्रिट!"
+  },
+  {
+   "image": "A close-up on Kitty's tiny silver collar. A small, almost invisible loop is visible on it, but the siblings don't notice.",
+   "speaker": "narrator",
+   "line": "Unki aankhein kuch miss kar rahi thi.",
+   "fx": "none",
+   "say": "उनकी आँखें कुछ मिस कर रही थी।"
+  },
+  {
+   "image": "Riya and Rahul are now tearing apart the sofa, pulling out cushions, looking underneath, their search becoming frantic.",
+   "speaker": "Rahul",
+   "line": "Kahan gaya? Poora ghar dhoond liya!",
+   "fx": "none",
+   "say": "कहां गया? पूरा घर ढूंढ लिया!"
+  },
+  {
+   "image": "Riya, on her hands and knees, checks inside a decorative pot with artificial plants. Her expression is desperate.",
+   "speaker": "Riya",
+   "line": "Yeh toh impossible hai! Remote gayab!",
+   "fx": "none",
+   "say": "ये तो इम्पासिबल है! रिमोट गायब!"
+  },
+  {
+   "image": "Kitty is now sitting on the window sill, grooming a paw, occasionally glancing back at the chaotic siblings with a smirk.",
+   "speaker": "narrator",
+   "line": "Kitty apni dhun mein thi.",
+   "fx": "none",
+   "say": "किट्टी अपनी धुन में थी।"
+  },
+  {
+   "image": "Riya and Rahul accidentally bump heads while looking under the coffee table. They rub their foreheads, annoyed with each other.",
+   "speaker": "Riya",
+   "line": "Ow! Dhyaan se dekho, Rahul!",
+   "fx": "none",
+   "say": "ओव! ध्यान से देखो, राहुल!"
+  },
+  {
+   "image": "Rahul retaliates by lightly shoving Riya. They are still bickering but now more focused on the search.",
+   "speaker": "Rahul",
+   "line": "Tum bhi toh! Mujhe chhod do!",
+   "fx": "none",
+   "say": "तुम भी तो! मुझे छोड़ दो!"
+  },
+  {
+   "image": "The room is now a mess. Cushions are everywhere, throws are crumpled. The TV shows a static screen.",
+   "speaker": "narrator",
+   "line": "Living room jungle ban gaya.",
+   "fx": "none",
+   "say": "लिविंग रूम जंगल बन गया।"
+  },
+  {
+   "image": "Riya throws her hands up in exasperation, giving up the physical search for a moment. She looks utterly defeated.",
+   "speaker": "Riya",
+   "line": "Bass! Ab mujhse nahin hota!",
+   "fx": "none",
+   "say": "बस! अब मुझसे नहीं होता!"
+  },
+  {
+   "image": "Rahul slumps onto the floor, resting his head on a displaced cushion. He sighs heavily, looking just as defeated.",
+   "speaker": "Rahul",
+   "line": "Na game, na show. Ab kya karein?",
+   "fx": "none",
+   "say": "ना गेम, ना शो। अब क्या करें?"
+  },
+  {
+   "image": "Kitty jumps down from the window sill, stretches elegantly, and walks towards the siblings. It eyes the TV.",
+   "speaker": "narrator",
+   "line": "Par Kitty ka master plan alag tha.",
+   "fx": "none",
+   "say": "पर किट्टी का मास्टर प्लान अलग था।"
+  },
+  {
+   "image": "Kitty walks past Riya and Rahul, who are slumped on the floor, ignoring the cat. Kitty hops onto the side table.",
+   "speaker": "Riya",
+   "line": "Kaash Mom abhi na aaye.",
+   "fx": "none",
+   "say": "काश मॉम अभी ना आए।"
+  },
+  {
+   "image": "Rahul nods agreement, looking worried. The thought of their mother's reaction spurs a new surge of panic.",
+   "speaker": "Rahul",
+   "line": "Mom gussa karengi mess dekh ke.",
+   "fx": "none",
+   "say": "मॉम गुस्सा करेंगी मेस देख के।"
+  },
+  {
+   "image": "A close-up of Kitty's paw gently batting at a string of decorative beads hanging from the side table. The beads swing back and forth.",
+   "speaker": "narrator",
+   "line": "Kitty ne ek aur hint diya.",
+   "fx": "none",
+   "say": "किट्टी ने एक और हिंट दिया।"
+  },
+  {
+   "image": "Riya notices Kitty playing with the beads. She raises an eyebrow, a flicker of curiosity on her face.",
+   "speaker": "Riya",
+   "line": "Kitty, tum kya kar rahi ho?",
+   "fx": "none",
+   "say": "किट्टी, तुम क्या कर रही हो?"
+  },
+  {
+   "image": "Kitty stops playing with the beads and looks directly at Riya, then subtly glances towards the TV. Its eyes seem to hold a secret.",
+   "speaker": "Kitty",
+   "line": "Meow? (I'm just being me.)",
+   "fx": "none",
+   "say": "मिआऊ? (आय ऍम जस्ट बीइंग मी।)"
+  },
+  {
+   "image": "Rahul, still on the floor, looks up, confused by Kitty's behavior. He squints at the cat.",
+   "speaker": "Rahul",
+   "line": "Yeh Kitty bhi ajib hai.",
+   "fx": "none",
+   "say": "ये किट्टी भी अजीब है।"
+  },
+  {
+   "image": "The TV screen, previously static, suddenly flickers and changes to a nature documentary channel, showing elephants. Riya and Rahul gasp.",
+   "speaker": "Riya",
+   "line": "Hey! Channel kaise badla?",
+   "fx": "none",
+   "say": "हे! चैनल कैसे बदला?"
+  },
+  {
+   "image": "Rahul stares at the TV, then quickly scans the room, looking for the remote or any explanation. His jaw drops.",
+   "speaker": "Rahul",
+   "line": "Kisi ne remote use kiya?",
+   "fx": "none",
+   "say": "किसी ने रिमोट यूज किया?"
+  },
+  {
+   "image": "Kitty is now sitting elegantly on the back of the sofa, looking at the TV with a satisfied expression. Its paw subtly moves on the tiny silver remote.",
+   "speaker": "narrator",
+   "line": "Par room mein aur koi nahin tha.",
+   "fx": "none",
+   "say": "पर रूम में और कोई नहीं था।"
+  },
+  {
+   "image": "Riya looks from the TV to Rahul, then slowly her eyes fall on Kitty. She notices the tiny remote in Kitty's paw.",
+   "speaker": "Riya",
+   "line": "Wait... Kitty ke paas kya hai?",
+   "fx": "none",
+   "say": "वेट... किट्टी के पास क्या है?"
+  },
+  {
+   "image": "Close-up on Kitty's paw, now clearly holding the tiny, sleek silver remote. Its paw presses a button, and the TV changes channel again, this time to cartoons.",
+   "speaker": "Kitty",
+   "line": "Hehe. My turn now, humans.",
+   "fx": "none",
+   "say": "हीही। माय टर्न नाउ, ह्यूमन्स।"
+  },
+  {
+   "image": "Riya and Rahul stare wide-eyed at Kitty, then at the TV, then back at Kitty. Their faces are a mix of shock and utter disbelief.",
+   "speaker": "Rahul",
+   "line": "What?! Kitty, tumne kiya?",
+   "fx": "none",
+   "say": "व्हाट?! किट्टी, तुमने किया?"
+  },
+  {
+   "image": "Kitty calmly grooms its paw, then looks up at them with a smug, knowing look. The tiny remote is still in its grip.",
+   "speaker": "Kitty",
+   "line": "Of course. Tum log toh bachhe ho.",
+   "fx": "none",
+   "say": "ऑफ कोर्स। तुम लोग तो बच्चे हो।"
+  },
+  {
+   "image": "Riya looks utterly dumbfounded, her mouth slightly open. The reality of the situation slowly dawns on her.",
+   "speaker": "Riya",
+   "line": "Hum itni der lad rahe the?",
+   "fx": "none",
+   "say": "हम इतनी देर लड़ रहे थे?"
+  },
+  {
+   "image": "Rahul bursts into disbelieving laughter, a mix of shock and amusement. He can't believe their cat outsmarted them.",
+   "speaker": "Rahul",
+   "line": "Aur remote Kitty ke paas tha!",
+   "fx": "none",
+   "say": "और रिमोट किट्टी के पास था!"
+  },
+  {
+   "image": "Kitty gives a slow blink, then deliberately presses another button on its tiny remote. The TV changes to a cat food commercial.",
+   "speaker": "Kitty",
+   "line": "Time for my show. Meow.",
+   "fx": "none",
+   "say": "टाइम फॉर माय शो। मिआऊ।"
+  },
+  {
+   "image": "Riya and Rahul slump back onto the sofa, defeated but also thoroughly amused. They look at each other and then at Kitty, shaking their heads.",
+   "speaker": "Riya",
+   "line": "Hum dono kitne pagal hain!",
+   "fx": "none",
+   "say": "हम दोनों कितने पागल हैं!"
+  },
+  {
+   "image": "Rahul points at Kitty, still laughing. The realization is hilarious. The cat has completely owned them.",
+   "speaker": "Rahul",
+   "line": "Humara master toh Kitty hai!",
+   "fx": "none",
+   "say": "हमारा मास्टर तो किट्टी है!"
+  },
+  {
+   "image": "Kitty stretches luxuriantly on the sofa, its tiny remote still visible, shining slightly. A beam of sunlight catches it.",
+   "speaker": "narrator",
+   "line": "Lesson learned: Kabhi bhi cat ko underestimate mat karna.",
+   "fx": "none",
+   "say": "लेसन लर्न्ड: कभी भी कैट को अंडरएस्टिमेट मत करना।"
+  },
+  {
+   "image": "Close-up on Kitty's face, now looking utterly regal and content. It gives a slight, knowing smile. The cat food commercial plays on the TV in the background.",
+   "speaker": "Kitty",
+   "line": "Peace at last. And good viewership.",
+   "fx": "none",
+   "say": "पीस ऐट लास्ट। ऐंड गुड व्यूअरशिप।"
+  },
+  {
+   "image": "Riya and Rahul are now sitting side by side, looking utterly exhausted but smiling, watching Kitty watch the cat food commercial. Their fight is forgotten.",
+   "speaker": "Riya",
+   "line": "Well, at least no more remote wars.",
+   "fx": "none",
+   "say": "वेल, ऐट लीस्ट नो मोर रिमोट वॉर्स।"
+  },
+  {
+   "image": "Rahul shakes his head, still chuckling. He nudges Riya playfully. They are united in their defeat.",
+   "speaker": "Rahul",
+   "line": "Ab toh Kitty hi boss hai!",
+   "fx": "none",
+   "say": "अब तो किट्टी ही बॉस है!"
+  },
+  {
+   "image": "Kitty, with a final triumphant glance at the camera, then back at the TV, casually nudges the tiny remote with its nose, changing the channel to a documentary on big cats.",
+   "speaker": "Kitty",
+   "line": "My choice, my rules. Purr-fect.",
+   "fx": "none",
+   "say": "माय चॉइस, माय रूल्स। पर्फेक्ट।"
+  },
+  {
+   "image": "Riya and Rahul exchange exasperated, but amused glances. They sigh in unison, accepting their fate as subjects of Kitty's media empire.",
+   "speaker": "Riya",
+   "line": "Hum toh bas side characters hain.",
+   "fx": "none",
+   "say": "हम तो बस साइड कैरेक्टर्स हैं।"
+  },
+  {
+   "image": "Rahul leans back, throwing his hands up in mock surrender. He grins at Kitty, who looks back with an unreadable, confident expression.",
+   "speaker": "Rahul",
+   "line": "Long live the Queen of Channels!",
+   "fx": "none",
+   "say": "लॉन्ग लिव द क्वीन ऑफ चैनल्स!"
+  },
+  {
+   "image": "Close-up on Kitty, purring contentedly, eyes half-closed. The tiny remote is nestled safely beside it, glinting. A soft, warm glow surrounds the cat.",
+   "speaker": "narrator",
+   "line": "Who rules your TV remote at home?",
+   "fx": "none",
+   "say": "हू रूल्स योर टीवी रिमोट ऐट होम?"
+  }
+ ],
+ "caption": "Sibling War for TV Remote: The Unexpected Ruler 😹",
+ "slug": "2026-11-17_part2",
+ "story_no": 63,
+ "yt_title": "Sibling War for TV Remote: The Unexpected Ruler 😹",
+ "description": "Our family TV remote fights were legendary, until we discovered the real master. You won't believe who was secretly changing channels! Tell us: who rules your TV remote?",
+ "comment_question": "Who rules your TV remote at home?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#siblingcomedy",
+  "#tvremote",
+  "#catlover",
+  "#funnyanimals",
+  "#indianfamily",
+  "#relatablecomedy",
+  "#cartoonstory",
+  "#hilarious",
+  "#unexpectedtwist",
+  "#familyfun"
+ ]
+}
