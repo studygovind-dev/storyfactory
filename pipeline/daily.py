@@ -46,8 +46,8 @@ def eleven_credits_ok():
     """False (and a Telegram warning) when ElevenLabs credits are too low for a video, so we never
     post a video in the robotic free voice."""
     key = os.environ.get("ELEVEN_API_KEY", "").strip()
-    if not key:
-        return True
+    if not key or os.environ.get("AZURE_SPEECH_KEY", "").strip():
+        return True  # no ElevenLabs, or Azure Speech is the backup voice
     try:
         r = requests.get("https://api.elevenlabs.io/v1/user/subscription", headers={"xi-api-key": key},
                          timeout=30)

@@ -246,6 +246,35 @@ for _k, _v in {"MALE_YOUNG2": "MALE_YOUNG", "MALE_ADULT": "NARRATOR_MALE", "MALE
 VOICE_RATE, VOICE_PITCH = "+5%", "-3Hz"   # natural pace, slightly lower pitch for warmth
 
 
+def make_voice_azure(voice, text, i, out):
+    """Microsoft Azure AI Speech (official, commercially licensed). Same neural voices as edge-tts."""
+    from xml.sax.saxutils import escape
+    region = os.environ.get("AZURE_SPEECH_REGION", "centralindia").strip()
+    lang = voice[:5]
+    ssml = (f"<speak version='1.0' xml:lang='{lang}'><voice name='{voice}'>"
+            f"<prosody rate='{VOICE_RATE}' pitch='{VOICE_PITCH}'>{escape(text)}</prosody></voice></speak>")
+    for attempt in range(5):
+        try:
+            r = requests.post(f"https://{region}.tts.speech.microsoft.com/cognitiveservices/v1",
+                              headers={"Ocp-Apim-Subscription-Key": os.environ["AZURE_SPEECH_KEY"].strip(),
+                                       "Content-Type": "application/ssml+xml",
+                                       "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
+                                       "User-Agent": "storyfactory"},
+                              data=ssml.encode("utf-8"), timeout=60)
+        except requests.RequestException as e:
+            print(f"  Azure connection error ({type(e).__name__}), retrying...")
+        else:
+            if r.ok and r.content:
+                out.write_bytes(r.content)
+                return
+            if r.status_code in (401, 403):
+                sys.exit(f"Azure Speech refused the key ({r.status_code}): check AZURE_SPEECH_KEY and "
+                         f"AZURE_SPEECH_REGION. {r.text[:200]}")
+            print(f"  Azure busy ({r.status_code}), retrying...")
+        time.sleep(5 * (attempt + 1))
+    sys.exit(f"Azure Speech failed on scene {i}.")
+
+
 def make_voice_free(ep, i, scene, out):
     voice_key = ep["characters"][scene["speaker"]]["voice"].lower()
     if voice_key.startswith("hindi_"):  # free Hindi voices
@@ -256,6 +285,8 @@ def make_voice_free(ep, i, scene, out):
         "en-US-AnaNeural" if voice_key.startswith("child") else
         EDGE_VOICES["female_soft"] if "female" in voice_key else EDGE_VOICES["male_smooth"])
     text = (scene.get("say") or scene["line"]).replace("*", "").replace("_", " ")  # drop markdown emphasis
+    if os.environ.get("AZURE_SPEECH_KEY", "").strip():  # licensed Microsoft Azure Speech (commercial use OK)
+        return make_voice_azure(voice, text, i, out)
     for attempt in range(6):  # the free voice service sometimes refuses a request; wait and retry
         r = subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice, "--text", text,
                             f"--rate={VOICE_RATE}", f"--pitch={VOICE_PITCH}",
@@ -316,8 +347,12 @@ def make_voice_best(ep, i, scene, out):
             except requests.HTTPError as e:
                 code = e.response.status_code
                 if code in (401, 402, 403) or "quota" in e.response.text:
+                    if os.environ.get("AZURE_SPEECH_KEY", "").strip():
+                        print(f"  ElevenLabs refused ({code}); using Azure Speech for the rest of this video.")
+                        ELEVEN_OFF = True
+                        break
                     sys.exit(f"ElevenLabs refused ({code}: {e.response.text[:200]}). Stopping so no video "
-                             "goes out in the robotic free voice. Add credits and run again.")
+                             "goes out in the robotic free voice. Add credits or set up Azure Speech.")
                 print(f"  ElevenLabs busy ({code}), retrying...")
             except requests.RequestException:
                 print("  ElevenLabs connection error, retrying...")
