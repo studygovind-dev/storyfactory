@@ -1,0 +1,19 @@
+# Manual test: sends a short sample of each chosen ElevenLabs voice to Telegram.
+# No video is made and nothing is posted to Facebook or Instagram.
+name: Test voices
+on: workflow_dispatch
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      ELEVEN_API_KEY: ${{ secrets.ELEVEN_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          pip install -q requests
+          python pipeline/test_voices.py
