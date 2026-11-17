@@ -18,9 +18,21 @@ SCOPE = "https://www.googleapis.com/auth/youtube.upload"
 
 
 def main():
-    if len(sys.argv) != 3:
+    if len(sys.argv) == 2 and sys.argv[1].lower().endswith(".json"):  # the file from "Download JSON"
+        import json
+        info = json.load(open(sys.argv[1], encoding="utf-8"))
+        info = info.get("installed") or info.get("web") or info
+        cid, secret = info["client_id"].strip(), info["client_secret"].strip()
+    elif len(sys.argv) == 3:
+        cid, secret = sys.argv[1].strip(), sys.argv[2].strip()
+    elif len(sys.argv) <= 2:  # no secret given: ask for it (typing is hidden)
+        import getpass
+        cid = sys.argv[1].strip() if len(sys.argv) == 2 else input("Client ID: ").strip()
+        secret = getpass.getpass("Paste the client secret here (nothing shows while you paste), then press Enter: ").strip()
+    else:
         sys.exit(__doc__)
-    cid, secret = sys.argv[1], sys.argv[2]
+    if secret.upper().startswith("PASTE") or len(secret) < 20:
+        sys.exit("That is not a real client secret. Add a new secret in Google Cloud and paste it when asked.")
     got = {}
 
     class H(http.server.BaseHTTPRequestHandler):
