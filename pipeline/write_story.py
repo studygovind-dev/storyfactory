@@ -117,6 +117,11 @@ Rules:
   look graceful and pretty: long soft wavy dark-brown hair, natural makeup, small bindi or earrings,
   elegant pastel kurta or saree (or neat casual clothes in a city story).
 - "image" describes ONE {shot} (who, where, action, emotion on the face). No text or signs.
+- LANGUAGE QUALITY: when the story is Hinglish, write the way a real young Indian talks on WhatsApp:
+  everyday words ("dadi", "doodh", "pyaar", "ghar"), short sentences, correct grammar and gender
+  ("meri dadi ne doodh piya", never word-for-word translations or invented words). No heavy literary
+  Hindi (avoid words like ज़ालिम, ख़ामोश दीवार). Read each line back: if a native speaker would find it
+  odd, rewrite it.
 - SILENT-MOVIE TEST: the story must be easy to follow with the sound OFF, even for someone who
   does not know the language. Every picture shows exactly what is happening: a clear action,
   big readable emotions (tears, shock, laughter, anger), meaningful objects (a letter, a ring,

@@ -138,7 +138,9 @@ def post_all(video, ep):
         return []  # auto-posting not set up: nothing to do
     problems = []
     teaser = Path(video).with_name("teaser.mp4")  # Reels must be under 90 s
-    jobs = [("Facebook", post_facebook, video, ep)]
+    jobs = []
+    if not teaser.exists():  # no teaser: post the full video. With a teaser, Facebook gets only the Reel (no double post)
+        jobs.append(("Facebook", post_facebook, video, ep))
     if teaser.exists():
         reel = {**ep, "yt_title": ep["yt_title"] + "\n\n▶️ Full story on our Facebook page & YouTube"}
         jobs.append(("Instagram", post_instagram, teaser, reel))

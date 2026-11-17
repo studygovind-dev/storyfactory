@@ -229,10 +229,14 @@ ELEVEN_DEFAULTS = {  # all chosen by ear from the ElevenLabs voice library
     "CARTOON_FEMALE": "XJ2fW4ybq7HouelYYGcL",  # cartoon girls, baby girls, female animals
     # Hindi / Hinglish videos (1 PM cartoon, 5 PM story)
     "HINDI_NARRATOR_MALE": "F8IvasoAdpDhOjLm5YBm",
-    "HINDI_NARRATOR_FEMALE": "CNKl99QEbWm8RQ4D8GfC",
+    "HINDI_NARRATOR_FEMALE": "nTWVlt2qhp8mlg9p5Fa0",   # normal female storyteller (picked 17 Nov 2026)
     "HINDI_MALE_YOUNG": "6RDBmepnHSilYYdPZC4W",
-    "HINDI_FEMALE_YOUNG": "S2uC1CO2xXot4UtzYX68",
+    "HINDI_FEMALE_YOUNG": "jPuxGMn4XLoGjUPrH2EM",      # love-story female storyteller
+    "HINDI_NARRATOR_FEMALE_DEEP": "vQmxatd5nc5hsnpVWWpJ",  # deeper female voice for scary stories
 }
+ELEVEN_DEFAULTS["NARRATOR_FEMALE"] = "nTWVlt2qhp8mlg9p5Fa0"
+ELEVEN_DEFAULTS["FEMALE_YOUNG"] = "jPuxGMn4XLoGjUPrH2EM"
+ELEVEN_DEFAULTS["NARRATOR_FEMALE_DEEP"] = "vQmxatd5nc5hsnpVWWpJ"
 # Older voice names map onto the chosen ones.
 for _k, _v in {"MALE_YOUNG2": "MALE_YOUNG", "MALE_ADULT": "NARRATOR_MALE", "MALE_OLD": "NARRATOR_MALE",
                "MALE_DEEP": "NARRATOR_MALE", "MALE_GRUFF": "NARRATOR_MALE", "MALE_SMOOTH": "MALE_YOUNG",
