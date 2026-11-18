@@ -351,6 +351,15 @@ def make_voice_best(ep, i, scene, out):
                         print(f"  ElevenLabs refused ({code}); using Azure Speech for the rest of this video.")
                         ELEVEN_OFF = True
                         break
+                    try:  # tell the owner, so a missing video is never a mystery
+                        requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendMessage",
+                                      data={"chat_id": env("TELEGRAM_CHAT_ID"),
+                                            "text": "⚠️ No video made: the ElevenLabs account behind ELEVEN_API_KEY "
+                                                    f"has no credits left ({code}). Add credits there, or put the "
+                                                    "API key of the account that has credits into GitHub Secrets."},
+                                      timeout=30)
+                    except (requests.RequestException, SystemExit):
+                        pass
                     sys.exit(f"ElevenLabs refused ({code}: {e.response.text[:200]}). Stopping so no video "
                              "goes out in the robotic free voice. Add credits or set up Azure Speech.")
                 print(f"  ElevenLabs busy ({code}), retrying...")
