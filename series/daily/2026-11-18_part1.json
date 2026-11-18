@@ -1,0 +1,169 @@
+{
+ "series": "Dadi's Secret Recipe of Love",
+ "episode": 1,
+ "title": "Dadi's Secret Recipe of Love",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Anya: Young Indian woman, late 20s. Long, soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta, fair skin, bright soft light.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Rohan: Young Indian man, late 20s. Short dark hair, kind eyes, neat casual shirt, light wheatish skin, bright soft light.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HE HID A SECRET",
+ "scenes": [
+  {
+   "image": "Close-up on Anya, pale and sad, pushing away a plate of her own delicious-looking dal. A single tear rolls down her cheek.",
+   "speaker": "narrator",
+   "line": "Meri favorite dal bhi ab achhi nahi lagti thi.",
+   "fx": "none",
+   "sub": "Even my favorite lentil soup didn't taste good anymore.",
+   "say": "मेरी फ़ेवरेट दाल भी अब अच्छी नहीं लगती थी।"
+  },
+  {
+   "image": "Anya looking thin, sitting weakly on a sofa, Rohan looking at her worriedly from behind her, his hand gently on her shoulder.",
+   "speaker": "narrator",
+   "line": "Bimari ne meri bhookh chheen li thi.",
+   "fx": "none",
+   "sub": "Sickness had stolen my appetite.",
+   "say": "बीमारी ने मेरी भूख छीन ली थी।"
+  },
+  {
+   "image": "Rohan kneeling beside Anya, holding her hand, a worried but gentle expression on his face as he tries to offer her food.",
+   "speaker": "narrator",
+   "line": "Rohan har subah mujhe khaana khilaane ki koshish karta.",
+   "fx": "none",
+   "sub": "Rohan would try to feed me every morning.",
+   "say": "रोहन हर सुबह मुझे खाना खिलाने की कोशिश करता।"
+  },
+  {
+   "image": "A close-up of a plate with a new, unfamiliar, yet appealing Indian vegetable dish (e.g., aloo gobhi) on the dining table. Anya looks surprised at it.",
+   "speaker": "narrator",
+   "line": "Phir ek din, ek naya swaad mere saamne aaya.",
+   "fx": "none",
+   "sub": "Then one day, a new taste appeared before me.",
+   "say": "फिर एक दिन, एक नया स्वाद मेरे सामने आया।"
+  },
+  {
+   "image": "Close-up of Anya taking a bite of the dish, her eyes widening in surprise and sudden delight, a faint smile appearing.",
+   "speaker": "narrator",
+   "line": "Yeh toh meri bachpan ki sabzi thi!",
+   "fx": "none",
+   "sub": "This was my childhood vegetable dish!",
+   "say": "ये तो मेरी बचपन की सब्ज़ी थी!"
+  },
+  {
+   "image": "Anya looks up, confused, then at Rohan, who is standing nearby, smiling slightly but trying to act casual.",
+   "speaker": "narrator",
+   "line": "Rohan, yeh kisne banaya? Tum toh cook nahi karte.",
+   "fx": "none",
+   "sub": "Rohan, who made this? You don't cook.",
+   "say": "रोहन, ये किसने बनाया? तुम तो कुक नहीं करते।"
+  },
+  {
+   "image": "Rohan shrugging, looking away slightly, a small, nervous smile playing on his lips, trying to hide something.",
+   "speaker": "Rohan",
+   "line": "Bas, seekh raha hoon. Tumhe achha laga?",
+   "fx": "none",
+   "sub": "Just learning. You liked it?",
+   "say": "बस, सीख रहा हूँ। तुम्हें अच्छा लगा?"
+  },
+  {
+   "image": "Anya eating another delicious-looking dish (e.g., crispy paratha with pickle) with genuine enjoyment, looking much better.",
+   "speaker": "narrator",
+   "line": "Agle kayi din, roz kuch khaas banta.",
+   "fx": "none",
+   "sub": "For many days, something special was made daily.",
+   "say": "अगले कई दिन, रोज़ कुछ ख़ास बनता।"
+  },
+  {
+   "image": "A close-up of a specific Indian sweet, a perfectly round besan ladoo, on a small decorative plate. Anya's hand reaches for it.",
+   "speaker": "narrator",
+   "line": "Ek din Dadi ke haath ke besan ladoo!",
+   "fx": "none",
+   "sub": "One day, Dadi's handmade gram flour sweets!",
+   "say": "एक दिन दादी के हाथ के बेसन लड्डू!"
+  },
+  {
+   "image": "Close-up on Anya's fingers holding the ladoo, pointing to a tiny, familiar twist of saffron embedded in it, a thoughtful look on her face.",
+   "speaker": "narrator",
+   "line": "Yeh Dadi ki secret recipe thi, same saffron twist.",
+   "fx": "none",
+   "sub": "This was Dadi's secret recipe, same saffron twist.",
+   "say": "ये दादी की सीक्रेट रेसिपी थी, सेम सैफ़्रन ट्विस्ट।"
+  },
+  {
+   "image": "Anya's POV: She sees Rohan's phone on the kitchen counter, showing Dadi's smiling face on a video call. An open, old recipe book lies next to it. Rohan is in the background, wiping his hands.",
+   "speaker": "narrator",
+   "line": "Phir maine Rohan ka phone dekha... Dadi on video call!",
+   "fx": "none",
+   "sub": "Then I saw Rohan's phone... Dadi on video call!",
+   "say": "फिर मैंने रोहन का फ़ोन देखा... दादी ऑन वीडियो कॉल!"
+  },
+  {
+   "image": "Close-up on Anya's face, tears welling up in her eyes, a mix of shock, overwhelming love, and understanding.",
+   "speaker": "narrator",
+   "line": "Mera pyaara Rohan roz Dadi se seekh raha tha.",
+   "fx": "none",
+   "sub": "My loving Rohan was learning daily from Dadi.",
+   "say": "मेरा प्यारा रोहन रोज़ दादी से सीख रहा था।"
+  },
+  {
+   "image": "Anya walks towards Rohan, who turns, surprised. She holds his hand, tears streaming down her face, a look of profound gratitude.",
+   "speaker": "narrator",
+   "line": "Rohan, tum yeh sab mere liye kar rahe the?",
+   "fx": "none",
+   "sub": "Rohan, you were doing all this for me?",
+   "say": "रोहन, तुम ये सब मेरे लिए कर रहे थे?"
+  },
+  {
+   "image": "Rohan pulls Anya into a tight hug, his face buried in her hair, emotion clearly visible on his face as he nods.",
+   "speaker": "Rohan",
+   "line": "Haan, Anya. Tumhari muskaan lautane ke liye.",
+   "fx": "none",
+   "sub": "Yes, Anya. To bring back your smile.",
+   "say": "हाँ, अन्या। तुम्हारी मुस्कान लौटाने के लिए।"
+  },
+  {
+   "image": "Anya and Rohan sitting at the dining table, Anya eating happily with a full appetite, Rohan watching her with pure adoration. Warm sunlight streams into the room.",
+   "speaker": "narrator",
+   "line": "Usne sirf khaana nahi, mera bachpan bhi lauta diya.",
+   "fx": "none",
+   "sub": "He brought back not just food, but my childhood too.",
+   "say": "उसने सिर्फ खाना नहीं, मेरा बचपन भी लौटा दिया।"
+  },
+  {
+   "image": "A close-up of Anya's hand gently holding Rohan's hand across the table, both their hands intertwined, a delicious meal laid out between them. Both smiling.",
+   "speaker": "narrator",
+   "line": "Kya aapko bhi aise pyaare partner milte hain?",
+   "fx": "none",
+   "sub": "Do you also have such a loving partner?",
+   "say": "क्या आपको भी ऐसे प्यारे पार्टनर मिलते हैं?"
+  }
+ ],
+ "caption": "My Husband Cooked My Childhood Meals... Then I Saw His Secret Notes 😭",
+ "slug": "2026-11-18_part1",
+ "story_no": 65,
+ "yt_title": "My Husband Cooked My Childhood Meals... Then I Saw His Secret Notes 😭",
+ "description": "I lost my appetite after falling ill, even for my own food. But my husband started making delicious, familiar meals... How did he know my Dadi's secret recipes? You won't believe the heartwarming truth behind his culinary journey. Would you want a husband like Rohan?",
+ "comment_question": "Would you want a husband like Rohan?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#IndianLoveStory",
+  "#HusbandGoals",
+  "#SecretRecipes",
+  "#LoveBeyondWords",
+  "#HinglishStory",
+  "#FamilyLove",
+  "#Heartwarming",
+  "#TrueLove",
+  "#IndianCulture"
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "series": "The Sea's Gentle Whisper",
+ "episode": 2,
+ "title": "The Sea's Gentle Whisper",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, fair skin, long dark-brown wavy hair, light pink kurta, small silver earrings, warm smile.",
+   "voice": "hindi_female_young"
+  },
+  "father": {
+   "look": "Middle-aged man, weathered skin, short black hair, simple blue shirt, serious but kind eyes.",
+   "voice": "hindi_narrator_male"
+  },
+  "Rohan": {
+   "look": "Young boy, around 7-8 years old, light skin, short black hair, blue t-shirt, curious eyes.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Kiran": {
+   "look": "A sleek, grey dolphin, playful eyes.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "LOST AT SEA!",
+ "scenes": [
+  {
+   "image": "Close-up of [[narrator]]'s worried face, on a small fishing boat at dusk, looking out at a vast, empty sea. Her eyes are wide with fear.",
+   "speaker": "narrator",
+   "line": "Hamare gaon mein, samundar ne bhai chheena.",
+   "fx": "none",
+   "sub": "In our village, the sea took my brother.",
+   "say": "हमारे गाँव में, समंदर ने भाई छीना।"
+  },
+  {
+   "image": "[[narrator]] (younger, laughing) and [[Rohan]] (little boy, 5-6 yrs old) playing by the shore with their [[father]], who is smiling, sun setting.",
+   "speaker": "narrator",
+   "line": "Mera chhota bhai Rohan, use samundar se pyaar tha.",
+   "fx": "none",
+   "sub": "My little brother Rohan, he loved the sea.",
+   "say": "मेरा छोटा भाई रोहन, उसे समंदर से प्यार था।"
+  },
+  {
+   "image": "[[Rohan]] (7-8 yrs old) sitting on the jetty, excitedly watching a dolphin ([[Kiran]]) leap playfully in the water near him. He's smiling widely.",
+   "speaker": "narrator",
+   "line": "Uska best friend, dolphin Kiran thi.",
+   "fx": "none",
+   "sub": "His best friend was a dolphin, Kiran.",
+   "say": "उसका बेस्ट फ्रेंड, डॉल्फिन किरण थी।"
+  },
+  {
+   "image": "A small fishing boat, empty, drifting in the distance. [[narrator]] stands on the shore, hands clasped, face full of dread.",
+   "speaker": "narrator",
+   "line": "Ek din, Rohan akela gaya, gayab.",
+   "fx": "none",
+   "sub": "One day, Rohan went alone, disappeared.",
+   "say": "एक दिन, रोहन अकेला गया, गायब।"
+  },
+  {
+   "image": "Close-up of [[father]]'s face, tears welling in his eyes, hands covering his mouth in shock and despair.",
+   "speaker": "father",
+   "line": "Rohan... mera beta... kahan ho tum?",
+   "fx": "none",
+   "sub": "Rohan... my son... where are you?",
+   "say": "रोहन... मेरा बेटा... कहाँ हो तुम?"
+  },
+  {
+   "image": "[[narrator]] and [[father]] in their small boat, scanning the vast, choppy sea, sun starting to set. Their faces are desperate.",
+   "speaker": "narrator",
+   "line": "Humne sab dhoondha, woh nahin mila.",
+   "fx": "none",
+   "sub": "We searched everywhere, he wasn't found.",
+   "say": "हमने सब ढूँढा, वो नहीं मिला।"
+  },
+  {
+   "image": "[[narrator]] sits in the boat, head in hands, looking defeated. The sea looks endless and dark.",
+   "speaker": "narrator",
+   "line": "Meri aankhon mein aansu the, ummeed toot gayi.",
+   "fx": "none",
+   "sub": "There were tears in my eyes, hope broke.",
+   "say": "मेरी आँखों में आँसू थे, उम्मीद टूट गयी।"
+  },
+  {
+   "image": "Suddenly, [[Kiran]] the dolphin leaps high out of the water near their boat, looking directly at them with alert eyes.",
+   "speaker": "narrator",
+   "line": "Tabhi, Kiran wapas aayi, aankhon mein urgency.",
+   "fx": "none",
+   "sub": "Just then, Kiran returned, urgency in her eyes.",
+   "say": "तभी, किरण वापस आयी, आँखों में अर्जेंसी।"
+  },
+  {
+   "image": "[[Kiran]] swimming purposefully ahead of their boat, occasionally looking back as if to guide them. [[narrator]] and [[father]] look surprised but follow.",
+   "speaker": "narrator",
+   "line": "Jaise woh humein kisi taraf bula rahi ho.",
+   "fx": "none",
+   "sub": "As if she was calling us somewhere.",
+   "say": "जैसे वो हमें किसी तरफ बुला रही हो।"
+  },
+  {
+   "image": "Distant shot: [[Kiran]] swimming next to a small wooden plank, where [[Rohan]] is clinging, barely visible. The boat is approaching.",
+   "speaker": "narrator",
+   "line": "Phir woh miracle hua... Rohan wahan tha!",
+   "fx": "none",
+   "sub": "Then that miracle happened... Rohan was there!",
+   "say": "फिर वो मिरेकल हुआ... रोहन वहाँ था!"
+  },
+  {
+   "image": "Close-up of [[Rohan]], wet and scared but safe, reaching out from the plank towards his [[father]] who is reaching for him. [[Kiran]] is nearby.",
+   "speaker": "Rohan",
+   "line": "Papa! Didi! Kiran ne mujhe bachaya!",
+   "fx": "none",
+   "sub": "Papa! Sister! Kiran saved me!",
+   "say": "पापा! दीदी! किरण ने मुझे बचाया!"
+  },
+  {
+   "image": "[[father]] hugging [[Rohan]] tightly in the boat, both crying tears of relief. [[narrator]] watching them, tears of joy on her face. [[Kiran]] is still in the water nearby.",
+   "speaker": "narrator",
+   "line": "Hamari khushi ka thikana na tha, gale laga liya.",
+   "fx": "none",
+   "sub": "Our happiness knew no bounds, we hugged him.",
+   "say": "हमारी खुशी का ठिकाना न था, गले लगा लिया।"
+  },
+  {
+   "image": "[[narrator]] looking at [[Kiran]] in the water, a deep sense of gratitude on her face. [[Kiran]] looks back calmly.",
+   "speaker": "narrator",
+   "line": "Kiran ne dosti nibhaai, jaan bachaayi.",
+   "fx": "none",
+   "sub": "Kiran kept her friendship, saved his life.",
+   "say": "किरण ने दोस्ती निभाई, जान बचाई।"
+  },
+  {
+   "image": "[[Rohan]] in the boat, smiling and waving gently at [[Kiran]] who is swimming beside them.",
+   "speaker": "narrator",
+   "line": "Yeh friendship special thi, insaan-jaanwar ki.",
+   "fx": "none",
+   "sub": "This friendship was special, of human and animal.",
+   "say": "ये फ्रेंडशिप स्पेशल थी, इंसान-जानवर की।"
+  },
+  {
+   "image": "[[narrator]] looking thoughtful, gazing out at the sea, a faint smile on her face.",
+   "speaker": "narrator",
+   "line": "Samundar ne chheena, wapas bhi diya.",
+   "fx": "none",
+   "sub": "The sea took, gave back too.",
+   "say": "समंदर ने छीना, वापस भी दिया।"
+  },
+  {
+   "image": "[[narrator]] smiling warmly at the camera, sunlight catching her hair.",
+   "speaker": "narrator",
+   "line": "Kya aapko bhi aise miracles par believe hai?",
+   "fx": "none",
+   "sub": "Do you also believe in such miracles?",
+   "say": "क्या आपको भी ऐसे मिरेकल्स पर बिलीव है?"
+  }
+ ],
+ "caption": "Dolphin Saves Lost Boy At Sea 🐬",
+ "slug": "2026-11-18_part2",
+ "story_no": 66,
+ "yt_title": "Dolphin Saves Lost Boy At Sea 🐬",
+ "description": "In our quiet coastal village, the sea unexpectedly took my little brother. As hope faded, an old friend appeared to guide us. Do you believe in such miracles?",
+ "comment_question": "Do you also believe in such miracles?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalrescue",
+  "#dolphin",
+  "#humananimalbond",
+  "#miracle",
+  "#seastory",
+  "#lostatsea",
+  "#brotherandsister",
+  "#heartwarming",
+  "#truestory"
+ ]
+}
