@@ -1,0 +1,173 @@
+{
+ "series": "The Captain's Quiet Guardian",
+ "episode": 1,
+ "title": "The Captain's Quiet Guardian",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, late 20s, fair skin, long soft wavy dark-brown hair, small silver earrings, simple pastel pink kurta, warm and empathetic expression.",
+   "voice": "hindi_narrator_female"
+  },
+  "captain_sharma": {
+   "look": "Elderly man, 70s, fair skin, kind but weary eyes, short grey hair, thin frame, wearing a faded army green shirt and simple trousers, slightly hunched.",
+   "voice": "hindi_narrator_male"
+  },
+  "tara": {
+   "look": "Small, scruffy, golden-brown street puppy, big innocent eyes, dirty fur, no collar, shivering, but eventually playful.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "HER SECRET HERO",
+ "scenes": [
+  {
+   "image": "Close-up on Rina's (narrator) face, shocked and heartbroken, looking at something off-camera. Rain streaks on her face.",
+   "speaker": "narrator",
+   "line": "Maine kabhi socha na tha, hero ko aise dekhungi.",
+   "fx": "rain",
+   "sub": "I never thought I'd see my hero like this.",
+   "say": "मैंने कभी सोचा न था, हीरो को ऐसे देखूँगी।"
+  },
+  {
+   "image": "Captain Sharma, sitting alone on a park bench under a leafless tree, staring blankly ahead. His face is filled with profound sadness.",
+   "speaker": "narrator",
+   "line": "Captain Sharma roz akela baitha rehta tha.",
+   "fx": "rain",
+   "sub": "Captain Sharma always sat alone daily.",
+   "say": "कैप्टन शर्मा रोज़ अकेला बैठा रहता था।"
+  },
+  {
+   "image": "Interior shot of Captain Sharma's dimly lit, simple living room. An old framed photo of a smiling family (a woman and a young girl) sits on a dusty mantelpiece.",
+   "speaker": "narrator",
+   "line": "Apni family kho di thi, bahut tanha tha.",
+   "fx": "none",
+   "sub": "He had lost his family, he was very lonely.",
+   "say": "अपनी फैमिली खो दी थी, बहुत तन्हा था।"
+  },
+  {
+   "image": "Close-up on a tiny, wet, shivering golden-brown puppy (Tara) huddled under a bus stop bench in pouring rain, looking helpless.",
+   "speaker": "narrator",
+   "line": "Ek din maine us chote puppy ko dekha.",
+   "fx": "rain",
+   "sub": "One day I saw that little puppy.",
+   "say": "एक दिन मैंने उस छोटे पप्पी को देखा।"
+  },
+  {
+   "image": "Captain Sharma walking slowly past the bus stop, his gaze falls on the puppy. He pauses, a flicker of emotion in his eyes.",
+   "speaker": "narrator",
+   "line": "Captain Sharma uske paas se guzra.",
+   "fx": "rain",
+   "sub": "Captain Sharma passed by it.",
+   "say": "कैप्टन शर्मा उसके पास से गुज़रा।"
+  },
+  {
+   "image": "Captain Sharma, kneeling carefully, gently picking up the shivering puppy (Tara) with both hands, a soft, protective look on his face.",
+   "speaker": "captain_sharma",
+   "line": "Chhote, tu akela kyu hai? Chal mere ghar.",
+   "fx": "rain",
+   "sub": "Little one, why are you alone? Come home with me.",
+   "say": "छोटे, तू अकेला क्यों है? चल मेरे घर।"
+  },
+  {
+   "image": "Inside Captain Sharma's home. He's gently drying Tara with a towel. Tara looks up at him with big, hopeful eyes.",
+   "speaker": "tara",
+   "line": "Thank you, uncle! Mujhe bohot thand lag rahi thi.",
+   "fx": "none",
+   "sub": "Thank you, uncle! I was feeling very cold.",
+   "say": "थैंक यू, अंकल! मुझे बहुत ठंड लग रही थी।"
+  },
+  {
+   "image": "Captain Sharma is sitting on the floor, smiling genuinely as Tara playfully nips at his shoelaces. His face is much brighter.",
+   "speaker": "narrator",
+   "line": "Puppy ne unhe jeene ki wajah di.",
+   "fx": "none",
+   "sub": "The puppy gave him a reason to live.",
+   "say": "पप्पी ने उन्हें जीने की वजह दी।"
+  },
+  {
+   "image": "Rina watching Captain Sharma and Tara playing from a distance, through a window. Her expression changes from happy to puzzled, then a dawning realization. A specific medal on his chest catches her eye.",
+   "speaker": "narrator",
+   "line": "Ek medal dekha, sab yaad aa gaya.",
+   "fx": "none",
+   "sub": "I saw a medal, everything came back.",
+   "say": "एक मेडल देखा, सब याद आ गया।"
+  },
+  {
+   "image": "Flashback: Young Rina (about 8 years old), crying, trapped near a small fire. A younger, strong Captain Sharma (about 40s) quickly pulling her to safety. Intense action, blurred background.",
+   "speaker": "narrator",
+   "line": "Wohi the jinhone aag se bachaya tha.",
+   "fx": "none",
+   "sub": "He was the one who saved me from fire.",
+   "say": "वही थे जिन्होंने आग से बचाया था।"
+  },
+  {
+   "image": "Close-up on Rina's face, eyes wide with recognition and emotion (tears welling up). The realization hits her hard.",
+   "speaker": "narrator",
+   "line": "Mere bachpan ke hero, woh Captain Sharma!",
+   "fx": "none",
+   "sub": "My childhood hero, that Captain Sharma!",
+   "say": "मेरे बचपन के हीरो, वो कैप्टन शर्मा!"
+  },
+  {
+   "image": "Rina, determined expression, quickly preparing a tray with a warm home-cooked meal in her kitchen.",
+   "speaker": "narrator",
+   "line": "Ab meri baari thi unki madad karne ki.",
+   "fx": "none",
+   "sub": "Now it was my turn to help him.",
+   "say": "अब मेरी बारी थी उनकी मदद करने की।"
+  },
+  {
+   "image": "Rina at Captain Sharma's door, offering him the meal with a gentle smile. Tara peeks out from behind his legs, wagging her tail.",
+   "speaker": "narrator",
+   "line": "Maine unhe khana diya, aur baat ki.",
+   "fx": "none",
+   "sub": "I gave him food, and talked.",
+   "say": "मैंने उन्हें खाना दिया, और बात की।"
+  },
+  {
+   "image": "Captain Sharma sitting at his table, eating the meal, Tara asleep by his feet. He looks at Rina with gratitude and a slight, peaceful smile.",
+   "speaker": "captain_sharma",
+   "line": "Meri family thi, ab tum mil gaye. Shukriya.",
+   "fx": "none",
+   "sub": "I had family, now I've found you. Thank you.",
+   "say": "मेरी फैमिली थी, अब तुम मिल गए। शुक्रिया।"
+  },
+  {
+   "image": "Rina, Captain Sharma, and Tara (now looking clean and healthy) sitting together in the living room. Rina holding Tara, Captain Sharma's hand gently resting on Rina's arm, a genuine family-like bond. Warm lighting.",
+   "speaker": "narrator",
+   "line": "Humari zindagi jud gayi, naye rishte se.",
+   "fx": "none",
+   "sub": "Our lives connected, with a new bond.",
+   "say": "हमारी ज़िन्दगी जुड़ गई, नए रिश्ते से।"
+  },
+  {
+   "image": "Close-up on Captain Sharma's hand gently stroking Tara's head. Both look content.",
+   "speaker": "narrator",
+   "line": "Kya sabse badi legacy, sirf insaniyat hoti hai?",
+   "fx": "none",
+   "sub": "Is the greatest legacy, just humanity?",
+   "say": "क्या सबसे बड़ी लेगेसी, सिर्फ़ इंसानियत होती है?"
+  }
+ ],
+ "caption": "My Childhood Hero Was Broken... Then a Puppy Changed Everything! 🥺",
+ "slug": "2026-11-19_part1",
+ "story_no": 67,
+ "yt_title": "My Childhood Hero Was Broken... Then a Puppy Changed Everything! 🥺",
+ "description": "My childhood hero, a brave old soldier, was lost in grief. Then, a tiny abandoned puppy came into his life, bringing unexpected hope. But the biggest surprise? He had once saved *my* family. Can simple kindness heal old wounds? What do you think is the true meaning of a hero's legacy?",
+ "comment_question": "What do you think is the true meaning of a hero's legacy?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalhumanbond",
+  "#puppylove",
+  "#oldhero",
+  "#secondchance",
+  "#kindnessmatters",
+  "#heartwarming",
+  "#reels",
+  "#indianstory",
+  "#findingfamily"
+ ]
+}
