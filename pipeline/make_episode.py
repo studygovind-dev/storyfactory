@@ -336,6 +336,21 @@ def make_voice(ep, i, scene, out, dry):
 ELEVEN_OFF = False  # set when ElevenLabs credits run out, so the rest of the video uses free voices
 
 
+def eleven_credits_left():
+    """Characters left on the ElevenLabs account, or None if unknown."""
+    key = os.environ.get("ELEVEN_API_KEY", "").strip()
+    if not key:
+        return None
+    try:
+        r = requests.get("https://api.elevenlabs.io/v1/user/subscription", headers={"xi-api-key": key}, timeout=30)
+        if r.ok:
+            s = r.json()
+            return s["character_limit"] - s["character_count"]
+    except (requests.RequestException, KeyError, ValueError):
+        pass
+    return None
+
+
 def make_voice_best(ep, i, scene, out):
     """ElevenLabs voice when a key is set (best, most natural), free voice as backup."""
     global ELEVEN_OFF
@@ -347,21 +362,10 @@ def make_voice_best(ep, i, scene, out):
             except requests.HTTPError as e:
                 code = e.response.status_code
                 if code in (401, 402, 403) or "quota" in e.response.text:
-                    if os.environ.get("AZURE_SPEECH_KEY", "").strip():
-                        print(f"  ElevenLabs refused ({code}); using Azure Speech for the rest of this video.")
-                        ELEVEN_OFF = True
-                        break
-                    try:  # tell the owner, so a missing video is never a mystery
-                        requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendMessage",
-                                      data={"chat_id": env("TELEGRAM_CHAT_ID"),
-                                            "text": "⚠️ No video made: the ElevenLabs account behind ELEVEN_API_KEY "
-                                                    f"has no credits left ({code}). Add credits there, or put the "
-                                                    "API key of the account that has credits into GitHub Secrets."},
-                                      timeout=30)
-                    except (requests.RequestException, SystemExit):
-                        pass
-                    sys.exit(f"ElevenLabs refused ({code}: {e.response.text[:200]}). Stopping so no video "
-                             "goes out in the robotic free voice. Add credits or set up Azure Speech.")
+                    # credits gone: finish this video with the free voice (Azure Speech if set up)
+                    print(f"  ElevenLabs refused ({code}); using the backup voice for this video.")
+                    ELEVEN_OFF = True
+                    break
                 print(f"  ElevenLabs busy ({code}), retrying...")
             except requests.RequestException:
                 print("  ElevenLabs connection error, retrying...")
@@ -631,6 +635,16 @@ def main():
     # Budget mode: in --free runs, animate the first N scenes of each part with Kling (paid).
     kling_first = int(os.environ.get("KLING_CLIPS_PER_PART", "0") or 0) if a.free else 0
 
+    # Use ONE voice for the whole video: if ElevenLabs cannot cover every line, use the free voice for all of it.
+    global ELEVEN_OFF
+    if a.free and not ELEVEN_OFF:
+        need = sum(len(s.get("say") or s["line"]) for s in ep["scenes"])
+        left = eleven_credits_left()
+        if left is not None and left < need * 1.05:
+            print(f"ElevenLabs has {left} credits but this video needs about {need}: using the free voice.")
+            ELEVEN_OFF = True
+    eleven_started = False
+
     for i, sc in enumerate(ep["scenes"]):
         print(f"scene {i + 1}/{len(ep['scenes'])}")
         img, voice = work / f"img_{i}.png", work / f"voice_{i}.mp3"
@@ -642,6 +656,13 @@ def main():
                 make_image_free(ep, i, sc, img)
             if not voice.exists():
                 make_voice_best(ep, i, sc, voice)
+                if not ELEVEN_OFF:
+                    eleven_started = True
+                elif eleven_started:  # credits ran out mid-video: redo earlier lines so the voice stays the same
+                    eleven_started = False
+                    for j in range(i):
+                        (work / f"voice_{j}.mp3").unlink(missing_ok=True)
+                        make_voice_free(ep, j, ep["scenes"][j], work / f"voice_{j}.mp3")
         else:
             make_image(ep, i, sc, img, a.dry_run)
             make_voice(ep, i, sc, voice, a.dry_run)

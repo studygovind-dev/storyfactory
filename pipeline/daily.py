@@ -61,10 +61,10 @@ def eleven_credits_ok():
         return True
     requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendMessage",
                   data={"chat_id": env("TELEGRAM_CHAT_ID"),
-                        "text": f"⚠️ ElevenLabs credits are almost out ({left} left). No video was made, so "
-                                "nothing is posted in a robotic voice. Add credits or wait for the monthly reset."},
+                        "text": f"⚠️ ElevenLabs credits are almost out ({left} left). Videos will use the free "
+                                "backup voice until you add credits or the monthly reset."},
                   timeout=60)
-    return False
+    return True  # still make the video: the free voice covers it
 
 
 def make_and_send(day, part, wait):
