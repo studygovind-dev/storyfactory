@@ -1,0 +1,169 @@
+{
+ "series": "Dhoop Aur Dhool",
+ "episode": 3,
+ "title": "Dhoop Aur Dhool",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A young Indian woman named Anaya in her early 20s, fair skin, long soft wavy dark-brown hair, expressive brown eyes, natural makeup with a small bindi, wearing an elegant pastel pink kurta with delicate embroidery and silver earrings. Her face is warm and relatable.",
+   "voice": "hindi_female_young"
+  },
+  "Raghav": {
+   "look": "A young Indian man named Raghav in his mid-20s, light wheatish skin, short neat black hair, kind and thoughtful brown eyes. Initially wears simple, clean but worn clothes (e.g., a faded blue shirt and beige trousers). Later seen in a sharp dark suit with a serious, determined expression.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HE WAS LYING!",
+ "scenes": [
+  {
+   "image": "Close-up on Anaya's thoughtful face, a hint of sadness in her expressive brown eyes, looking slightly to the side. Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Main Raghav se mili, usne kaha woh gareeb hai.",
+   "fx": "none",
+   "sub": "I met Raghav, he said he was poor.",
+   "say": "मैं राघव से मिली, उसने कहा वो गरीब है।"
+  },
+  {
+   "image": "Anaya and Raghav laughing genuinely together at a small, simple cafe table in a bustling Indian street. Bright soft light on their faces.",
+   "speaker": "narrator",
+   "line": "Uske aankhon mein sachai thi, uski baaton mein pyaar.",
+   "fx": "none",
+   "sub": "In his eyes was truth, in his words was love.",
+   "say": "उसकी आँखों में सच्चाई थी, उसकी बातों में प्यार।"
+  },
+  {
+   "image": "Anaya and Raghav sitting close on a park bench by a lake, looking at a city skyline, hands almost touching. They are lost in conversation. Bright soft light on their faces.",
+   "speaker": "narrator",
+   "line": "Hum ghanton baat karte, sapne bunte the.",
+   "fx": "none",
+   "sub": "We would talk for hours, weave dreams.",
+   "say": "हम घंटों बात करते, सपने बुनते थे।"
+  },
+  {
+   "image": "Close-up on Anaya's serene, smiling face, her head leaning gently on Raghav's shoulder (Raghav's back partially visible). Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Usne mera dil jeet liya, sabse alag tha woh.",
+   "fx": "none",
+   "sub": "He won my heart, he was different from everyone.",
+   "say": "उसने मेरा दिल जीत लिया, सबसे अलग था वो।"
+  },
+  {
+   "image": "Close-up of Anaya holding a smartphone, her face filled with shock and betrayal as she looks at a photo of Raghav in a lavish, opulent living room. Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Ek din, uski ek tasveer mili, bade ghar mein.",
+   "fx": "none",
+   "sub": "One day, I found his picture, in a big house.",
+   "say": "एक दिन, उसकी एक तस्वीर मिली, बड़े घर में।"
+  },
+  {
+   "image": "Anaya's face, teary-eyed, looking away from the phone, a single tear tracing a path down her cheek, expression of deep hurt. Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Mera dil toot gaya. Sab jhoot tha uska.",
+   "fx": "none",
+   "sub": "My heart broke. Everything about him was a lie.",
+   "say": "मेरा दिल टूट गया। सब झूठ था उसका।"
+  },
+  {
+   "image": "Close-up of a newspaper headline showing Raghav in a sharp, formal suit, looking serious, with text about a prominent business family. Bright soft light on the image.",
+   "speaker": "narrator",
+   "line": "Raghav toh bade sheher ka mashoor beta tha.",
+   "fx": "none",
+   "sub": "Raghav was the famous son of a big city family.",
+   "say": "राघव तो बड़े शहर का मशहूर बेटा था।"
+  },
+  {
+   "image": "Anaya confronting Raghav in a quiet corner of a park, her face stern and angry, his face etched with concern and a hint of sadness. Bright soft light on their faces.",
+   "speaker": "narrator",
+   "line": "Main usse mili, gusse mein, dhoke ka ehsaas tha.",
+   "fx": "none",
+   "sub": "I met him, angry, feeling betrayed.",
+   "say": "मैं उससे मिली, गुस्से में, धोखे का एहसास था।"
+  },
+  {
+   "image": "Close-up of Raghav's hand reaching out towards Anaya's, who pulls her hand back, a desperate plea in his eyes. Bright soft light on their hands and faces.",
+   "speaker": "Raghav",
+   "line": "Anaya, meri baat suno, zara.",
+   "fx": "none",
+   "sub": "Anaya, listen to me, please.",
+   "say": "अनया, मेरी बात सुनो, ज़रा।"
+  },
+  {
+   "image": "Extreme close-up on Anaya's tear-filled eyes, a single tear falling, her expression desperate and heartbroken as she looks at Raghav. Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Maine kaha, 'Kya jhoot tha, Raghav? Pyaar bhi?'",
+   "fx": "none",
+   "sub": "I said, 'What was the lie, Raghav? Even the love?'",
+   "say": "मैंने कहा, 'क्या झूठ था, राघव? प्यार भी?'"
+  },
+  {
+   "image": "Raghav handing a thick, official-looking file to Anaya, her expression slowly shifting from anger to confusion, then dawning realization. Bright soft light on their hands and faces.",
+   "speaker": "narrator",
+   "line": "Phir usne ek file dikhayi, sab kuch badal gaya.",
+   "fx": "none",
+   "sub": "Then he showed me a file, everything changed.",
+   "say": "फिर उसने एक फ़ाइल दिखाई, सब कुछ बदल गया।"
+  },
+  {
+   "image": "Close-up of the opened file, showing documents detailing corruption, with words like 'scam,' 'bribe,' 'fraud' visible among Hindi text. Bright soft light on the document.",
+   "speaker": "narrator",
+   "line": "Woh apne parivaar ka kaala sach saamne la raha tha.",
+   "fx": "none",
+   "sub": "He was exposing his family's dark truth.",
+   "say": "वो अपने परिवार का काला सच सामने ला रहा था।"
+  },
+  {
+   "image": "Close-up on Anaya's face, her eyes wide with shock and understanding as she reads the documents, betrayal replaced by a new kind of revelation. Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Garibon ki zameen, uske naam pe, sab hadap rahe the.",
+   "fx": "none",
+   "sub": "Poor people's land, in his name, they were seizing everything.",
+   "say": "गरीबों की ज़मीन, उसके नाम पे, सब हड़प रहे थे।"
+  },
+  {
+   "image": "Anaya looking at Raghav with new understanding, respect, and a resurgence of love in her eyes, a hint of awe. Raghav looks relieved and resolute. Bright soft light on their faces.",
+   "speaker": "narrator",
+   "line": "Woh gareeb nahin tha, lekin gareebon ke liye lad raha tha.",
+   "fx": "none",
+   "sub": "He wasn't poor, but he was fighting for the poor.",
+   "say": "वो गरीब नहीं था, लेकिन गरीबों के लिए लड़ रहा था।"
+  },
+  {
+   "image": "Anaya and Raghav standing side-by-side, united, looking determinedly towards a brighter future, perhaps overlooking the community he was protecting. Bright soft light on their faces.",
+   "speaker": "narrator",
+   "line": "Uska jhoot, ek bade sach ko bachane ke liye tha.",
+   "fx": "none",
+   "sub": "His lie was to save a bigger truth.",
+   "say": "उसका झूठ, एक बड़े सच को बचाने के लिए था।"
+  },
+  {
+   "image": "Anaya's face, looking directly into the camera with a thoughtful, reflective expression, inviting viewers to ponder the complexity of truth. Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Kya jhoot hamesha galat hota hai, ya kabhi sahi?",
+   "fx": "none",
+   "sub": "Is a lie always wrong, or sometimes right?",
+   "say": "क्या झूठ हमेशा गलत होता है, या कभी सही?"
+  }
+ ],
+ "caption": "Rich Boy Lied To Me... His Secret Changed Everything 💔",
+ "slug": "2026-11-20_part3",
+ "story_no": 71,
+ "yt_title": "Rich Boy Lied To Me... His Secret Changed Everything 💔",
+ "description": "I fell for a man who claimed to be poor, but a shocking discovery shattered my trust. His hidden truth wasn't about love, but a dangerous mission. Is a lie always wrong, or sometimes necessary?",
+ "comment_question": "Kya jhoot hamesha galat hota hai, ya kabhi sahi?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indianshorts",
+  "#lovestory",
+  "#desitwist",
+  "#betrayal",
+  "#redemption",
+  "#richpoorlove",
+  "#socialjustice",
+  "#bollywoodstory",
+  "#shortfilm"
+ ]
+}
