@@ -445,8 +445,13 @@ def build(ep, work, final):
         if ep.get("hook_text"):
             ass_events.append(f"Dialogue: 1,{ts(0)},{ts(min(3.0, t))},Hook,,0,0,0,,"
                               f"{ep['hook_text'].upper()}")
-        ass_events.append(f"Dialogue: 1,{ts(max(0, t - 3.0))},{ts(t)},Hook,,0,0,0,,"
-                          f"FOLLOW {HANDLE.upper()}\\NFOR MORE STORIES")
+        q = (ep.get("comment_question") or "").strip().replace("\n", " ")
+        if q:  # end card: the dilemma question, so viewers answer in the comments
+            ass_events.append(f"Dialogue: 1,{ts(max(0, t - 3.5))},{ts(t)},Hook,,0,0,0,,"
+                              f"{q.upper()}\\NCOMMENT YOUR ANSWER")
+        else:
+            ass_events.append(f"Dialogue: 1,{ts(max(0, t - 3.0))},{ts(t)},Hook,,0,0,0,,"
+                              f"FOLLOW {HANDLE.upper()}\\NFOR MORE STORIES")
 
     ass = work / "subs.ass"
     ass.write_text(

@@ -121,7 +121,10 @@ Rules:
   people stop scrolling (examples: "My dog stole my wedding ring.", "Everyone laughed at the waiter. Big mistake.").
 - Structure: hook -> very quick setup -> one problem -> one turn that raises the stakes -> the big
   twist -> payoff -> one strong closing line. No filler: every line moves the story forward.
-- The last line asks viewers a short question to comment on, or lands the punchline.
+- COMMENT BAIT (most important for growth): the story must leave ONE hard moral dilemma that splits viewers
+  into two sides, so people NEED to answer. The LAST spoken line asks that dilemma directly to the viewer
+  ("Aapki jagah hoti toh aap kya karti? Maaf ya saza?"). Jokes: end with a "kaun sahi tha?" style question.
+  Never end with a plain "like and subscribe".
 - {speech}
 - Each scene has a "speaker": "narrator" or a character key. Spoken lines are just the words,
   no quote marks, no "he said".
@@ -147,7 +150,7 @@ Rules:
   big readable emotions (tears, shock, laughter, anger), meaningful objects (a letter, a ring,
   an empty chair), close-ups at emotional moments. The FIRST picture must be dramatic and
   instantly intriguing.{sub_rule}
-- "hook_text": 2-5 words shown big on screen in the first seconds (e.g. "SHE LEFT A NOTE...").
+- "hook_text": 2-6 words shown big on screen in the first seconds: a curiosity question or shock (e.g. "WHO WROTE THIS LETTER?").
 - "title", "hook_text", "yt_title", "description", "comment_question" and hashtags are always in
   plain ENGLISH, even when the spoken lines are Hinglish.
 - Pick each voice so it matches who is speaking: {voices}{talk_rule}
@@ -164,7 +167,7 @@ Return ONLY JSON:
                (e.g. 'Rich Customer Insulted the Waiter... Then He Saw His Name Tag'), 1 emoji at most, no ALL CAPS>",
   "description": "<3 short lines: line 1 repeats the hook with searchable words, line 2 teases the twist
                   without spoiling it, line 3 asks the viewers' comment question>",
-  "comment_question": "<one short question viewers will want to answer, e.g. 'Would you have forgiven her?'>",
+  "comment_question": "<a 4-8 word dilemma question in Hinglish ROMAN letters that forces a side, e.g. 'Aap hoti toh maaf karti? Haan ya Na?'>",
   "hashtags": ["<12 hashtags: 3 broad (#story #emotionalstory #storytime), the rest specific to this
                story's topic and feelings. NO #shorts (Reels)>"],
   "scenes": [{{"image": "...", "speaker": "<narrator or character key>", "line": "..."{sub_field}, "fx": "<rain|snow|dust|none>"}}]
