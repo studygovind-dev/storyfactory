@@ -1,0 +1,14 @@
+# Manual test: checks the cinematic colour grade and generated background music render without errors.
+name: Test grade
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q requests
+          python pipeline/test_grade.py

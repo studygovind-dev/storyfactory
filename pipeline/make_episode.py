@@ -382,12 +382,43 @@ def ts(t):
 HANDLE = "@storybitetv2"
 
 
+GRADE = ("eq=contrast=1.07:saturation=1.1,"  # cinematic colour: a little more contrast,
+         "colorbalance=rs=0.03:bs=-0.03:rh=0.04:bh=-0.04")  # warm highlights, cool shadows
+
+# Free, licence-free background pads made with ffmpeg (chord notes in Hz) when no music file is supplied.
+AMBIENT = {"emotional": (110.0, 130.81, 164.81, 220.0),   # A minor, tender
+           "animal": (146.83, 185.0, 220.0, 293.66),       # D major, warm
+           "funny": (130.81, 164.81, 196.0, 261.63)}       # C major, light
+
+
+def ensure_ambient(mood):
+    """Create (once) a soft ambient background track for this mood. Returns its path, or None on failure."""
+    notes = AMBIENT.get(mood, AMBIENT["emotional"])
+    out = ROOT / "output" / f"ambient_{mood}.mp3"
+    if out.exists() and out.stat().st_size > 0:
+        return out
+    out.parent.mkdir(parents=True, exist_ok=True)
+    expr = "+".join(f"{a}*sin(2*PI*{f}*t)" for a, f in zip((0.10, 0.08, 0.08, 0.05), notes))
+    expr += "*(0.75+0.25*sin(2*PI*0.15*t))"  # slow swell
+    r = subprocess.run(
+        ["ffmpeg", "-y", "-f", "lavfi", "-i", f"aevalsrc='{expr}':s=44100:d=40",
+         "-af", "lowpass=f=1400,aecho=0.8:0.7:500|900:0.4|0.3,afade=t=in:d=2,afade=t=out:st=38:d=2,volume=1.6",
+         "-c:a", "libmp3lame", "-b:a", "128k", str(out)], capture_output=True, text=True)
+    if r.returncode or not out.exists():
+        print("Ambient music failed (video continues without it):", r.stderr[-300:])
+        return None
+    return out
+
+
 def pick_music(ep):
-    """Background music by mood: assets/music/<mood>/*.mp3 (rotates per story), else assets/music.mp3."""
+    """Background music by mood: assets/music/<mood>/*.mp3 (rotates per story), else assets/music.mp3,
+    else a generated ambient pad."""
     tracks = sorted((ROOT / "assets" / "music" / ep.get("mood", "emotional")).glob("*.mp3"))
     if tracks:
         return tracks[ep.get("story_no", 0) % len(tracks)]
-    return ROOT / "assets" / "music.mp3"
+    if (ROOT / "assets" / "music.mp3").exists():
+        return ROOT / "assets" / "music.mp3"
+    return ensure_ambient(ep.get("mood", "emotional")) or (ROOT / "assets" / "music.mp3")
 
 
 def word_captions(line, start, end):
@@ -478,7 +509,7 @@ def build(ep, work, final):
     cmd = ["ffmpeg", "-y", "-i", str(joined)]
     sub = f"subtitles={ass.name}"
     if short:  # film look: soft dark edges + fine moving grain
-        sub = f"vignette=PI/5,noise=alls=5:allf=t,{sub}"
+        sub = f"{GRADE},vignette=PI/5,noise=alls=5:allf=t,{sub}"
     if music.exists():
         cmd += ["-stream_loop", "-1", "-i", str(music), "-filter_complex",
                 f"[0:v]{sub}[v];[1:a]volume=0.12[m];[0:a][m]amix=inputs=2:duration=first:normalize=0[a]",

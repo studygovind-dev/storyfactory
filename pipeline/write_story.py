@@ -26,9 +26,10 @@ SCENES = 16                 # one line each, about 3 s -> 45-55 second Reels (sa
 
 CARTOON_STYLE = ("3D animated movie still in the style of a Pixar film, cute expressive characters with big "
                  "eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16")
-REAL_STYLE = ("natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, "
-              "beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), "
-              "natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16")
+REAL_STYLE = ("cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting "
+              "with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, "
+              "moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, "
+              "expressive emotional faces and sharp detailed eyes, vertical 9:16")
 
 # Funny cartoon topics: a different one each day so all kinds of viewers are covered.
 FUNNY_TOPICS = [
