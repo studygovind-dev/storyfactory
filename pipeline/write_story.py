@@ -132,11 +132,11 @@ Rules:
   look graceful and pretty: long soft wavy dark-brown hair, natural makeup, small bindi or earrings,
   elegant pastel kurta or saree (or neat casual clothes in a city story).
 - "image" describes ONE {shot} (who, where, action, emotion on the face). No text or signs.
-- LANGUAGE QUALITY: when the story is Hinglish, write the way a real young Indian talks on WhatsApp:
-  everyday words ("dadi", "doodh", "pyaar", "ghar"), short sentences, correct grammar and gender
-  ("meri dadi ne doodh piya", never word-for-word translations or invented words). No heavy literary
-  Hindi (avoid words like ज़ालिम, ख़ामोश दीवार). Read each line back: if a native speaker would find it
-  odd, rewrite it.
+- LANGUAGE QUALITY: write the way a real Indian talks: everyday Hindi words ("dadi", "doodh", "pyaar",
+  "ghar", "bacha", "naraz"), short sentences, correct grammar and gender ("meri dadi ne doodh piya").
+  Do NOT mix in English sentences or phrases ("I was wrong", "suddenly", "fuss") and do not translate
+  word for word. No heavy literary Hindi either. Read each line back: if a native Hindi speaker would
+  find it odd or half-English, rewrite it in simple Hindi.
 - SILENT-MOVIE TEST: the story must be easy to follow with the sound OFF, even for someone who
   does not know the language. Every picture shows exactly what is happening: a clear action,
   big readable emotions (tears, shock, laughter, anger), meaningful objects (a letter, a ring,
@@ -172,8 +172,15 @@ SUB_RULE = """
 # Voices read Hindi in English letters with a foreign accent, so Hinglish lines also come
 # in Devanagari ("say"): that is what gets spoken; the English-letter "line" stays for captions.
 SAY_RULE = """
-- Each scene also has "say": the SAME line written in Devanagari script exactly as it is spoken,
-  English words too (e.g. line "Bhai, yeh totally crazy hai!" -> say "भाई, ये टोटली क्रेज़ी है!")."""
+- Each scene also has "say": the SAME line written in Devanagari script exactly as it is spoken by a
+  native Hindi speaker. HARD RULES for "say":
+  * Use real Hindi words. NEVER spell English words or English phrases in Devanagari. Forbidden:
+    "आई वाज़ रॉन्ग", "बेबी सेट", "फ़स", "नैप", "टाइम", "रिमोट", "सडनली".
+  * Say it in Hindi instead: "मैं गलत थी", "बच्चे की देखभाल", "नखरे", "झपकी / सोना", "समय",
+    "अचानक".
+  * Only these loanwords may stay in Devanagari: फ़ोन, स्कूल, ऑफ़िस, टीवी, बस, डॉक्टर, स्टेशन, मम्मी, पापा.
+  * Natural spoken Hindi, short sentences, correct grammar and gender, like a person telling a story.
+  * "line" (English letters) must be the exact same words as "say", so the captions match the voice."""
 
 TALK_RULE = """
 - Animals and babies MAY talk (people love this): give a talking animal or baby the voice
@@ -233,6 +240,12 @@ def check(story, used, voices):
     for s in story.get("scenes", []):
         if s.get("speaker") not in chars:
             s["speaker"] = "narrator"
+    # Hindi voices mangle English spelled in Devanagari: ask Gemini to rewrite the story if it did that
+    bad = re.compile(r"(वाज़?|रॉन्ग|राइट|बेबी|नैप|फ़?स|टाइम|सडनली|रिमोट|प्लीज़?|सॉरी|थैंक|ओके|फ़ीलिंग|सरप्राइज़?|"
+                     r"गुड|बैड|लव|फ़ेल|वेट|नो|यस|वाओ|क्रेज़ी|फ़न्नी)")
+    hits = [m.group(0) for sc in story.get("scenes", []) for m in bad.finditer(sc.get("say", ""))]
+    if len(hits) > 2:
+        errs.append(f"spoken lines contain English words written in Devanagari ({', '.join(sorted(set(hits))[:6])})")
     if not SCENES - 4 <= len(story.get("scenes", [])) <= SCENES + 4:
         errs.append(f"has {len(story.get('scenes', []))} scenes")
     for s in story.get("scenes", []):
@@ -251,8 +264,9 @@ def slots(day):
     real = {"style": REAL_STYLE, "shot": "realistic film shot", "voices": REAL_VOICES,
             "speech": ("Mostly ONE narrator telling it (first person 'I' works best), with a few short "
                        "emotional lines spoken by the characters at key moments.")}
-    hinglish = ("Hinglish (Hindi written in English letters, mixed with English words, the way "
-                "Indians really talk, e.g. 'Maa, main sach bol raha hoon, please trust me.')")
+    hinglish = ("simple everyday HINDI (written in English letters). At least 90% of the words must be "
+                "Hindi. Only a few very common loanwords are allowed (phone, school, office, TV, bus, doctor). "
+                "Example: 'Maa, main sach bol raha hoon, mujhpe bharosa karo.'")
     kinds = {
         "love": {"kind": ("It is an emotional LOVE story set in India with Indian characters and a twist "
                           "ending. Mature, adult tone: grown-up dialogue, never childish." + lead),
@@ -269,8 +283,8 @@ def slots(day):
                  "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
                             "a narrator line now and then to move the story on."),
                  "hindi_voices": True, "mood": "funny", "talk": True,
-                 "lang": ("Hinglish (Hindi written in English letters, mixed with English words, the way young "
-                          "Indians talk, e.g. 'Bhai, yeh kya ho gaya?')")},
+                 "lang": ("simple everyday HINDI (written in English letters). At least 90% Hindi words, only a "
+                          "few very common loanwords (phone, school, TV). Example: 'Bhai, yeh kya ho gaya?'")},
     }
     order = ["love", "animal", "joke"]
     return [kinds[order[d % 3]], kinds[order[(d + 1) % 3]]]
