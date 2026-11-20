@@ -137,6 +137,11 @@ Rules:
   Do NOT mix in English sentences or phrases ("I was wrong", "suddenly", "fuss") and do not translate
   word for word. No heavy literary Hindi either. Read each line back: if a native Hindi speaker would
   find it odd or half-English, rewrite it in simple Hindi.
+- STYLE MODEL for the Hindi narration (copy this voice: clear, concrete, emotional, real Hindi words,
+  short flowing sentences, no English):
+  "दफ्तर बंद हो चुका था। सूखे की वजह से खेतों की सारी फसलें बर्बाद हो चुकी थीं। लोगों के घरों में खाने के
+  लिए एक दाना तक नहीं बचा था। गरीबी इस कदर बढ़ चुकी थी कि लोग अपनी ज़रूरतें तक बेचने लगे थे।"
+  Tell it like a storyteller, with the details a person would notice (what they saw, felt, said).
 - SILENT-MOVIE TEST: the story must be easy to follow with the sound OFF, even for someone who
   does not know the language. Every picture shows exactly what is happening: a clear action,
   big readable emotions (tears, shock, laughter, anger), meaningful objects (a letter, a ring,
