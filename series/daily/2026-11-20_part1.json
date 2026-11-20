@@ -1,0 +1,157 @@
+{
+ "series": "The Crib Commander",
+ "episode": 1,
+ "title": "The Crib Commander",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "riya": {
+   "look": "Young woman, early 20s, light wheatish skin, long wavy dark-brown hair in a ponytail, cheerful face, wearing a simple blue denim dress over a white t-shirt, small silver earrings.",
+   "voice": "hindi_narrator_female"
+  },
+  "adi": {
+   "look": "Adorable baby boy, 1 year old, chubby cheeks, big curious eyes, light skin, wearing a bright yellow romper with a tiny dinosaur print.",
+   "voice": "hindi_cartoon_male"
+  },
+  "narrator": {
+   "look": "",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "THE BABY'S BOSS",
+ "scenes": [
+  {
+   "image": "[[riya]] standing at the front door, eyes wide with a mix of shock and amusement, holding a small purse. The door is slightly ajar. Sunny afternoon.",
+   "speaker": "riya",
+   "line": "Mujhe laga main baby sit kar rahi hoon, par I was wrong!",
+   "fx": "none",
+   "say": "मुझे लगा मैं बेबी सिट कर रही हूँ, पर आई वाज़ रॉन्ग!"
+  },
+  {
+   "image": "[[riya]] smiling brightly at a woman (off-screen) at the door, stepping into a living room with colourful baby toys scattered around. Bright and warm.",
+   "speaker": "riya",
+   "line": "Aunty ne kaha, Adi thoda fuss karega.",
+   "fx": "none",
+   "say": "आंटी ने कहा, आदि थोड़ा फ़स करेगा।"
+  },
+  {
+   "image": "[[adi]] sitting on a colorful playmat, stacking soft blocks, looking innocent. [[riya]] in the background, listening politely.",
+   "speaker": "riya",
+   "line": "Doodh time, fir nap, bas.",
+   "fx": "none",
+   "say": "दूध टाइम, फिर नैप, बस।"
+  },
+  {
+   "image": "[[adi]] looks up from his blocks, making a loud 'goo-goo-ga-ga' sound, pointing towards the TV remote. [[riya]] looks at him, confused.",
+   "speaker": "riya",
+   "line": "Par Aunty jaate hi, Adi ne shuru kiya.",
+   "fx": "none",
+   "say": "पर आंटी जाते ही, आदि ने शुरू किया।"
+  },
+  {
+   "image": "[[riya]] holding a baby bottle, trying to offer it to [[adi]], who pushes it away, still babbling urgently and pointing.",
+   "speaker": "riya",
+   "line": "Maine socha, doodh chahiye hoga.",
+   "fx": "none",
+   "say": "मैंने सोचा, दूध चाहिए होगा।"
+  },
+  {
+   "image": "Close-up of [[adi]] on the floor, red-faced, pointing a tiny finger at a stack of mail on the coffee table, making a demanding 'bwa-bwa-bwa!' sound.",
+   "speaker": "riya",
+   "line": "Usne bottle fenki, aur zor se bola.",
+   "fx": "none",
+   "say": "उसने बॉटल फेंकी, और ज़ोर से बोला।"
+  },
+  {
+   "image": "[[riya]] kneeling, eyes widening as she looks at [[adi]], a realization dawning on her face, like she just understood a foreign language.",
+   "speaker": "riya",
+   "line": "Suddenly, mujhe sab samajh aane laga.",
+   "fx": "none",
+   "say": "सडनली, मुझे सब समझ आने लगा।"
+  },
+  {
+   "image": "[[adi]] with a tiny serious expression, looking at [[riya]], raising a small fist. There's an imaginary thought bubble showing a tiny 'boss' symbol.",
+   "speaker": "adi",
+   "line": "Woh kehta, 'Remote laao, TV chalao!'",
+   "fx": "none",
+   "say": "वो कहता, 'रिमोट लाओ, टीवी चलाओ!'"
+  },
+  {
+   "image": "[[riya]] picking up the TV remote from the sofa, looking at [[adi]] with disbelief and a chuckle. Adi watches her expectantly.",
+   "speaker": "adi",
+   "line": "Aur phir, 'Woh bills check karo!'",
+   "fx": "none",
+   "say": "और फिर, 'वो बिल्स चेक करो!'"
+  },
+  {
+   "image": "[[riya]] sitting on the floor with [[adi]] next to her, looking at a utility bill in her hand, with Adi looking over her shoulder, pointing at numbers.",
+   "speaker": "riya",
+   "line": "Usne mujhe bills check karne ko kaha.",
+   "fx": "none",
+   "say": "उसने मुझे बिल्स चेक करने को कहा।"
+  },
+  {
+   "image": "[[riya]]'s face, a mix of amusement and astonishment, looking directly at the camera, as if sharing a secret.",
+   "speaker": "riya",
+   "line": "Pata chala, yeh toh ghar ka boss hai!",
+   "fx": "none",
+   "say": "पता चला, ये तो घर का बॉस है!"
+  },
+  {
+   "image": "[[adi]] pointing towards the kitchen, making a 'mama-ma-ma' sound, while [[riya]] pulls out a notepad and pen.",
+   "speaker": "adi",
+   "line": "Phir bola, 'Grocery list banao!'",
+   "fx": "none",
+   "say": "फिर बोला, 'ग्रोसरी लिस्ट बनाओ!'"
+  },
+  {
+   "image": "Close-up of [[riya]]'s hand writing items on a notepad, while [[adi]]'s tiny hand points to the paper, looking satisfied.",
+   "speaker": "riya",
+   "line": "Aunty ke orders toh dummy the.",
+   "fx": "none",
+   "say": "आंटी के ऑर्डर्स तो डमी थे।"
+  },
+  {
+   "image": "[[riya]] smiling mischievously, looking at the door where the parents would return, then back at [[adi]] who is now playing calmly again.",
+   "speaker": "riya",
+   "line": "Parents ko kuch pata hi nahi.",
+   "fx": "none",
+   "say": "पेरेंट्स को कुछ पता ही नहीं।"
+  },
+  {
+   "image": "[[adi]] leaning back in his high chair, a tiny smirk on his face, giving a 'thumbs up' gesture to [[riya]] who stands in front of him, holding a completed checklist.",
+   "speaker": "adi",
+   "line": "End mein bola, 'Pay increase chahiye!'",
+   "fx": "none",
+   "say": "एंड में बोला, 'पे इनक्रीज़ चाहिए!'"
+  },
+  {
+   "image": "[[riya]] shrugging playfully at the camera, holding up the grocery list and an imaginary 'salary request' note, a look of 'what can you do?' on her face.",
+   "speaker": "riya",
+   "line": "Aapka baby bhi secret boss hai kya?",
+   "fx": "dust",
+   "say": "आपका बेबी भी सीक्रेट बॉस है क्या?"
+  }
+ ],
+ "caption": "My Babysitter Understood Baby Talk... He Was The Boss! 😂",
+ "slug": "2026-11-20_part1",
+ "story_no": 69,
+ "yt_title": "My Babysitter Understood Baby Talk... He Was The Boss! 😂",
+ "description": "This babysitter thought she was in charge, but the baby had other plans.\nYou won't believe the secret demands this little boss was making!\nDoes your baby run the house too?",
+ "comment_question": "Does your baby run the house too?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funny",
+  "#babysitting",
+  "#babyboss",
+  "#comedy",
+  "#relatable",
+  "#momlife",
+  "#indiancomedy",
+  "#hinglish",
+  "#viralshort"
+ ]
+}

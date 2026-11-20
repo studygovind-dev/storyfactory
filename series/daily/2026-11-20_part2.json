@@ -1,0 +1,169 @@
+{
+ "series": "The Gilded Heart",
+ "episode": 2,
+ "title": "The Gilded Heart",
+ "style": "natural portrait photograph, full-frame camera, 85mm lens, soft diffused daylight on the face, beautiful young Indian people with smooth, clear, flawless light wheatish skin (no spots, no blemishes), natural makeup, sharp detailed eyes, warm pastel tones, shallow depth of field, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, 24-26, fair skin, long soft wavy dark-brown hair, natural makeup, small silver jhumkas, elegant pastel green cotton kurta with white embroidery. Warm, relatable, resilient expression.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Young man, 26-28, fair skin, kind eyes, warm smile, neat dark hair. Initially dressed in simple, slightly worn faded blue shirt and dark trousers. Later, in a sharp, well-tailored deep blue kurta-pajama.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HE LIED TO ME",
+ "scenes": [
+  {
+   "image": "Close-up on narrator_female's face, eyes wide with shock and a hint of disbelief, a single tear threatening to fall. Hands clutched to her chest.",
+   "speaker": "narrator",
+   "line": "Meri love story, ek jhooth se shuru hui.",
+   "fx": "none",
+   "sub": "My love story started with a lie.",
+   "say": "मेरी लव स्टोरी, एक झूठ से शुरू हुई।"
+  },
+  {
+   "image": "Narrator_female smiling shyly at Rohan, who is stacking books in a cozy community library, both surrounded by shelves. Soft sunlight streams through a window.",
+   "speaker": "narrator",
+   "line": "Rohan, library mein kaam karta tha. Bohut simple.",
+   "fx": "none",
+   "sub": "Rohan worked at the library. Very simple.",
+   "say": "रोहन, लाइब्रेरी में काम करता था। बहुत सिंपल।"
+  },
+  {
+   "image": "Narrator_female and Rohan laughing over chai cups at a small, humble roadside tea stall. They look completely at ease, lost in conversation.",
+   "speaker": "narrator",
+   "line": "Hum chai peete, kitabon ki baatein karte.",
+   "fx": "none",
+   "sub": "We'd drink chai, talk about books.",
+   "say": "हम चाय पीते, किताबों की बातें करते।"
+  },
+  {
+   "image": "Narrator_female looking pensively at a faded old photo of a grand family home she holds, then looks out a window of her smaller, current home.",
+   "speaker": "narrator",
+   "line": "Meri family ne sab kho diya tha.",
+   "fx": "none",
+   "sub": "My family had lost everything.",
+   "say": "मेरी फैमिली ने सब खो दिया था।"
+  },
+  {
+   "image": "Rohan offering narrator_female a single gulab jamun from a small paper plate on a park bench. She smiles, trying to hide her concern.",
+   "speaker": "narrator",
+   "line": "Humari dates, chhoti aur meethi hoti thi.",
+   "fx": "none",
+   "sub": "Our dates were small and sweet.",
+   "say": "हमारी डेट्स, छोटी और मीठी होती थी।"
+  },
+  {
+   "image": "Close-up on narrator_female's hand secretly slipping a folded note with some money into Rohan's worn backpack while he's distracted.",
+   "speaker": "narrator",
+   "line": "Main uski madad karna chahti thi.",
+   "fx": "none",
+   "sub": "I wanted to help him.",
+   "say": "मैं उसकी मदद करना चाहती थी।"
+  },
+  {
+   "image": "Narrator_female looking conflicted, sitting alone at her window, wondering about their future. A worried expression on her face.",
+   "speaker": "narrator",
+   "line": "Kya humara future tha, aise?",
+   "fx": "none",
+   "sub": "Did we have a future, like this?",
+   "say": "क्या हमारा फ्यूचर था, ऐसे?"
+  },
+  {
+   "image": "Narrator_female, hidden behind a pillar, watching Rohan in a sharp kurta-pajama, casually stepping into a gleaming luxury sedan. Her face is shocked.",
+   "speaker": "narrator",
+   "line": "Phir ek din, maine use dekha.",
+   "fx": "none",
+   "sub": "Then one day, I saw him.",
+   "say": "फिर एक दिन, मैंने उसे देखा।"
+  },
+  {
+   "image": "Close-up on Rohan's face. He turns, making eye contact with narrator_female. His confident smile falters, replaced by a look of panic.",
+   "speaker": "Rohan",
+   "line": "Priya... tum yahan?",
+   "fx": "none",
+   "sub": "Priya... you here?",
+   "say": "प्रिया... तुम यहाँ?"
+  },
+  {
+   "image": "Narrator_female confronts Rohan, tears streaming down her face, arms crossed. Rohan looks distraught, trying to reach out to her.",
+   "speaker": "narrator",
+   "line": "Tumne mujhse jhooth kyun bola?",
+   "fx": "none",
+   "sub": "Why did you lie to me?",
+   "say": "तुमने मुझसे झूठ क्यों बोला?"
+  },
+  {
+   "image": "Close-up on Rohan's face, pleading eyes, voice choked with emotion. He holds a small, elegant business card, partially revealing 'Khanna Industries'.",
+   "speaker": "Rohan",
+   "line": "Priya, main Rohan Khanna hoon.",
+   "fx": "none",
+   "sub": "Priya, I am Rohan Khanna.",
+   "say": "प्रिया, मैं रोहन खन्ना हूँ।"
+  },
+  {
+   "image": "Narrator_female recoiling in horror, a memory flashing in her mind: her Dadi crying, holding legal papers mentioning 'Khanna Industries'.",
+   "speaker": "narrator",
+   "line": "Khanna Industries? Jinhone humein barbaad kiya!",
+   "fx": "none",
+   "sub": "Khanna Industries? Who ruined us!",
+   "say": "खन्ना इंडस्ट्रीज? जिन्होंने हमें बर्बाद किया!"
+  },
+  {
+   "image": "Rohan kneels, holding narrator_female's hands, eyes full of desperate love. His voice is earnest, explaining his actions.",
+   "speaker": "Rohan",
+   "line": "Maine tumhara dil jeetna chaha, sach mein.",
+   "fx": "none",
+   "sub": "I wanted to win your heart, truly.",
+   "say": "मैंने तुम्हारा दिल जीतना चाहा, सच में।"
+  },
+  {
+   "image": "Narrator_female looking away, conflicted. Her hand rests on Rohan's, but her gaze is distant, weighing his words against her pain.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein pyaar tha, par jhooth bhi.",
+   "fx": "none",
+   "sub": "There was love in his eyes, but also lies.",
+   "say": "उसकी आँखों में प्यार था, पर झूठ भी।"
+  },
+  {
+   "image": "Close-up on narrator_female's face, a thoughtful expression. She remembers a simpler moment, perhaps holding Rohan's hand on a simple date.",
+   "speaker": "narrator",
+   "line": "Meri family ki kismet, aur uska pyaar.",
+   "fx": "none",
+   "sub": "My family's fate, and his love.",
+   "say": "मेरी फैमिली की किस्मत, और उसका प्यार।"
+  },
+  {
+   "image": "Narrator_female stands alone, looking out at a city skyline, a bittersweet expression. She touches her chest, contemplating.",
+   "speaker": "narrator",
+   "line": "Kya jhooth pe bana pyaar chal sakta hai?",
+   "fx": "dust",
+   "sub": "Can love built on lies last?",
+   "say": "क्या झूठ पे बना प्यार चल सकता है?"
+  }
+ ],
+ "caption": "Rich Boy Pretended To Be Poor... His Reason Broke My Heart 💔",
+ "slug": "2026-11-20_part2",
+ "story_no": 70,
+ "yt_title": "Rich Boy Pretended To Be Poor... His Reason Broke My Heart 💔",
+ "description": "My love story started with a lie, a big one. He was rich, pretending to be poor, but his secret wasn't just about finding true love. Would you have forgiven his deception, or walked away?",
+ "comment_question": "Would you have forgiven his deception, or walked away?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#indiantwist",
+  "#lovestory",
+  "#desilove",
+  "#richboypoor",
+  "#betrayal",
+  "#secondchance",
+  "#hindi",
+  "#reels",
+  "#viralstory"
+ ]
+}
