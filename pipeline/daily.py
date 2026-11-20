@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Daily runner (used by GitHub Actions). Sends today's 2 short videos at 9:00 and 17:00 India time.
+Daily runner (used by GitHub Actions). Sends today's 3 short videos at 9:00, 13:00 and 17:00 India time.
 
 GitHub starts scheduled runs late or skips them on busy days, so this is
 safe to run many times a day: each run makes every part that is due and
@@ -21,7 +21,7 @@ from make_episode import ROOT, env, load_dotenv, send_telegram  # noqa: E402
 from post_social import post_all  # noqa: E402
 
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
-SEND_AT = {1: (9, 0), 2: (17, 0)}  # 2 short videos a day (saves ElevenLabs credits)
+SEND_AT = {1: (9, 0), 2: (13, 0), 3: (17, 0)}  # story 9:00, joke 13:00, story 17:00
 START_EARLY = datetime.timedelta(minutes=120)  # a 50-second video takes about 10-20 minutes to make
 DAILY = ROOT / "series" / "daily"
 
@@ -108,7 +108,7 @@ def make_and_send(day, part, wait):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--part", type=int, choices=[1, 2], help="make and send this part now")
+    ap.add_argument("--part", type=int, choices=[1, 2, 3], help="make and send this part now")
     ap.add_argument("--day", help="story date YYYY-MM-DD (default: today, India time)")
     a = ap.parse_args()
     load_dotenv()
@@ -125,7 +125,7 @@ def main():
         print(f"Nothing due right now ({now:%H:%M} IST).")
         return
 
-    if not (DAILY / f"{day}_part1.json").exists():
+    if any(not (DAILY / f"{day}_part{p}.json").exists() for p in SEND_AT):
         if sh(sys.executable, str(ROOT / "pipeline" / "write_story.py"), day):
             sys.exit("Could not write today's story.")
         save_to_repo(f"Story for {day}")

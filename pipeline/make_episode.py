@@ -563,7 +563,7 @@ def send_telegram(final, ep):
     token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
     final = fit_for_telegram(final)
     if ep.get("short"):
-        cap = f"📌 Story #{ep['story_no']} · Video {ep['episode']} of 2 today\n{ep['title']}"
+        cap = f"📌 Story #{ep['story_no']} · Video {ep['episode']} of 3 today\n{ep['title']}"
     elif ep.get("story_no"):
         cap = (f"📌 Story #{ep['story_no']} · Part {ep['episode']} of {ep['parts']}\n"
                f"{ep['series']}: {ep['title']}")

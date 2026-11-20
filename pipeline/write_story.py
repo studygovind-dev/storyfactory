@@ -286,8 +286,8 @@ def slots(day):
                  "lang": ("simple everyday HINDI (written in English letters). At least 90% Hindi words, only a "
                           "few very common loanwords (phone, school, TV). Example: 'Bhai, yeh kya ho gaya?'")},
     }
-    order = ["love", "animal", "joke"]
-    return [kinds[order[d % 3]], kinds[order[(d + 1) % 3]]]
+    first, second = (("love", "animal") if d % 2 else ("animal", "love"))
+    return [kinds[first], kinds["joke"], kinds[second]]  # 9 AM story, 1 PM joke, 5 PM story
 
 
 
@@ -296,7 +296,8 @@ def main():
     day = sys.argv[1] if len(sys.argv) > 1 else (
         datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=5, minutes=30))).date().isoformat())
     DAILY.mkdir(parents=True, exist_ok=True)
-    if (DAILY / f"{day}_part1.json").exists():
+    todo = [n for n in (1, 2, 3) if not (DAILY / f"{day}_part{n}.json").exists()]
+    if not todo:
         print(f"Stories for {day} already written.")
         return
     hist_file = DAILY / "history.txt"
@@ -304,6 +305,8 @@ def main():
 
     eps = []  # written together at the end, so a failed run never leaves half a day
     for n, slot in enumerate(slots(day), 1):
+        if n not in todo:  # this part was already written earlier today
+            continue
         used = {h.split(" | ")[0].strip().lower() for h in history}
         hinglish = slot.get("hindi") or slot.get("hindi_voices")
         prompt = PROMPT.format(kind=slot["kind"], topic=slot["topic"], lang=slot["lang"],

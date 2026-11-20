@@ -1,5 +1,4 @@
-# Daily Story Factory: 2 short videos a day (love / animal-human / funny, rotating), sent at
-# 9:00 and 17:00 India time.
+# Daily Story Factory: 3 short videos a day (story 9:00, joke 13:00, story 17:00 India time).
 #
 # GitHub starts scheduled runs late (sometimes hours) or skips them, so there
 # are several runs a day. Each run makes whatever part is due and not sent yet
@@ -11,13 +10,15 @@ on:
   schedule:
     - cron: "37 1 * * *"   # 07:07 IST  video 1 (sent at 9:00)
     - cron: "17 3 * * *"   # 08:47 IST  backup
-    - cron: "37 9 * * *"   # 15:07 IST  video 2 (sent at 17:00)
+    - cron: "37 5 * * *"   # 11:07 IST  video 2 (sent at 13:00)
+    - cron: "17 7 * * *"   # 12:47 IST  backup
+    - cron: "37 9 * * *"   # 15:07 IST  video 3 (sent at 17:00)
     - cron: "17 11 * * *"  # 16:47 IST  backup
     - cron: "37 13 * * *"  # 19:07 IST  last catch-up for anything missed
   workflow_dispatch:
     inputs:
       part:
-        description: "Make and send this part right now (1 or 2). Empty = whatever is due."
+        description: "Make and send this part right now (1, 2 or 3). Empty = whatever is due."
         default: ""
 
 permissions:
