@@ -27,7 +27,7 @@ def main():
             f"https://api.elevenlabs.io/v1/text-to-speech/{ELEVEN_DEFAULTS[vk]}?output_format=mp3_44100_128",
             headers={"xi-api-key": key},
             json={"text": text, "model_id": "eleven_multilingual_v2",
-                  "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5}}, timeout=120)
+                  "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5, "speed": 1.15}}, timeout=120)
         if not r.ok:
             sys.exit(f"ElevenLabs refused {label}: {r.status_code} {r.text[:300]}")
         t = requests.post(f"https://api.telegram.org/bot{token}/sendAudio",

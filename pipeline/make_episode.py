@@ -243,7 +243,7 @@ for _k, _v in {"MALE_YOUNG2": "MALE_YOUNG", "MALE_ADULT": "NARRATOR_MALE", "MALE
                "FEMALE_ADULT": "NARRATOR_FEMALE", "FEMALE_OLD": "NARRATOR_FEMALE",
                "CHILD_BOY": "CARTOON_MALE", "CHILD_GIRL": "CARTOON_FEMALE"}.items():
     ELEVEN_DEFAULTS[_k] = ELEVEN_DEFAULTS[_v]
-VOICE_RATE, VOICE_PITCH = "+5%", "-3Hz"   # natural pace, slightly lower pitch for warmth
+VOICE_RATE, VOICE_PITCH = "+20%", "-2Hz"   # brisk, natural story pace (was too slow)
 
 
 def make_voice_azure(voice, text, i, out):
@@ -327,7 +327,7 @@ def make_voice(ep, i, scene, out, dry):
               "model_id": ("eleven_multilingual_v2" if base.startswith("NARRATOR") or hindi
                            else os.environ.get("ELEVEN_MODEL", "eleven_flash_v2_5")),
               # lower stability + more style = softer, more emotional delivery
-              "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5}},
+              "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5, "speed": 1.15}},
         timeout=120)
     r.raise_for_status()
     out.write_bytes(r.content)
@@ -457,7 +457,7 @@ def build(ep, work, final):
         "Style: Cap,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,70,70,330,1\n"
         "Style: Top,Arial,52,&H0000D7FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,2,0,1,4,1,8,70,70,170,1\n"
         # shorts: big word-by-word captions in the middle, hook / follow text at the top, small handle
-        "Style: Word,Arial,96,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1\n"
+        "Style: Word,Arial,84,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,2,60,60,400,1\n"
         "Style: Hook,Arial,78,&H0000E5FF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,1,0,3,6,0,8,60,60,230,1\n"
         "Style: Mark,Arial,40,&H90FFFFFF,&H000000FF,&H90000000,&H00000000,-1,0,0,0,100,100,1,0,1,2,0,9,50,50,90,1\n\n"
         "[Events]\nFormat: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text\n" % (W, H)
