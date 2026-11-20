@@ -243,7 +243,7 @@ for _k, _v in {"MALE_YOUNG2": "MALE_YOUNG", "MALE_ADULT": "NARRATOR_MALE", "MALE
                "FEMALE_ADULT": "NARRATOR_FEMALE", "FEMALE_OLD": "NARRATOR_FEMALE",
                "CHILD_BOY": "CARTOON_MALE", "CHILD_GIRL": "CARTOON_FEMALE"}.items():
     ELEVEN_DEFAULTS[_k] = ELEVEN_DEFAULTS[_v]
-VOICE_RATE, VOICE_PITCH = "+20%", "-2Hz"   # brisk, natural story pace (was too slow)
+VOICE_RATE, VOICE_PITCH = "+35%", "-2Hz"   # fast story pace (+20% was still slow)
 
 
 def make_voice_azure(voice, text, i, out):
@@ -327,7 +327,7 @@ def make_voice(ep, i, scene, out, dry):
               "model_id": ("eleven_multilingual_v2" if base.startswith("NARRATOR") or hindi
                            else os.environ.get("ELEVEN_MODEL", "eleven_flash_v2_5")),
               # lower stability + more style = softer, more emotional delivery
-              "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5, "speed": 1.15}},
+              "voice_settings": {"stability": 0.35, "similarity_boost": 0.8, "style": 0.5, "speed": 1.2}},
         timeout=120)
     r.raise_for_status()
     out.write_bytes(r.content)
