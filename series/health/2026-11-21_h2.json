@@ -1,0 +1,190 @@
+{
+ "series": "Bhujangasana Ka Zamaana!",
+ "episode": 2,
+ "title": "Bhujangasana Ka Zamaana!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "KAMAR BHAI": {
+   "look": "A slightly curved, muscly brown back, with a small, cheerful face painted on it. Wearing a tiny red bandana.",
+   "voice": "hindi_male_young"
+  },
+  "HADDIYAN DIDI": {
+   "look": "A smiling, slender bone figure, made of white, smooth material, with a small, wise face. Wearing a cute pink bow.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Back Stretch Masti!",
+ "scenes": [
+  {
+   "image": "[[KAMAR BHAI]] on a yoga mat, looking energetic, ready to stretch.",
+   "speaker": "KAMAR BHAI",
+   "line": "Arre bhai! Main hoon Kamar Bhai, tumhari peeth ki shaan!",
+   "say": "अरे भाई! मैं हूँ कमर भाई, तुम्हारी पीठ की शान!",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[KAMAR BHAI]] on a yoga mat, looking energetic, ready to stretch.",
+   "speaker": "KAMAR BHAI",
+   "line": "Pet ke bal let ja, fir dekho mera kamaal.",
+   "say": "पेट के बल लेट जा, फिर देखो मेरा कमाल.",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[KAMAR BHAI]] on a yoga mat, looking energetic, ready to stretch.",
+   "speaker": "KAMAR BHAI",
+   "line": "Dheere se chhati utha, zyada zor nahi lagane ka.",
+   "say": "धीरे से छाती उठा, ज़्यादा ज़ोर नहीं लगाने का.",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] standing beside Kamar Bhai, looking gentle and supportive.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Hi! Main hoon Haddiyan Didi, harr haddi ki dost.",
+   "say": "हाय! मैं हूँ हड्डियां दीदी, हर हड्डी की दोस्त.",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] standing beside Kamar Bhai, looking gentle and supportive.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Bhujangasana matlab body ko halka sa stretch.",
+   "say": "भुजंगासन मतलब बॉडी को हल्का सा स्ट्रेच.",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] standing beside Kamar Bhai, looking gentle and supportive.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Dard ho toh tension nahi lene ka, ruk jaane ka.",
+   "say": "दर्द हो तो टेंशन नहीं लेने का, रुक जाने का.",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[KAMAR BHAI]] now slightly curved upwards, looking proud.",
+   "speaker": "KAMAR BHAI",
+   "line": "Sahi se karega toh, teri kamar ko milega aaram.",
+   "say": "सही से करेगा तो, तेरी कमर को मिलेगा आराम.",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[KAMAR BHAI]] now slightly curved upwards, looking proud.",
+   "speaker": "KAMAR BHAI",
+   "line": "Aaram se saans le, aur upar dekh ekdum.",
+   "say": "आराम से सांस ले, और ऊपर देख एकदम.",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[KAMAR BHAI]] now slightly curved upwards, looking proud.",
+   "speaker": "KAMAR BHAI",
+   "line": "Din bhar ki thakaan, bole toh chhoo-mantar.",
+   "say": "दिन भर की थकान, बोले तो छू-मंतर.",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] pointing gently at Kamar Bhai, a little concerned look.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Lekin bhidu, zyada kheench-taan nahi karne ka.",
+   "say": "लेकिन भिड़ू, ज़्यादा खींच-तान नहीं करने का.",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] pointing gently at Kamar Bhai, a little concerned look.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Agar lafda ho ya BP badhe, doctor ko dikhaane ka.",
+   "say": "अगर लफड़ा हो या बीपी बढ़े, डॉक्टर को दिखाने का.",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] pointing gently at Kamar Bhai, a little concerned look.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Haddiyon ko hamesha pyaar se sambhaalne ka.",
+   "say": "हड्डियों को हमेशा प्यार से संभालने का.",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[KAMAR BHAI]] showing a gentle upward curve, looking happy.",
+   "speaker": "KAMAR BHAI",
+   "line": "Sirf chhati uthani hai, pet ko zameen pe rakh.",
+   "say": "सिर्फ छाती उठानी है, पेट को ज़मीन पे रख.",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[KAMAR BHAI]] showing a gentle upward curve, looking happy.",
+   "speaker": "KAMAR BHAI",
+   "line": "Shuruat mein thoda hi kar, ekdum fit ho jayega.",
+   "say": "शुरुआत में थोड़ा ही कर, एकदम फिट हो जाएगा.",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[KAMAR BHAI]] showing a gentle upward curve, looking happy.",
+   "speaker": "KAMAR BHAI",
+   "line": "Ye pose beginners ke liye ekdum sahi hai.",
+   "say": "ये पोज़ बिगिनर्स के लिए एकदम सही है.",
+   "tag": "KAMAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] smiling, looking at the viewer.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Sahi pakde hain! Yoga hai sehat ka funda.",
+   "say": "सही पकड़े हैं! योग है सेहत का फंडा.",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] smiling, looking at the viewer.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Lekin har cheez limit mein hi acchi lagti hai.",
+   "say": "लेकिन हर चीज़ लिमिट में ही अच्छी लगती है.",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[HADDIYAN DIDI]] smiling, looking at the viewer.",
+   "speaker": "HADDIYAN DIDI",
+   "line": "Aapka favorite yoga pose kaun sa hai, bhidu?",
+   "say": "आपका फेवरेट योग पोज़ कौन सा है, भिड़ू?",
+   "tag": "HADDIYAN DIDI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Bhujangasana: Peth pe let kar kamar ko aaram do!",
+ "slug": "2026-11-21_h2",
+ "story_no": 2,
+ "yt_title": "Bhujangasana: Peth pe let kar kamar ko aaram do!",
+ "description": "Apni kamar ko do ek naya andaaz! Bhujangasana se paao thoda aaram, thodi lachak.\nLekin dhyaan rakhna, zyada zor nahi lagane ka, warna ho sakta hai lafda.",
+ "comment_question": "Aapka favorite yoga pose kaun sa hai, bhidu?",
+ "hashtags": [
+  "#Bhujangasana",
+  "#CobraPose",
+  "#YogaForBack",
+  "#MoneyMindHealth",
+  "#HealthySpine",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Bhujangasana: Peth pe let kar kamar ko aaram do!\n\nApni kamar ko do ek naya andaaz! Bhujangasana se paao thoda aaram, thodi lachak.\nLekin dhyaan rakhna, zyada zor nahi lagane ka, warna ho sakta hai lafda.\n\nAapka favorite yoga pose kaun sa hai, bhidu?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#Bhujangasana #CobraPose #YogaForBack #MoneyMindHealth #HealthySpine #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 2\nBhujangasana Ka Zamaana!"
+}

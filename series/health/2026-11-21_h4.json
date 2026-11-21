@@ -1,0 +1,194 @@
+{
+ "series": "Vrikshasana Ka Balance!",
+ "episode": 4,
+ "title": "Vrikshasana Ka Balance!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "VRIKSHASANA": {
+   "look": "A lean, green tree-like figure with a calm face, standing gracefully on one leg, arms in namaste. Roots are visible at the bottom, suggesting stability.",
+   "voice": "hindi_male_young"
+  },
+  "DIMAAG": {
+   "look": "A shiny, grey, wrinkled brain with big, curious eyes and tiny spectacles, looking smart and thoughtful. It has a small red bindi.",
+   "voice": "hindi_cartoon_male"
+  },
+  "DEEWAR": {
+   "look": "A sturdy, brown brick wall, a bit weathered, with a friendly, patient smile. A small moss patch grows on one side, adding to its character.",
+   "voice": "hindi_male_deep"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Balance Bole Toh!",
+ "scenes": [
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Arre main Vrikshasana hoon! Balance sikhata hoon, seedha khada karoon!",
+   "say": "अरे मैं वृक्षासन हूँ! बैलेंस सिखाता हूँ, सीधा खड़ा करूँ!",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Bole toh ekdum style mein ek taang pe khada hone ka.",
+   "say": "बोले तो एकदम स्टाइल में एक टांग पे खड़ा होने का.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Sahi pakde hain! Teri body ko ekdum jhakaas balance dega yeh.",
+   "say": "सही पकड़े हैं! तेरी बॉडी को एकदम झकास बैलेंस देगा ये.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAAG]] a shiny, grey, wrinkled brain with big, curious eyes and tiny spectacles, looking smart.",
+   "speaker": "DIMAAG",
+   "line": "Main tera Dimaag hoon, bhidu! Main bhi bolta hoon sun zara.",
+   "say": "मैं तेरा दिमाग हूँ, भिडू! मैं भी बोलता हूँ सुन ज़रा.",
+   "tag": "DIMAAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAAG]] a shiny, grey, wrinkled brain with big, curious eyes and tiny spectacles, looking smart.",
+   "speaker": "DIMAAG",
+   "line": "Jab tu Vrikshasana karega, main ekdum focus ho jata hoon.",
+   "say": "जब तू वृक्षासन करेगा, मैं एकदम फोकस हो जाता हूँ.",
+   "tag": "DIMAAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAAG]] a shiny, grey, wrinkled brain with big, curious eyes and tiny spectacles, looking smart.",
+   "speaker": "DIMAAG",
+   "line": "Dhyaan lagaayega, toh sab kuch achhe se kar paayega, samjha kya?",
+   "say": "ध्यान लगाएगा, तो सब कुछ अच्छे से कर पाएगा, समझा क्या?",
+   "tag": "DIMAAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Balance ka lafda life mein nahi hone dega kabhi.",
+   "say": "बैलेंस का लाफड़ा लाइफ में नहीं होने देगा कभी.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Bas ek taang pe khada ho, doosra pair jaangh pe rakh, haath jod le.",
+   "say": "बस एक टांग पे खड़ा हो, दूसरा पैर जांघ पे रख, हाथ जोड़ ले.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Yeh yog tera tan aur man dono ko ekdum fit rakh sakta hai.",
+   "say": "ये योग तेरा तन और मन दोनों को एकदम फिट रख सकता है.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DEEWAR]] a sturdy, brown brick wall, a bit weathered, with a friendly, patient smile. A small moss patch on it.",
+   "speaker": "DEEWAR",
+   "line": "Arre main Deewar hoon, bhai! Tension nahi lene ka, mujhe pakad le.",
+   "say": "अरे मैं दीवार हूँ, भाई! टेंशन नहीं लेने का, मुझे पकड़ ले.",
+   "tag": "DEEWAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DEEWAR]] a sturdy, brown brick wall, a bit weathered, with a friendly, patient smile. A small moss patch on it.",
+   "speaker": "DEEWAR",
+   "line": "Shuruaat mein thoda mushkil lagega, mera sahara le sakta hai.",
+   "say": "शुरुआत में थोड़ा मुश्किल लगेगा, मेरा सहारा ले सकता है.",
+   "tag": "DEEWAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DEEWAR]] a sturdy, brown brick wall, a bit weathered, with a friendly, patient smile. A small moss patch on it.",
+   "speaker": "DEEWAR",
+   "line": "Dheere-dheere khud hi balance banega, phir main chhutti le loonga.",
+   "say": "धीरे-धीरे खुद ही बैलेंस बनेगा, फिर मैं छुट्टी ले लूँगा.",
+   "tag": "DEEWAR BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Agar chakkar aate hon ya dard ho, toh zabardasti nahi karne ka.",
+   "say": "अगर चक्कर आते हों या दर्द हो, तो ज़बरदस्ती नहीं करने का.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Koi bhi health problem ho, toh Doctor se salah zaroor le lena.",
+   "say": "कोई भी हेल्थ प्रॉब्लम हो, तो डॉक्टर से सलाह ज़रूर ले लेना.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Roz thoda-thoda kar, par ek saath zyada karne ka lafda nahi.",
+   "say": "रोज़ थोड़ा-थोड़ा कर, पर एक साथ ज़्यादा करने का लाफड़ा नहीं.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Yeh yog tere din ko ekdum fresh bana sakta hai, bhidu.",
+   "say": "ये योग तेरे दिन को एकदम फ्रेश बना सकता है, भिडू.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Roz thodi practice se tu ekdum master ban jaayega.",
+   "say": "रोज़ थोड़ी प्रैक्टिस से तू एकदम मास्टर बन जाएगा.",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[VRIKSHASANA]] a lean, green tree-like figure standing calmly on one leg, arms in namaste. Roots visible.",
+   "speaker": "VRIKSHASANA",
+   "line": "Tu din mein kitni baar khud ko balance check karta hai?",
+   "say": "तू दिन में कितनी बार खुद को बैलेंस चेक करता है?",
+   "tag": "VRIKSHASANA BHAI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Vrikshasana: How to Balance Like a Pro! (Yoga Fun)",
+ "slug": "2026-11-21_h4",
+ "story_no": 4,
+ "yt_title": "Vrikshasana: How to Balance Like a Pro! (Yoga Fun)",
+ "description": "Balance your body and mind with this fun yoga pose! Learn Vrikshasana with our funny characters.",
+ "comment_question": "Tu din mein kitni baar khud ko balance check karta hai?",
+ "hashtags": [
+  "#Vrikshasana",
+  "#YogaForBalance",
+  "#MoneyMindHealth",
+  "#TreePose",
+  "#YogaTips",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Vrikshasana: How to Balance Like a Pro! (Yoga Fun)\n\nBalance your body and mind with this fun yoga pose! Learn Vrikshasana with our funny characters.\n\nTu din mein kitni baar khud ko balance check karta hai?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#Vrikshasana #YogaForBalance #MoneyMindHealth #TreePose #YogaTips #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 4\nVrikshasana Ka Balance!"
+}

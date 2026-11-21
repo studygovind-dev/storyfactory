@@ -1,0 +1,190 @@
+{
+ "series": "Tadasana Ka Jhol Jhal!",
+ "episode": 1,
+ "title": "Tadasana Ka Jhol Jhal!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "Tadasana Bhai": {
+   "look": "A tall, majestic cartoon figure resembling a stylized green-brown mountain, with a saffron yogi headband. Confident, smiling face.",
+   "voice": "hindi_male_deep"
+  },
+  "Peeth Bhai": {
+   "look": "A friendly, slightly curvy cartoon spine, creamy white, with visible segments. Initially a bit slouched, then straightens up. Has a cheerful but sometimes worried expression.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Seedha Khada Reh!",
+ "scenes": [
+  {
+   "image": "[[Tadasana Bhai]] stands tall and proud, arms raised high, smiling widely.",
+   "speaker": "Tadasana Bhai",
+   "line": "Arre bhai, main hoon Tadasana! Seedha khada reh!",
+   "say": "अरे भाई, मैं हूँ ताड़ासन! सीधा खड़ा रह!",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] stands tall and proud, arms raised high, smiling widely.",
+   "speaker": "Tadasana Bhai",
+   "line": "Haan, sahi pakde hain! Poora mountain jaisa ekdum!",
+   "say": "हाँ, सही पकड़े हैं! पूरा माउंटेन जैसा एकदम!",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] stands tall and proud, arms raised high, smiling widely.",
+   "speaker": "Tadasana Bhai",
+   "line": "Tension nahi lene ka, posture set karne ka simple tareeka.",
+   "say": "टेंशन नहीं लेने का, पोस्चर सेट करने का सिम्पल तरीका।",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Peeth Bhai]] is seen slightly slouched, looking tired but friendly.",
+   "speaker": "Peeth Bhai",
+   "line": "Arre main hoon Peeth Bhai, teri back! Baithe baithe tedha ho gaya tha.",
+   "say": "अरे मैं हूँ पीठ भाई, तेरी बैक! बैठे बैठे टेढ़ा हो गया था।",
+   "tag": "PEETH BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Peeth Bhai]] is seen slightly slouched, looking tired but friendly.",
+   "speaker": "Peeth Bhai",
+   "line": "Poora din screen pe, shoulder aage, gardan neeche.",
+   "say": "पूरा दिन स्क्रीन पे, शोल्डर आगे, गर्दन नीचे।",
+   "tag": "PEETH BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Peeth Bhai]] is seen slightly slouched, looking tired but friendly.",
+   "speaker": "Peeth Bhai",
+   "line": "Bhidu, bahut lafda ho raha tha body mein.",
+   "say": "भिड़ू, बहुत लफड़ा हो रहा था बॉडी में।",
+   "tag": "PEETH BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] demonstrates the pose perfectly, looking encouraging.",
+   "speaker": "Tadasana Bhai",
+   "line": "Dekh, Tadasana bole toh, pair jod, haath upar utha.",
+   "say": "देख, ताड़ासन बोले तो, पैर जोड़, हाथ ऊपर उठा।",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] demonstrates the pose perfectly, looking encouraging.",
+   "speaker": "Tadasana Bhai",
+   "line": "Ekdum dheere se upar stretch kar, jaisa tree.",
+   "say": "एकदम धीरे से ऊपर स्ट्रेच कर, जैसा ट्री।",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] demonstrates the pose perfectly, looking encouraging.",
+   "speaker": "Tadasana Bhai",
+   "line": "Body ko seedha kar, saans andar-bahar. Bas!",
+   "say": "बॉडी को सीधा कर, साँस अंदर-बाहर। बस!",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Peeth Bhai]] is now noticeably straighter, smiling happily, stretching a bit.",
+   "speaker": "Peeth Bhai",
+   "line": "Oho! Jabse Tadasana kiya, main ekdum fit lagta hoon.",
+   "say": "ओहो! जबसे ताड़ासन किया, मैं एकदम फिट लगता हूँ।",
+   "tag": "PEETH BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Peeth Bhai]] is now noticeably straighter, smiling happily, stretching a bit.",
+   "speaker": "Peeth Bhai",
+   "line": "Pehle jhuka hua tha, abhi height bhi badhi hui lagti hai.",
+   "say": "पहले झुका हुआ था, अभी हाइट भी बढ़ी हुई लगती है।",
+   "tag": "PEETH BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Peeth Bhai]] is now noticeably straighter, smiling happily, stretching a bit.",
+   "speaker": "Peeth Bhai",
+   "line": "Mast posture ho gaya, tension gayab! Ekdum fresh feel hota hai.",
+   "say": "मस्त पोस्चर हो गया, टेंशन गायब! एकदम फ्रेश फील होता है।",
+   "tag": "PEETH BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] is in a relaxed, teaching pose, still tall and confident.",
+   "speaker": "Tadasana Bhai",
+   "line": "Yeh beginner ke liye ekdum mast stretch hai.",
+   "say": "यह बिगिनर के लिए एकदम मस्त स्ट्रेच है।",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] is in a relaxed, teaching pose, still tall and confident.",
+   "speaker": "Tadasana Bhai",
+   "line": "Har subah ya shaam kar, body khulegi.",
+   "say": "हर सुबह या शाम कर, बॉडी खुलेगी।",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] is in a relaxed, teaching pose, still tall and confident.",
+   "speaker": "Tadasana Bhai",
+   "line": "Lekin zyada zor nahi lagane ka, aaram se karne ka.",
+   "say": "लेकिन ज़्यादा ज़ोर नहीं लगाने का, आराम से करने का।",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] looks at the viewer directly, with a friendly, wise expression.",
+   "speaker": "Tadasana Bhai",
+   "line": "Agar koi health ka lafda hai, toh pehle doctor ko milne ka.",
+   "say": "अगर कोई हेल्थ का लफड़ा है, तो पहले डॉक्टर को मिलने का।",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] looks at the viewer directly, with a friendly, wise expression.",
+   "speaker": "Tadasana Bhai",
+   "line": "Koi bhi yoga ho, sahi tareeke se karna important hai.",
+   "say": "कोई भी योग हो, सही तरीके से करना इम्पोर्टेन्ट है।",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[Tadasana Bhai]] looks at the viewer directly, with a friendly, wise expression.",
+   "speaker": "Tadasana Bhai",
+   "line": "Bole toh, aap kitni baar body ko stretch karte ho?",
+   "say": "बोले तो, आप कितनी बार बॉडी को स्ट्रेच करते हो?",
+   "tag": "TADASANA BHAI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Tadasana: Stand Tall, Feel Great! | Yoga for Beginners",
+ "slug": "2026-11-21_h1",
+ "story_no": 1,
+ "yt_title": "Tadasana: Stand Tall, Feel Great! | Yoga for Beginners",
+ "description": "Learn the secrets of Tadasana (Mountain Pose) with our funny characters! Improve your posture and feel taller with this simple yoga pose.",
+ "comment_question": "Aapko konsa yoga pose sabse pasand hai?",
+ "hashtags": [
+  "#Tadasana",
+  "#YogaForBeginners",
+  "#PostureGoals",
+  "#MoneyMindHealth",
+  "#FitnessFun",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Tadasana: Stand Tall, Feel Great! | Yoga for Beginners\n\nLearn the secrets of Tadasana (Mountain Pose) with our funny characters! Improve your posture and feel taller with this simple yoga pose.\n\nAapko konsa yoga pose sabse pasand hai?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#Tadasana #YogaForBeginners #PostureGoals #MoneyMindHealth #FitnessFun #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 1\nTadasana Ka Jhol Jhal!"
+}

@@ -1,0 +1,190 @@
+{
+ "series": "Anulom Vilom Ka Jabardast Funda!",
+ "episode": 3,
+ "title": "Anulom Vilom Ka Jabardast Funda!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "ANULOM": {
+   "look": "A friendly, plump cartoon cloud with a calm, mischievous smile, wearing a tiny saffron headband, with two stylized nostrils on his 'body'.",
+   "voice": "hindi_male_young"
+  },
+  "DIMAG": {
+   "look": "A cute, slightly wrinkled cartoon brain character with big, worried eyes, a small sweatdrop, and a tiny 'thinking cap' on its head.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Breathe In, Calm Out!",
+ "scenes": [
+  {
+   "image": "[[ANULOM]] in a zen pose, slightly mischievous smile, looking at the viewer.",
+   "speaker": "ANULOM",
+   "line": "Arre bhidu! Main hoon Anulom Vilom, tera naya jigri yaar!",
+   "say": "अरे भिडू! मैं हूँ अनुलोम विलोम, तेरा नया जिगरी यार!",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ANULOM]] in a zen pose, slightly mischievous smile, looking at the viewer.",
+   "speaker": "ANULOM",
+   "line": "Apne se milke dekh, ekdum mann shaant ho jayega!",
+   "say": "अपने से मिलके देख, एकदम मन शांत हो जाएगा!",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ANULOM]] in a zen pose, slightly mischievous smile, looking at the viewer.",
+   "speaker": "ANULOM",
+   "line": "Dheere-dheere saans le, ekdum chain milega.",
+   "say": "धीरे-धीरे सांस ले, एकदम चैन मिलेगा।",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] with a tiny sweatdrop, looking confused and stressed.",
+   "speaker": "DIMAG",
+   "line": "Arey Anulom Bhai, mera toh dimaag ghum gaya hai, badi pareshani!",
+   "say": "अरे अनुलोम भाई, मेरा तो दिमाग घूम गया है, बड़ी परेशानी!",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] with a tiny sweatdrop, looking confused and stressed.",
+   "speaker": "DIMAG",
+   "line": "Koi bolta hai ye kar, koi wo, BP high ho raha hai!",
+   "say": "कोई बोलता है ये कर, कोई वो, बीपी हाई हो रहा है!",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] with a tiny sweatdrop, looking confused and stressed.",
+   "speaker": "DIMAG",
+   "line": "Paanch minute tujhe karu toh kya hoga?",
+   "say": "पांच मिनट तुझे करू तो क्या होगा?",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ANULOM]] still zen, winking at the viewer.",
+   "speaker": "ANULOM",
+   "line": "Fikr nahi lene ka, bhai! Ek naak band kar, doosri se saans le.",
+   "say": "फिक्र नहीं लेने का, भाई! एक नाक बंद कर, दूसरी से सांस ले।",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ANULOM]] still zen, winking at the viewer.",
+   "speaker": "ANULOM",
+   "line": "Phir ulta kar, paanch minute bas, simple lafda!",
+   "say": "फिर उल्टा कर, पांच मिनट बस, सिंपल लफड़ा!",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ANULOM]] still zen, winking at the viewer.",
+   "speaker": "ANULOM",
+   "line": "Dimag ko ekdum shanti milegi, ekdum mast lagega.",
+   "say": "दिमाग को एकदम शांति मिलेगी, एकदम मस्त लगेगा।",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] now slightly less frazzled, a hint of a smile, sweatdrop gone.",
+   "speaker": "DIMAG",
+   "line": "Acha, aise kya? Yeh toh ekdum aasaan hai, bhidu!",
+   "say": "अच्छा, ऐसे क्या? ये तो एकदम आसान है, भिडू!",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] now slightly less frazzled, a hint of a smile, sweatdrop gone.",
+   "speaker": "DIMAG",
+   "line": "Thoda-thoda shanti mil rahi hai, haan, sahi pakde hain!",
+   "say": "थोड़ा-थोड़ा शांति मिल रही है, हाँ, सही पकड़े हैं!",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] now slightly less frazzled, a hint of a smile, sweatdrop gone.",
+   "speaker": "DIMAG",
+   "line": "Ekdum sukoon aa raha hai, kitne der tak karna hai?",
+   "say": "एकदम सुकून आ रहा है, कितने देर तक करना है?",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ANULOM]] looking a bit more serious, but still friendly, explaining something.",
+   "speaker": "ANULOM",
+   "line": "Bas paanch minute, zyada nahi! Din mein kabhi bhi kar sakte ho.",
+   "say": "बस पांच मिनट, ज़्यादा नहीं! दिन में कभी भी कर सकते हो।",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ANULOM]] looking a bit more serious, but still friendly, explaining something.",
+   "speaker": "ANULOM",
+   "line": "Yeh bas aaraam ke liye hai, koi dawa nahi hai, samjha?",
+   "say": "ये बस आराम के लिए है, कोई दवा नहीं है, समझा?",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ANULOM]] looking a bit more serious, but still friendly, explaining something.",
+   "speaker": "ANULOM",
+   "line": "Agar koi health problem hai, toh doctor ko milne ka, pakka?",
+   "say": "अगर कोई हेल्थ प्रॉब्लम है, तो डॉक्टर को मिलने का, पक्का?",
+   "tag": "ANULOM BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] completely calm, smiling broadly, with a small flower on its head.",
+   "speaker": "DIMAG",
+   "line": "Arre wah! Ab lag raha hai dimag mein ekdum thandak!",
+   "say": "अरे वाह! अब लग रहा है दिमाग में एकदम ठंडक!",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] completely calm, smiling broadly, with a small flower on its head.",
+   "speaker": "DIMAG",
+   "line": "Yeh Anulom Vilom toh ekdum jaadu jaisa kaam karta hai!",
+   "say": "ये अनुलोम विलोम तो एकदम जादू जैसा काम करता है!",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIMAG]] completely calm, smiling broadly, with a small flower on its head.",
+   "speaker": "DIMAG",
+   "line": "Aap mann ki shaanti ke liye aur kya karte ho, bolo?",
+   "say": "आप मन की शांति के लिए और क्या करते हो, बोलो?",
+   "tag": "DIMAG BHAI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Anulom Vilom: Tension Bhagaane Ka Asli Mantra!",
+ "slug": "2026-11-21_h3",
+ "story_no": 3,
+ "yt_title": "Anulom Vilom: Tension Bhagaane Ka Asli Mantra!",
+ "description": "Anulom Vilom (alternate nostril breathing) is a simple way to relax. Just 5 minutes can help calm your mind.",
+ "comment_question": "Aap mann ki shaanti ke liye aur kya karte ho, bolo?",
+ "hashtags": [
+  "#AnulomVilom",
+  "#Yoga",
+  "#Breathing",
+  "#StressRelief",
+  "#Mindfulness",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Anulom Vilom: Tension Bhagaane Ka Asli Mantra!\n\nAnulom Vilom (alternate nostril breathing) is a simple way to relax. Just 5 minutes can help calm your mind.\n\nAap mann ki shaanti ke liye aur kya karte ho, bolo?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#AnulomVilom #Yoga #Breathing #StressRelief #Mindfulness #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 3\nAnulom Vilom Ka Jabardast Funda!"
+}

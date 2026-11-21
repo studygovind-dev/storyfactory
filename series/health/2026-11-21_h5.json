@@ -1,0 +1,194 @@
+{
+ "series": "Namak Ka Masala!",
+ "episode": 5,
+ "title": "Namak Ka Masala!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "NAMAK_BHAI": {
+   "look": "A small, white, shimmering crystalline character with a mischievous grin and a tiny silver headband that says \"Taste\".",
+   "voice": "hindi_cartoon_male"
+  },
+  "DIL_BHAI": {
+   "look": "A bright red, anatomically stylized heart character, with a slightly worried but kind face, wearing a tiny stethoscope around its neck.",
+   "voice": "hindi_male_deep"
+  },
+  "CHEF_RAJU": {
+   "look": "A plump, jovial chef character with a white toque hat and a checkered apron, holding a small tasting spoon.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Salt Ka Lafda!",
+ "scenes": [
+  {
+   "image": "[[NAMAK_BHAI]] standing on a spice rack, winking cheekily, a spotlight on him.",
+   "speaker": "NAMAK_BHAI",
+   "line": "Arre main hoon Namak, tera swaad ka king, bhidu!",
+   "say": "अरे मैं हूँ नमक, तेरा स्वाद का किंग, भिड़ू!",
+   "tag": "NAMAK BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[NAMAK_BHAI]] standing on a spice rack, winking cheekily, a spotlight on him.",
+   "speaker": "NAMAK_BHAI",
+   "line": "Mere bina har cheez ekdum pheeki, bole toh bekaar!",
+   "say": "मेरे बिना हर चीज़ एकदम फीकी, बोले तो बेकार!",
+   "tag": "NAMAK BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[NAMAK_BHAI]] standing on a spice rack, winking cheekily, a spotlight on him.",
+   "speaker": "NAMAK_BHAI",
+   "line": "Thoda sa hi daal, aur dekh le mera kamaal!",
+   "say": "थोड़ा सा ही डाल, और देख ले मेरा कमाल!",
+   "tag": "NAMAK BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[NAMAK_BHAI]] sprinkling a tiny amount of himself onto a delicious-looking plate of dal chawal, looking pleased.",
+   "speaker": "NAMAK_BHAI",
+   "line": "Bas ek chutki, khaane ka mood bana deti hai, sahi pakde hain!",
+   "say": "बस एक चुटकी, खाने का मूड बना देती है, सही पकड़े हैं!",
+   "tag": "NAMAK BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[NAMAK_BHAI]] sprinkling a tiny amount of himself onto a delicious-looking plate of dal chawal, looking pleased.",
+   "speaker": "NAMAK_BHAI",
+   "line": "Zyada mat soch, thoda namak toh banta hai!",
+   "say": "ज़्यादा मत सोच, थोड़ा नमक तो बनता है!",
+   "tag": "NAMAK BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[NAMAK_BHAI]] sprinkling a tiny amount of himself onto a delicious-looking plate of dal chawal, looking pleased.",
+   "speaker": "NAMAK_BHAI",
+   "line": "Par haan, zyada daalega toh lafda pakka hai, sun le!",
+   "say": "पर हाँ, ज़्यादा डालेगा तो लफड़ा पक्का है, सुन ले!",
+   "tag": "NAMAK BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL_BHAI]] looking a bit stressed, holding its chest lightly with one hand, in a plain white background with a faint \"BP\" symbol.",
+   "speaker": "DIL_BHAI",
+   "line": "Hello, main hoon tera Dil, thoda serious baat suno!",
+   "say": "हेलो, मैं हूँ तेरा दिल, थोड़ा सीरियस बात सुनो!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL_BHAI]] looking a bit stressed, holding its chest lightly with one hand, in a plain white background with a faint \"BP\" symbol.",
+   "speaker": "DIL_BHAI",
+   "line": "Ye Namak Bhai zyada ho jaye toh mera tension badhta hai!",
+   "say": "ये नमक भाई ज़्यादा हो जाए तो मेरा टेंशन बढ़ता है!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL_BHAI]] looking a bit stressed, holding its chest lightly with one hand, in a plain white background with a faint \"BP\" symbol.",
+   "speaker": "DIL_BHAI",
+   "line": "Zyada namak matlab high बीपी का khatra, samjha na?",
+   "say": "ज़्यादा नमक मतलब हाई बीपी का खतरा, समझा ना?",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL_BHAI]] looking concerned but firm, pointing to an animated 'BP monitor' graphic showing \"HIGH\" in the background.",
+   "speaker": "DIL_BHAI",
+   "line": "Isliye, namak ko limit mein rakh, healthy rehna hai toh!",
+   "say": "इसलिए, नमक को लिमिट में रख, हेल्दी रहना है तो!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL_BHAI]] looking concerned but firm, pointing to an animated 'BP monitor' graphic showing \"HIGH\" in the background.",
+   "speaker": "DIL_BHAI",
+   "line": "Agar kuch gadbad lage toh, seedha डॉक्टर ko dikha, tension nahi lene ka.",
+   "say": "अगर कुछ गड़बड़ लगे तो, सीधा डॉक्टर को दिखा, टेंशन नहीं लेने का।",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL_BHAI]] looking concerned but firm, pointing to an animated 'BP monitor' graphic showing \"HIGH\" in the background.",
+   "speaker": "DIL_BHAI",
+   "line": "Apne Dil ka khayal rakh, bade kaam ki cheez hai, bhidu!",
+   "say": "अपने दिल का ख्याल रख, बड़े काम की चीज़ है, भिड़ू!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHEF_RAJU]] in a clean, brightly lit kitchen, holding up a small pinch of salt in his fingers, smiling knowingly.",
+   "speaker": "CHEF_RAJU",
+   "line": "Namaste bhaiyon, main hoon Chef Raju, suno meri tip!",
+   "say": "नमस्ते भाइयों, मैं हूँ शेफ राजू, सुनो मेरी टिप!",
+   "tag": "CHEF RAJU",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHEF_RAJU]] in a clean, brightly lit kitchen, holding up a small pinch of salt in his fingers, smiling knowingly.",
+   "speaker": "CHEF_RAJU",
+   "line": "Khana banate waqt jitna namak chahiye, bas utna hi!",
+   "say": "खाना बनाते वक़्त जितना नमक चाहिए, बस उतना ही!",
+   "tag": "CHEF RAJU",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHEF_RAJU]] in a clean, brightly lit kitchen, holding up a small pinch of salt in his fingers, smiling knowingly.",
+   "speaker": "CHEF_RAJU",
+   "line": "Table pe extra namak ka dabba rakhne ki koi zaroorat nahi.",
+   "say": "टेबल पे एक्स्ट्रा नमक का डब्बा रखने की कोई ज़रूरत नहीं।",
+   "tag": "CHEF RAJU",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHEF_RAJU]] making a thoughtful gesture, perhaps wiping his hands on his apron, looking directly at the viewer.",
+   "speaker": "CHEF_RAJU",
+   "line": "Saada khana, kam namak, yeh hai sehat ka nuskha.",
+   "say": "सादा खाना, कम नमक, यह है सेहत का नुस्खा।",
+   "tag": "CHEF RAJU",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHEF_RAJU]] making a thoughtful gesture, perhaps wiping his hands on his apron, looking directly at the viewer.",
+   "speaker": "CHEF_RAJU",
+   "line": "Taste ko naturally badhao, masala aur herbs se.",
+   "say": "टेस्ट को नेचुरली बढ़ाओ, मसाला और हर्ब्स से।",
+   "tag": "CHEF RAJU",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHEF_RAJU]] making a thoughtful gesture, perhaps wiping his hands on his apron, looking directly at the viewer.",
+   "speaker": "CHEF_RAJU",
+   "line": "Aap din mein kitna namak extra daalte ho, comment mein batao?",
+   "say": "आप दिन में कितना नमक एक्स्ट्रा डालते हो, कमेंट में बताओ?",
+   "tag": "CHEF RAJU",
+   "fx": "none"
+  }
+ ],
+ "caption": "Namak Se Rakho Dosti, BP Se Dushmani!",
+ "slug": "2026-11-21_h5",
+ "story_no": 5,
+ "yt_title": "Namak Se Rakho Dosti, BP Se Dushmani!",
+ "description": "Arre bhai, main Namak hoon! Thoda daalega toh swaad bhi doonga, zyada daalega toh lafda hoga! \nJaanne ke liye dekho apna Money Mind Health Reel!",
+ "comment_question": "Aap apne khane mein kitna namak extra daalte ho, bhidu?",
+ "hashtags": [
+  "#NamakKaFunda",
+  "#SaltTalks",
+  "#HealthyEatingTips",
+  "#BPControl",
+  "#MoneyMindHealth",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Namak Se Rakho Dosti, BP Se Dushmani!\n\nArre bhai, main Namak hoon! Thoda daalega toh swaad bhi doonga, zyada daalega toh lafda hoga! \nJaanne ke liye dekho apna Money Mind Health Reel!\n\nAap apne khane mein kitna namak extra daalte ho, bhidu?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#NamakKaFunda #SaltTalks #HealthyEatingTips #BPControl #MoneyMindHealth #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 5\nNamak Ka Masala!"
+}
