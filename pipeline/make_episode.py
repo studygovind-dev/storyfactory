@@ -246,13 +246,13 @@ for _k, _v in {"MALE_YOUNG2": "MALE_YOUNG", "MALE_ADULT": "NARRATOR_MALE", "MALE
 VOICE_RATE, VOICE_PITCH = "+35%", "-2Hz"   # fast story pace (+20% was still slow)
 
 
-def make_voice_azure(voice, text, i, out):
+def make_voice_azure(voice, text, i, out, rate=None, pitch=None):
     """Microsoft Azure AI Speech (official, commercially licensed). Same neural voices as edge-tts."""
     from xml.sax.saxutils import escape
     region = os.environ.get("AZURE_SPEECH_REGION", "centralindia").strip()
     lang = voice[:5]
     ssml = (f"<speak version='1.0' xml:lang='{lang}'><voice name='{voice}'>"
-            f"<prosody rate='{VOICE_RATE}' pitch='{VOICE_PITCH}'>{escape(text)}</prosody></voice></speak>")
+            f"<prosody rate='{rate or VOICE_RATE}' pitch='{pitch or VOICE_PITCH}'>{escape(text)}</prosody></voice></speak>")
     for attempt in range(5):
         try:
             r = requests.post(f"https://{region}.tts.speech.microsoft.com/cognitiveservices/v1",
@@ -284,12 +284,17 @@ def make_voice_free(ep, i, scene, out):
     voice = voice or EDGE_VOICES.get(voice_key) or (
         "en-US-AnaNeural" if voice_key.startswith("child") else
         EDGE_VOICES["female_soft"] if "female" in voice_key else EDGE_VOICES["male_smooth"])
+    rate, pitch = VOICE_RATE, VOICE_PITCH
+    if "cartoon" in voice_key or "child" in voice_key:  # talking animals, babies, kids: a small, cute, lively voice
+        voice = "hi-IN-SwaraNeural" if voice_key.startswith("hindi_") else "en-US-AnaNeural"
+        rate = "+25%"
+        pitch = "+70Hz" if ("female" in voice_key or "girl" in voice_key) else "+55Hz"
     text = (scene.get("say") or scene["line"]).replace("*", "").replace("_", " ")  # drop markdown emphasis
     if os.environ.get("AZURE_SPEECH_KEY", "").strip():  # licensed Microsoft Azure Speech (commercial use OK)
-        return make_voice_azure(voice, text, i, out)
+        return make_voice_azure(voice, text, i, out, rate, pitch)
     for attempt in range(6):  # the free voice service sometimes refuses a request; wait and retry
         r = subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice, "--text", text,
-                            f"--rate={VOICE_RATE}", f"--pitch={VOICE_PITCH}",
+                            f"--rate={rate}", f"--pitch={pitch}",
                             "--write-media", str(out)], capture_output=True, text=True)
         if r.returncode == 0 and out.exists() and out.stat().st_size > 0:
             return

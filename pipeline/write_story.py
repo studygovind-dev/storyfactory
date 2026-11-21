@@ -396,7 +396,9 @@ def slots(day):
                  "topic": (CLASSIC_JOKE + FUNNY_TOPICS)[d % len(CLASSIC_JOKE + FUNNY_TOPICS)], "key": "joke", "style": CARTOON_STYLE,
                  "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
                  "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
-                            "a narrator line now and then to move the story on."),
+                            "a narrator line now and then to move the story on. NEVER start with an "
+                            "introduction like 'mera naam Bhola hai'; jump straight into the funny situation, "
+                            "and make every line either funny or move the joke toward its punchline."),
                  "hindi_voices": True, "mood": "funny", "talk": True,
                  "lang": ("simple everyday HINDI (written in English letters). At least 90% Hindi words, only a "
                           "few very common loanwords (phone, school, TV). Example: 'Bhai, yeh kya ho gaya?'")},
