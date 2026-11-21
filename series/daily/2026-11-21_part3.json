@@ -1,0 +1,184 @@
+{
+ "series": "The Protector Mother's Secret",
+ "episode": 3,
+ "title": "The Protector Mother's Secret",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Anya, a young woman in her late 20s, with a warm, kind face. She has long, soft wavy dark-brown hair, natural makeup, small silver earrings, and wears a simple pastel green kurta with white churidar.",
+   "voice": "hindi_female_young"
+  },
+  "Meena": {
+   "look": "A slim, short-haired ginger and white tabby cat, a bit scruffy with intelligent, anxious green eyes, showing signs of age.",
+   "voice": "hindi_cartoon_female"
+  },
+  "kitten1": {
+   "look": "A tiny, fluffy, newborn ginger and white kitten.",
+   "voice": "hindi_cartoon_male"
+  },
+  "kitten2": {
+   "look": "A tiny, fluffy, newborn ginger and white kitten, identical to kitten1.",
+   "voice": "hindi_cartoon_male"
+  },
+  "kitten3": {
+   "look": "A tiny, fluffy, newborn ginger and white kitten, identical to kitten1.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "A CAT'S SECRET PLEA",
+ "scenes": [
+  {
+   "image": "Anya, late 20s, with a warm, kind face, watering potted plants on her balcony. She has a slightly surprised, intrigued expression as she looks off-camera towards her door.",
+   "speaker": "narrator",
+   "line": "Ek din... meri zindagi badal gayi.",
+   "fx": "none",
+   "sub": "One day... my life changed.",
+   "say": "एक दिन... मेरी ज़िंदगी बदल गई।"
+  },
+  {
+   "image": "Anya [[narrator]] looking out her open door, smiling gently at a timid ginger and white tabby cat [[Meena]] sitting a few feet away, observing her cautiously.",
+   "speaker": "narrator",
+   "line": "Meena, ek bholi stray billi, thi.",
+   "fx": "none",
+   "sub": "Meena was a timid stray cat.",
+   "say": "मीना, एक भोली स्ट्रे बिल्ली, थी।"
+  },
+  {
+   "image": "Close-up of Anya's [[narrator]] hand gently placing a small ceramic bowl of milk and kibble on the ground outside her door. Meena [[Meena]] watches from a distance, just out of reach.",
+   "speaker": "narrator",
+   "line": "Main usko kabhi-kabhi khana deti thi.",
+   "fx": "none",
+   "sub": "I used to feed her sometimes.",
+   "say": "मैं उसको कभी-कभी खाना देती थी।"
+  },
+  {
+   "image": "Meena [[Meena]] quickly eating from the bowl, constantly looking around nervously, ready to flee. Anya [[narrator]] watches from the doorway, keeping her distance.",
+   "speaker": "narrator",
+   "line": "Par woh kabhi paas nahi aati thi.",
+   "fx": "none",
+   "sub": "But she never came close.",
+   "say": "पर वो कभी पास नहीं आती थी।"
+  },
+  {
+   "image": "Meena [[Meena]] at Anya's [[narrator]] doorstep, looking directly at her with an urgent, distressed expression. She has something small, covered in fur, in her mouth.",
+   "speaker": "narrator",
+   "line": "Ek shaam Meena phir aayi. Kuch alag tha.",
+   "fx": "none",
+   "sub": "One evening Meena came again. Something was different.",
+   "say": "एक शाम मीना फिर आई। कुछ अलग था।"
+  },
+  {
+   "image": "Close-up of Meena [[Meena]] gently placing a tiny, newborn ginger and white kitten [[kitten1]] at Anya's [[narrator]] feet. Anya gasps, eyes wide with shock and concern.",
+   "speaker": "narrator",
+   "line": "Usne apne bache ko mere paas rakha.",
+   "fx": "none",
+   "sub": "She placed her baby near me.",
+   "say": "उसने अपने बच्चे को मेरे पास रखा।"
+  },
+  {
+   "image": "Anya [[narrator]] kneeling, her face showing shock, gently picking up the tiny kitten [[kitten1]], placing it on a soft towel inside her doorway. Meena [[Meena]] watches her intently.",
+   "speaker": "narrator",
+   "line": "Main shock mein thi. Maine bache ko uthaya.",
+   "fx": "none",
+   "sub": "I was in shock. I picked up the baby.",
+   "say": "मैं शॉक में थी। मैंने बच्चे को उठाया।"
+  },
+  {
+   "image": "Meena [[Meena]] returning to the doorstep with a second tiny kitten [[kitten2]] in her mouth, placing it carefully next to the first one. Anya [[narrator]] watches, tears welling in her eyes.",
+   "speaker": "narrator",
+   "line": "Thodi der mein, woh doosra bacha layi.",
+   "fx": "none",
+   "sub": "A little later, she brought a second baby.",
+   "say": "थोड़ी देर में, वो दूसरा बच्चा लाई।"
+  },
+  {
+   "image": "Meena [[Meena]], clearly exhausted and a bit disheveled, gently brings the third kitten [[kitten3]], collapsing softly next to the three kittens. Anya [[narrator]] is kneeling beside her, concerned.",
+   "speaker": "narrator",
+   "line": "Aur phir teesra. Woh thak chuki thi.",
+   "fx": "none",
+   "sub": "And then the third. She was exhausted.",
+   "say": "और फिर तीसरा। वो थक चुकी थी।"
+  },
+  {
+   "image": "Close-up of Anya's [[narrator]] puzzled face as she observes Meena [[Meena]] trying to 'nurse' the kittens, but the tiny kittens are nuzzling fruitlessly at Meena's belly. Meena looks wistful.",
+   "speaker": "narrator",
+   "line": "Par Meena unko doodh nahi pila rahi thi.",
+   "fx": "none",
+   "sub": "But Meena was not feeding them milk.",
+   "say": "पर मीना उनको दूध नहीं पिला रही थी।"
+  },
+  {
+   "image": "Anya [[narrator]] looking closely at Meena [[Meena]], noticing her thin, slightly saggy frame and tired, older appearance, which doesn't resemble a new nursing mother. She looks thoughtful.",
+   "speaker": "narrator",
+   "line": "Uska shareer ek nayi maa jaisa nahi tha.",
+   "fx": "none",
+   "sub": "Her body was not like a new mother's.",
+   "say": "उसका शरीर एक नई माँ जैसा नहीं था।"
+  },
+  {
+   "image": "Anya [[narrator]] sitting quietly, looking at Meena [[Meena]], who is protectively curled around the kittens. Anya has an 'aha!' moment, her eyes widening in realization, a mix of surprise and understanding on her face.",
+   "speaker": "narrator",
+   "line": "Tab mujhe samajh aaya. Woh unki maa nahi thi.",
+   "fx": "none",
+   "sub": "Then I understood. She was not their mother.",
+   "say": "तब मुझे समझ आया। वो उनकी माँ नहीं थी।"
+  },
+  {
+   "image": "Anya [[narrator]] gently providing a small feeding bottle of kitten milk to one of the kittens [[kitten1]], while Meena [[Meena]] watches protectively, curled around the other two, looking vigilant.",
+   "speaker": "narrator",
+   "line": "Usne sirf unhe bachane ke liye laya.",
+   "fx": "none",
+   "sub": "She only brought them to save them.",
+   "say": "उसने सिर्फ़ उन्हें बचाने के लिए लाया।"
+  },
+  {
+   "image": "Meena [[Meena]] resting comfortably on a soft blanket, curled protectively around the three kittens, who are now well-fed and sleeping peacefully. Anya [[narrator]] smiles, relieved and proud.",
+   "speaker": "narrator",
+   "line": "Meena ab unki rakshak maa ban gayi.",
+   "fx": "none",
+   "sub": "Meena now became their protector mother.",
+   "say": "मीना अब उनकी रक्षक माँ बन गई।"
+  },
+  {
+   "image": "Anya [[narrator]] gently stroking Meena [[Meena]], who purrs contentedly with closed eyes, surrounded by the thriving kittens playfully batting at her tail. Anya's face shows deep affection.",
+   "speaker": "narrator",
+   "line": "Pyaar ka rishta khoon se bada hota hai.",
+   "fx": "none",
+   "sub": "A bond of love is greater than blood.",
+   "say": "प्यार का रिश्ता खून से बड़ा होता है।"
+  },
+  {
+   "image": "Close-up of Anya's [[narrator]] thoughtful face, looking directly at the camera. She has a simple cat paw print drawn in a small heart on the back of her hand, visible.",
+   "speaker": "narrator",
+   "line": "Kya dil ki maa, khoon ki maa se badi? Aap kya kehti?",
+   "fx": "none",
+   "sub": "Is a mother by heart greater than a mother by blood? What do you say?",
+   "say": "क्या दिल की माँ, खून की माँ से बड़ी? आप क्या कहतीं?"
+  }
+ ],
+ "caption": "Stray Cat Brought Her Babies... Her Secret Shocked Me 😥",
+ "slug": "2026-11-21_part3",
+ "story_no": 75,
+ "yt_title": "Stray Cat Brought Her Babies... Her Secret Shocked Me 😥",
+ "description": "This stray cat trusted me with her kittens, but then I found out her shocking secret.\nIt wasn't what I expected, and it changed everything about love and family.\nIs a mother by heart greater than a mother by blood? What do you say?",
+ "comment_question": "Kya dil ki maa, khoon ki maa se badi? Aap kya kehti?",
+ "hashtags": [
+  "#moralstory",
+  "#animalstory",
+  "#pyaarkikahani",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalrescue",
+  "#catmom",
+  "#sachhidosti",
+  "#नैतिककहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}
