@@ -1,0 +1,66 @@
+# Money Mind Health: funny "talking food / body part" health videos, 5 a day (MMH_PER_DAY repo variable, 1-6).
+# Posts to the Money Mind Health Facebook Page and sends a copy to Telegram.
+# Each run makes whatever is due and not sent yet, waits for its send time, then sends it.
+# Send times (India time): 8:00, 10:30, 13:00, 15:30, 18:00, 20:30.
+name: Health videos
+
+on:
+  schedule:
+    - cron: "30 1 * * *"    # 07:00 IST  (video 1, sent 8:00)
+    - cron: "45 3 * * *"    # 09:15 IST  (video 2, sent 10:30)
+    - cron: "15 6 * * *"    # 11:45 IST  (video 3, sent 13:00)
+    - cron: "45 8 * * *"    # 14:15 IST  (video 4, sent 15:30)
+    - cron: "15 11 * * *"   # 16:45 IST  (video 5, sent 18:00)
+    - cron: "45 13 * * *"   # 19:15 IST  (video 6, sent 20:30)
+    - cron: "30 16 * * *"   # 22:00 IST  last catch-up
+  workflow_dispatch:
+    inputs:
+      part:
+        description: "Make this video right now (1-6). Empty = whatever is due."
+        default: ""
+      dry_run:
+        description: "Dry run: send to Telegram only, do not post (true/false)"
+        default: "false"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: health-videos
+  cancel-in-progress: false
+
+jobs:
+  make:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      TZ: Asia/Kolkata
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      POLLINATIONS_KEY: ${{ secrets.POLLINATIONS_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      MM_FB_PAGE_ID: ${{ secrets.MM_FB_PAGE_ID }}
+      MM_FB_PAGE_TOKEN: ${{ secrets.MM_FB_PAGE_TOKEN }}
+      GH_TOKEN: ${{ github.token }}
+      MMH_PER_DAY: ${{ vars.MMH_PER_DAY || '5' }}
+      # No ELEVEN_API_KEY here on purpose: these videos use the free voices so ElevenLabs credits go to the stories.
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Install tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-liberation
+          pip install -q requests edge-tts pillow transformers
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          git config user.name "health-bot"
+          git config user.email "health-bot@users.noreply.github.com"
+
+      - name: Make and send what is due
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.part }}" ]; then ARGS="--part ${{ github.event.inputs.part }}"; fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry"; fi
+          python pipeline/health_daily.py $ARGS

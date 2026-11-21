@@ -289,6 +289,10 @@ def make_voice_free(ep, i, scene, out):
         voice = "hi-IN-SwaraNeural" if voice_key.startswith("hindi_") else "en-US-AnaNeural"
         rate = "+25%"
         pitch = "+70Hz" if ("female" in voice_key or "girl" in voice_key) else "+55Hz"
+    elif "deep" in voice_key:  # a gruff, heavy character (e.g. a salt packet or a stomach)
+        rate, pitch = "+30%", "-12Hz"
+    elif "young" in voice_key and voice_key.startswith("hindi_male"):
+        rate, pitch = "+38%", "+8Hz"
     text = (scene.get("say") or scene["line"]).replace("*", "").replace("_", " ")  # drop markdown emphasis
     if os.environ.get("AZURE_SPEECH_KEY", "").strip():  # licensed Microsoft Azure Speech (commercial use OK)
         return make_voice_azure(voice, text, i, out, rate, pitch)
@@ -463,6 +467,8 @@ def build(ep, work, final):
         seg_files.append(seg)
         if short:
             ass_events += word_captions(sc.get("sub") or sc["line"], t + 0.15, t + d)
+            if sc.get("tag"):
+                ass_events.append(f"Dialogue: 1,{ts(t)},{ts(t + d)},Tag,,0,0,0,,{sc['tag']}")
             t += d
             cuts.append(round(t, 3))  # scene ends: where a teaser may stop cleanly
             continue
@@ -500,6 +506,7 @@ def build(ep, work, final):
         # shorts: big word-by-word captions in the middle, hook / follow text at the top, small handle
         "Style: Word,Arial,84,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,2,60,60,400,1\n"
         "Style: Hook,Arial,78,&H0000E5FF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,1,0,3,6,0,8,60,60,230,1\n"
+        "Style: Tag,Arial,64,&H0000E5FF,&H000000FF,&H00000000,&HB0000000,-1,0,0,0,100,100,1,0,3,6,0,8,60,60,330,1\n"
         "Style: Mark,Arial,40,&H90FFFFFF,&H000000FF,&H90000000,&H00000000,-1,0,0,0,100,100,1,0,1,2,0,9,50,50,90,1\n\n"
         "[Events]\nFormat: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text\n" % (W, H)
         + "\n".join(ass_events) + "\n")
@@ -604,7 +611,7 @@ def send_telegram(final, ep):
     token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
     final = fit_for_telegram(final)
     if ep.get("short"):
-        cap = f"📌 Story #{ep['story_no']} · Video {ep['episode']} of 3 today\n{ep['title']}"
+        cap = ep.get("telegram_caption") or f"📌 Story #{ep['story_no']} · Video {ep['episode']} of 3 today\n{ep['title']}"
     elif ep.get("story_no"):
         cap = (f"📌 Story #{ep['story_no']} · Part {ep['episode']} of {ep['parts']}\n"
                f"{ep['series']}: {ep['title']}")

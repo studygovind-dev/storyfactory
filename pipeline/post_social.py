@@ -22,6 +22,8 @@ GRAPH = "https://graph.facebook.com/" + os.environ.get("META_GRAPH_VERSION", "v2
 
 
 def caption(ep):
+    if ep.get("caption_text"):  # a ready-made caption (used by the Money Mind Health Page)
+        return ep["caption_text"][:2100]
     tags = " ".join(ep.get("hashtags") or ["#story", "#viral"])
     return (f"{ep['yt_title']}\n\n{ep.get('description', '').strip()}\n\n"
             f"👉 Follow {HANDLE} for 3 new stories every day!\n\n{tags}")[:2100]
@@ -130,6 +132,20 @@ def post_instagram(video, ep, page, token):
                             data={"creation_id": c["id"], "access_token": token}, timeout=120),
               "Instagram publish")
     print(f"Instagram: posted reel {r.get('id')}")
+
+
+def post_mmh(video, ep):
+    """Money Mind Health Page: Facebook Reel only. Returns the list of problems (empty = fine)."""
+    page = os.environ.get("MM_FB_PAGE_ID", "").strip()
+    token = os.environ.get("MM_FB_PAGE_TOKEN", "").strip()
+    if not (page and token):
+        return []  # Page not connected yet: the video still goes to Telegram
+    try:
+        post_facebook_reel(video, ep, page, token)
+    except (RuntimeError, requests.RequestException) as e:
+        print(f"Money Mind Health Facebook: {e}")
+        return [f"Money Mind Health Facebook: {e}"]
+    return []
 
 
 def post_all(video, ep):
