@@ -91,6 +91,81 @@ LOVE_TOPICS = [
     "her mother-in-law was against the love marriage, until one night in the hospital",
 ]
 
+
+# Every seed below is a COMPLETE plot (setup -> problem -> turning point -> ending), so the story always
+# makes sense. "Classic" seeds are public-domain stories (Panchatantra, Premchand, Akbar-Birbal and
+# Nasruddin folk tales): free to retell in our own words.
+LOVE_PLOTS = [
+    "Meera gets anonymous letters that give her courage to open her tailoring shop. On opening day she "
+    "learns the writer is old postman Raghu kaka, who lost his own daughter and wrote to feel less alone. "
+    "She makes him the guest of honour and he becomes her family.",
+    "A girl leaves an umbrella on a station bench every rainy day for anyone who needs it. A boy keeps "
+    "borrowing it and leaves a thank-you note each time. After a month she hides to see him. They finally "
+    "meet and share the one umbrella.",
+    "Riya refuses Aman's arranged-marriage proposal because she wants a career. Aman secretly loves her "
+    "sketches, tells his family he will wait, and quietly helps her get her first exhibition. At the "
+    "exhibition she finds out it was him and chooses him because he backed her dream.",
+    "Sunita is in hospital for a month. Her husband, who never cooked, secretly learns to cook, burns "
+    "everything, then improves. She comes home to a kitchen of his recipes and a diary of his mistakes, "
+    "and cries when she tastes his dal.",
+    "At a 50th anniversary party the grandson finds a box with 50 notes from his grandfather, one per year, "
+    "each saying 'I choose you again'. He reads them out. The grandmother, who thought he never said such "
+    "things, finally cries and says it back.",
+    "Rich Aarav pretends to be poor to find true love. Flower-seller Kajal shares her only lunch with him. "
+    "When he admits the truth she says she knew from his clean shoes the first day and was waiting for him "
+    "to be honest.",
+    "Neha in Pune and Karan in Dubai miss each other's birthdays by flight delays. On her birthday his "
+    "flight is cancelled again, so he drives from the airport at 3 AM and knocks on her door with a cake.",
+    "Savitri hates her new daughter-in-law Pooja's love marriage and ignores her. When Savitri is in "
+    "hospital Pooja secretly gives blood. The nurse tells Savitri, who brings Pooja a gold bangle and "
+    "calls her 'beti'.",
+]
+CLASSIC_EMOTIONAL = [
+    "Premchand's Idgah (retell): orphan boy Hamid lives with his grandmother Amina. At the Eid fair his "
+    "friends buy toys and sweets but Hamid spends his 3 paise on iron tongs, because Amina burns her hands "
+    "making rotis. Friends laugh; Hamid argues his tongs are better than their toys. Amina sees the tongs "
+    "and hugs him in tears.",
+    "Premchand's Panch Parmeshwar (retell): Jumman and Algu are best friends. Jumman's old aunt gives him "
+    "her house but he neglects her; the village panchayat is called and Algu is the judge. Algu rules in the "
+    "aunt's favour. Jumman turns against him. Later Jumman becomes the judge in Algu's own case and "
+    "chooses justice too; the friendship returns.",
+    "Premchand's Bade Bhai Sahab (retell): a strict elder brother studies hard but keeps failing, while the "
+    "younger brother plays and passes. The elder explains that marks are not wisdom and that his life "
+    "experience protects the younger one. The younger finally understands and touches his feet.",
+]
+CLASSIC_ANIMAL = [
+    "Panchatantra, the clever rabbit and the lion: a lion kills one jungle animal daily. When it is the "
+    "rabbit's turn he arrives late and says another lion in a well stole his friends. The lion jumps in "
+    "to fight his own reflection and drowns.",
+    "Panchatantra, the monkey and the crocodile: a monkey shares fruit with a crocodile. The crocodile's wife "
+    "wants the monkey's heart, so he tricks him onto his back mid-river and confesses. The monkey says his "
+    "heart is left on the tree, gets back to the tree and escapes. The crocodile loses a friend.",
+    "Panchatantra, the blue jackal: a jackal falls in indigo dye and becomes blue. Animals crown him king. "
+    "When he hears jackals howling he howls too, is exposed, and is chased away.",
+    "Panchatantra, the pigeons and the net: a flock of pigeons is trapped in a hunter's net. Instead of "
+    "struggling alone they all fly up together with the net and reach their mouse friend, who cuts them free.",
+    "Panchatantra, the crow and the snake: a snake keeps eating a crow family's chicks. The crow steals the "
+    "queen's necklace and drops it near the snake's hole. Guards chasing it find and kill the snake.",
+    "Premchand's Do Bailon ki Katha (retell): two bullocks, Heera and Moti, are loyal friends sent to a cruel "
+    "new owner. They escape, face a bull, get locked in a cattle pound, and finally find their way back to "
+    "their kind owner Jhuri.",
+    "Aesop, the lion and the mouse: a lion lets a small mouse go. Later the lion is caught in a hunter's net "
+    "and the mouse gnaws it free. Kindness to the small comes back.",
+]
+CLASSIC_JOKE = [
+    "Akbar-Birbal, the khichdi: Akbar promises a reward to a poor man who stands all night in a cold lake. "
+    "He survives by looking at a far lamp. Akbar refuses the reward, saying the lamp warmed him. Birbal "
+    "'cooks' khichdi in a pot hung high above a fire. 'It will never cook!' says Akbar. 'Then how did a "
+    "far lamp warm him?' Akbar laughs and pays the man.",
+    "Akbar-Birbal, the crows: Akbar asks how many crows are in the city. Birbal gives an exact number. "
+    "'And if there are more?' 'Then some crows came to visit their relatives.' 'Fewer?' 'Then some went to "
+    "visit theirs.' Akbar laughs.",
+    "Akbar-Birbal, the shorter line: Akbar draws a line and says 'make it shorter without touching it'. "
+    "Birbal draws a longer line beside it. Akbar smiles at the clever answer.",
+    "Nasruddin searches the street for his lost key. People help. Someone asks where he dropped it. "
+    "'In my house, but the light is better out here.'",
+]
+
 # Most watched realistic story types on Shorts / Reels (emotional, twist ending, karma, kindness).
 REAL_TOPICS = [
     "kindness rewarded: someone helps a stranger who turns out to be important",
@@ -122,7 +197,13 @@ Rules:
   people stop scrolling (examples: "My dog stole my wedding ring.", "Everyone laughed at the waiter. Big mistake.").
 - Structure: hook -> very quick setup -> one problem -> one turn that raises the stakes -> the big
   twist -> payoff -> one strong closing line. No filler: every line moves the story forward.
-- COMMENT BAIT (most important for growth): the story must leave ONE hard moral dilemma that splits viewers
+- COMPLETE STORY (the most important rule): the story must make full sense to a stranger in 50 seconds.
+  Plan it first in "outline": who the main person is and what they want, the problem, the TURNING POINT
+  (a clever idea, a choice, or a revealed secret) and the ENDING that resolves everything. Every secret,
+  injury or mystery you mention must be explained before the last line. No unexplained twists, no
+  cliffhanger, no "to be continued". If the topic is a classic or folk tale, keep its plot and its ending,
+  retold in your own words. Name speakers clearly: when a second person speaks, say who they are.
+- COMMENT BAIT (growth): the story must leave ONE hard moral dilemma that splits viewers
   into two sides, so people NEED to answer. The LAST spoken line asks that dilemma directly to the viewer
   ("Aapki jagah hoti toh aap kya karti? Maaf ya saza?"). Jokes: end with a "kaun sahi tha?" style question.
   Never end with a plain "like and subscribe".
@@ -161,6 +242,7 @@ Rules:
 Return ONLY JSON:
 {{
   "title": "<catchy title>",
+  "outline": {{"who_wants_what": "", "problem": "", "turning_point": "", "ending": ""}},
   "premise": "<one sentence: who, what, the twist>",
   "hook_text": "...",
   "characters": {{"narrator": {{"look": "", "voice": "..."}}, "<key>": {{"look": "...", "voice": "..."}}}},
@@ -264,6 +346,30 @@ def check(story, used, voices):
     return errs
 
 
+TAGS_COMMON = ["#hindikahani", "#hindistory", "#kahani", "#storytime", "#reelsindia", "#viralreels",
+               "#facebookreels", "#हिंदीकहानी", "#कहानी"]
+TAGS_BY_KIND = {
+    "love": ["#lovestory", "#premkahani", "#emotionalstory", "#sachapyaar", "#प्रेमकहानी"],
+    "animal": ["#moralstory", "#animalstory", "#pyaarkikahani", "#sachhidosti", "#नैतिककहानी"],
+    "joke": ["#hindijokes", "#funnyreels", "#comedy", "#chutkule", "#मज़ेदारकहानी"],
+}
+TAGS_CLASSIC = {"panchatantra": "#panchatantra", "akbar-birbal": "#akbarbirbal", "premchand": "#premchand",
+                "nasruddin": "#nasruddin", "aesop": "#aesopfables"}
+
+
+def build_tags(kind, story_tags, topic):
+    """Audience-targeted hashtags: the kind's tags first (YouTube shows the first 3), then topic tags,
+    then the common Hindi-story reach tags. At most 15."""
+    classic = [tag for key, tag in TAGS_CLASSIC.items() if key in (topic or "").lower()]
+    kind_tags = TAGS_BY_KIND.get(kind, [])
+    out = []
+    for t in kind_tags[:3] + classic + list(story_tags)[:5] + kind_tags[3:] + TAGS_COMMON:
+        t = t.replace(" ", "")
+        if t and t.lower() not in [x.lower() for x in out]:
+            out.append(t)
+    return out[:15]
+
+
 def slots(day):
     """Today's 2 videos. Three content types rotate (love, animal + human bond, funny), 2 per day,
     so every type gets posted regularly without making more videos than ElevenLabs credits allow."""
@@ -279,15 +385,15 @@ def slots(day):
     kinds = {
         "love": {"kind": ("It is an emotional LOVE story set in India with Indian characters and a twist "
                           "ending. Mature, adult tone: grown-up dialogue, never childish." + lead),
-                 "topic": LOVE_TOPICS[d % len(LOVE_TOPICS)], **real, "voices": ADULT_VOICES, "hindi": True,
+                 "topic": (LOVE_PLOTS + CLASSIC_EMOTIONAL)[d % len(LOVE_PLOTS + CLASSIC_EMOTIONAL)], "key": "love", **real, "voices": ADULT_VOICES, "hindi": True,
                  "lang": hinglish},
         "animal": {"kind": ("It is an emotional ANIMAL + HUMAN BOND story (wild or pet animal and people), "
                             "told mostly through pictures so anyone can follow it." + lead),
-                   "topic": ANIMAL_TOPICS[d % len(ANIMAL_TOPICS)], **real, "mood": "animal", "hindi": True,
+                   "topic": (CLASSIC_ANIMAL + ANIMAL_TOPICS)[d % len(CLASSIC_ANIMAL + ANIMAL_TOPICS)], "key": "animal", **real, "mood": "animal", "hindi": True,
                    "talk": True, "lang": hinglish},
         "joke": {"kind": ("It is a FUNNY cartoon JOKE-story to help people relax and laugh: a quick "
                           "setup and a punchline at the end. Light, silly, relatable, family friendly."),
-                 "topic": FUNNY_TOPICS[d % len(FUNNY_TOPICS)], "style": CARTOON_STYLE,
+                 "topic": (CLASSIC_JOKE + FUNNY_TOPICS)[d % len(CLASSIC_JOKE + FUNNY_TOPICS)], "key": "joke", "style": CARTOON_STYLE,
                  "shot": "frame of a 3D animated movie", "voices": CARTOON_VOICES,
                  "speech": ("The characters TALK: most lines are the characters speaking (funny back-and-forth), "
                             "a narrator line now and then to move the story on."),
@@ -355,7 +461,7 @@ def main():
               "yt_title": story.get("yt_title") or story["title"],
               "description": story.get("description", ""),
               "comment_question": story.get("comment_question", ""),
-              "hashtags": [t.replace(" ", "") for t in tags][:20]}
+              "hashtags": build_tags(slot.get("key"), tags, slot.get("topic"))}
         eps.append(ep)
         history.append(f"{story['title']} | {day} | {story.get('premise', '').strip()}")
         print(f"Story {n}: {story['title']}")
