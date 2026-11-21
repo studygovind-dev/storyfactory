@@ -1,0 +1,169 @@
+{
+ "series": "The Unspoken Journey",
+ "episode": 1,
+ "title": "The Unspoken Journey",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Anaya, a young woman in her late 20s, fair light wheatish skin, long soft wavy dark-brown hair, small bindi, natural makeup, elegant pastel kurta, warm and relatable.",
+   "voice": "hindi_female_young"
+  },
+  "Kabir": {
+   "look": "A young man in his late 20s, light wheatish skin, kind eyes, neat dark hair. Later, he is in a wheelchair, with some visible scars on his face, looking a bit worn but still with kind eyes.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Who was waiting?",
+ "scenes": [
+  {
+   "image": "Close-up of Anaya's anxious but hopeful face, looking intently into a crowded airport arrival gate, her hand tightly clutching her phone. Soft, warm light on her face.",
+   "speaker": "narrator",
+   "line": "Maine uska chehra pehli baar airport par dekha.",
+   "fx": "none",
+   "sub": "I saw his face for the first time at the airport.",
+   "say": "मैंने उसका चेहरा पहली बार एयरपोर्ट पर देखा।"
+  },
+  {
+   "image": "Anaya, sitting comfortably at home, smiling sweetly at her phone. The phone screen shows a video call with Kabir's smiling face.",
+   "speaker": "narrator",
+   "line": "Kabir se online mulaqat hui thi meri.",
+   "fx": "none",
+   "sub": "I had met Kabir online.",
+   "say": "कबीर से ऑनलाइन मुलाक़ात हुई थी मेरी।"
+  },
+  {
+   "image": "Anaya laughing joyfully, holding her phone to her ear, looking out a window. Her expression is bright and animated.",
+   "speaker": "narrator",
+   "line": "Roz ghanton baatein karte the hum dono.",
+   "fx": "none",
+   "sub": "We both talked for hours every day.",
+   "say": "रोज़ घंटों बातें करते थे हम दोनों।"
+  },
+  {
+   "image": "Anaya gazing out of her window, a dreamy, longing expression on her face, lost in thought.",
+   "speaker": "narrator",
+   "line": "Uske saath zindagi bitane ke sapne dekhe.",
+   "fx": "none",
+   "sub": "I dreamed of spending life with him.",
+   "say": "उसके साथ ज़िंदगी बिताने के सपने देखे।"
+  },
+  {
+   "image": "Close-up of a plane ticket in Kabir's hand, clearly showing 'Mumbai to Delhi' and his name. The hand looks strong and masculine.",
+   "speaker": "narrator",
+   "line": "Phir Mumbai se uski Delhi aane ki khabar aayi.",
+   "fx": "none",
+   "sub": "Then news came of him coming from Mumbai to Delhi.",
+   "say": "फिर मुंबई से उसकी दिल्ली आने की ख़बर आई।"
+  },
+  {
+   "image": "Anaya in front of a mirror, applying light makeup, a nervous but excited smile on her face. Her pastel kurta is neat.",
+   "speaker": "narrator",
+   "line": "Airport par milne ka din aa gaya tha.",
+   "fx": "none",
+   "sub": "The day to meet at the airport had arrived.",
+   "say": "एयरपोर्ट पर मिलने का दिन आ गया था।"
+  },
+  {
+   "image": "Anaya walking purposefully through the bustling airport arrival lounge, her eyes scanning the crowd, a hopeful smile playing on her lips.",
+   "speaker": "narrator",
+   "line": "Main usse milne bahut utsuk thi.",
+   "fx": "none",
+   "sub": "I was very eager to meet him.",
+   "say": "मैं उससे मिलने बहुत उत्सुक थी।"
+  },
+  {
+   "image": "Anaya's face shows a sudden flicker of confusion and a slight frown as she spots someone in the distance, looking familiar yet out of place.",
+   "speaker": "narrator",
+   "line": "Phir maine use dekha, magar woh alag tha.",
+   "fx": "none",
+   "sub": "Then I saw him, but he was different.",
+   "say": "फिर मैंने उसे देखा, मगर वो अलग था।"
+  },
+  {
+   "image": "A close-up of Kabir in a wheelchair. His face, though still kind, has visible scars and a slightly aged, worn look. Anaya's face, partially visible, shows shock.",
+   "speaker": "narrator",
+   "line": "Woh kursi par baitha, chehre par ghav the.",
+   "fx": "none",
+   "sub": "He sat in a chair, with scars on his face.",
+   "say": "वो कुर्सी पर बैठा, चेहरे पर घाव थे।"
+  },
+  {
+   "image": "Anaya takes a step back, her hand flying to her mouth, tears welling in her eyes. Her expression is one of disbelief and sudden pain.",
+   "speaker": "narrator",
+   "line": "Mera dil, meri saansein tham si gayi.",
+   "fx": "none",
+   "sub": "My heart, my breath, just stopped.",
+   "say": "मेरा दिल, मेरी साँसें थम सी गईं।"
+  },
+  {
+   "image": "A flashback image: Kabir lying in a hospital bed, looking sad and vulnerable, holding a phone to his ear, before they ever met.",
+   "speaker": "narrator",
+   "line": "Usne mujhe kabhi bataya nahi apni haalat.",
+   "fx": "none",
+   "sub": "He never told me about his condition.",
+   "say": "उसने मुझे कभी बताया नहीं अपनी हालत।"
+  },
+  {
+   "image": "Kabir, still in the wheelchair, looks up at Anaya with sad, hopeful, and slightly pleading eyes.",
+   "speaker": "Kabir",
+   "line": "Anaya, maaf karna, darr gaya tha.",
+   "fx": "none",
+   "sub": "Anaya, forgive me, I was scared.",
+   "say": "अनन्या, माफ़ करना, डर गया था।"
+  },
+  {
+   "image": "Anaya's tears fall freely as she looks at Kabir, her expression a mix of heartbreak, confusion, and a dawning understanding.",
+   "speaker": "narrator",
+   "line": "Usne pyaar ke liye sach chhupaaya tha.",
+   "fx": "none",
+   "sub": "He had hidden the truth for love.",
+   "say": "उसने प्यार के लिए सच छुपाया था।"
+  },
+  {
+   "image": "Wide shot of Anaya standing motionless, staring at Kabir. The airport crowd blurs around them, emphasizing their isolated, tense moment.",
+   "speaker": "narrator",
+   "line": "Mera har sapna, har bharosa, sab tut gaya.",
+   "fx": "none",
+   "sub": "My every dream, every trust, all shattered.",
+   "say": "मेरा हर सपना, हर भरोसा, सब टूट गया।"
+  },
+  {
+   "image": "Close-up on Anaya's trembling hand, slightly extended towards Kabir, but hesitating, her fingers hovering in indecision.",
+   "speaker": "narrator",
+   "line": "Kya uske pyaar mein itni taaqat thi?",
+   "fx": "none",
+   "sub": "Was there so much strength in his love?",
+   "say": "क्या उसके प्यार में इतनी ताक़त थी?"
+  },
+  {
+   "image": "Very close-up on Anaya's face, tears streaming, looking directly at the camera with a profound, torn expression, waiting for an answer.",
+   "speaker": "narrator",
+   "line": "Sach chupana galat tha ya uski majboori?",
+   "fx": "none",
+   "sub": "Was hiding the truth wrong or his helplessness?",
+   "say": "सच छुपाना ग़लत था या उसकी मजबूरी?"
+  }
+ ],
+ "caption": "My long-distance love came to the airport... but he changed 💔",
+ "slug": "2026-11-21_part1",
+ "story_no": 72,
+ "yt_title": "My long-distance love came to the airport... but he changed 💔",
+ "description": "Anaya's long-distance love, Kabir, was finally flying to meet her. At the bustling Delhi airport, she saw him, but he wasn't who she expected.\nWas hiding such a truth wrong, or was it born of helplessness?\nTell us in the comments: Sach chupana galat tha ya uski majboori?",
+ "comment_question": "Sach chupana galat tha ya uski majboori?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#lovestory",
+  "#indianlovestory",
+  "#airportreunion",
+  "#longdistancerelationship",
+  "#heartbreak",
+  "#dilemma",
+  "#indiantwist",
+  "#truelove",
+  "#sacrifice"
+ ]
+}

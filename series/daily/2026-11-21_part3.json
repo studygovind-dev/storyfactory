@@ -1,0 +1,173 @@
+{
+ "series": "Raja Ka Raaz: Zookeeper Ki Aawaaz",
+ "episode": 3,
+ "title": "Raja Ka Raaz: Zookeeper Ki Aawaaz",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, young woman, fair skin, kind eyes, long soft wavy dark-brown hair, small silver earrings, pastel pink kurta with white embroidery.",
+   "voice": "hindi_female_young"
+  },
+  "Raja": {
+   "look": "Old, majestic lion, large sandy mane, weary soulful eyes. His fur is a rich golden-brown.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Neeta": {
+   "look": "Woman in her late 30s, light wheatish skin, tied-back dark hair, wearing a standard khaki zookeeper uniform, with a small, distinctive silver elephant pendant on a thin chain.",
+   "voice": "hindi_narrator_female"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "HIS SECRET BROKE MY HEART",
+ "scenes": [
+  {
+   "image": "Priya, a young woman, with a thoughtful, intense expression, looking directly into the eyes of Raja, an old lion, through the enclosure glass. Raja gazes back, his eyes weary.",
+   "speaker": "narrator",
+   "line": "Yeh sher mujhse baatein karta hai.",
+   "fx": "none",
+   "sub": "This lion talks to me.",
+   "say": "यह शेर मुझसे बातें करता है।"
+  },
+  {
+   "image": "Close-up on Raja's face, his old, majestic features conveying deep sadness and loneliness. He looks tired.",
+   "speaker": "narrator",
+   "line": "Raja bahut udaas tha, hamesha akela.",
+   "fx": "none",
+   "sub": "Raja was very sad, always alone.",
+   "say": "राजा बहुत उदास था, हमेशा अकेला।"
+  },
+  {
+   "image": "Priya, sitting alone on a wooden bench near the lion enclosure, listening intently, a look of deep concentration and empathy on her face.",
+   "speaker": "narrator",
+   "line": "Ek din usne mujhe apna raaz bataya.",
+   "fx": "none",
+   "sub": "One day he told me his secret.",
+   "say": "एक दिन उसने मुझे अपना राज़ बताया।"
+  },
+  {
+   "image": "Flashback: A cute lion cub, with playful eyes, gently nuzzling the hand of a smiling little girl (around 5-6 years old) in a green, sunlit garden. The girl is wearing a bright yellow salwar kameez.",
+   "speaker": "Raja",
+   "line": "Usne kaha, 'Meri chhoti dost thi.'",
+   "fx": "none",
+   "sub": "He said, 'I had a little friend.'",
+   "say": "उसने कहा, 'मेरी छोटी दोस्त थी।'"
+  },
+  {
+   "image": "Flashback: The lion cub and the little girl rolling in soft grass, laughing, in a close, playful bond. They are very happy.",
+   "speaker": "Raja",
+   "line": "Hum bachpan mein saath khelte the.",
+   "fx": "none",
+   "sub": "We used to play together in childhood.",
+   "say": "हम बचपन में साथ खेलते थे।"
+  },
+  {
+   "image": "Flashback: The lion cub, a little larger now, standing protectively in front of the little girl, baring his teeth slightly at an unseen threat. The girl behind him looks startled.",
+   "speaker": "Raja",
+   "line": "Ek din maine use bachaya tha.",
+   "fx": "none",
+   "sub": "One day I saved her.",
+   "say": "एक दिन मैंने उसे बचाया था।"
+  },
+  {
+   "image": "Flashback: The little girl's parents, looking visibly scared and worried, pointing towards the protective cub. The cub looks confused and hurt by their reaction.",
+   "speaker": "Raja",
+   "line": "Sab log mujhse darr gaye.",
+   "fx": "none",
+   "sub": "Everyone got scared of me.",
+   "say": "सब लोग मुझसे डर गए।"
+  },
+  {
+   "image": "Flashback: A man gently leading the now adolescent lion away by a rope, the lion looking back with deep sadness at the crying little girl, who reaches out her hand.",
+   "speaker": "Raja",
+   "line": "Phir mujhe yahan chhod diya.",
+   "fx": "none",
+   "sub": "Then they left me here.",
+   "say": "फिर मुझे यहाँ छोड़ दिया।"
+  },
+  {
+   "image": "Back to present: Priya standing in front of Raja's enclosure, her hand covering her mouth, tears welling in her eyes, a look of profound heartbreak. Raja watches her with a somber expression.",
+   "speaker": "narrator",
+   "line": "Uski kahani sunkar main ro padi.",
+   "fx": "none",
+   "sub": "Hearing his story, I cried.",
+   "say": "उसकी कहानी सुनकर मैं रो पड़ी।"
+  },
+  {
+   "image": "Priya walking slowly through the almost empty zoo as dusk settles, deep in thought, her head bowed. The mood is quiet and reflective.",
+   "speaker": "narrator",
+   "line": "Raat ko main wapas aayi thi.",
+   "fx": "none",
+   "sub": "I came back at night.",
+   "say": "रात को मैं वापस आई थी।"
+  },
+  {
+   "image": "Neeta, a zookeeper in uniform, quietly approaching Raja's enclosure in the dim light. Her face is serious, a hint of sorrow in her expression.",
+   "speaker": "narrator",
+   "line": "Ek zookeeper roz use milne aati thi.",
+   "fx": "dust",
+   "sub": "A zookeeper used to visit him daily.",
+   "say": "एक ज़ूकीपर रोज़ उसे मिलने आती थी।"
+  },
+  {
+   "image": "Close-up on Neeta's hand gently placing a small piece of fruit near the bars of Raja's enclosure. Her eyes are filled with a complex mix of sadness and deep affection, fixed on Raja. Raja looks calm.",
+   "speaker": "narrator",
+   "line": "Uska chehra dukhi, aankhon mein pyaar.",
+   "fx": "dust",
+   "sub": "Her face sad, love in her eyes.",
+   "say": "उसका चेहरा दुखी, आँखों में प्यार।"
+  },
+  {
+   "image": "Neeta turns to walk away, and Priya (out of frame, but her perspective) notices a small, distinctive silver elephant pendant hanging from Neeta's neck. Priya's eyes widen slightly in surprise and dawning realization.",
+   "speaker": "narrator",
+   "line": "Tabhi maine uske gale mein dekha.",
+   "fx": "none",
+   "sub": "Then I saw around her neck.",
+   "say": "तभी मैंने उसके गले में देखा।"
+  },
+  {
+   "image": "A split image: on one side, the little girl from the flashback with the same silver elephant pendant, smiling. On the other side, a close-up of Neeta's face, now with a look of profound regret and longing. Priya's realization is clear.",
+   "speaker": "narrator",
+   "line": "Yeh toh uski chhoti dost Neeta thi!",
+   "fx": "none",
+   "sub": "This was his little friend Neeta!",
+   "say": "यह तो उसकी छोटी दोस्त नीता थी!"
+  },
+  {
+   "image": "Neeta (the zookeeper) walking away, but pausing to look back at Raja with a deep, lingering gaze of love and guilt. Raja looks back, a flicker of something in his old eyes, almost recognition.",
+   "speaker": "narrator",
+   "line": "Woh ab bhi use chhup kar milti thi.",
+   "fx": "dust",
+   "sub": "She still met him secretly.",
+   "say": "वह अब भी उसे छुप कर मिलती थी।"
+  },
+  {
+   "image": "Priya standing alone between Raja's enclosure and the path Neeta took, a look of profound dilemma and conflict on her face. She glances from Raja to the empty path, clearly torn.",
+   "speaker": "narrator",
+   "line": "Main Raja ko sach bataoon ya chup rahoon?",
+   "fx": "none",
+   "sub": "Should I tell Raja the truth or stay quiet?",
+   "say": "मैं राजा को सच बताऊँ या चुप रहूँ?"
+  }
+ ],
+ "caption": "Old Zoo Lion Whispered His Heartbreaking Secret To Me 💔",
+ "slug": "2026-11-21_part3",
+ "story_no": 74,
+ "yt_title": "Old Zoo Lion Whispered His Heartbreaking Secret To Me 💔",
+ "description": "This old zoo lion seemed so sad, so I listened. He whispered a heartbreaking secret from his past.\nI never expected to uncover a hidden bond and a zookeeper's silent guilt.\nKya aap Raja ko sach bataati ya chup rehti?",
+ "comment_question": "Kya aap Raja ko sach bataati ya chup rehti?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animallove",
+  "#lionstory",
+  "#zoostory",
+  "#humananimalbond",
+  "#sadstory",
+  "#secretstory",
+  "#dilemma",
+  "#hindi",
+  "#reels"
+ ]
+}

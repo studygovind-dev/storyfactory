@@ -1,0 +1,162 @@
+{
+ "series": "Bhola Ka Daily Drama",
+ "episode": 2,
+ "title": "Bhola Ka Daily Drama",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A friendly, wise storyteller with a warm smile, wearing a simple shirt.",
+   "voice": "hindi_narrator_male"
+  },
+  "Priya": {
+   "look": "A graceful young Indian woman, 20s, long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel blue kurta, fair skin.",
+   "voice": "hindi_narrator_male"
+  },
+  "Rohan": {
+   "look": "A young Indian man, 20s, neat short dark hair, casual grey t-shirt, friendly smile, light wheatish skin.",
+   "voice": "hindi_narrator_male"
+  },
+  "Bhola": {
+   "look": "A fluffy white Persian cat with big blue eyes, wearing a small pink collar with a tiny silver bell. Always looks slightly annoyed or exasperated.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "My Humans Are...",
+ "scenes": [
+  {
+   "image": "[[Bhola]] sitting regally on a high shelf, looking down with a very disapproving expression at the camera. His eyes are narrowed.",
+   "speaker": "Bhola",
+   "line": "Mera naam Bhola hai, aur meri zindagi mushkil hai.",
+   "fx": "none",
+   "say": "मेरा नाम भोला है, और मेरी ज़िंदगी मुश्किल है।"
+  },
+  {
+   "image": "[[Priya]] giggling, spilling a cup of tea on the kitchen counter while talking on her phone. [[Bhola]] is in the foreground, facepalming with a paw.",
+   "speaker": "Bhola",
+   "line": "Yeh log kabhi seedhe kaam nahi karte!",
+   "fx": "none",
+   "say": "ये लोग कभी सीधे काम नहीं करते!"
+  },
+  {
+   "image": "[[Rohan]] searching frantically for his keys on a cluttered table, looking stressed. [[Bhola]] is sitting on the keys, hidden by a newspaper, looking smug.",
+   "speaker": "Bhola",
+   "line": "Ab chaabi kahan rakhi, yaad nahi. Hamesha yahi drama!",
+   "fx": "none",
+   "say": "अब चाबी कहाँ रखी, याद नहीं। हमेशा यही ड्रामा!"
+  },
+  {
+   "image": "[[Priya]] and [[Rohan]] laughing, sitting on a sofa, looking at a phone screen. They don't notice [[Bhola]] staring at them from the floor with a bored expression.",
+   "speaker": "narrator",
+   "line": "Bhola ko lagta tha uski koi sunta hi nahi.",
+   "fx": "none",
+   "say": "भोला को लगता था उसकी कोई सुनता ही नहीं।"
+  },
+  {
+   "image": "Close-up of [[Bhola]]'s face, looking concerned and trying to get attention, making a 'meow' sound with an open mouth.",
+   "speaker": "Bhola",
+   "line": "Mmmrrrow! Mujhe kuch kehna hai!",
+   "fx": "none",
+   "say": "ममम्रो! मुझे कुछ कहना है!"
+  },
+  {
+   "image": "[[Priya]] picks up [[Bhola]] and cuddles him, distracted, still looking at her phone. Bhola looks annoyed, pushing her hand away gently.",
+   "speaker": "Priya",
+   "line": "Mera pyaara Bhola, bas gussa karta rehta hai.",
+   "fx": "none",
+   "say": "मेरा प्यारा भोला, बस गुस्सा करता रहता है।"
+  },
+  {
+   "image": "[[Bhola]] staring intently at a pot boiling on the stove, steam rising. His eyes are wide, like he's anticipating something bad.",
+   "speaker": "Bhola",
+   "line": "Yeh doodh ubal raha hai, dekh lo!",
+   "fx": "none",
+   "say": "ये दूध उबल रहा है, देख लो!"
+  },
+  {
+   "image": "[[Rohan]] passes by the stove, whistling, completely oblivious. The pot is still boiling, about to overflow. Bhola looks frustrated.",
+   "speaker": "Rohan",
+   "line": "Bhola, chup chap baitho, hum kaam kar rahe hain.",
+   "fx": "none",
+   "say": "भोला, चुप चाप बैठो, हम काम कर रहे हैं।"
+  },
+  {
+   "image": "The pot has now boiled over, milk spilling onto the stove, making a mess. [[Rohan]] looks shocked and annoyed, holding his head. Bhola is sitting calmly nearby, a 'told you so' expression.",
+   "speaker": "narrator",
+   "line": "Aur doodh gir gaya. Har baar yahi hota tha.",
+   "fx": "none",
+   "say": "और दूध गिर गया। हर बार यही होता था।"
+  },
+  {
+   "image": "[[Bhola]] sitting on the window sill, looking out at a pigeon, then glancing back at Priya with a mischievous glint in his eye.",
+   "speaker": "Bhola",
+   "line": "Inhe toh samajh hi nahi aata kuch.",
+   "fx": "none",
+   "say": "इन्हें तो समझ ही नहीं आता कुछ।"
+  },
+  {
+   "image": "[[Priya]] is about to put a slice of bread into the toaster. [[Bhola]] is jumping and meowing loudly, trying to swat her hand away from the toaster.",
+   "speaker": "Bhola",
+   "line": "Miiaoou! Yeh toaster kharab hai!",
+   "fx": "none",
+   "say": "मियाओउ! ये टोस्टर खराब है!"
+  },
+  {
+   "image": "[[Priya]] rolls her eyes playfully at Bhola, then puts the bread in the toaster anyway, smiling. Bhola looks defeated.",
+   "speaker": "Priya",
+   "line": "Bhola, tum bhi na! Toaster theek hai.",
+   "fx": "none",
+   "say": "भोला, तुम भी ना! टोस्टर ठीक है।"
+  },
+  {
+   "image": "Close-up of the toaster. Smoke is starting to come out of it, and the bread is visibly burning inside.",
+   "speaker": "narrator",
+   "line": "Phir achanak...",
+   "fx": "dust",
+   "say": "फिर अचानक..."
+  },
+  {
+   "image": "The toaster is now smoking heavily, black fumes rising. [[Priya]] looks utterly shocked and scared, jumping back. [[Rohan]] rushes in from the side, looking concerned.",
+   "speaker": "Priya",
+   "line": "Haye! Toaster toh jal gaya!",
+   "fx": "dust",
+   "say": "हाय! टोस्टर तो जल गया!"
+  },
+  {
+   "image": "[[Bhola]] sitting on a chair, grooming his paw calmly, looking sideways at the smoking toaster and shocked humans with a supremely nonchalant and slightly bored expression.",
+   "speaker": "Bhola",
+   "line": "Maine toh pehle hi kaha tha!",
+   "fx": "dust",
+   "say": "मैंने तो पहले ही कहा था!"
+  },
+  {
+   "image": "[[Priya]] and [[Rohan]] standing awkwardly, looking at the burnt toaster, then at Bhola, who is now looking directly at the camera with an exasperated but wise expression.",
+   "speaker": "Bhola",
+   "line": "Ab batao, kaun zyada samajhdar hai, main ya yeh log?",
+   "fx": "none",
+   "say": "अब बताओ, कौन ज़्यादा समझदार है, मैं या ये लोग?"
+  }
+ ],
+ "caption": "Grumpy Cat Warned Them, But They Ignored! 😼",
+ "slug": "2026-11-21_part2",
+ "story_no": 73,
+ "yt_title": "Grumpy Cat Warned Them, But They Ignored! 😼",
+ "description": "This grumpy cat, Bhola, had a LOT to say about his human family's daily chaos. They thought he was just complaining, but his grumbles were surprisingly accurate warnings they ignored... until it was too late. Who was more sensible, the cat or the humans? Tell us in the comments!",
+ "comment_question": "Kaun zyada samajhdar tha, Bhola ya uske insaan?",
+ "hashtags": [
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnycat",
+  "#talkingcat",
+  "#catlife",
+  "#catlover",
+  "#petstory",
+  "#relatable",
+  "#hindishorts",
+  "#cartoonstory",
+  "#jokes",
+  "#comedy"
+ ]
+}
