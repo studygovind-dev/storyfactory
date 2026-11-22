@@ -101,7 +101,19 @@ def main():
         if sh(sys.executable, str(ROOT / "pipeline" / "write_health.py"), day):
             sys.exit("Could not write today's health videos.")
         save_to_repo(f"Health videos for {day}")
-    failed = [p for p in due if not make_and_send(day, p, wait=not a.part, dry=a.dry)]
+    failed = []
+    last_post = None
+    for p in due:
+        # never post several videos back to back: keep at least 40 minutes between posts in one run
+        if last_post and not a.part and not a.dry:
+            gap = 40 * 60 - (time.time() - last_post)
+            if gap > 0:
+                print(f"Waiting {gap / 60:.0f} min so posts are spread out.", flush=True)
+                time.sleep(gap)
+        if make_and_send(day, p, wait=not a.part, dry=a.dry):
+            last_post = time.time()
+        else:
+            failed.append(p)
     if failed:
         sys.exit(f"Health videos {failed} failed; the next scheduled run will try again.")
 

@@ -72,7 +72,7 @@ def make_image_free(ep, i, scene, out):
     then falls back to the no-account server so the video still gets made."""
     global POLLEN_EMPTY
     prompt = (f"{ep['style']}. {expand(scene['image'], ep['characters'])}. "
-              "Well-lit face, clear smooth skin, no dark spots. No text, no watermark, no logos.")
+              + (ep.get("img_suffix") or "Well-lit face, clear smooth skin, no dark spots. No text, no watermark, no logos."))
     key = "" if POLLEN_EMPTY else os.environ.get("POLLINATIONS_KEY", "").strip().lstrip("﻿")
     q = requests.utils.quote(prompt[:1500], safe="")
     if key:
@@ -289,6 +289,8 @@ def make_voice_free(ep, i, scene, out):
         voice = "hi-IN-SwaraNeural" if voice_key.startswith("hindi_") else "en-US-AnaNeural"
         rate = "+25%"
         pitch = "+70Hz" if ("female" in voice_key or "girl" in voice_key) else "+55Hz"
+    elif "narrator" in voice_key and voice_key.startswith("hindi_male"):  # a calm male lecturer
+        rate, pitch = "+20%", "-6Hz"
     elif "deep" in voice_key:  # a gruff, heavy character (e.g. a salt packet or a stomach)
         rate, pitch = "+30%", "-12Hz"
     elif "young" in voice_key and voice_key.startswith("hindi_male"):
@@ -483,7 +485,7 @@ def build(ep, work, final):
         ass_events.insert(0, f"Dialogue: 0,{ts(0)},{ts(t)},Top,,0,0,0,,"
                              f"PART {ep['episode']} OF {ep['parts']}")
     if short:
-        ass_events.append(f"Dialogue: 1,{ts(0)},{ts(t)},Mark,,0,0,0,,{HANDLE}")
+        ass_events.append(f"Dialogue: 1,{ts(0)},{ts(t)},Mark,,0,0,0,,{ep.get('handle') or HANDLE}")
         if ep.get("hook_text"):
             ass_events.append(f"Dialogue: 1,{ts(0)},{ts(min(3.0, t))},Hook,,0,0,0,,"
                               f"{ep['hook_text'].upper()}")
@@ -493,7 +495,7 @@ def build(ep, work, final):
                               f"{q.upper()}\\NCOMMENT YOUR ANSWER")
         else:
             ass_events.append(f"Dialogue: 1,{ts(max(0, t - 3.0))},{ts(t)},Hook,,0,0,0,,"
-                              f"FOLLOW {HANDLE.upper()}\\NFOR MORE STORIES")
+                              f"FOLLOW {(ep.get('handle') or HANDLE).upper()}\\NFOR MORE STORIES")
 
     ass = work / "subs.ass"
     ass.write_text(
@@ -699,7 +701,8 @@ def main():
         if a.free:
             # Pictures cost pollen: one picture covers 3 scenes (each gets a different zoom).
             # Daily stories: a new picture every 3 lines (~9 s), each line its own zoom.
-            img = work / f"img_{i - i % 3}.png"
+            grp = int(ep.get("pic_group", 3))
+            img = work / f"img_{i - i % grp}.png"
             if not img.exists():
                 make_image_free(ep, i, sc, img)
             if not voice.exists():

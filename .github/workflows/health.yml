@@ -1,18 +1,14 @@
 # Money Mind Health: funny "talking food / body part" health videos, 5 a day (MMH_PER_DAY repo variable, 1-6).
 # Posts to the Money Mind Health Facebook Page and sends a copy to Telegram.
 # Each run makes whatever is due and not sent yet, waits for its send time, then sends it.
-# Send times (India time): 8:00, 10:30, 13:00, 15:30, 18:00, 20:30.
+# Send times (India time): 8:00, 10:30, 13:00, 15:30, 18:00, 20:30 (videos are spaced at least 40 min apart).
 name: Health videos
 
 on:
   schedule:
-    - cron: "30 1 * * *"    # 07:00 IST  (video 1, sent 8:00)
-    - cron: "45 3 * * *"    # 09:15 IST  (video 2, sent 10:30)
-    - cron: "15 6 * * *"    # 11:45 IST  (video 3, sent 13:00)
-    - cron: "45 8 * * *"    # 14:15 IST  (video 4, sent 15:30)
-    - cron: "15 11 * * *"   # 16:45 IST  (video 5, sent 18:00)
-    - cron: "45 13 * * *"   # 19:15 IST  (video 6, sent 20:30)
-    - cron: "30 16 * * *"   # 22:00 IST  last catch-up
+    # GitHub often skips or delays scheduled runs, so there is one every hour; each run only makes what is due.
+    - cron: "50 1-14 * * *"   # 07:20 to 20:20 IST, every hour at :20
+    - cron: "30 16 * * *"     # 22:00 IST last catch-up
   workflow_dispatch:
     inputs:
       part:
@@ -21,6 +17,9 @@ on:
       dry_run:
         description: "Dry run: send to Telegram only, do not post (true/false)"
         default: "false"
+      day:
+        description: "Date YYYY-MM-DD (empty = today). Use tomorrow's date to test a video early."
+        default: ""
 
 permissions:
   contents: write
@@ -63,4 +62,5 @@ jobs:
           ARGS=""
           if [ -n "${{ github.event.inputs.part }}" ]; then ARGS="--part ${{ github.event.inputs.part }}"; fi
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry"; fi
+          if [ -n "${{ github.event.inputs.day }}" ]; then ARGS="$ARGS --day ${{ github.event.inputs.day }}"; fi
           python pipeline/health_daily.py $ARGS
