@@ -1,0 +1,191 @@
+{
+ "series": "Soch Aur Kartoot Ka Jhamela!",
+ "episode": 5,
+ "title": "Soch Aur Kartoot Ka Jhamela!",
+ "style": "cinematic 3D render of a glowing human brain with neon blue and violet neural pathways, dark background, soft volumetric light, ultra detailed, vertical 9:16",
+ "img_suffix": "No people, no faces, no text, no watermark, no logos.",
+ "pic_group": 9,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sir": {
+   "look": "calm male psychology teacher (voice only)",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Mind's Conflict?",
+ "scenes": [
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Kya aapne kabhi socha hai ki hum khud ko kaise samjhate hain?",
+   "say": "क्या आपने कभी सोचा है कि हम खुद को कैसे समझाते हैं?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Aaj hum samjhenge 'Cognitive Dissonance' kya hai.",
+   "say": "आज हम समझेंगे 'Cognitive Dissonance' क्या है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Yeh hamari soch aur karam ke beech ka takraav hai.",
+   "say": "यह हमारी सोच और कर्म के बीच का टकराव है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Maan lijiye, aap swasth bhojan mein vishwas rakhte hain.",
+   "say": "मान लीजिए, आप स्वस्थ भोजन में विश्वास रखते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Lekin, party mein aapne bahut fast food kha liya.",
+   "say": "लेकिन, पार्टी में आपने बहुत फास्ट फूड खा लिया।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Tab aapko andar se ajeeb bechaini mehsoos hoti hai.",
+   "say": "तब आपको अंदर से अजीब बेचैनी महसूस होती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Manovigyanik kehte hain, yeh bechaini swabhavik hai.",
+   "say": "मनोवैज्ञानिक कहते हैं, यह बेचैनी स्वाभाविक है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Jab vichaar aur vyavhaar milte nahi, toh takleef hoti hai.",
+   "say": "जब विचार और व्यवहार मिलते नहीं, तो तकलीफ़ होती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Isse kam karne ke liye hum aksar kahani badal dete hain.",
+   "say": "इसे कम करने के लिए हम अक्सर कहानी बदल देते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Yeh aapko khud ke faislon ko sahi thehraane par majboor karta hai.",
+   "say": "यह आपको खुद के फ़ैसलों को सही ठहराने पर मजबूर करता है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Aapke vishwas aapke kaamo se alag ho sakte hain.",
+   "say": "आपके विश्वास आपके कामों से अलग हो सकते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Isse aapki aatma-chhavi bhi prabhavit ho sakti hai.",
+   "say": "इससे आपकी आत्म-छवि भी प्रभावित हो सकती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Pehla, apne andar ki takraav ko pehchaniye.",
+   "say": "पहला, अपने अंदर की टकराव को पहचानिए।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Apne vichaaron aur kaaryon mein sacchai laiye.",
+   "say": "अपने विचारों और कार्यों में सच्चाई लाइए।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Dusra, faisle lene se pehle gehri soch karein.",
+   "say": "दूसरा, फ़ैसले लेने से पहले गहरी सोच करें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Jaldbaazi mein khud ko sahi saabit na karein.",
+   "say": "जल्दबाज़ी में खुद को सही साबित ना करें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Apne vichaaron aur karam mein santulan banaayein.",
+   "say": "अपने विचारों और कर्म में संतुलन बनाएँ।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Kya aapne kabhi apne aap ko sahi thehraya hai?",
+   "say": "क्या आपने कभी अपने आप को सही ठहराया है?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  }
+ ],
+ "caption": "Mann Ki Takraar: Cognitive Dissonance Kya Hai?",
+ "slug": "2026-11-23_h5",
+ "story_no": 15,
+ "yt_title": "Mann Ki Takraar: Cognitive Dissonance Kya Hai?",
+ "description": "Kya aapke vichaar aur vyavhaar kabhi takraate hain? Is video mein samjhiye Cognitive Dissonance.\nJaaniye kaise aap khud ko behtar samjh sakte hain aur santulan bana sakte hain.",
+ "comment_question": "Kya aapne kabhi apne aap ko sahi thehraya hai?",
+ "hashtags": [
+  "#CognitiveDissonance",
+  "#PsychologyFacts",
+  "#MoneyMindHealth",
+  "#SelfUnderstanding",
+  "#MindScience",
+  "#psychology",
+  "#mindset",
+  "#humanbehavior",
+  "#brainfacts",
+  "#selfimprovement",
+  "#mindblown",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदी"
+ ],
+ "caption_text": "Mann Ki Takraar: Cognitive Dissonance Kya Hai?\n\nKya aapke vichaar aur vyavhaar kabhi takraate hain? Is video mein samjhiye Cognitive Dissonance.\nJaaniye kaise aap khud ko behtar samjh sakte hain aur santulan bana sakte hain.\n\nKya aapne kabhi apne aap ko sahi thehraya hai?\n\nEducational only. Not a substitute for professional mental-health care.\n\nFollow Money Mind & Health for a new tip every day!\n\n#CognitiveDissonance #PsychologyFacts #MoneyMindHealth #SelfUnderstanding #MindScience #psychology #mindset #humanbehavior #brainfacts #selfimprovement #mindblown #reelsindia #viralreels #facebookreels #हिंदी",
+ "pillar": "Mind",
+ "format": "lecture",
+ "telegram_caption": "🧠 Money Mind Health · Mind · video 5\nSoch Aur Kartoot Ka Jhamela!"
+}

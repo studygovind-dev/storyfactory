@@ -1,0 +1,199 @@
+{
+ "series": "Subscription Ka Phanda!",
+ "episode": 3,
+ "title": "Subscription Ka Phanda!",
+ "style": "3D animated movie still in the style of a Pixar film, one cute glossy non-human cartoon mascot character with big expressive eyes, arms and legs and a small headband, centered, simple clean colourful background, sharp focus, hyper-detailed, soft cinematic lighting, vertical 9:16",
+ "img_suffix": "The character is NOT a person: no human face, no girl, no boy, no extra people. No text, no watermark, no logos.",
+ "pic_group": 3,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "SUB_BHAI": {
+   "look": "A small, round, red \"SUBSCRIBE\" button icon with tiny arms and legs, big expressive eyes, and a white athletic headband. A tear-shaped coin drips from its side, suggesting money loss.",
+   "voice": "hindi_cartoon_male"
+  },
+  "BATTUA_BHAI": {
+   "look": "A worn-out, brown leather wallet with a small sad face, big eyes, and a red bandana. Its mouth is slightly open, as if sighing. No money inside, just a few cobwebs.",
+   "voice": "hindi_male_deep"
+  },
+  "TAREEKH_DIDI": {
+   "look": "A cheerful, pastel-colored calendar page, ripped from a diary, with smiling eyes, small hands and feet, and a yellow flower headband. She points to a specific date with a helpful expression.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Money Leak Alert!",
+ "scenes": [
+  {
+   "image": "A small, round, red \"SUBSCRIBE\" button icon with tiny arms and legs, big expressive eyes, and a white athletic headband. A tear-shaped coin drips from its side. [[SUB_BHAI]] looks directly at the viewer, startled.",
+   "speaker": "SUB_BHAI",
+   "line": "Arre bhai! Main hoon Subscription! Tera paisa chaat jaata hoon!",
+   "say": "अरे भाई! मैं हूँ सब्स्क्रिप्शन! तेरा पैसा चाट जाता हूँ!",
+   "tag": "SUB BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, red \"SUBSCRIBE\" button icon with tiny arms and legs, big expressive eyes, and a white athletic headband. A tear-shaped coin drips from its side. [[SUB_BHAI]] looks directly at the viewer, startled.",
+   "speaker": "SUB_BHAI",
+   "line": "Bhule-bisre chhote subscriptions, jeb ko dheere-dheere khaali karte hain.",
+   "say": "भूले-बिसरे छोटे सब्सक्रिप्शन, जेब को धीरे-धीरे खाली करते हैं।",
+   "tag": "SUB BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, red \"SUBSCRIBE\" button icon with tiny arms and legs, big expressive eyes, and a white athletic headband. A tear-shaped coin drips from its side. [[SUB_BHAI]] looks directly at the viewer, startled.",
+   "speaker": "SUB_BHAI",
+   "line": "Har mahine ek baar check kar le, nahi toh lagega choona, bhidu!",
+   "say": "हर महीने एक बार चेक कर ले, नहीं तो लगेगा चूना, भिडू!",
+   "tag": "SUB BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A worn-out, brown leather wallet with a small sad face, big eyes, and a red bandana. Its mouth is slightly open, as if sighing. No money inside, just a few cobwebs. [[BATTUA_BHAI]] shakes its empty self.",
+   "speaker": "BATTUA_BHAI",
+   "line": "Main hoon Battua Bhai! Meri taraf dekh! Ek dum khaali ho gaya hoon.",
+   "say": "मैं हूँ बटुआ भाई! मेरी तरफ देख! एक दम खाली हो गया हूँ।",
+   "tag": "BATTUA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A worn-out, brown leather wallet with a small sad face, big eyes, and a red bandana. Its mouth is slightly open, as if sighing. No money inside, just a few cobwebs. [[BATTUA_BHAI]] shakes its empty self.",
+   "speaker": "BATTUA_BHAI",
+   "line": "Ye chhote-chhote subscriptions milke budget mein chhed kar dete hain.",
+   "say": "ये छोटे-छोटे सब्सक्रिप्शन मिलके बजट में छेद कर देते हैं।",
+   "tag": "BATTUA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A worn-out, brown leather wallet with a small sad face, big eyes, and a red bandana. Its mouth is slightly open, as if sighing. No money inside, just a few cobwebs. [[BATTUA_BHAI]] shakes its empty self.",
+   "speaker": "BATTUA_BHAI",
+   "line": "Monthly statement zaroor dekh, pata chalega kahaan jaa raha paisa.",
+   "say": "मंथली स्टेटमेंट ज़रूर देख, पता चलेगा कहाँ जा रहा पैसा।",
+   "tag": "BATTUA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cheerful, pastel-colored calendar page, ripped from a diary, with smiling eyes, small hands and feet, and a yellow flower headband. [[TAREEKH_DIDI]] points to a specific date with a helpful expression.",
+   "speaker": "TAREEKH_DIDI",
+   "line": "Main hoon Tareekh Didi! Yaadein dilaana mera kaam hai, samjhe?",
+   "say": "मैं हूँ तारीख़ दीदी! यादें दिलाना मेरा काम है, समझे?",
+   "tag": "TAREEKH DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A cheerful, pastel-colored calendar page, ripped from a diary, with smiling eyes, small hands and feet, and a yellow flower headband. [[TAREEKH_DIDI]] points to a specific date with a helpful expression.",
+   "speaker": "TAREEKH_DIDI",
+   "line": "Aksar free trial lete hain, phir bhool jaate hain, charge hota rehta hai.",
+   "say": "अक्सर फ्री ट्रायल लेते हैं, फिर भूल जाते हैं, चार्ज होता रहता है।",
+   "tag": "TAREEKH DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A cheerful, pastel-colored calendar page, ripped from a diary, with smiling eyes, small hands and feet, and a yellow flower headband. [[TAREEKH_DIDI]] points to a specific date with a helpful expression.",
+   "speaker": "TAREEKH_DIDI",
+   "line": "Calendar pe mark kar le, har mahine subscription review ka din.",
+   "say": "कैलेंडर पे मार्क कर ले, हर महीने सब्सक्रिप्शन रिव्यू का दिन।",
+   "tag": "TAREEKH DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, red \"SUBSCRIBE\" button icon with tiny arms and legs, big expressive eyes, and a white athletic headband. A tear-shaped coin drips from its side. [[SUB_BHAI]] looks confused, shrugging its shoulders.",
+   "speaker": "SUB_BHAI",
+   "line": "Kitne app hain jo tune download kiye, phir istemal nahi kiye?",
+   "say": "कितने ऐप हैं जो तूने डाउनलोड किए, फिर इस्तेमाल नहीं किए?",
+   "tag": "SUB BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, red \"SUBSCRIBE\" button icon with tiny arms and legs, big expressive eyes, and a white athletic headband. A tear-shaped coin drips from its side. [[SUB_BHAI]] looks confused, shrugging its shoulders.",
+   "speaker": "SUB_BHAI",
+   "line": "Phir bhi har mahine teri jeb se paisa nikaalte rehte hain.",
+   "say": "फिर भी हर महीने तेरी जेब से पैसा निकालते रहते हैं।",
+   "tag": "SUB BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, red \"SUBSCRIBE\" button icon with tiny arms and legs, big expressive eyes, and a white athletic headband. A tear-shaped coin drips from its side. [[SUB_BHAI]] looks confused, shrugging its shoulders.",
+   "speaker": "SUB_BHAI",
+   "line": "Arre bhai, thoda smart ban! Ye sab faaltu ke kharch hain!",
+   "say": "अरे भाई, थोड़ा स्मार्ट बन! ये सब फालतू के खर्च हैं!",
+   "tag": "SUB BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A worn-out, brown leather wallet with a small sad face, big eyes, and a red bandana. Its mouth is slightly open, as if sighing. No money inside, just a few cobwebs. [[BATTUA_BHAI]] looks frustrated, banging its side lightly.",
+   "speaker": "BATTUA_BHAI",
+   "line": "Ye chhoti-chhoti baatein hi bade lafde karti hain, samjhe kya?",
+   "say": "ये छोटी-छोटी बातें ही बड़े लाफड़े करती हैं, समझे क्या?",
+   "tag": "BATTUA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A worn-out, brown leather wallet with a small sad face, big eyes, and a red bandana. Its mouth is slightly open, as if sighing. No money inside, just a few cobwebs. [[BATTUA_BHAI]] looks frustrated, banging its side lightly.",
+   "speaker": "BATTUA_BHAI",
+   "line": "Yahi paisa bacha ke sahi jagah lagaayega toh fayda hoga, maalik.",
+   "say": "यही पैसा बचा के सही जगह लगाएगा तो फायदा होगा, मालिक।",
+   "tag": "BATTUA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A worn-out, brown leather wallet with a small sad face, big eyes, and a red bandana. Its mouth is slightly open, as if sighing. No money inside, just a few cobwebs. [[BATTUA_BHAI]] looks frustrated, banging its side lightly.",
+   "speaker": "BATTUA_BHAI",
+   "line": "Par dhyaan rahe, nivesh baazar jokhimon ke adheen hain, expert se pooch.",
+   "say": "पर ध्यान रहे, निवेश बाज़ार जोखिमों के अधीन हैं, एक्सपर्ट से पूछ।",
+   "tag": "BATTUA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cheerful, pastel-colored calendar page, ripped from a diary, with smiling eyes, small hands and feet, and a yellow flower headband. [[TAREEKH_DIDI]] smiles knowingly, nodding her head.",
+   "speaker": "TAREEKH_DIDI",
+   "line": "Toh samjhe, regular checkup bahut zaroori hai apne finance ka.",
+   "say": "तो समझे, रेगुलर चेकअप बहुत ज़रूरी है अपने फाइनेंस का।",
+   "tag": "TAREEKH DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A cheerful, pastel-colored calendar page, ripped from a diary, with smiling eyes, small hands and feet, and a yellow flower headband. [[TAREEKH_DIDI]] smiles knowingly, nodding her head.",
+   "speaker": "TAREEKH_DIDI",
+   "line": "Jo nahi chahiye, use turant band kar, tension nahi lene ka!",
+   "say": "जो नहीं चाहिए, उसे तुरंत बंद कर, टेंशन नहीं लेने का!",
+   "tag": "TAREEKH DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A cheerful, pastel-colored calendar page, ripped from a diary, with smiling eyes, small hands and feet, and a yellow flower headband. [[TAREEKH_DIDI]] smiles knowingly, nodding her head.",
+   "speaker": "TAREEKH_DIDI",
+   "line": "Aapka sabse ajeeb bhoola hua subscription kaun sa tha? Batao!",
+   "say": "आपका सबसे अजीब भूला हुआ सब्सक्रिप्शन कौन सा था? बताओ!",
+   "tag": "TAREEKH DIDI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Subscription Ka Phanda: Paisa Kahan Gaayab Hota Hai?",
+ "slug": "2026-11-23_h3",
+ "story_no": 13,
+ "yt_title": "Subscription Ka Phanda: Paisa Kahan Gaayab Hota Hai?",
+ "description": "Small forgotten subscriptions can quietly drain your wallet.\nLearn how to stop the money leak and keep your finances healthy!",
+ "comment_question": "Aapka sabse ajeeb bhoola hua subscription kaun sa tha? Batao!",
+ "hashtags": [
+  "#moneyhacks",
+  "#financialwellness",
+  "#subscriptions",
+  "#moneymindhealth",
+  "#savemoney",
+  "#moneytips",
+  "#personalfinance",
+  "#paisa",
+  "#financialliteracy",
+  "#moneymindset",
+  "#budgeting",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदी"
+ ],
+ "caption_text": "Subscription Ka Phanda: Paisa Kahan Gaayab Hota Hai?\n\nSmall forgotten subscriptions can quietly drain your wallet.\nLearn how to stop the money leak and keep your finances healthy!\n\nAapka sabse ajeeb bhoola hua subscription kaun sa tha? Batao!\n\nEducational only. Not investment advice. Investments are subject to market risks; read all scheme-related documents. Consult a SEBI-registered adviser.\n\nFollow Money Mind & Health for a new tip every day!\n\n#moneyhacks #financialwellness #subscriptions #moneymindhealth #savemoney #moneytips #personalfinance #paisa #financialliteracy #moneymindset #budgeting #reelsindia #viralreels #facebookreels #हिंदी",
+ "pillar": "Money",
+ "format": "character",
+ "telegram_caption": "💰 Money Mind Health · Money · video 3\nSubscription Ka Phanda!"
+}

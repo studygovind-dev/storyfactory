@@ -1,0 +1,195 @@
+{
+ "series": "Dahi Ka Kamaal, Health Bemisaal!",
+ "episode": 1,
+ "title": "Dahi Ka Kamaal, Health Bemisaal!",
+ "style": "3D animated movie still in the style of a Pixar film, one cute glossy non-human cartoon mascot character with big expressive eyes, arms and legs and a small headband, centered, simple clean colourful background, sharp focus, hyper-detailed, soft cinematic lighting, vertical 9:16",
+ "img_suffix": "The character is NOT a person: no human face, no girl, no boy, no extra people. No text, no watermark, no logos.",
+ "pic_group": 3,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "DAHI_BHIDU": {
+   "look": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "voice": "hindi_cartoon_male"
+  },
+  "PROTEIN_PAJI": {
+   "look": "A strong, chunky, light brown [[protein]] bar character, wearing a tiny turban and flexing tiny muscles. Big friendly eyes and a confident smile.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Dahi Power!",
+ "scenes": [
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Arre kaun aaya re? Main Dahi hoon, tera sabse best dost!",
+   "say": "अरे कौन आया रे? मैं दही हूँ, तेरा सबसे बेस्ट दोस्त!",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Apne andar good bacteria bhare hain, bole toh sehat ka jhola!",
+   "say": "अपने अंदर गुड बैक्टीरिया भरे हैं, बोले तो सेहत का झोला!",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Roz khaayega toh pet ekdum first class rakhega, tension nahi lene ka!",
+   "say": "रोज खाएगा तो पेट एकदम फर्स्ट क्लास रखेगा, टेंशन नहीं लेने का!",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Protein ka power hai apne andar, body ko full taakat milegi.",
+   "say": "प्रोटीन का पावर है अपने अंदर, बॉडी को फुल ताकत मिलेगी।",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Plain dahi best hai bhai, sugar waala mat chunna, samjha kya?",
+   "say": "प्लेन दही बेस्ट है भाई, शुगर वाला मत चुनना, समझा क्या?",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Meetha zyada khaayega toh, bhidu, yeh lafda kar sakta hai!",
+   "say": "मीठा ज़्यादा खाएगा तो, भिड़ू, ये लफड़ा कर सकता है!",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A strong, chunky, light brown [[protein]] bar character, wearing a tiny turban and flexing tiny muscles. Big friendly eyes and a confident smile.",
+   "speaker": "PROTEIN_PAJI",
+   "line": "Arre Dahi Bhidu, main Protein Paji, tera strong partner!",
+   "say": "अरे दही भिड़ू, मैं प्रोटीन पाजी, तेरा स्ट्रांग पार्टनर!",
+   "tag": "PROTEIN_PAJI",
+   "fx": "none"
+  },
+  {
+   "image": "A strong, chunky, light brown [[protein]] bar character, wearing a tiny turban and flexing tiny muscles. Big friendly eyes and a confident smile.",
+   "speaker": "PROTEIN_PAJI",
+   "line": "Hum dono milke body banaate, muscles ko ekdum strong karte!",
+   "say": "हम दोनों मिलके बॉडी बनाते, मसल्स को एकदम स्ट्रांग करते!",
+   "tag": "PROTEIN_PAJI",
+   "fx": "none"
+  },
+  {
+   "image": "A strong, chunky, light brown [[protein]] bar character, wearing a tiny turban and flexing tiny muscles. Big friendly eyes and a confident smile.",
+   "speaker": "PROTEIN_PAJI",
+   "line": "Meri wajah se pet bhara rehta hai, faltu munching nahi hoti!",
+   "say": "मेरी वजह से पेट भरा रहता है, फालतू मंचिंग नहीं होती!",
+   "tag": "PROTEIN_PAJI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Teri immunity bhi badhaata, bimari se ladne mein help karta.",
+   "say": "तेरी इम्यूनिटी भी बढ़ाता, बीमारी से लड़ने में हेल्प करता।",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Pet mein acidity kam karta, digestion ko ekdum set karta.",
+   "say": "पेट में एसिडिटी कम करता, डाइजेशन को एकदम सेट करता।",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Lekin agar pet mein asli lafda hai, doctor ko dikhaane ka.",
+   "say": "लेकिन अगर पेट में असली लफड़ा है, डॉक्टर को दिखाने का।",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A strong, chunky, light brown [[protein]] bar character, wearing a tiny turban and flexing tiny muscles. Big friendly eyes and a confident smile.",
+   "speaker": "PROTEIN_PAJI",
+   "line": "Good bacteria ka support karta, gut ko ekdum khush rakhta.",
+   "say": "गुड बैक्टीरिया का सपोर्ट करता, गट को एकदम खुश रखता।",
+   "tag": "PROTEIN_PAJI",
+   "fx": "none"
+  },
+  {
+   "image": "A strong, chunky, light brown [[protein]] bar character, wearing a tiny turban and flexing tiny muscles. Big friendly eyes and a confident smile.",
+   "speaker": "PROTEIN_PAJI",
+   "line": "Dahi ke saath khaana, poora poshan milega tujhe bhidu.",
+   "say": "दही के साथ खाना, पूरा पोषण मिलेगा तुझे भिड़ू।",
+   "tag": "PROTEIN_PAJI",
+   "fx": "none"
+  },
+  {
+   "image": "A strong, chunky, light brown [[protein]] bar character, wearing a tiny turban and flexing tiny muscles. Big friendly eyes and a confident smile.",
+   "speaker": "PROTEIN_PAJI",
+   "line": "Body ko fit rakhne mein humara bada haath hai, samjha?",
+   "say": "बॉडी को फिट रखने में हमारा बड़ा हाथ है, समझा?",
+   "tag": "PROTEIN_PAJI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Thoda sa khaane ka, ekdum balanced diet mein rakhne ka.",
+   "say": "थोड़ा सा खाने का, एकदम बैलेंस्ड डाइट में रखने का।",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Zyada mat khaana, har cheez ki limit hoti hai, mere dost.",
+   "say": "ज़्यादा मत खाना, हर चीज़ की लिमिट होती है, मेरे दोस्त।",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, creamy white [[curd]] container, like a small, chubby plastic cup, with big expressive eyes, stubby arms and legs, and a colourful 'tapori' style bandana on its head. He's usually smiling or making a funny expression.",
+   "speaker": "DAHI_BHIDU",
+   "line": "Tu kaise khaata hai dahi? Bol, comments mein bata!",
+   "say": "तू कैसे खाता है दही? बोल, कमेंट्स में बता!",
+   "tag": "DAHI_BHIDU",
+   "fx": "none"
+  }
+ ],
+ "caption": "Dahi Ka Kamaal: The Secret to a Happy Gut!",
+ "slug": "2026-11-23_h1",
+ "story_no": 11,
+ "yt_title": "Dahi Ka Kamaal: The Secret to a Happy Gut!",
+ "description": "Unlock the magic of Dahi with Dahi Bhidu! Your gut will thank you.\nSimple tips for a healthier you, straight from your favourite curd!",
+ "comment_question": "Dahi khaate ho kya? Kya tareeka hai tumhara?",
+ "hashtags": [
+  "#DahiBenefits",
+  "#GutHealth",
+  "#HealthyEating",
+  "#MoneyMindHealth",
+  "#IndianFood",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#yoga",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Dahi Ka Kamaal: The Secret to a Happy Gut!\n\nUnlock the magic of Dahi with Dahi Bhidu! Your gut will thank you.\nSimple tips for a healthier you, straight from your favourite curd!\n\nDahi khaate ho kya? Kya tareeka hai tumhara?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind & Health for a new tip every day!\n\n#DahiBenefits #GutHealth #HealthyEating #MoneyMindHealth #IndianFood #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #yoga #reelsindia #viralreels #facebookreels",
+ "pillar": "Health",
+ "format": "character",
+ "telegram_caption": "🥗 Money Mind Health · Health · video 1\nDahi Ka Kamaal, Health Bemisaal!"
+}

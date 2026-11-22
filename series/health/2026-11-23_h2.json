@@ -1,0 +1,191 @@
+{
+ "series": "Vishwas Ka Kamaal!",
+ "episode": 2,
+ "title": "Vishwas Ka Kamaal!",
+ "style": "cinematic 3D render of a glowing human brain with neon blue and violet neural pathways, dark background, soft volumetric light, ultra detailed, vertical 9:16",
+ "img_suffix": "No people, no faces, no text, no watermark, no logos.",
+ "pic_group": 9,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sir": {
+   "look": "calm male psychology teacher (voice only)",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Belief's Secret Power",
+ "scenes": [
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Kya aapne kabhi socha hai ki aapka vishwas kitna shaktishali hai?",
+   "say": "क्या आपने कभी सोचा है कि आपका विश्वास कितना शक्तिशाली है?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Aaj hum samjhenge 'Placebo Effect' ko.",
+   "say": "आज हम समझेंगे 'प्लेसीबो इफ़ेक्ट' को।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Yeh dikhata hai ki hamari ummeedein sharir par kaise asar karti hain.",
+   "say": "यह दिखाता है कि हमारी उम्मीदें शरीर पर कैसे असर करती हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Maan lijiye, aapki maa ko lagta hai ki ek khaas dawa theek karti hai.",
+   "say": "मान लीजिए, आपकी माँ को लगता है कि एक ख़ास दवा ठीक करती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Jabki asal mein wah sirf vitamin ki goli hai.",
+   "say": "जबकि असल में वह सिर्फ विटामिन की गोली है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Phir bhi, aksar unhein aaram mil jaata hai.",
+   "say": "फिर भी, अक्सर उन्हें आराम मिल जाता है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Vaigyanikon ne dekha hai ki ummeedein dard kam kar sakti hain.",
+   "say": "वैज्ञानिकों ने देखा है कि उम्मीदें दर्द कम कर सकती हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Ya kisi lakshan mein sudhaar la sakti hain.",
+   "say": "या किसी लक्षण में सुधार ला सकती हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Yeh man aur sharir ke gehre sambandh ko darshata hai.",
+   "say": "यह मन और शरीर के गहरे संबंध को दर्शाता है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Hamari soch aur bhavnayein sharirik pratikriyaon ko prabhavit karti hain.",
+   "say": "हमारी सोच और भावनाएँ शारीरिक प्रतिक्रियाओं को प्रभावित करती हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Yeh aapko apni dharnaon ke prati jagruk banata hai.",
+   "say": "यह आपको अपनी धारणाओं के प्रति जागरूक बनाता है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Aapki sakaratmak ummeedein aapki bhalai badha sakti hain.",
+   "say": "आपकी सकारात्मक उम्मीदें आपकी भलाई बढ़ा सकती हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Apni soch ko sakaratmak disha dein, khaaskar swasthya ke prati.",
+   "say": "अपनी सोच को सकारात्मक दिशा दें, खासकर स्वास्थ्य के प्रति।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Vishwas karein ki chhote prayas bhi bade badlav la sakte hain.",
+   "say": "विश्वास करें कि छोटे प्रयास भी बड़े बदलाव ला सकते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Lekin hamesha visheshagya salah lein, gambhir bimariyon ke liye.",
+   "say": "लेकिन हमेशा विशेषज्ञ सलाह लें, गंभीर बीमारियों के लिए।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Placebo bimari ko 'kalpanik' nahi banata, yeh vastavik hai.",
+   "say": "Placebo बीमारी को 'काल्पनिक' नहीं बनाता, यह वास्तविक है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Aapka vishwas ek shaktishali upkaran hai.",
+   "say": "आपका विश्वास एक शक्तिशाली उपकरण है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain",
+   "speaker": "sir",
+   "line": "Kya aapko lagta hai ki sirf vishwas se kuch theek hua hai?",
+   "say": "क्या आपको लगता है कि सिर्फ विश्वास से कुछ ठीक हुआ है?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  }
+ ],
+ "caption": "क्या आपका विश्वास बदल सकता है आपका शरीर? Placebo Effect",
+ "slug": "2026-11-23_h2",
+ "story_no": 12,
+ "yt_title": "क्या आपका विश्वास बदल सकता है आपका शरीर? Placebo Effect",
+ "description": "जानिए Placebo Effect कैसे हमारे शरीर और मन को प्रभावित करता है।\nविश्वास की अद्भुत शक्ति को समझें।",
+ "comment_question": "Kya aapne kabhi Placebo Effect ka anubhav kiya hai? Apni kahani batayein!",
+ "hashtags": [
+  "#PlaceboEffect",
+  "#MindBodyConnection",
+  "#PsychologyFacts",
+  "#PowerOfBelief",
+  "#MentalWellness",
+  "#psychology",
+  "#mindset",
+  "#humanbehavior",
+  "#brainfacts",
+  "#selfimprovement",
+  "#mindblown",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदी"
+ ],
+ "caption_text": "क्या आपका विश्वास बदल सकता है आपका शरीर? Placebo Effect\n\nजानिए Placebo Effect कैसे हमारे शरीर और मन को प्रभावित करता है।\nविश्वास की अद्भुत शक्ति को समझें।\n\nKya aapne kabhi Placebo Effect ka anubhav kiya hai? Apni kahani batayein!\n\nEducational only. Not a substitute for professional mental-health care.\n\nFollow Money Mind & Health for a new tip every day!\n\n#PlaceboEffect #MindBodyConnection #PsychologyFacts #PowerOfBelief #MentalWellness #psychology #mindset #humanbehavior #brainfacts #selfimprovement #mindblown #reelsindia #viralreels #facebookreels #हिंदी",
+ "pillar": "Mind",
+ "format": "lecture",
+ "telegram_caption": "🧠 Money Mind Health · Mind · video 2\nVishwas Ka Kamaal!"
+}
