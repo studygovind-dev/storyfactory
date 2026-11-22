@@ -36,6 +36,8 @@ jobs:
       TZ: Asia/Kolkata
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       POLLINATIONS_KEY: ${{ secrets.POLLINATIONS_KEY }}
+      CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}      # Cloudflare Workers AI pictures (free allowance)
+      CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       ELEVEN_API_KEY: ${{ secrets.ELEVEN_API_KEY }}

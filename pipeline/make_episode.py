@@ -67,12 +67,43 @@ def expand(text, chars):
 POLLEN_EMPTY = False  # set once the account balance runs out, so later scenes skip straight to the fallback
 
 
+def cloudflare_image(prompt, out):
+    """Picture from Cloudflare Workers AI (FLUX.1 schnell). Free daily allowance, much better than the
+    free Pollinations server. Needs CF_ACCOUNT_ID and CF_API_TOKEN. Returns True when the picture is saved."""
+    acct, tok = os.environ.get("CF_ACCOUNT_ID", "").strip(), os.environ.get("CF_API_TOKEN", "").strip()
+    if not (acct and tok):
+        return False
+    url = f"https://api.cloudflare.com/client/v4/accounts/{acct}/ai/run/@cf/black-forest-labs/flux-1-schnell"
+    for attempt in range(3):
+        try:
+            r = requests.post(url, headers={"Authorization": f"Bearer {tok}"},
+                              json={"prompt": prompt[:1900], "steps": 6}, timeout=150)
+            if r.ok:
+                b64 = (r.json().get("result") or {}).get("image")
+                if b64:
+                    raw = out.with_suffix(".jpg")
+                    raw.write_bytes(base64.b64decode(b64))
+                    # the picture is square: scale and crop the centre to 9:16
+                    run(["ffmpeg", "-y", "-i", str(raw), "-vf", "scale=-2:1280,crop=720:1280", str(out)])
+                    raw.unlink()
+                    return True
+            print(f"  Cloudflare picture refused ({r.status_code}): {r.text[:160]}")
+            if r.status_code in (401, 403) or "allocation" in r.text.lower() or "quota" in r.text.lower():
+                break
+        except (requests.RequestException, ValueError) as e:
+            print(f"  Cloudflare picture error ({type(e).__name__}), retrying...")
+        time.sleep(8)
+    return False
+
+
 def make_image_free(ep, i, scene, out):
     """Picture from Pollinations. Uses the account key (realistic faces) while it has pollen,
     then falls back to the no-account server so the video still gets made."""
     global POLLEN_EMPTY
     prompt = (f"{ep['style']}. {expand(scene['image'], ep['characters'])}. "
               + (ep.get("img_suffix") or "Well-lit face, clear smooth skin, no dark spots. No text, no watermark, no logos."))
+    if cloudflare_image(prompt, out):
+        return
     key = "" if POLLEN_EMPTY else os.environ.get("POLLINATIONS_KEY", "").strip().lstrip("﻿")
     q = requests.utils.quote(prompt[:1500], safe="")
     if key:
@@ -83,7 +114,7 @@ def make_image_free(ep, i, scene, out):
         model = "flux"
     params = {"width": 720, "height": 1280, "seed": 1000 + i, "nologo": "true", "model": model}
     hdr = {"Authorization": f"Bearer {key}"} if key else {}
-    for attempt in range(12):  # up to ~3 minutes per picture
+    for attempt in range(14):  # up to ~6 minutes per picture
         try:
             r = requests.get(url, params=params, headers=hdr, timeout=180)
             if r.ok and r.headers.get("content-type", "").startswith("image"):
@@ -101,6 +132,12 @@ def make_image_free(ep, i, scene, out):
                       "using the free no-account pictures for the rest of this video.")
                 POLLEN_EMPTY = True
                 return make_image_free(ep, i, scene, out)
+            if r.status_code == 402 and not key and "FREE_LIMIT" in r.text:
+                m = re.search(r"Retry after (\d+)s", r.text)
+                wait = int(m.group(1)) + 2 if m else 46
+                print(f"  free picture limit (1 per 45 s): waiting {wait}s...")
+                time.sleep(wait)
+                continue
             print(f"  picture server busy ({r.status_code}), retrying...")
         except requests.RequestException as e:
             print(f"  picture server error ({type(e).__name__}), retrying...")
