@@ -1,0 +1,195 @@
+{
+ "series": "Paani Ka Khel, Health Ka Mel!",
+ "episode": 4,
+ "title": "Paani Ka Khel, Health Ka Mel!",
+ "style": "3D animated movie still in the style of a Pixar film, one cute glossy non-human cartoon mascot character with big expressive eyes, arms and legs and a small headband, centered, simple clean colourful background, sharp focus, hyper-detailed, soft cinematic lighting, vertical 9:16",
+ "img_suffix": "The character is NOT a person: no human face, no girl, no boy, no extra people. No text, no watermark, no logos.",
+ "pic_group": 3,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "PAANI BHAI": {
+   "look": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "voice": "hindi_male_young"
+  },
+  "BOOND DIDI": {
+   "look": "A tiny, shimmering, transparent blue water droplet character. She has sparkly eyes, small delicate arms and legs, and a cute pink flower headband. She looks nimble and wise. [[BOOND DIDI]]",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Water Power!",
+ "scenes": [
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Arre bhai, main Paani hoon! Tera asli dost, sun le meri baat!",
+   "say": "अरे भाई, मैं पानी हूँ! तेरा असली दोस्त, सुन ले मेरी बात!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Log mujhe ignore marte hain, par main hoon sabka aadhaar!",
+   "say": "लोग मुझे इग्नोर मारते हैं, पर मैं हूँ सबका आधार!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Paani ki kami se na, bade-bade lafde ho jaate hain, bhidu!",
+   "say": "पानी की कमी से ना, बड़े-बड़े लफड़े हो जाते हैं, भिडू!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Kabhi-kabhi thak jaata hai, ya sar ghoomta hai tera?",
+   "say": "कभी-कभी थक जाता है, या सर घूमता है तेरा?",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Ho sakta hai, tune mujhko kam bulaaya ho, mere dost!",
+   "say": "हो सकता है, तूने मुझको कम बुलाया हो, मेरे दोस्त!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Thoda paani pee le, dekh, ek dum se mast ho jaayega!",
+   "say": "थोड़ा पानी पी ले, देख, एक दम से मस्त हो जाएगा!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A tiny, shimmering, transparent blue water droplet character. She has sparkly eyes, small delicate arms and legs, and a cute pink flower headband. She looks nimble and wise. [[BOOND DIDI]]",
+   "speaker": "BOOND DIDI",
+   "line": "Main boond hoon, chhoti si, par badi baat bolungi, suno!",
+   "say": "मैं बूँद हूँ, छोटी सी, पर बड़ी बात बोलूँगी, सुनो!",
+   "tag": "BOOND DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A tiny, shimmering, transparent blue water droplet character. She has sparkly eyes, small delicate arms and legs, and a cute pink flower headband. She looks nimble and wise. [[BOOND DIDI]]",
+   "speaker": "BOOND DIDI",
+   "line": "Yeh jo ghoot-ghoot peene ka tareeka hai na, woh ekdum sahi hai!",
+   "say": "ये जो घूट-घूट पीने का तरीका है ना, वो एकदम सही है!",
+   "tag": "BOOND DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A tiny, shimmering, transparent blue water droplet character. She has sparkly eyes, small delicate arms and legs, and a cute pink flower headband. She looks nimble and wise. [[BOOND DIDI]]",
+   "speaker": "BOOND DIDI",
+   "line": "Saara din thoda-thoda peete rehne ka, bas, tension nahi lene ka!",
+   "say": "सारा दिन थोड़ा-थोड़ा पीते रहने का, बस, टेंशन नहीं लेने का!",
+   "tag": "BOOND DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Aur yeh sar dard ka kya bolega? Bahut pareshaan karta hai na?",
+   "say": "और ये सर दर्द का क्या बोलेगा? बहुत परेशान करता है ना?",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Kai baar toh, dehydration ka hi chakkar hota hai, bhidu!",
+   "say": "कई बार तो, डिहाइड्रेशन का ही चक्कर होता है, भिडू!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Thoda paani de de body ko, aur dekh, magic ho jaayega!",
+   "say": "थोड़ा पानी दे दे बॉडी को, और देख, मैजिक हो जाएगा!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A tiny, shimmering, transparent blue water droplet character. She has sparkly eyes, small delicate arms and legs, and a cute pink flower headband. She looks nimble and wise. [[BOOND DIDI]]",
+   "speaker": "BOOND DIDI",
+   "line": "Par ek baat aur hai, zyaada bhi nahi karne ka, sab balance mein!",
+   "say": "पर एक बात और है, ज़्यादा भी नहीं करने का, सब बैलेंस में!",
+   "tag": "BOOND DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A tiny, shimmering, transparent blue water droplet character. She has sparkly eyes, small delicate arms and legs, and a cute pink flower headband. She looks nimble and wise. [[BOOND DIDI]]",
+   "speaker": "BOOND DIDI",
+   "line": "Aur agar koi bada lafda lage na, toh seedha doctor ke paas jaao!",
+   "say": "और अगर कोई बड़ा लफड़ा लगे ना, तो सीधा डॉक्टर के पास जाओ!",
+   "tag": "BOOND DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A tiny, shimmering, transparent blue water droplet character. She has sparkly eyes, small delicate arms and legs, and a cute pink flower headband. She looks nimble and wise. [[BOOND DIDI]]",
+   "speaker": "BOOND DIDI",
+   "line": "Hum toh bas gyaan dete hain, asal ilaaj toh doctor hi karega!",
+   "say": "हम तो बस ज्ञान देते हैं, असल इलाज तो डॉक्टर ही करेगा!",
+   "tag": "BOOND DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Toh samjha na, mera jalwa! Main hoon tera health partner!",
+   "say": "तो समझा ना, मेरा जलवा! मैं हूँ तेरा हेल्थ पार्टनर!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Mujhe peeta rahega toh, tu rahega ekdum fit aur fine!",
+   "say": "मुझे पीता रहेगा तो, तू रहेगा एकदम फिट और फाइन!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A cute, chubby, light-blue water bottle character with big friendly eyes, a smiling mouth, small arms and legs, and a bright red \"Hero\" headband. He looks sturdy and reliable. [[PAANI BHAI]]",
+   "speaker": "PAANI BHAI",
+   "line": "Ab tu bol, aaj kitna paani piya? Comment mein bata de!",
+   "say": "अब तू बोल, आज कितना पानी पिया? कमेंट में बता दे!",
+   "tag": "PAANI BHAI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Paani Peene Ka Asli Funda! #HealthTips",
+ "slug": "2026-11-22_h4",
+ "story_no": 16,
+ "yt_title": "Paani Peene Ka Asli Funda! #HealthTips",
+ "description": "Paani ki power jaano, health ka balance banao! | Thoda paani, badi relief.",
+ "comment_question": "Aaj kitna paani piya, mere bhaiyo aur behno? Batao comments mein!",
+ "hashtags": [
+  "#PaaniPower",
+  "#HydrationStation",
+  "#HealthyChoices",
+  "#WaterBenefits",
+  "#MoneyMindHealth",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#yoga",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Paani Peene Ka Asli Funda! #HealthTips\n\nPaani ki power jaano, health ka balance banao! | Thoda paani, badi relief.\n\nAaj kitna paani piya, mere bhaiyo aur behno? Batao comments mein!\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind & Health for a new tip every day!\n\n#PaaniPower #HydrationStation #HealthyChoices #WaterBenefits #MoneyMindHealth #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #yoga #reelsindia #viralreels #facebookreels",
+ "pillar": "Health",
+ "format": "character",
+ "telegram_caption": "🥗 Money Mind Health · Health · video 4\nPaani Ka Khel, Health Ka Mel!"
+}
