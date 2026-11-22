@@ -1,0 +1,190 @@
+{
+ "series": "Tel Ka Funda, Health Ka Banda!",
+ "episode": 4,
+ "title": "Tel Ka Funda, Health Ka Banda!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "TEL": {
+   "look": "A golden, shiny, liquid-like cartoon character, with a mischievous grin and a small red bandana, looking like a blob of oil with a friendly face.",
+   "voice": "hindi_male_young"
+  },
+  "DIL": {
+   "look": "A slightly plump, red cartoon heart with a worried but friendly expression, wearing a tiny stethoscope, sitting on a miniature sofa.",
+   "voice": "hindi_male_deep"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Main Hoon Tel!",
+ "scenes": [
+  {
+   "image": "[[TEL]] winking, standing proudly on a kitchen counter next to a frying pan, looking ready for action.",
+   "speaker": "TEL",
+   "line": "Arre bhai, main Tel hoon! Tere khane ka main hi toh tadka hoon!",
+   "say": "अरे भाई, मैं तेल हूँ! तेरे खाने का मैं ही तो तड़का हूँ!",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[TEL]] winking, standing proudly on a kitchen counter next to a frying pan, looking ready for action.",
+   "speaker": "TEL",
+   "line": "Thoda dalega toh swaad badhaunga, warna lafda karunga!",
+   "say": "थोड़ा डालेगा तो स्वाद बढ़ाऊंगा, वरना लफड़ा करूंगा!",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[TEL]] winking, standing proudly on a kitchen counter next to a frying pan, looking ready for action.",
+   "speaker": "TEL",
+   "line": "Samjha na, bhidu? Zyada mat daal, bas halka sa touch!",
+   "say": "समझा ना, भिड़ू? ज़्यादा मत डाल, बस हल्का सा टच!",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] looking a bit tired, holding his chest dramatically, sitting on his tiny sofa with a worried expression.",
+   "speaker": "DIL",
+   "line": "Arre, main Dil hoon! Main hi tere sharir ka engine hoon!",
+   "say": "अरे, मैं दिल हूँ! मैं ही तेरे शरीर का इंजन हूँ!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] looking a bit tired, holding his chest dramatically, sitting on his tiny sofa with a worried expression.",
+   "speaker": "DIL",
+   "line": "Roz deep fry khayega toh meri halat kharab hogi, tension!",
+   "say": "रोज़ डीप फ्राई खाएगा तो मेरी हालत खराब होगी, टेंशन!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] looking a bit tired, holding his chest dramatically, sitting on his tiny sofa with a worried expression.",
+   "speaker": "DIL",
+   "line": "Thoda soch, bhidu! Zyada tel se BP ka jhol ho sakta hai.",
+   "say": "थोड़ा सोच, भिड़ू! ज़्यादा तेल से बीपी का झोल हो सकता है।",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[TEL]] trying to look innocent, gesturing with his oily hands, standing next to a bottle of cooking oil on a clean counter.",
+   "speaker": "TEL",
+   "line": "Dekh, Tel hoon toh kya hua? Sirf fry karna mera kaam nahi!",
+   "say": "देख, तेल हूँ तो क्या हुआ? सिर्फ़ फ्राई करना मेरा काम नहीं!",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[TEL]] trying to look innocent, gesturing with his oily hands, standing next to a bottle of cooking oil on a clean counter.",
+   "speaker": "TEL",
+   "line": "Sabzi mein thoda mila de, sehat banegi ekdum mast!",
+   "say": "सब्ज़ी में थोड़ा मिला दे, सेहत बनेगी एकदम मस्त!",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[TEL]] trying to look innocent, gesturing with his oily hands, standing next to a bottle of cooking oil on a clean counter.",
+   "speaker": "TEL",
+   "line": "Bas, control mein use kar, tabhi toh life set hai!",
+   "say": "बस, कंट्रोल में यूज़ कर, तभी तो लाइफ़ सेट है!",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] smiling, showing a thumbs up, now looking a bit more relaxed, next to a modern oven.",
+   "speaker": "DIL",
+   "line": "Kabhi kabhi mujhe bhi aaram de, yaar! Roz deep fry mat khila!",
+   "say": "कभी कभी मुझे भी आराम दे, यार! रोज़ डीप फ्राई मत खिला!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] smiling, showing a thumbs up, now looking a bit more relaxed, next to a modern oven.",
+   "speaker": "DIL",
+   "line": "Bake kar, roast kar ya steam kar, tension nahi lene ka!",
+   "say": "बेक कर, रोस्ट कर या स्टीम कर, टेंशन नहीं लेने का!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] smiling, showing a thumbs up, now looking a bit more relaxed, next to a modern oven.",
+   "speaker": "DIL",
+   "line": "Yeh sab sahi tarike hain, dil bhi bolega, 'Wah, kya baat hai!'",
+   "say": "ये सब सही तरीके हैं, दिल भी बोलेगा, 'वाह, क्या बात है!'",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[TEL]] looking serious but helpful, pointing towards the viewer, with a subtle cartoon doctor's clinic in the blurred background.",
+   "speaker": "TEL",
+   "line": "Agar tujhe koi health problem hai na, toh doctor ko mil!",
+   "say": "अगर तुझे कोई हेल्थ प्रॉब्लम है ना, तो डॉक्टर को मिल!",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[TEL]] looking serious but helpful, pointing towards the viewer, with a subtle cartoon doctor's clinic in the blurred background.",
+   "speaker": "TEL",
+   "line": "Woh hi sahi raah dikhayega, mera toh bas general gyaan hai.",
+   "say": "वो ही सही राह दिखाएगा, मेरा तो बस जनरल ज्ञान है।",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[TEL]] looking serious but helpful, pointing towards the viewer, with a subtle cartoon doctor's clinic in the blurred background.",
+   "speaker": "TEL",
+   "line": "Apni sehat ka khayal rakh, tabhi toh life mein masti hai!",
+   "say": "अपनी सेहत का ख़्याल रख, तभी तो लाइफ़ में मस्ती है!",
+   "tag": "TEL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] looking cheerful and energetic, doing a small, happy dance step, with bright, sparkling effects around him.",
+   "speaker": "DIL",
+   "line": "Tel zaruri hai, par zyada Tel, bole toh body mein jel!",
+   "say": "तेल ज़रूरी है, पर ज़्यादा तेल, बोले तो बॉडी में जेल!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] looking cheerful and energetic, doing a small, happy dance step, with bright, sparkling effects around him.",
+   "speaker": "DIL",
+   "line": "Sahi maatra mein use kar, tabhi toh meri dhak dhak chalti rahegi!",
+   "say": "सही मात्रा में यूज़ कर, तभी तो मेरी धक धक चलती रहेगी!",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[DIL]] looking cheerful and energetic, doing a small, happy dance step, with bright, sparkling effects around him.",
+   "speaker": "DIL",
+   "line": "Sahi pakde hain! Toh batao, aap Tel ko kaise use karte ho?",
+   "say": "सही पकड़े हैं! तो बताओ, आप तेल को कैसे यूज़ करते हो?",
+   "tag": "DIL BHAI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Tel Ka Funda! Cooking Oil Tips for a Healthy Heart",
+ "slug": "2026-11-22_h4",
+ "story_no": 9,
+ "yt_title": "Tel Ka Funda! Cooking Oil Tips for a Healthy Heart",
+ "description": "Cooking oil is essential, but too much can cause trouble. Learn how to use 'Tel' wisely for a happy heart! #MoneyMindHealth",
+ "comment_question": "Aap Tel ka use kaise karte ho? Fry ya Bake?",
+ "hashtags": [
+  "#CookingOil",
+  "#HealthyEating",
+  "#HeartHealth",
+  "#IndianFood",
+  "#MoneyMindHealth",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Tel Ka Funda! Cooking Oil Tips for a Healthy Heart\n\nCooking oil is essential, but too much can cause trouble. Learn how to use 'Tel' wisely for a happy heart! #MoneyMindHealth\n\nAap Tel ka use kaise karte ho? Fry ya Bake?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#CookingOil #HealthyEating #HeartHealth #IndianFood #MoneyMindHealth #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 4\nTel Ka Funda, Health Ka Banda!"
+}

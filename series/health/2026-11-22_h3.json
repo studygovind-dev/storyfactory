@@ -1,0 +1,194 @@
+{
+ "series": "Maida Ka Lafda!",
+ "episode": 3,
+ "title": "Maida Ka Lafda!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "MAIDA": {
+   "look": "A white, puffy cloud-like figure with a sly smile and a tiny chef's hat, floating playfully.",
+   "voice": "hindi_male_young"
+  },
+  "ATTA": {
+   "look": "A sturdy, earthy brown character, shaped like a sack of whole wheat, with a reassuring, wise smile.",
+   "voice": "hindi_male_deep"
+  },
+  "BAJRA": {
+   "look": "A cheerful, small character made of vibrant, tiny millet grains, wearing a tiny leaf garland, bouncing slightly.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Maida Magic!",
+ "scenes": [
+  {
+   "image": "[[MAIDA]] floating confidently, a mischievous grin, winking.",
+   "speaker": "MAIDA",
+   "line": "Arre bhai, main hoon Maida! Tumhara favourite item!",
+   "say": "अरे भाई, मैं हूँ मैदा! तुम्हारा फेवरेट आइटम!",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] floating confidently, a mischievous grin, winking.",
+   "speaker": "MAIDA",
+   "line": "Samose, bhature, cake... sabmein mera hi jalwa hai, bhidu!",
+   "say": "समोसे, भटूरे, केक... सबमें मेरा ही जलवा है, भिडू!",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] floating confidently, a mischievous grin, winking.",
+   "speaker": "MAIDA",
+   "line": "Par ek baat bataun, main thoda fraud hoon!",
+   "say": "पर एक बात बताऊँ, मैं थोड़ा फ़्रॉड हूँ!",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] looking a bit sheepish, shrugging, hands up in a \"what can I do?\" gesture.",
+   "speaker": "MAIDA",
+   "line": "Mere andar fiber naam ki cheez nahin ke barabar hai.",
+   "say": "मेरे अंदर फ़ाइबर नाम की चीज़ नहीं के बराबर है.",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] looking a bit sheepish, shrugging, hands up in a \"what can I do?\" gesture.",
+   "speaker": "MAIDA",
+   "line": "Isiliye toh, kha ke bhi pet khali-khali sa lagta hai.",
+   "say": "इसीलिये तो, खा के भी पेट खाली-खाली सा लगता है.",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] looking a bit sheepish, shrugging, hands up in a \"what can I do?\" gesture.",
+   "speaker": "MAIDA",
+   "line": "Phir bhookh lagti hai, aur zyada khane ka man karta hai.",
+   "say": "फिर भूख लगती है, और ज़्यादा खाने का मन करता है.",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ATTA]] standing firmly, a reassuring smile, gesturing proudly to himself.",
+   "speaker": "ATTA",
+   "line": "Tension nahin lene ka, main hoon aapka dost, gehu ka atta.",
+   "say": "टेंशन नहीं लेने का, मैं हूँ आपका दोस्त, गेंहू का आटा.",
+   "tag": "ATTA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ATTA]] standing firmly, a reassuring smile, gesturing proudly to himself.",
+   "speaker": "ATTA",
+   "line": "Mere paas bhar-bhar ke fiber hai, bhidu!",
+   "say": "मेरे पास भर-भर के फ़ाइबर है, भिडू!",
+   "tag": "ATTA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[ATTA]] standing firmly, a reassuring smile, gesturing proudly to himself.",
+   "speaker": "ATTA",
+   "line": "Mere se pet bharega, der tak bhara rahega, sahi pakde hain!",
+   "say": "मेरे से पेट भरेगा, देर तक भरा रहेगा, सही पकड़े हैं!",
+   "tag": "ATTA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[BAJRA]] energetically bouncing, small grains glowing, a wide, friendly smile.",
+   "speaker": "BAJRA",
+   "line": "Arre bhai, main bhi hoon Bajra! Aur mere bhai bhi hain!",
+   "say": "अरे भाई, मैं भी हूँ बाजरा! और मेरे भाई भी हैं!",
+   "tag": "BAJRA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[BAJRA]] energetically bouncing, small grains glowing, a wide, friendly smile.",
+   "speaker": "BAJRA",
+   "line": "Hum sab millets, pet ko tagda fiber dete hain.",
+   "say": "हम सब मिलेट्स, पेट को तगड़ा फ़ाइबर देते हैं.",
+   "tag": "BAJRA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[BAJRA]] energetically bouncing, small grains glowing, a wide, friendly smile.",
+   "speaker": "BAJRA",
+   "line": "Hum khate hi pet ekdum bhar jata hai aur healthy bhi!",
+   "say": "हम खाते ही पेट एकdum भर जाता है और हेल्दी भी!",
+   "tag": "BAJRA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] looking thoughtful, a bit regretful, making a \"cut it down\" gesture with his hands.",
+   "speaker": "MAIDA",
+   "line": "Baat toh sahi hai, yeh dono ekdum solid hain.",
+   "say": "बात तो सही है, ये दोनों एकdum सॉलिड हैं.",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] looking thoughtful, a bit regretful, making a \"cut it down\" gesture with his hands.",
+   "speaker": "MAIDA",
+   "line": "Zyada Maida khane se pet mein gadbad ho sakti hai.",
+   "say": "ज़्यादा मैदा खाने से पेट में गडबड़ हो सकती है.",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] looking thoughtful, a bit regretful, making a \"cut it down\" gesture with his hands.",
+   "speaker": "MAIDA",
+   "line": "Agar health problem hai, toh doctor se baat zaroor karna.",
+   "say": "अगर हेल्थ प्रॉब्लम है, तो डॉक्टर से बात ज़रूर करना.",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] winking, holding up one finger for \"a little bit\", then posing a curious question.",
+   "speaker": "MAIDA",
+   "line": "Main taste mein achha hoon, par kam khaoge toh theek rahega.",
+   "say": "मैं टेस्ट में अच्छा हूँ, पर कम खाओगे तो ठीक रहेगा.",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] winking, holding up one finger for \"a little bit\", then posing a curious question.",
+   "speaker": "MAIDA",
+   "line": "Roz-roz meri cheezen mat thuso, healthy option bhi hain.",
+   "say": "रोज़-रोज़ मेरी चीज़ें मत ठूसो, हेल्दी ऑप्शन भी हैं.",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[MAIDA]] winking, holding up one finger for \"a little bit\", then posing a curious question.",
+   "speaker": "MAIDA",
+   "line": "Aap Maida se bani kaunsi cheez sabse zyada khate ho?",
+   "say": "आप मैदा से बनी कौनसी चीज़ सबसे ज़्यादा खाते हो?",
+   "tag": "MAIDA BHAI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Maida Ka Sach: Bhook Kyun Jaldi Lagti Hai?",
+ "slug": "2026-11-22_h3",
+ "story_no": 8,
+ "yt_title": "Maida Ka Sach: Bhook Kyun Jaldi Lagti Hai?",
+ "description": "Bhook lagti hai jaldi? Maida bhookh bhagaega, ya aur badhaega? Jaan lo asli sach!",
+ "comment_question": "Aap maida se bani kaunsi cheez sabse zyada khate ho?",
+ "hashtags": [
+  "#MaidaFacts",
+  "#HealthyEating",
+  "#FoodChoices",
+  "#WholeGrains",
+  "#MoneyMindHealth",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Maida Ka Sach: Bhook Kyun Jaldi Lagti Hai?\n\nBhook lagti hai jaldi? Maida bhookh bhagaega, ya aur badhaega? Jaan lo asli sach!\n\nAap maida se bani kaunsi cheez sabse zyada khate ho?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#MaidaFacts #HealthyEating #FoodChoices #WholeGrains #MoneyMindHealth #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 3\nMaida Ka Lafda!"
+}

@@ -1,0 +1,190 @@
+{
+ "series": "Chini Ka Chakkar, Health Ka Takkar!",
+ "episode": 1,
+ "title": "Chini Ka Chakkar, Health Ka Takkar!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "CHINI DIDI": {
+   "look": "[[CHINI DIDI]] is a small, sparkling white sugar cube with a sweet, slightly mischievous smile, wearing a tiny pink bindi and a tiny chef's hat, perched on a brightly colored kitchen counter.",
+   "voice": "hindi_cartoon_female"
+  },
+  "PAPPU BHAI": {
+   "look": "[[PAPPU BHAI]] is a slightly overweight, cheerful man with a relaxed expression, wearing a vibrant, slightly wrinkled t-shirt and track pants, holding a cup of chai, sitting on a comfy couch.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Chini Ka Sach!",
+ "scenes": [
+  {
+   "image": "[[CHINI DIDI]] is looking mischievous, winking at the camera.",
+   "speaker": "CHINI DIDI",
+   "line": "Arre bhaiya, main Chini hoon! Meetha-meetha jaadu mera kaam hai!",
+   "say": "अरे भैया, मैं चीनी हूँ! मीठा-मीठा जादू मेरा काम है!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHINI DIDI]] is looking mischievous, winking at the camera.",
+   "speaker": "CHINI DIDI",
+   "line": "Ekdum jhatpat energy chahiye? Main hoon na, tension nahi lene ka!",
+   "say": "एकदम झटपट एनर्जी चाहिए? मैं हूँ ना, टेंशन नहीं लेने का!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHINI DIDI]] is looking mischievous, winking at the camera.",
+   "speaker": "CHINI DIDI",
+   "line": "Thoda khao, masti karo, dimaag chalega ek number!",
+   "say": "थोड़ा खाओ, मस्ती करो, दिमाग चलेगा एक नंबर!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] looks confused, scratching his head while holding his chai.",
+   "speaker": "PAPPU BHAI",
+   "line": "Arre bhidu, main Pappu! Chini Didi ki baatein sun raha hoon.",
+   "say": "अरे भिडू, मैं पप्पू! चीनी दीदी की बातें सुन रहा हूँ.",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] looks confused, scratching his head while holding his chai.",
+   "speaker": "PAPPU BHAI",
+   "line": "Par yaar, aajkal aap har jagah dikhti ho, kya chakkar hai?",
+   "say": "पर यार, आजकल आप हर जगह दिखती हो, क्या चक्कर है?",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] looks confused, scratching his head while holding his chai.",
+   "speaker": "PAPPU BHAI",
+   "line": "Zyada Chini matlab vajan ka lafda, sahi pakde hain!",
+   "say": "ज्यादा चीनी मतलब वजन का लाफड़ा, सही पकड़े हैं!",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHINI DIDI]] looks a bit smug, pointing to herself.",
+   "speaker": "CHINI DIDI",
+   "line": "Sahi pakde hain, mere bhai! Zyada khaane se ho sakta hai lafda!",
+   "say": "सही पकड़े हैं, मेरे भाई! ज्यादा खाने से हो सकता है लाफड़ा!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHINI DIDI]] looks a bit smug, pointing to herself.",
+   "speaker": "CHINI DIDI",
+   "line": "Meri chhupne ki jagah? Bole toh chai, cold drink mein!",
+   "say": "मेरी छुपने की जगह? बोले तो चाय, कोल्ड ड्रिंक में!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHINI DIDI]] looks a bit smug, pointing to herself.",
+   "speaker": "CHINI DIDI",
+   "line": "Biscuit, nashta... Arre bhaiya, main toh har jagah hoon!",
+   "say": "बिस्कुट, नाश्ता... अरे भैया, मैं तो हर जगह हूँ!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] looks concerned, gesturing with his hand.",
+   "speaker": "PAPPU BHAI",
+   "line": "Ayyo, itna Chini? Yeh toh tension wali baat hai boss!",
+   "say": "अय्यो, इतना चीनी? ये तो टेंशन वाली बात है बॉस!",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] looks concerned, gesturing with his hand.",
+   "speaker": "PAPPU BHAI",
+   "line": "Zyada meetha khaya toh sugar ka BP badh sakta hai!",
+   "say": "ज्यादा मीठा खाया तो शुगर का बीपी बढ़ सकता है!",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] looks concerned, gesturing with his hand.",
+   "speaker": "PAPPU BHAI",
+   "line": "Agar kuch lafda lage, toh doctor ko phone karne ka!",
+   "say": "अगर कुछ लाफड़ा लगे, तो डॉक्टर को फ़ोन करने का!",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHINI DIDI]] is showing a \"stop\" gesture, looking serious but still friendly.",
+   "speaker": "CHINI DIDI",
+   "line": "Arre bhaiya, thoda-thoda khao, zindagi enjoy karo!",
+   "say": "अरे भैया, थोड़ा-थोड़ा खाओ, जिंदगी एन्जॉय करो!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHINI DIDI]] is showing a \"stop\" gesture, looking serious but still friendly.",
+   "speaker": "CHINI DIDI",
+   "line": "Kam Chini, zyada masti! Ye hi mera asli mantra hai!",
+   "say": "कम चीनी, ज्यादा मस्ती! ये ही मेरा असली मंत्र है!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[CHINI DIDI]] is showing a \"stop\" gesture, looking serious but still friendly.",
+   "speaker": "CHINI DIDI",
+   "line": "Health ka balance banaye rakhega toh koi tension nahi!",
+   "say": "हेल्थ का बैलेंस बनाए रखेगा तो कोई टेंशन नहीं!",
+   "tag": "CHINI DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] gives a thumbs up, smiling broadly.",
+   "speaker": "PAPPU BHAI",
+   "line": "Bole toh, Chini kam, khushiyan gam nahi, barabar!",
+   "say": "बोले तो, चीनी कम, खुशियाँ गम नहीं, बराबर!",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] gives a thumbs up, smiling broadly.",
+   "speaker": "PAPPU BHAI",
+   "line": "Apni health ka dhyaan khud hi rakhne ka, public!",
+   "say": "अपनी हेल्थ का ध्यान खुद ही रखने का, पब्लिक!",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[PAPPU BHAI]] gives a thumbs up, smiling broadly.",
+   "speaker": "PAPPU BHAI",
+   "line": "Aap apni chai mein kitni Chini daalte ho, batao zara?",
+   "say": "आप अपनी चाय में कितनी चीनी डालते हो, बताओ जरा?",
+   "tag": "PAPPU BHAI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Chini Ka Sach: Energy Booster Ya Health Ka Villain?",
+ "slug": "2026-11-22_h1",
+ "story_no": 6,
+ "yt_title": "Chini Ka Sach: Energy Booster Ya Health Ka Villain?",
+ "description": "Is sugar your best friend or your worst enemy? Chini Didi and Pappu Bhai reveal the sweet secrets and hidden dangers of your daily dose of sugar! Watch now for a healthy, funny take on sweet cravings.",
+ "comment_question": "Aap apni chai mein kitni Chini daalte ho? Comment karke batao!",
+ "hashtags": [
+  "#ChiniKaSach",
+  "#SugarSmart",
+  "#HealthyChoices",
+  "#MoneyMindHealth",
+  "#HindiReels",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Chini Ka Sach: Energy Booster Ya Health Ka Villain?\n\nIs sugar your best friend or your worst enemy? Chini Didi and Pappu Bhai reveal the sweet secrets and hidden dangers of your daily dose of sugar! Watch now for a healthy, funny take on sweet cravings.\n\nAap apni chai mein kitni Chini daalte ho? Comment karke batao!\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#ChiniKaSach #SugarSmart #HealthyChoices #MoneyMindHealth #HindiReels #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 1\nChini Ka Chakkar, Health Ka Takkar!"
+}

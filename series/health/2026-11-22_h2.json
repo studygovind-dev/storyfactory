@@ -1,0 +1,194 @@
+{
+ "series": "Cold Drink Ka Dhamaal!",
+ "episode": 2,
+ "title": "Cold Drink Ka Dhamaal!",
+ "style": "3D animated movie still in the style of a Pixar film, a glossy cute character with big expressive eyes and a small headband, hyper-detailed macro close-up, cinematic soft lighting, rich colours, vertical 9:16",
+ "characters": {
+  "THANDA BHAI": {
+   "look": "A sparkling, brightly colored, anthropomorphic cold drink bottle with a cool smirk and sunglasses, a slight bulge from all the sugar inside.",
+   "voice": "hindi_male_young"
+  },
+  "CHINI DADI": {
+   "look": "A small, white, crystallized pile of sugar wearing a tiny, old-fashioned saree and spectacles, looking a bit mischievous but also concerned.",
+   "voice": "hindi_cartoon_female"
+  },
+  "PAANI DOST": {
+   "look": "A clear, cheerful water droplet with big friendly eyes and a small leaf hat, looking calm and helpful, gently offering a glass.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Sugar Bomb Alert!",
+ "scenes": [
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle with a cool smirk and sunglasses, posing confidently.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Arre bhai log, aa gaya tumhara manpasand thanda!",
+   "say": "अरे भाई लोग, आ गया तुम्हारा मनपसंद ठंडा!",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle with a cool smirk and sunglasses, posing confidently.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Main hoon tumhara jhakkaas thanda, mehfil ki shaan!",
+   "say": "मैं हूँ तुम्हारा झक्कास ठंडा, महफ़िल की शान!",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle with a cool smirk and sunglasses, posing confidently.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Par mere mein bahut sara sugar hai, sehat ke liye lafda hai.",
+   "say": "पर मेरे में बहुत सारा शुगर है, सेहत के लिए लाफड़ा है.",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A small, white, crystallized pile of sugar wearing a tiny, old-fashioned saree and spectacles, looking a bit mischievous but also concerned.]]",
+   "speaker": "CHINI DADI",
+   "line": "Main hoon Chini, is thande ki asli rani, meetha mera kaam.",
+   "say": "मैं हूँ चीनी, इस ठंडे की असली रानी, मीठा मेरा काम.",
+   "tag": "CHINI DADI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A small, white, crystallized pile of sugar wearing a tiny, old-fashioned saree and spectacles, looking a bit mischievous but also concerned.]]",
+   "speaker": "CHINI DADI",
+   "line": "Mere ek dabbe mein toh main kayi chammach bhar ke baithi hoon, samjhe?",
+   "say": "मेरे एक डब्बे में तो मैं कई चम्मच भर के बैठी हूँ, समझे?",
+   "tag": "CHINI DADI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A small, white, crystallized pile of sugar wearing a tiny, old-fashioned saree and spectacles, looking a bit mischievous but also concerned.]]",
+   "speaker": "CHINI DADI",
+   "line": "Zyada khaoge toh BP aur sugar badh sakti hai, dhyan dena.",
+   "say": "ज़्यादा खाओगे तो बीपी और शुगर बढ़ सकती है, ध्यान देना.",
+   "tag": "CHINI DADI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle with a cool smirk and sunglasses, looking a bit sheepish now.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Sahi pakde hain Dadi, main toh swaad deta hoon, par khatra bhi.",
+   "say": "सही पकड़े हैं दादी, मैं तो स्वाद देता हूँ, पर खतरा भी.",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle with a cool smirk and sunglasses, looking a bit sheepish now.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Mera ek pyaala matlab kayi chammach chini seedhi andar.",
+   "say": "मेरा एक प्याला मतलब कई चम्मच चीनी सीधी अंदर.",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle with a cool smirk and sunglasses, looking a bit sheepish now.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Har din mujhe piyoge toh shareer ko tanav milega, bhai.",
+   "say": "हर दिन मुझे पियोगे तो शरीर को तनाव मिलेगा, भाई.",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A clear, cheerful water droplet with big friendly eyes and a small leaf hat, looking calm and helpful, gently offering a glass.]]",
+   "speaker": "PAANI DOST",
+   "line": "Arre bhai log, main hoon tumhara saccha dost, Paani.",
+   "say": "अरे भाई लोग, मैं हूँ तुम्हारा सच्चा दोस्त, पानी.",
+   "tag": "PAANI DOST",
+   "fx": "none"
+  },
+  {
+   "image": "[[A clear, cheerful water droplet with big friendly eyes and a small leaf hat, looking calm and helpful, gently offering a glass.]]",
+   "speaker": "PAANI DOST",
+   "line": "Main tumhe tarotaaza rakhta hoon, bina kisi chini ke lafde ke.",
+   "say": "मैं तुम्हें तरोताज़ा रखता हूँ, बिना किसी चीनी के लफड़े के.",
+   "tag": "PAANI DOST",
+   "fx": "none"
+  },
+  {
+   "image": "[[A clear, cheerful water droplet with big friendly eyes and a small leaf hat, looking calm and helpful, gently offering a glass.]]",
+   "speaker": "PAANI DOST",
+   "line": "Nimbu paani ya chaas piyo, woh ek number hain, ek dum swasth.",
+   "say": "नींबू पानी या छास पियो, वो एक नंबर हैं, एक दम स्वस्थ.",
+   "tag": "PAANI DOST",
+   "fx": "none"
+  },
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle, now looking a bit thoughtful, perhaps holding a water bottle.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Haan yaar, Paani Dost sahi bol raha hai, main kabhi-kabar hi accha.",
+   "say": "हाँ यार, PAANI DOST सही बोल रहा है, मैं कभी-कभार ही अच्छा.",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle, now looking a bit thoughtful, perhaps holding a water bottle.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Agar koyi sehat ka masla hai, toh seedha doctor ke paas jaane ka.",
+   "say": "अगर कोई सेहत का मसला है, तो सीधा डॉक्टर के पास जाने का.",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A sparkling, brightly colored, anthropomorphic cold drink bottle, now looking a bit thoughtful, perhaps holding a water bottle.]]",
+   "speaker": "THANDA BHAI",
+   "line": "Thoda bahut peene mein dikkat nahi, par roz-roz theek nahi.",
+   "say": "थोड़ा बहुत पीने में दिक़्क़त नहीं, पर रोज़-रोज़ ठीक नहीं.",
+   "tag": "THANDA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A small, white, crystallized pile of sugar wearing a tiny, old-fashioned saree and spectacles, smiling kindly and nodding.]]",
+   "speaker": "CHINI DADI",
+   "line": "Ekdum sahi! Apni sehat ki chaabi tumhare haath mein hai, bacche.",
+   "say": "एकदम सही! अपनी सेहत की चाबी तुम्हारे हाथ में है, बच्चे.",
+   "tag": "CHINI DADI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A small, white, crystallized pile of sugar wearing a tiny, old-fashioned saree and spectacles, smiling kindly and nodding.]]",
+   "speaker": "CHINI DADI",
+   "line": "Is thande ko khaas mauko par hi peene ka.",
+   "say": "इस ठंडे को ख़ास मौक़ों पर ही पीने का.",
+   "tag": "CHINI DADI",
+   "fx": "none"
+  },
+  {
+   "image": "[[A small, white, crystallized pile of sugar wearing a tiny, old-fashioned saree and spectacles, smiling kindly and nodding.]]",
+   "speaker": "CHINI DADI",
+   "line": "Tum batao, tumhara manpasand swasth pey kaun sa hai?",
+   "say": "तुम बताओ, तुम्हारा मनपसंद स्वस्थ पेय कौन सा है?",
+   "tag": "CHINI DADI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Cold Drink Ka Sach: Kitni Chini, Kya Nuksan?",
+ "slug": "2026-11-22_h2",
+ "story_no": 7,
+ "yt_title": "Cold Drink Ka Sach: Kitni Chini, Kya Nuksan?",
+ "description": "Cold drink ka maza lena hai? Toh pehle jaano iske andar kitni chini hai! Health ke liye sahi choices banao, tension nahi.",
+ "comment_question": "Aapka manpasand swasth pey kaun sa hai?",
+ "hashtags": [
+  "#ColdDrink",
+  "#SugarAlert",
+  "#HealthyChoices",
+  "#FitnessIndia",
+  "#MoneyMindHealth",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#funnyhealth",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Cold Drink Ka Sach: Kitni Chini, Kya Nuksan?\n\nCold drink ka maza lena hai? Toh pehle jaano iske andar kitni chini hai! Health ke liye sahi choices banao, tension nahi.\n\nAapka manpasand swasth pey kaun sa hai?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind Health for a fun health tip every day!\n\n#ColdDrink #SugarAlert #HealthyChoices #FitnessIndia #MoneyMindHealth #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #funnyhealth #reelsindia #viralreels #facebookreels",
+ "telegram_caption": "🥗 Money Mind Health · video 2\nCold Drink Ka Dhamaal!"
+}
