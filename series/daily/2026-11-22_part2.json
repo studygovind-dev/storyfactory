@@ -1,0 +1,164 @@
+{
+ "series": "The Candy Ring Conspiracy",
+ "episode": 2,
+ "title": "The Candy Ring Conspiracy",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A friendly, warm storyteller's voice.",
+   "voice": "hindi_narrator_female"
+  },
+  "Rahul": {
+   "look": "Groom, 28, fair skin, handsome, neatly styled dark hair, wearing a traditional cream sherwani with gold embroidery. Looks gentle and loving.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Priya": {
+   "look": "Bride, 26, fair skin, beautiful, long dark wavy hair styled elegantly, natural makeup, small bindi, wearing a stunning red and gold lehenga. Looks graceful and sweet.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Rohan": {
+   "look": "Rahul's nephew, 5, cute and mischievous, with sparkling dark eyes and a cheeky grin, wearing a mini cream sherwani matching Rahul's.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Wedding Rings STOLEN?!",
+ "scenes": [
+  {
+   "image": "Close-up of a beautiful wedding mandap, decorated with bright marigolds and jasmine, but the foreground is slightly out of focus, hinting at a dramatic, confused scene unfolding just out of frame. A blurred, discarded candy wrapper is on the ground.",
+   "speaker": "narrator",
+   "line": "Humari shaadi mein aisa kya hua?",
+   "fx": "none",
+   "say": "हमारी शादी में ऐसा क्या हुआ?"
+  },
+  {
+   "image": "Rahul and Priya are standing elegantly at the mandap, adorned in traditional wedding attire, smiling lovingly at each other. The setting is vibrant and joyous with flower decorations.",
+   "speaker": "narrator",
+   "line": "Rahul aur Priya ka khaas din tha.",
+   "fx": "none",
+   "say": "राहुल और प्रिया का ख़ास दिन था।"
+  },
+  {
+   "image": "Rohan, Rahul's cute 5-year-old nephew, walks slowly towards the mandap, holding a small velvet ring box with an innocent but slightly mischievous look on his face.",
+   "speaker": "narrator",
+   "line": "Rohan, chota bhaanja, angoothi laaya.",
+   "fx": "none",
+   "say": "रोहन, छोटा भांजा, अंगूठी लाया।"
+  },
+  {
+   "image": "Rahul, with a wide smile, takes a ring from the box Rohan presented and lovingly looks at Priya, about to place it on her finger. The ring is colorful and clearly not real.",
+   "speaker": "Rahul",
+   "line": "Meri Priya, tumhare liye yeh angoothi.",
+   "fx": "none",
+   "say": "मेरी प्रिया, तुम्हारे लिए यह अंगूठी।"
+  },
+  {
+   "image": "Priya's eyes are wide with shock and confusion as she looks closely at the colorful, plastic-like ring Rahul is holding. Her smile has vanished, replaced by an expression of disbelief.",
+   "speaker": "Priya",
+   "line": "Rahul, yeh kya... yeh toh khilona hai!",
+   "fx": "none",
+   "say": "राहुल, यह क्या... यह तो खिलौना है!"
+  },
+  {
+   "image": "Rahul looks confused, first at the candy ring in his hand, then at his own empty ring finger, his brow furrowed in bewilderment. He can't believe what he's seeing.",
+   "speaker": "Rahul",
+   "line": "Sach mein? Meri angoothi kahan gayi?",
+   "fx": "none",
+   "say": "सच में? मेरी अंगूठी कहाँ गई?"
+  },
+  {
+   "image": "An overhead shot showing Rahul, Priya, the priest, and several confused wedding guests all looking down intently at Rohan, who stands innocently by the mandap, looking up with wide, questioning eyes.",
+   "speaker": "narrator",
+   "line": "Sabki nazar Rohan par thehri.",
+   "fx": "none",
+   "say": "सबकी नज़र रोहन पर ठहरी।"
+  },
+  {
+   "image": "Priya kneels down gently to Rohan's level, her expression a mix of concern and suppressed amusement, asking him softly. Rohan looks back with a hint of a playful grin.",
+   "speaker": "Priya",
+   "line": "Rohan, asli angoothiyan kahan hain, beta?",
+   "fx": "none",
+   "say": "रोहन, असली अंगूठियां कहाँ हैं, बेटा?"
+  },
+  {
+   "image": "Rohan beams, pulling out two vibrant, colorful candy rings from his own pocket, proudly showing them off. One of them has a small bite taken out of it.",
+   "speaker": "Rohan",
+   "line": "Meri pyaari candy angoothiyan!",
+   "fx": "none",
+   "say": "मेरी प्यारी कैंडी अंगूठियां!"
+  },
+  {
+   "image": "Rahul's eyes go wide in realization, a hand flying to his mouth to suppress a laugh. He points at the candy rings Rohan is holding, completely surprised.",
+   "speaker": "Rahul",
+   "line": "Yeh toh uske candy rings hain!",
+   "fx": "none",
+   "say": "यह तो उसके कैंडी रिंग्स हैं!"
+  },
+  {
+   "image": "Rohan, with a tiny bit of candy ring visible in his mouth, still smiles innocently, shrugging playfully as he tries to explain his reasoning, his cheeks slightly puffed out.",
+   "speaker": "Rohan",
+   "line": "Maine socha shiny mithai, kha li!",
+   "fx": "none",
+   "say": "मैंने सोचा शाइनी मिठाई, खा ली!"
+  },
+  {
+   "image": "The wedding guests in the background burst into laughter, some covering their mouths, others shaking their heads in amusement. Rahul and Priya also start to laugh, relieved and amused.",
+   "speaker": "narrator",
+   "line": "Sab hansne lage, mahaul khushnuma ho gaya.",
+   "fx": "none",
+   "say": "सब हँसने लगे, माहौल खुशनुमा हो गया।"
+  },
+  {
+   "image": "Rahul is now smiling, playfully 'patting down' Rohan's mini sherwani. He pulls out the actual, glittering wedding rings from Rohan's pocket, much to Rohan's momentary confusion.",
+   "speaker": "narrator",
+   "line": "Asli angoothiyan uske jeb mein milin.",
+   "fx": "none",
+   "say": "असली अंगूठियां उसके जेब में मिलीं।"
+  },
+  {
+   "image": "Rahul and Priya, now both laughing, hold hands at the mandap, looking at the real rings. The crisis is averted, and a sense of joy and relief fills the air.",
+   "speaker": "narrator",
+   "line": "Shaadi hasi-khushi poori ho gayi.",
+   "fx": "none",
+   "say": "शादी हँसी-खुशी पूरी हो गई।"
+  },
+  {
+   "image": "Rahul smiles warmly, winking playfully at Priya, who giggles. Rohan is in the background, happily munching on one of his candy rings, oblivious to the earlier panic.",
+   "speaker": "Rahul",
+   "line": "Rohan ki shararat yaad rahegi hamesha.",
+   "fx": "none",
+   "say": "रोहन की शरारत याद रहेगी हमेशा।"
+  },
+  {
+   "image": "Rahul and Priya look directly at the viewer, smiling, with Rohan standing between them, still innocently eating his candy ring. They both have a gentle, questioning look.",
+   "speaker": "narrator",
+   "line": "Kya Rohan ko daantna chahiye tha, ya uski masoomiyat sahi thi?",
+   "fx": "none",
+   "say": "क्या रोहन को डांटना चाहिए था, या उसकी मासूमियत सही थी?"
+  }
+ ],
+ "caption": "Kid Swapped Wedding Rings... What Happened Next Was Hilarious 😂",
+ "slug": "2026-11-22_part2",
+ "story_no": 77,
+ "yt_title": "Kid Swapped Wedding Rings... What Happened Next Was Hilarious 😂",
+ "description": "Rahul and Priya's perfect wedding takes a hilarious turn when the ring bearer makes an unexpected swap. Will their big day be ruined, or will love prevail amidst the candy chaos? What would you do in this situation?",
+ "comment_question": "Kya Rohan ko daantna chahiye tha, ya uski masoomiyat sahi thi?",
+ "hashtags": [
+  "#hindijokes",
+  "#funnyreels",
+  "#comedy",
+  "#weddingfail",
+  "#funnywedding",
+  "#indianwedding",
+  "#shortstory",
+  "#chutkule",
+  "#मज़ेदारकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#storytime",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}

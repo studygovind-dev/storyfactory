@@ -1,0 +1,172 @@
+{
+ "series": "Mitha Raaz",
+ "episode": 3,
+ "title": "Mitha Raaz",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Riya: Young Indian woman, late 20s, fair skin, long soft wavy dark-brown hair, small bindi, simple pastel kurta. Warm, observant smile.",
+   "voice": "hindi_female_young"
+  },
+  "Aditya": {
+   "look": "Aditya: Young Indian man, late 20s, clean-shaven, sharp features, well-built. Dressed in simple, clean but worn shirt and trousers. Often looks tired or contemplative.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "She Knew His Secret?",
+ "scenes": [
+  {
+   "image": "Close-up on Riya's face, a mix of warmth and a hidden knowing expression, as she looks slightly off-camera. She's in her sweet shop, warm lighting.",
+   "speaker": "narrator",
+   "line": "Maine kabhi socha na tha, ameer log bhi aise khel khelte hain.",
+   "fx": "none",
+   "sub": "I never thought rich people also play such games.",
+   "say": "मैंने कभी सोचा न था, अमीर लोग भी ऐसे खेल खेलते हैं।"
+  },
+  {
+   "image": "Aditya, dressed simply but neatly, sits on a small bench outside Riya's sweet shop, sipping water from a steel glass. He looks tired but gentle. Riya watches him from the shop entrance.",
+   "speaker": "narrator",
+   "line": "Roz dopahar mein woh meri dukaan aata tha.",
+   "fx": "none",
+   "sub": "Every afternoon he would come to my shop.",
+   "say": "रोज़ दोपहर में वो मेरी दुकान आता था।"
+  },
+  {
+   "image": "Riya behind the counter, smiling softly at Aditya who is leaning on the counter, engaged in conversation. He has no items to purchase.",
+   "speaker": "narrator",
+   "line": "Paani peeta, baatein karta, kabhi kuch na leta.",
+   "fx": "none",
+   "sub": "Drank water, chatted, never took anything much.",
+   "say": "पानी पीता, बातें करता, कभी कुछ न लेता।"
+  },
+  {
+   "image": "Close-up on Aditya's eyes as he looks out into the distance, a flicker of sadness or deep thought visible. Riya's hand (out of focus) gestures slightly.",
+   "speaker": "narrator",
+   "line": "Mujhe uski aankhon mein gehra akelapan dikhta tha.",
+   "fx": "none",
+   "sub": "I saw deep loneliness in his eyes.",
+   "say": "मुझे उसकी आँखों में गहरा अकेलापन दिखता था।"
+  },
+  {
+   "image": "Aditya sitting with his head in his hands on the bench, looking genuinely distressed and hungry. Riya is approaching him with a small tiffin box.",
+   "speaker": "narrator",
+   "line": "Ek din woh bahut pareshaan dikha, shayad bhookha tha.",
+   "fx": "none",
+   "sub": "One day he looked very troubled, perhaps hungry.",
+   "say": "एक दिन वो बहुत परेशान दिखा, शायद भूखा था।"
+  },
+  {
+   "image": "Close-up of Riya's hands opening her tiffin box, revealing warm rotis and sabzi. Aditya looks up at her, surprise and gratitude on his face.",
+   "speaker": "narrator",
+   "line": "Maine use apni tiffin se garam roti sabzi di.",
+   "fx": "none",
+   "sub": "I gave him hot roti and sabzi from my tiffin.",
+   "say": "मैंने उसे अपनी टिफिन से गरम रोटी सब्ज़ी दी।"
+  },
+  {
+   "image": "Aditya slowly eating, eyes downcast, a tear escaping. Riya watches him with compassion from a short distance.",
+   "speaker": "narrator",
+   "line": "Uski aankhon mein shukriya tha, usne dheere se khaya.",
+   "fx": "none",
+   "sub": "Gratitude was in his eyes, he ate slowly.",
+   "say": "उसकी आँखों में शुक्रिया था, उसने धीरे से खाया।"
+  },
+  {
+   "image": "Riya and Aditya sitting together on the bench outside the shop, talking animatedly, hands gesturing, both smiling freely. Dusk lighting.",
+   "speaker": "narrator",
+   "line": "Humne ghanton baatein ki, apne sapnon par.",
+   "fx": "none",
+   "sub": "We talked for hours, about our dreams.",
+   "say": "हमने घंटों बातें की, अपने सपनों पर।"
+  },
+  {
+   "image": "Close-up on Riya's face as she looks at Aditya (out of frame), a soft, undeniable expression of love dawning on her features.",
+   "speaker": "narrator",
+   "line": "Mujhe usse mohabbat hone lagi thi, uski sadgi se.",
+   "fx": "none",
+   "sub": "I was falling in love with him, with his simplicity.",
+   "say": "मुझे उससे मोहब्बत होने लगी थी, उसकी सादगी से।"
+  },
+  {
+   "image": "Aditya looking directly at Riya, his gaze intense and full of affection, a slight smile on his lips. Riya's hand is visible in the foreground.",
+   "speaker": "narrator",
+   "line": "Uski nazron mein bhi gehri chahat dikhti thi.",
+   "fx": "none",
+   "sub": "Deep affection was visible in his gaze too.",
+   "say": "उसकी नज़रों में भी गहरी चाहत दिखती थी।"
+  },
+  {
+   "image": "Aditya stands before Riya in her shop, dressed in an expensive suit, looking nervous and somewhat out of place. Riya looks at him, surprised by his attire.",
+   "speaker": "narrator",
+   "line": "Phir ek din woh badla sa aaya, bahut ghabraya hua.",
+   "fx": "none",
+   "sub": "Then one day he came, looking changed, very nervous.",
+   "say": "फिर एक दिन वो बदला सा आया, बहुत घबराया हुआ।"
+  },
+  {
+   "image": "Aditya's hand gestures apologetically as he speaks to Riya, who is listening intently, a serious expression on her face. The sweet shop items are in the background.",
+   "speaker": "narrator",
+   "line": "Usne bataya woh ameer hai, sachha pyaar dhundh raha tha.",
+   "fx": "none",
+   "sub": "He told me he is rich, was looking for true love.",
+   "say": "उसने बताया वो अमीर है, सच्चा प्यार ढूँढ रहा था।"
+  },
+  {
+   "image": "Close-up on Riya's face, her expression shifting from surprise to something unreadable – a mix of knowing, sadness, and perhaps a hint of a smile. Her eyes show deep thought.",
+   "speaker": "narrator",
+   "line": "Mere chehre par kayi bhaav badle, uski baatein sunkar.",
+   "fx": "none",
+   "sub": "Many emotions changed on my face, hearing his words.",
+   "say": "मेरे चेहरे पर कई भाव बदले, उसकी बातें सुनकर।"
+  },
+  {
+   "image": "Riya gently puts a hand on Aditya's arm, a soft, knowing smile on her face. Aditya looks utterly shocked, mouth slightly open.",
+   "speaker": "narrator",
+   "line": "Main muskuraayi aur boli, 'Main yeh sab jaanti thi, Aditya.'",
+   "fx": "none",
+   "sub": "I smiled and said, 'I knew all this, Aditya.'",
+   "say": "मैं मुस्कुराई और बोली, 'मैं यह सब जानती थी, आदित्य।'"
+  },
+  {
+   "image": "Riya looks at Aditya with compassion, a shared history in her eyes. Aditya's shock turns into understanding, then perhaps a bit of guilt.",
+   "speaker": "narrator",
+   "line": "Mere dada ji tumhare parivaar ke liye kaam karte the.",
+   "fx": "none",
+   "sub": "My grandfather used to work for your family.",
+   "say": "मेरे दादा जी तुम्हारे परिवार के लिए काम करते थे।"
+  },
+  {
+   "image": "Riya stands alone in her shop, looking thoughtfully out at the bustling street, a subtle, reflective expression. Sunbeams filter through the door.",
+   "speaker": "narrator",
+   "line": "Maine chup rehkar uski sachchai ka intezaar kiya. Kya yeh sahi tha?",
+   "fx": "none",
+   "sub": "I waited silently for his truth. Was this right?",
+   "say": "मैंने चुप रहकर उसकी सच्चाई का इंतज़ार किया। क्या यह सही था?"
+  }
+ ],
+ "caption": "He Pretended To Be Poor, But Her Family Knew His Secret 💔",
+ "slug": "2026-11-22_part3",
+ "story_no": 78,
+ "yt_title": "He Pretended To Be Poor, But Her Family Knew His Secret 💔",
+ "description": "He came to my shop every day, pretending to be poor to find true love. What he didn't know was my family had a secret connection to his. I waited for his truth. Was my silence right?",
+ "comment_question": "Aap hoti toh usko batati? Haan ya Na?",
+ "hashtags": [
+  "#lovestory",
+  "#premkahani",
+  "#emotionalstory",
+  "#story",
+  "#storytime",
+  "#indiantwist",
+  "#sachapyaar",
+  "#प्रेमकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदीकहानी"
+ ]
+}

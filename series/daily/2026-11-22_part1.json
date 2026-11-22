@@ -1,0 +1,176 @@
+{
+ "series": "Jungle Ki Pukaar",
+ "episode": 1,
+ "title": "Jungle Ki Pukaar",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young (24-26), strong but gentle, with bright, empathetic eyes. Long, dark wavy hair in a neat braid. Wearing a practical olive green forest ranger uniform (shirt, trousers, sturdy boots) and carrying a backpack.",
+   "voice": "hindi_narrator_female"
+  },
+  "chhota_bhaloo": {
+   "look": "Small, fluffy brown bear cub with big curious eyes, initially scared, then relieved.",
+   "voice": "hindi_narrator_male"
+  },
+  "maa_bhaloo": {
+   "look": "Large, powerful brown bear, protective, initially agitated, then loving towards her cub.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "Akela bhaloo ka bachcha?",
+ "scenes": [
+  {
+   "image": "Close-up of Arya's worried, observant face, eyes scanning dense forest under dappled sunlight. She looks deeply concerned.",
+   "speaker": "narrator",
+   "line": "Us din jungle mein sab kuch alag tha.",
+   "fx": "dust",
+   "sub": "That day, everything was different in the jungle.",
+   "say": "उस दिन जंगल में सब कुछ अलग था।"
+  },
+  {
+   "image": "Arya walking confidently but cautiously through a sun-dappled forest path, looking focused and alert in her ranger uniform.",
+   "speaker": "narrator",
+   "line": "Main Arya, ek van rakshak hoon.",
+   "fx": "dust",
+   "sub": "I am Arya, a forest ranger.",
+   "say": "मैं आर्या, एक वन रक्षक हूँ।"
+  },
+  {
+   "image": "Wide shot of Arya stopping abruptly, pointing with concern towards something half-hidden in the dense green bushes ahead.",
+   "speaker": "narrator",
+   "line": "Achanaak maine ek chota bhaloo dekha.",
+   "fx": "none",
+   "sub": "Suddenly, I saw a small bear cub.",
+   "say": "अचानक मैंने एक छोटा भालू देखा।"
+  },
+  {
+   "image": "Close-up of the tiny brown bear cub, looking lost and scared, peering cautiously from behind the leaves of a bush.",
+   "speaker": "narrator",
+   "line": "Woh akela tha, apni Maa ke bina.",
+   "fx": "none",
+   "sub": "He was alone, without his mother.",
+   "say": "वह अकेला था, अपनी माँ के बिना।"
+  },
+  {
+   "image": "Arya's hand reaching out slowly towards the cub, her face showing deep concern and a hint of fear for its safety.",
+   "speaker": "narrator",
+   "line": "Jungle mein akela rehna khatarnak hai.",
+   "fx": "none",
+   "sub": "Staying alone in the jungle is dangerous.",
+   "say": "जंगल में अकेला रहना खतरनाक है।"
+  },
+  {
+   "image": "Close-up on Arya's face, her eyes filled with deep empathy and firm determination.",
+   "speaker": "narrator",
+   "line": "Mera dil usse chhodne ko nahi mana.",
+   "fx": "none",
+   "sub": "My heart didn't agree to leave him.",
+   "say": "मेरा दिल उसे छोड़ने को नहीं माना।"
+  },
+  {
+   "image": "Arya gently picking up the cub, holding him close to her chest, the cub looking up at her with cautious curiosity.",
+   "speaker": "narrator",
+   "line": "Maine uski Maa ko dhoondhne ka faisla kiya.",
+   "fx": "none",
+   "sub": "I decided to find his mother.",
+   "say": "मैंने उसकी माँ को ढूँढने का फैसला किया।"
+  },
+  {
+   "image": "Close-up of Arya examining clear bear paw prints on soft, damp earth, her expression focused. The cub's head peeking from her backpack.",
+   "speaker": "narrator",
+   "line": "Pugchin aur nishanon se, maine raasta khoja.",
+   "fx": "none",
+   "sub": "From paw prints and signs, I searched the way.",
+   "say": "पदचिह्न और निशानों से, मैंने रास्ता खोजा।"
+  },
+  {
+   "image": "Arya navigating through very thick, dark foliage, her face showing slight stress as the sun begins to set behind her.",
+   "speaker": "narrator",
+   "line": "Ghana jungle aur andhera hone laga tha.",
+   "fx": "dust",
+   "sub": "Dense jungle and darkness were setting in.",
+   "say": "घना जंगल और अंधेरा होने लगा था।"
+  },
+  {
+   "image": "Arya stopping abruptly in a clearing, head tilted, listening intently with a surprised expression. The cub in her arms looks alert.",
+   "speaker": "narrator",
+   "line": "Phir maine ek anokhi aawaaz suni.",
+   "fx": "none",
+   "sub": "Then I heard a unique sound.",
+   "say": "फिर मैंने एक अनोखी आवाज़ सुनी।"
+  },
+  {
+   "image": "Close-up of a large mother bear, looking distressed and agitated, sniffing the air anxiously, her fur slightly ruffled.",
+   "speaker": "narrator",
+   "line": "Woh Maa bhaloo ki chinta ki pukaar thi.",
+   "fx": "none",
+   "sub": "It was the mother bear's cry of worry.",
+   "say": "वह माँ भालू की चिंता की पुकार थी।"
+  },
+  {
+   "image": "Arya, holding the cub, cautiously approaching the partially hidden mother bear, who is now looking towards them with wary hope.",
+   "speaker": "narrator",
+   "line": "Dheere-dheere, main unke paas pahunchi.",
+   "fx": "none",
+   "sub": "Slowly, I reached close to them.",
+   "say": "धीरे-धीरे, मैं उनके पास पहुँची।"
+  },
+  {
+   "image": "The mother bear lowers her head, making soft, comforting sounds. The cub wiggles excitedly to get to her.",
+   "speaker": "narrator",
+   "line": "Maa bhaloo ne apne bache ko dekha.",
+   "fx": "none",
+   "sub": "The mother bear saw her cub.",
+   "say": "माँ भालू ने अपने बच्चे को देखा।"
+  },
+  {
+   "image": "The cub nuzzling against the mother bear, who gently licks its head. Arya watches from a respectful distance with a teary, joyful smile.",
+   "speaker": "narrator",
+   "line": "Unka milan dekhkar meri aankhein bhar aayi.",
+   "fx": "dust",
+   "sub": "Seeing their reunion filled my eyes.",
+   "say": "उनका मिलन देखकर मेरी आँखें भर आईं।"
+  },
+  {
+   "image": "Arya turning away, walking slowly back into the forest, looking thoughtful and content, reflecting on the moment.",
+   "speaker": "narrator",
+   "line": "Ek van rakshak ki zindagi mein aise pal aate hain.",
+   "fx": "dust",
+   "sub": "In a forest ranger's life, such moments come.",
+   "say": "एक वन रक्षक की ज़िंदगी में ऐसे पल आते हैं।"
+  },
+  {
+   "image": "Arya looking directly at the camera, a slight question in her eyes, inviting the viewer's input.",
+   "speaker": "narrator",
+   "line": "Jungle mein hastakshep karna sahi hai? Haan ya na?",
+   "fx": "dust",
+   "sub": "Is it right to intervene in the jungle? Yes or no?",
+   "say": "जंगल में हस्तक्षेप करना सही है? हाँ या ना?"
+  }
+ ],
+ "caption": "Forest Ranger Finds Lost Bear Cub, But Why Was It Alone? 🐻",
+ "slug": "2026-11-22_part1",
+ "story_no": 76,
+ "yt_title": "Forest Ranger Finds Lost Bear Cub, But Why Was It Alone? 🐻",
+ "description": "I saw a tiny bear cub, completely alone in the dense jungle. His mother was nowhere. Was I right to intervene? Share your thoughts below!",
+ "comment_question": "Jungle mein hastakshep karna sahi hai? Haan ya na?",
+ "hashtags": [
+  "#moralstory",
+  "#animalstory",
+  "#pyaarkikahani",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalrescue",
+  "#bearcub",
+  "#sachhidosti",
+  "#नैतिककहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}
