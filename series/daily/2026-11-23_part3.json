@@ -1,0 +1,180 @@
+{
+ "series": "Gauri Ka Anmol Raaz",
+ "episode": 3,
+ "title": "Gauri Ka Anmol Raaz",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Riya, female_young, around 18-20, fair skin, long soft wavy dark-brown hair, natural makeup, small bindi, simple elegant pastel kurta.",
+   "voice": "hindi_narrator_female"
+  },
+  "Rohan": {
+   "look": "Male_young, around 16-17, light wheatish skin, kind, determined face, short dark hair, simple light-colored shirt and pants.",
+   "voice": "hindi_male_young"
+  },
+  "Gauri": {
+   "look": "A gentle, white Indian cow with soft brown eyes. No collar.",
+   "voice": "hindi_narrator_male"
+  },
+  "Buyer": {
+   "look": "Male_adult, around 40-50, dark skin, stern expression, traditional village attire (dhoti, simple shirt).",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "GAURI'S SECRET HOMECOMING",
+ "scenes": [
+  {
+   "image": "Riya (narrator) stands inside her humble village home, looking off-camera with a sad, puzzled expression. Her hands are clasped tightly.",
+   "speaker": "narrator",
+   "line": "Hamare ghar mein ek raaz chhupa tha, kisi ko pata nahi tha.",
+   "fx": "none",
+   "sub": "A secret was hidden in our house, nobody knew.",
+   "say": "हमारे घर में एक राज़ छुपा था, किसी को पता नहीं था।"
+  },
+  {
+   "image": "Rohan (brother), a young boy, is engrossed in studying a thick engineering textbook at a small wooden table. He looks determined.",
+   "speaker": "narrator",
+   "line": "Mera bhai Rohan, engineer banna chahta tha.",
+   "fx": "none",
+   "sub": "My brother Rohan wanted to become an engineer.",
+   "say": "मेरा भाई रोहन, इंजीनियर बनना चाहता था।"
+  },
+  {
+   "image": "Riya looks worriedly at an empty, traditional grain storage bin in their simple kitchen. Her face shows deep concern.",
+   "speaker": "narrator",
+   "line": "Par hamari garibi ne sapne mushkil kar diye.",
+   "fx": "none",
+   "sub": "But our poverty made dreams difficult.",
+   "say": "पर हमारी गरीबी ने सपने मुश्किल कर दिए।"
+  },
+  {
+   "image": "Riya is hugging Gauri (cow) tightly around her neck, her face buried in Gauri's side, tears in her eyes. Rohan stands nearby, looking away sadly.",
+   "speaker": "narrator",
+   "line": "School fees ke liye Gauri ko bechna pada.",
+   "fx": "none",
+   "sub": "For school fees, we had to sell Gauri.",
+   "say": "स्कूल फीस के लिए गौरी को बेचना पड़ा।"
+  },
+  {
+   "image": "Close-up on Rohan's face. He gently strokes Gauri's forehead, tears welling in his eyes, his lip trembling with emotion.",
+   "speaker": "narrator",
+   "line": "Rohan ka dil toot gaya tha uss din.",
+   "fx": "none",
+   "sub": "Rohan's heart was broken that day.",
+   "say": "रोहन का दिल टूट गया था उस दिन।"
+  },
+  {
+   "image": "A stern Buyer leads Gauri away by a rope down a dusty village path, Gauri looking back once. Riya and Rohan watch from a distance, looking heartbroken.",
+   "speaker": "narrator",
+   "line": "Gauri ko door ke gaon mein le jaaya gaya.",
+   "fx": "dust",
+   "sub": "Gauri was taken to a faraway village.",
+   "say": "गौरी को दूर के गाँव में ले जाया गया।"
+  },
+  {
+   "image": "Riya sits alone in her room, looking at a wall calendar where many days are crossed off. Her face is pensive and a little lonely.",
+   "speaker": "narrator",
+   "line": "Kai din guzar gaye, par Gauri nahi bhooli.",
+   "fx": "none",
+   "sub": "Many days passed, but Gauri was not forgotten.",
+   "say": "कई दिन गुज़र गए, पर गौरी नहीं भूली।"
+  },
+  {
+   "image": "Riya's face in a close-up, eyes wide with shock and disbelief, looking towards an unseen event outside her window.",
+   "speaker": "narrator",
+   "line": "Ek subah, maine ajeeb awaaz suni.",
+   "fx": "none",
+   "sub": "One morning, I heard a strange sound.",
+   "say": "एक सुबह, मैंने अजीब आवाज़ सुनी।"
+  },
+  {
+   "image": "Gauri stands exhausted but resolute at the doorstep of their humble home. Her head is bowed slightly, clearly having travelled far.",
+   "speaker": "narrator",
+   "line": "Hamari Gauri waapas aa gayi thi ghar!",
+   "fx": "dust",
+   "sub": "Our Gauri had returned home!",
+   "say": "हमारी गौरी वापस आ गई थी घर!"
+  },
+  {
+   "image": "Rohan rushes out and embraces Gauri, tears of joy streaming down his face as he buries his head into her neck.",
+   "speaker": "narrator",
+   "line": "Rohan ne Gauri ko kas ke gale lagaya.",
+   "fx": "none",
+   "sub": "Rohan hugged Gauri tightly.",
+   "say": "रोहन ने गौरी को कस के गले लगाया।"
+  },
+  {
+   "image": "Riya smiles at Gauri, but then her eyes drop, and she looks surprised at Gauri's belly. A slight tilt of her head in confusion.",
+   "speaker": "narrator",
+   "line": "Lekin Gauri akeli nahi aayi thi.",
+   "fx": "none",
+   "sub": "But Gauri had not come alone.",
+   "say": "लेकिन गौरी अकेली नहीं आई थी।"
+  },
+  {
+   "image": "Gauri is lying down peacefully in the farmyard, gently licking a newborn calf nestled beside her. Riya and Rohan look at them, understanding dawning on their faces.",
+   "speaker": "narrator",
+   "line": "Woh apni bachiya ko janam dene aayi thi.",
+   "fx": "none",
+   "sub": "She had come to give birth to her calf.",
+   "say": "वह अपनी बछिया को जन्म देने आई थी।"
+  },
+  {
+   "image": "The Buyer, a stern-faced man, stands at their farm gate, looking angry. Riya and Rohan look at him with concern.",
+   "speaker": "narrator",
+   "line": "Par kuch der mein khariddar bhi aa gaya.",
+   "fx": "none",
+   "sub": "But soon the buyer also arrived.",
+   "say": "पर कुछ देर में खरीदार भी आ गया।"
+  },
+  {
+   "image": "The Buyer points directly at Gauri and her calf with a firm, angry expression. Riya and Rohan stand protectively near Gauri, looking distressed.",
+   "speaker": "Buyer",
+   "line": "Meri gai, mera bachha bhi mera hai!",
+   "fx": "none",
+   "sub": "My cow, my calf is also mine!",
+   "say": "मेरी गाय, मेरा बच्चा भी मेरा है!"
+  },
+  {
+   "image": "Rohan holds the newborn calf gently, looking torn between the calf and the distant thought of his engineering school. Gauri watches him with gentle eyes.",
+   "speaker": "narrator",
+   "line": "Rohan ka school aur Gauri ka pyaar.",
+   "fx": "none",
+   "sub": "Rohan's school and Gauri's love.",
+   "say": "रोहन का स्कूल और गौरी का प्यार।"
+  },
+  {
+   "image": "Riya looks directly into the camera, her face conveying the heavy dilemma she feels.",
+   "speaker": "narrator",
+   "line": "Aap hote toh kya karte? Dil ya dimag?",
+   "fx": "none",
+   "sub": "What would you do? Heart or mind?",
+   "say": "आप होते तो क्या करते? दिल या दिमाग?"
+  }
+ ],
+ "caption": "Sold Our Cow For School... Then She Returned With A Secret 💔",
+ "slug": "2026-11-23_part3",
+ "story_no": 81,
+ "yt_title": "Sold Our Cow For School... Then She Returned With A Secret 💔",
+ "description": "A farmer's son sells their beloved cow, Gauri, to afford engineering school, breaking everyone's heart.\nBut when Gauri unbelievably walks back home miles away, she reveals a secret that leaves the family with an impossible choice.\nAap hote toh kya karte? Dil ya dimag?",
+ "comment_question": "Aap hote toh kya karte? Dil ya dimag?",
+ "hashtags": [
+  "#moralstory",
+  "#animalstory",
+  "#pyaarkikahani",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalbond",
+  "#cowlove",
+  "#sachhidosti",
+  "#नैतिककहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}

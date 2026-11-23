@@ -1,0 +1,172 @@
+{
+ "series": "The Unseen Burden of Love",
+ "episode": 1,
+ "title": "The Unseen Burden of Love",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Ananya: Female, early 20s. Fair skin, long soft wavy dark-brown hair, natural makeup, small earrings. Wears a light blue elegant kurta at home.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Male, early 20s. Light wheatish skin, short neat dark hair, clean-shaven. Wears a slightly rumpled but still smart casual shirt and trousers, looking tired but determined.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "USKA RAAS KYUN CHHUPA THA?",
+ "scenes": [
+  {
+   "image": "Close-up of Ananya's face, warm light, slightly sad smile, holding a phone to her ear. (Female, early 20s, long wavy dark-brown hair, small earrings, light blue kurta).",
+   "speaker": "narrator",
+   "line": "Humari saalgirah. Phir dooriyan jeet gayin.",
+   "fx": "none",
+   "sub": "Our birthday. Distances won again.",
+   "say": "हमारी सालगिरह। फिर दूरियाँ जीत गईं।"
+  },
+  {
+   "image": "Ananya looking at a small, unlit birthday cake on her table, expression of quiet disappointment in her Delhi apartment.",
+   "speaker": "narrator",
+   "line": "Rohan London mein tha, main Delhi mein.",
+   "fx": "none",
+   "sub": "Rohan was in London, I was in Delhi.",
+   "say": "रोहन लंदन में था, मैं दिल्ली में।"
+  },
+  {
+   "image": "Ananya on her bed, scrolling through photos of her and Rohan together on her phone, a wistful look.",
+   "speaker": "narrator",
+   "line": "Pehle bhi humne kitni saalgirah chhodi thi.",
+   "fx": "none",
+   "sub": "We had missed so many birthdays before.",
+   "say": "पहले भी हमने कितनी सालगिरह छोड़ी थी।"
+  },
+  {
+   "image": "Rohan's face on a video call, looking genuinely sad and apologetic. (Male, early 20s, short neat dark hair, smart casual shirt).",
+   "speaker": "Rohan",
+   "line": "Meri flight ruk gayi, Ananya. Aa nahi paunga.",
+   "fx": "none",
+   "sub": "My flight was stopped, Ananya. I won't be able to come.",
+   "say": "मेरी फ़्लाइट रुक गई, अनन्या। आ नहीं पाऊँगा।"
+  },
+  {
+   "image": "Ananya's face, trying to be brave and understanding, a tear forming at the corner of her eye.",
+   "speaker": "narrator",
+   "line": "Uski awaaz mein dard tha, main jaanti thi.",
+   "fx": "none",
+   "sub": "There was pain in his voice, I knew it.",
+   "say": "उसकी आवाज़ में दर्द था, मैं जानती थी।"
+  },
+  {
+   "image": "Ananya looking out her apartment window at the dark street below, feeling lonely and isolated. (Night scene).",
+   "speaker": "narrator",
+   "line": "Raat dheere-dheere gehri hoti ja rahi thi.",
+   "fx": "none",
+   "sub": "The night was slowly deepening.",
+   "say": "रात धीरे-धीरे गहरी होती जा रही थी।"
+  },
+  {
+   "image": "Close-up of a dimly lit door, with a hand knocking gently. Ananya's shadow visible inside.",
+   "speaker": "narrator",
+   "line": "Phir adhi raat ko mere darwaze par khatkhatahat.",
+   "fx": "none",
+   "sub": "Then, at midnight, a knock on my door.",
+   "say": "फिर आधी रात को मेरे दरवाज़े पर खटखटाहट।"
+  },
+  {
+   "image": "Ananya opening the door, wide-eyed in shock and surprise. Rohan stands there, looking very tired but smiling, holding a small cake.",
+   "speaker": "narrator",
+   "line": "Rohan! Uske haath mein ek chhota cake tha.",
+   "fx": "none",
+   "sub": "Rohan! He had a small cake in his hand.",
+   "say": "रोहन! उसके हाथ में एक छोटा केक था।"
+  },
+  {
+   "image": "Close-up of Rohan's face, exhausted, eyes slightly red, but a loving smile. His rumpled shirt is visible, suggesting a long journey.",
+   "speaker": "narrator",
+   "line": "Usne Mumbai se gaadi chalayi thi, teen ghante.",
+   "fx": "none",
+   "sub": "He had driven from Mumbai, three hours.",
+   "say": "उसने मुंबई से गाड़ी चलाई थी, तीन घंटे।"
+  },
+  {
+   "image": "Ananya hugging Rohan tightly, tears of joy streaming down her face. He looks relieved, holding her close.",
+   "speaker": "narrator",
+   "line": "Meri khushi ka koi thikana na tha.",
+   "fx": "none",
+   "sub": "My happiness knew no bounds.",
+   "say": "मेरी खुशी का कोई ठिकाना न था।"
+  },
+  {
+   "image": "Rohan sleeping peacefully on Ananya's sofa, looking very worn out. Close-up on his face, showing deep exhaustion.",
+   "speaker": "narrator",
+   "line": "Woh thaka hua tha. Gehra soya hua tha.",
+   "fx": "none",
+   "sub": "He was tired. Deeply asleep.",
+   "say": "वो थका हुआ था। गहरा सोया हुआ था।"
+  },
+  {
+   "image": "Ananya carefully picking up his old, worn wallet from a side table next to the sofa, a hesitant expression.",
+   "speaker": "narrator",
+   "line": "Phir mujhe uska purana wallet dikha.",
+   "fx": "none",
+   "sub": "Then I saw his old wallet.",
+   "say": "फिर मुझे उसका पुराना वॉलेट दिखा।"
+  },
+  {
+   "image": "Close-up of Rohan's phone screen (lying next to the wallet) showing an airline notification about a refund related to 'job cessation' for a London flight. Ananya's hand holding the wallet is visible.",
+   "speaker": "narrator",
+   "line": "Phone par ek message tha, naukri chhootne ka.",
+   "fx": "none",
+   "sub": "There was a message on his phone, about losing his job.",
+   "say": "फ़ोन पर एक मैसेज था, नौकरी छूटने का।"
+  },
+  {
+   "image": "Ananya's face, shocked, then a look of understanding and pain, tears welling up as she realizes the depth of his sacrifice.",
+   "speaker": "narrator",
+   "line": "Usne ye sach chhupaya tha. Sab mere liye.",
+   "fx": "none",
+   "sub": "He had hidden this truth. All for me.",
+   "say": "उसने ये सच छुपाया था। सब मेरे लिए।"
+  },
+  {
+   "image": "Ananya looking at Rohan sleeping, tears in her eyes, hand hovering over his face, conflicted emotions of love and sorrow.",
+   "speaker": "narrator",
+   "line": "Pyaar ka ye kaisa ajab sach tha?",
+   "fx": "none",
+   "sub": "What kind of strange truth was this love?",
+   "say": "प्यार का ये कैसा अजब सच था?"
+  },
+  {
+   "image": "Ananya sits beside Rohan, still sleeping, looking at him with deep love but also a heavy heart. The unlit cake is faintly visible in the background.",
+   "speaker": "narrator",
+   "line": "Kya use jagaoon, ya abhi chup rahoon?",
+   "fx": "none",
+   "sub": "Should I wake him, or remain silent for now?",
+   "say": "क्या उसे जगाऊँ, या अभी चुप रहूँ?"
+  }
+ ],
+ "caption": "He Drove 3 Hours At 3 AM For Her Birthday... Then She Saw His Phone 😱",
+ "slug": "2026-11-23_part1",
+ "story_no": 79,
+ "yt_title": "He Drove 3 Hours At 3 AM For Her Birthday... Then She Saw His Phone 😱",
+ "description": "Long distance made their birthdays hard. When his flight was cancelled, she thought all hope was lost, until a late-night knock changed everything. But the true cost of his gesture revealed a heartbreaking secret. Would you confront him or let him rest?",
+ "comment_question": "Kya use jagana sahi hota? Haan ya na?",
+ "hashtags": [
+  "#lovestory",
+  "#premkahani",
+  "#emotionalstory",
+  "#storytime",
+  "#hindistory",
+  "#longdistancerelationship",
+  "#sachapyaar",
+  "#प्रेमकहानी",
+  "#hindikahani",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदीकहानी",
+  "#कहानी"
+ ]
+}

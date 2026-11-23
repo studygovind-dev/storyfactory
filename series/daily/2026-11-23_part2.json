@@ -1,0 +1,164 @@
+{
+ "series": "The Treadmill Tsunami",
+ "episode": 2,
+ "title": "The Treadmill Tsunami",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A kind, wise storyteller.",
+   "voice": "hindi_narrator_male"
+  },
+  "Arjun": {
+   "look": "Young man, slightly plump but trying to look fit, with a nervous smile. Wears a bright orange t-shirt and too-short blue athletic shorts. Sweating profusely. Fair skin, clear face.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Trainer Priya": {
+   "look": "Fit, stern but patient young woman. Wears a sleek black gym outfit. Long soft wavy dark-brown hair, small earrings, natural makeup. Fair skin, bright soft light on face.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Mr. Sharma": {
+   "look": "Older, distinguished gym owner, initially in a formal suit, then drenched and furious. Fair skin, clear face.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Gym ka pehla din?",
+ "scenes": [
+  {
+   "image": "Arjun, looking utterly shocked and completely drenched, stands amidst a chaotic, wet gym. People are running, water is everywhere. His eyes are wide with disbelief. The scene is still active with water gushing.",
+   "speaker": "narrator",
+   "line": "Gym mein aaj tak aisa kuch nahi hua tha.",
+   "fx": "none",
+   "say": "जिम में आज तक ऐसा कुछ नहीं हुआ था।"
+  },
+  {
+   "image": "Arjun, trying to look confident but clearly nervous, enters a sleek, modern gym. He's wearing a bright orange t-shirt and too-short blue athletic shorts. Shiny, high-tech equipment is visible all around him.",
+   "speaker": "narrator",
+   "line": "Arjun ko fit hona tha, gaya bade gym mein.",
+   "fx": "none",
+   "say": "अर्जुन को फिट होना था, गया बड़े जिम में।"
+  },
+  {
+   "image": "Close-up on Arjun's face, wide-eyed and slightly intimidated, looking at a super-fancy treadmill with many buttons and a large digital screen. He looks confused but tries to hide it with a faux-casual expression.",
+   "speaker": "Arjun",
+   "line": "\"Waah! Kitna modern machine hai!\"",
+   "fx": "none",
+   "say": "\"वाह! कितना मॉडर्न मशीन है!\""
+  },
+  {
+   "image": "Arjun awkwardly tries to get on the treadmill, fumbling with the controls. He nearly trips. Trainer Priya is walking by in the background, not yet noticing him, but other gym-goers glance his way.",
+   "speaker": "narrator",
+   "line": "Par chalana nahi aata tha usse kuch bhi.",
+   "fx": "none",
+   "say": "पर चलाना नहीं आता था उसे कुछ भी।"
+  },
+  {
+   "image": "Arjun is now on the treadmill, struggling to walk fast, face red from exertion. He pretends to understand the complex controls, casually pressing buttons without thinking.",
+   "speaker": "Arjun",
+   "line": "\"Dheere se chaloo, koi dekh na le!\"",
+   "fx": "none",
+   "say": "\"धीरे से चलूं, कोई देख न ले!\""
+  },
+  {
+   "image": "Close-up on Arjun's finger hovering over a prominent, large, shiny red button on the treadmill's console. It has an ambiguous, slightly alarming symbol on it. He looks curious and about to press it.",
+   "speaker": "narrator",
+   "line": "Ek bada lal button dikha, usne daba diya.",
+   "fx": "none",
+   "say": "एक बड़ा लाल बटन दिखा, उसने दबा दिया।"
+  },
+  {
+   "image": "Arjun looks confused for a moment, then shrugs, thinking nothing happened. He looks around casually, a slight frown of bewilderment on his face.",
+   "speaker": "Arjun",
+   "line": "\"Are? Kuch nahi hua!\" woh socha.",
+   "fx": "none",
+   "say": "\"अरे? कुछ नहीं हुआ!\" वो सोचा।"
+  },
+  {
+   "image": "Suddenly, the gym lights start flickering red, a loud, piercing alarm blares throughout the building. People stop their workouts, looking around in confusion and alarm.",
+   "speaker": "narrator",
+   "line": "Phir achanak, gym mein alarm baj gaya.",
+   "fx": "none",
+   "say": "फिर अचानक, जिम में अलार्म बज गया।"
+  },
+  {
+   "image": "Water gushes down from multiple sprinkler heads on the ceiling, drenching gym-goers who are now running and screaming for cover. Arjun looks up, completely startled and already soaked.",
+   "speaker": "narrator",
+   "line": "Aur upar se paani ki baarish shuru ho gayi!",
+   "fx": "rain",
+   "say": "और ऊपर से पानी की बारिश शुरू हो गई!"
+  },
+  {
+   "image": "Absolute chaos in the gym. People are slipping on the wet floor. Weights are crashing. Trainer Priya looks shocked and exasperated, pointing directly at Arjun, who is still on the treadmill, now fully drenched.",
+   "speaker": "Trainer Priya",
+   "line": "\"Arjun! Yeh kya kar diya tumne?\"",
+   "fx": "rain",
+   "say": "\"अर्जुन! ये क्या कर दिया तुमने?\""
+  },
+  {
+   "image": "Arjun, completely drenched and shivering, holds his hands up defensively, a look of utter confusion and innocence on his face. He's struggling to explain.",
+   "speaker": "Arjun",
+   "line": "\"Mujhe laga speed badh jayegi, bas!\"",
+   "fx": "rain",
+   "say": "\"मुझे लगा स्पीड बढ़ जाएगी, बस!\""
+  },
+  {
+   "image": "Mr. Sharma, the gym owner, walks into the flooded gym, wearing a formal suit that is now soaking wet. He looks utterly furious, his face red with anger, eyes glaring at Arjun.",
+   "speaker": "narrator",
+   "line": "Gym maalik Sharma ji gusse mein aaye.",
+   "fx": "rain",
+   "say": "जिम मालिक शर्मा जी गुस्से में आए।"
+  },
+  {
+   "image": "Close-up on Mr. Sharma's face, dripping wet, yelling at Arjun. Arjun looks terrified, shrinking back from the owner's rage.",
+   "speaker": "Mr. Sharma",
+   "line": "\"Yeh emergency button tha! Tum jante ho?\"",
+   "fx": "rain",
+   "say": "\"ये इमरजेंसी बटन था! तुम जानते हो?\""
+  },
+  {
+   "image": "Arjun looks down at the red button on the treadmill console, then at the gushing water from the sprinklers, then back at the furious owner. The realization slowly dawns on his face, his eyes widening in comprehension.",
+   "speaker": "Arjun",
+   "line": "\"Oh, toh yeh aag bujhane wala tha?\"",
+   "fx": "rain",
+   "say": "\"ओह, तो ये आग बुझाने वाला था?\""
+  },
+  {
+   "image": "Trainer Priya, now standing next to Arjun, shakes her head in disbelief. A slight, knowing smirk plays on her lips, but she keeps a straight face. Arjun looks utterly miserable, wanting to disappear.",
+   "speaker": "Trainer Priya",
+   "line": "\"Tumne poore gym ko hi naha diya!\"",
+   "fx": "rain",
+   "say": "\"तुमने पूरे जिम को ही नहला दिया!\""
+  },
+  {
+   "image": "Arjun stands alone in the now mostly empty, still dripping wet gym, looking utterly miserable but also a little bit proud (or cluelessly innocent) of the spectacle he caused. Water continues to drip from the ceiling.",
+   "speaker": "narrator",
+   "line": "Kya Arjun ki galti thi ya woh bechara tha?",
+   "fx": "rain",
+   "say": "क्या अर्जुन की गलती थी या वो बेचारा था?"
+  }
+ ],
+ "caption": "His First Gym Day Disaster! 😂 Treadmill Gone Wild!",
+ "slug": "2026-11-23_part2",
+ "story_no": 80,
+ "yt_title": "His First Gym Day Disaster! 😂 Treadmill Gone Wild!",
+ "description": "Arjun's first day at the fancy gym was meant to be epic. He just wanted a good workout! But one wrong button on the treadmill led to a hilarious, soaking disaster. Was it an accident, or was he just looking for an excuse? Aapko kya lagta hai?",
+ "comment_question": "Arjun ki galti thi ya bechara tha?",
+ "hashtags": [
+  "#hindijokes",
+  "#funnyreels",
+  "#comedy",
+  "#gymfail",
+  "#firstdaygym",
+  "#funnyvideos",
+  "#reelsindia",
+  "#chutkule",
+  "#मज़ेदारकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#storytime",
+  "#viralreels",
+  "#facebookreels"
+ ]
+}
