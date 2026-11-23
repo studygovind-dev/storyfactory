@@ -63,6 +63,12 @@ def make_and_send(day, part, wait, dry):
             time.sleep(early)
     send_telegram(video, ep)
     if dry:
+        import requests
+        for img in sorted(video.parent.glob("img_*.png"))[:6]:  # the pictures themselves, to judge their quality
+            with open(img, "rb") as fh:
+                requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendPhoto",
+                              data={"chat_id": env("TELEGRAM_CHAT_ID"), "caption": f"picture {img.stem}"},
+                              files={"photo": fh}, timeout=120)
         print("Dry run: not posting and not marking as sent.")
         return True
     problems = post_mmh(video, ep)
