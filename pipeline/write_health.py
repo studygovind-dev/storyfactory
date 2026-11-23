@@ -382,6 +382,10 @@ def make_one(day, n, history):
     else:
         sys.exit(f"Gemini could not write video {n} after 3 tries.")
     scenes = story["scenes"]
+    keys = list(story["characters"])
+    for sc in scenes:  # repair: a picture may only name characters that exist
+        sc["image"] = re.sub(r"\[\[(\w+)\]\]",
+                             lambda m: f"[[{m.group(1) if m.group(1) in keys else sc['speaker']}]]", sc["image"])
     if fmt == "character":
         for g in range(SCENES // 3):  # one picture per group of 3: same speaker, same picture
             first = scenes[3 * g]

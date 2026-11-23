@@ -60,7 +60,9 @@ def duration(path):
 
 def expand(text, chars):
     """Replace [[name]] with that character's fixed visual description."""
-    return re.sub(r"\[\[(\w+)\]\]", lambda m: chars[m.group(1)]["look"], text)
+    # an unknown name (the writer slipped) must never crash the video: the first character is used instead
+    first = next(iter(chars.values()), {}).get("look", "")
+    return re.sub(r"\[\[(\w+)\]\]", lambda m: chars.get(m.group(1), {}).get("look", first), text)
 
 
 # ---------------------------------------------------------------- 1. images
