@@ -17,7 +17,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from make_episode import ROOT, env, load_dotenv, send_telegram  # noqa: E402
-from post_social import post_mmh  # noqa: E402
+from post_social import mmh_token_problem, post_mmh  # noqa: E402
 
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
 ALL_TIMES = [(8, 0), (10, 30), (13, 0), (15, 30), (18, 0), (20, 30)]
@@ -103,6 +103,21 @@ def main():
     if not due:
         print(f"Nothing due right now ({now:%H:%M} IST).")
         return
+    if not a.dry:  # a dead Facebook token: say so once and do not waste an hour making videos nobody can post
+        problem = mmh_token_problem()
+        if problem:
+            import requests
+            print(f"Facebook token problem: {problem}")
+            marker = HEALTH / f"{day}_token_alert.sent"
+            if not marker.exists():
+                requests.post(f"https://api.telegram.org/bot{env('TELEGRAM_BOT_TOKEN')}/sendMessage",
+                              data={"chat_id": env("TELEGRAM_CHAT_ID"),
+                                    "text": "⚠️ Money Mind Health: the Facebook token has expired, so no video is being "
+                                            "made. Make a new long-lived Page token and update the GitHub secret "
+                                            f"MM_FB_PAGE_TOKEN.\n{problem[:200]}"}, timeout=60)
+                marker.write_text("alerted\n")
+                save_to_repo(f"Token alert for {day}")
+            return
     if any(not (HEALTH / f"{day}_h{p}.json").exists() for p in SEND_AT):
         if sh(sys.executable, str(ROOT / "pipeline" / "write_health.py"), day):
             sys.exit("Could not write today's health videos.")

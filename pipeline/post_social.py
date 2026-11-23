@@ -134,6 +134,27 @@ def post_instagram(video, ep, page, token):
     print(f"Instagram: posted reel {r.get('id')}")
 
 
+def mmh_token_problem():
+    """None when the Money Mind Health Page token works (or is not set up); otherwise a short reason."""
+    page = os.environ.get("MM_FB_PAGE_ID", "").strip()
+    token = os.environ.get("MM_FB_PAGE_TOKEN", "").strip()
+    if not (page and token):
+        return None
+    try:
+        r = requests.get(f"{GRAPH}/{page}", params={"fields": "id,name", "access_token": token}, timeout=60)
+    except requests.RequestException:
+        return None  # cannot tell: let the video try
+    if r.ok:
+        return None
+    try:
+        err = r.json().get("error", {})
+    except ValueError:
+        return None
+    if err.get("code") in (190, 102, 463, 467):  # token expired, invalid or logged out
+        return err.get("message", "the Facebook token is no longer valid")
+    return None
+
+
 def post_mmh(video, ep):
     """Money Mind Health Page: Facebook Reel only. Returns the list of problems (empty = fine)."""
     page = os.environ.get("MM_FB_PAGE_ID", "").strip()
