@@ -361,14 +361,25 @@ def make_voice_free(ep, i, scene, out):
     text = (scene.get("say") or scene["line"]).replace("*", "").replace("_", " ")  # drop markdown emphasis
     if os.environ.get("AZURE_SPEECH_KEY", "").strip():  # licensed Microsoft Azure Speech (commercial use OK)
         return make_voice_azure(voice, text, i, out, rate, pitch)
-    for attempt in range(6):  # the free voice service sometimes refuses a request; wait and retry
+    for attempt in range(9):  # the free voice service sometimes refuses a request; wait and retry
         r = subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice, "--text", text,
                             f"--rate={rate}", f"--pitch={pitch}",
                             "--write-media", str(out)], capture_output=True, text=True)
         if r.returncode == 0 and out.exists() and out.stat().st_size > 0:
             return
         print(f"  voice service refused scene {i + 1}, retrying...")
-        time.sleep(10 * (attempt + 1))
+        time.sleep(min(10 * (attempt + 1), 45))
+    # backup: the Google Translate voice (plainer, but it never leaves a video unfinished)
+    try:
+        from gtts import gTTS
+        tmp = out.with_suffix(".gtts.mp3")
+        gTTS(text=text, lang="hi" if voice.startswith("hi-") else "en").save(str(tmp))
+        run(["ffmpeg", "-y", "-i", str(tmp), "-filter:a", "atempo=1.3", str(out)])
+        tmp.unlink(missing_ok=True)
+        print(f"  scene {i + 1}: used the backup voice")
+        return
+    except Exception as e:  # noqa: BLE001 - any failure here just ends in the original error below
+        print(f"  backup voice failed too ({type(e).__name__})")
     sys.exit(f"Free voice failed on scene {i} (pip install edge-tts):\n{r.stderr[-800:]}")
 
 

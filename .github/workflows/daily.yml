@@ -66,7 +66,7 @@ jobs:
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-liberation
-          pip install -q requests edge-tts pillow transformers
+          pip install -q requests edge-tts gtts pillow transformers
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu   # free 3D depth model
           git config user.name "story-bot"
           git config user.email "story-bot@users.noreply.github.com"
