@@ -1,0 +1,168 @@
+{
+ "series": "Chhota Boss, Badi Kahani",
+ "episode": 2,
+ "title": "Chhota Boss, Badi Kahani",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A warm, engaging male storyteller with a slight smile.",
+   "voice": "hindi_narrator_male"
+  },
+  "Aisha": {
+   "look": "Young woman, early 20s, light wheatish skin, long soft wavy dark-brown hair tied in a neat ponytail, small silver earrings, wearing a pastel blue cotton kurta, often looks surprised or amused.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Ritesh": {
+   "look": "1-year-old baby boy, chubby cheeks, big black curious eyes, short curly black hair, wearing a light blue animal-themed onesie, sometimes looks mischievous or demanding.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Anuj": {
+   "look": "Ritesh's father, mid-30s, short black hair, clean-shaven, wearing a casual t-shirt, looks a bit tired but loving.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Neha": {
+   "look": "Ritesh's mother, mid-30s, long dark hair, simple casual salwar-kameez, looks warm and slightly stressed.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "BABY IS THE BOSS?",
+ "scenes": [
+  {
+   "image": "Close-up of baby Ritesh in his crib, looking directly at the viewer with a knowing, slightly mischievous smile, a toy remote control in his tiny hand. Focus on his expressive eyes.",
+   "speaker": "narrator",
+   "line": "Mujhe laga baby bas rota hai, par yeh toh boss hai!",
+   "fx": "none",
+   "say": "मुझे लगा बेबी बस रोता है, पर ये तो बॉस है!"
+  },
+  {
+   "image": "Aisha, a young woman with a blue kurta, stands in a modern, tidy living room, smiling as Anuj and Neha (Ritesh's parents) wave goodbye from the door. Aisha looks confident.",
+   "speaker": "narrator",
+   "line": "Aisha pehli baar Ritesh ko dekhne aayi thi.",
+   "fx": "none",
+   "say": "आयशा पहली बार रितेश को देखने आई थी।"
+  },
+  {
+   "image": "Ritesh is in his cot in a clean nursery, his big curious eyes fixed on Aisha who stands by the crib, smiling gently. A soft blanket is draped over him.",
+   "speaker": "narrator",
+   "line": "Ritesh apne palne mein tha, Aisha ko ghoor raha.",
+   "fx": "none",
+   "say": "रितेश अपने पालने में था, आयशा को घूर रहा।"
+  },
+  {
+   "image": "Close-up on Aisha's face. Her eyes widen in shock and surprise as she processes what Ritesh just 'said'. Her mouth is slightly open in disbelief.",
+   "speaker": "narrator",
+   "line": "Tabhi Ritesh ne kuch kaha, Aisha hairan reh gayi.",
+   "fx": "none",
+   "say": "तभी रितेश ने कुछ कहा, आयशा हैरान रह गई।"
+  },
+  {
+   "image": "Ritesh, in his crib, looks sternly towards the living room where a TV is visible. He makes a 'babbling' face, but his expression is serious and commanding.",
+   "speaker": "Ritesh",
+   "line": "Mummy-Papa ko bolo, abhi TV band karen.",
+   "fx": "none",
+   "say": "मम्मी-पापा को बोलो, अभी टीवी बंद करें।"
+  },
+  {
+   "image": "Aisha stands frozen in the living room, eyes darting from the TV remote on the table to the sound coming from Ritesh's room, a look of utter confusion and shock on her face.",
+   "speaker": "Aisha",
+   "line": "Par woh toh unka pasandida show hai.",
+   "fx": "none",
+   "say": "पर वो तो उनका पसंदीदा शो है।"
+  },
+  {
+   "image": "Ritesh in his crib, arms crossed (cutely), a tiny frown on his face, looking annoyed. He gestures towards his mouth as if indicating sleep.",
+   "speaker": "Ritesh",
+   "line": "Mera neend ka samay hai. Mere apne niyam hain.",
+   "fx": "none",
+   "say": "मेरा नींद का समय है। मेरे अपने नियम हैं।"
+  },
+  {
+   "image": "Aisha, still looking a bit bewildered but complying, walks towards the TV and slowly presses the power button on the remote. The parents, visible in the background, look back confused.",
+   "speaker": "narrator",
+   "line": "Aisha ne TV band kiya, Mummy-Papa hairan hue.",
+   "fx": "none",
+   "say": "आयशा ने टीवी बंद किया, मम्मी-पापा हैरान हुए।"
+  },
+  {
+   "image": "Close-up on Aisha's face, a lightbulb moment as her eyes widen further. She has a dawning realization, a mix of amusement and disbelief.",
+   "speaker": "narrator",
+   "line": "Aisha samajh gayi... yeh chhota baby asli boss hai!",
+   "fx": "none",
+   "say": "आयशा समझ गई... ये छोटा बेबी असली बॉस है!"
+  },
+  {
+   "image": "Later in the evening, Anuj and Neha are sitting at the dining table, happily eating their dinner. A plate of Indian food is in front of them.",
+   "speaker": "narrator",
+   "line": "Kuch der baad, Mummy-Papa dinner kar rahe the.",
+   "fx": "none",
+   "say": "कुछ देर बाद, मम्मी-पापा डिनर कर रहे थे।"
+  },
+  {
+   "image": "Ritesh, still in his crib, is not crying loudly but making soft, insistent 'babbling' sounds, looking directly at Aisha with a pointed gaze, gesturing towards the kitchen.",
+   "speaker": "Ritesh",
+   "line": "Bolo unko, mere doodh ka samay ho gaya hai.",
+   "fx": "none",
+   "say": "बोलो उनको, मेरे दूध का समय हो गया है।"
+  },
+  {
+   "image": "Aisha stands confidently before Anuj and Neha at the dining table, arms akimbo, a slight smirk on her face, delivering Ritesh's 'message'. The parents look up, surprised.",
+   "speaker": "Aisha",
+   "line": "Ritesh ko doodh chahiye. Abhi.",
+   "fx": "none",
+   "say": "रितेश को दूध चाहिए। अभी।"
+  },
+  {
+   "image": "Anuj and Neha exchange confused glances, then slowly get up from the table, looking towards the kitchen, a mix of bewilderment and resignation on their faces.",
+   "speaker": "narrator",
+   "line": "Mummy-Papa hairan, par doodh banane lage.",
+   "fx": "none",
+   "say": "मम्मी-पापा हैरान, पर दूध बनाने लगे।"
+  },
+  {
+   "image": "Aisha stands next to Ritesh's crib, a secret smile on her face, as Ritesh sips his milk happily, looking very content and smug. They share a conspiratorial look.",
+   "speaker": "narrator",
+   "line": "Aisha ab Ritesh ki secret sahayak ban gayi.",
+   "fx": "none",
+   "say": "आयशा अब रितेश की सीक्रेट सहायक बन गई।"
+  },
+  {
+   "image": "Ritesh takes a satisfied gulp of milk, then winks playfully at Aisha, who giggles softly. He looks like a little commander pleased with his operations.",
+   "speaker": "Ritesh",
+   "line": "Bas aise hi kaam karte rehna.",
+   "fx": "none",
+   "say": "बस ऐसे ही काम करते रहना।"
+  },
+  {
+   "image": "Aisha looks directly at the camera with a knowing, slightly mischievous smile, one finger to her lips, as if sharing a secret. The baby's crib is softly blurred in the background.",
+   "speaker": "Aisha",
+   "line": "Aap uske is raaz ko chhupaogi ya bataogi?",
+   "fx": "none",
+   "say": "आप उसके इस राज़ को छुपाओगी या बताओगी?"
+  }
+ ],
+ "caption": "Babysitter Discovers Baby is Secretly the Household Boss 👶😲",
+ "slug": "2026-11-24_part2",
+ "story_no": 83,
+ "yt_title": "Babysitter Discovers Baby is Secretly the Household Boss 👶😲",
+ "description": "This new babysitter thought it was just baby talk, but she quickly learned who really runs the house! \nShe stumbles upon a tiny secret that changes everything she thought about babysitting. \nWill you keep this little boss's secret, or tell the parents? Share your thoughts!",
+ "comment_question": "Aap uske is raaz ko chhupaogi ya bataogi?",
+ "hashtags": [
+  "#hindijokes",
+  "#funnyreels",
+  "#comedy",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnyjokes",
+  "#babystory",
+  "#chutkule",
+  "#मज़ेदारकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}

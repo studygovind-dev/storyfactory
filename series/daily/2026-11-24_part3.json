@@ -1,0 +1,176 @@
+{
+ "series": "Pyar Ka Anmol Rishta",
+ "episode": 3,
+ "title": "Pyar Ka Anmol Rishta",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Rina, a young woman in her 20s. Long, soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta, fair skin.",
+   "voice": "hindi_female_young"
+  },
+  "Aisha": {
+   "look": "An Indian woman in her late 50s. Stern but kind eyes, silver-streaked dark hair tied neatly, simple but elegant saree, light wheatish skin.",
+   "voice": "hindi_narrator_female"
+  },
+  "Karan": {
+   "look": "A young Indian man in his late 20s. Warm smile, neat dark hair, simple button-up shirt, clear skin.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "MOTHER-IN-LAW HATED ME.",
+ "scenes": [
+  {
+   "image": "Rina, a young Indian woman with long dark hair, looking distraught and on the verge of tears, sitting in a tastefully decorated living room.",
+   "speaker": "narrator",
+   "line": "Humari saas mujhse nafrat karti thi.",
+   "fx": "none",
+   "sub": "My mother-in-law hated me.",
+   "say": "हमारी सास मुझसे नफरत करती थी।"
+  },
+  {
+   "image": "Rina and Karan, both young, fair-skinned Indian individuals, smiling lovingly at each other during their traditional wedding ceremony, wearing garlands.",
+   "speaker": "narrator",
+   "line": "Karan se pyaar karke shadi ki thi.",
+   "fx": "none",
+   "sub": "I loved Karan and married him.",
+   "say": "करण से प्यार करके शादी की थी।"
+  },
+  {
+   "image": "Aisha, an older Indian woman, sitting alone on a sofa, looking stern and distant, avoiding eye contact with Rina who is standing respectfully in the background.",
+   "speaker": "narrator",
+   "line": "Par Saasu Maa mujhse baat nahi karti.",
+   "fx": "none",
+   "sub": "But Mother-in-law never spoke to me.",
+   "say": "पर सासू माँ मुझसे बात नहीं करती।"
+  },
+  {
+   "image": "Rina in a traditional Indian kitchen, looking hopeful but slightly worried, carefully preparing food on a stove, a thali visible.",
+   "speaker": "narrator",
+   "line": "Maine unhe khush karne ki bahut koshish ki.",
+   "fx": "none",
+   "sub": "I tried hard to make her happy.",
+   "say": "मैंने उन्हें खुश करने की बहुत कोशिश की।"
+  },
+  {
+   "image": "Rina sitting on the floor in a corner of a room, hugging her knees, looking small, sad, and isolated, with tears in her eyes.",
+   "speaker": "narrator",
+   "line": "Har din main anjaan mehsoos karti thi.",
+   "fx": "none",
+   "sub": "Every day I felt like a stranger.",
+   "say": "हर दिन मैं अनजान महसूस करती थी।"
+  },
+  {
+   "image": "Aisha lying in a hospital bed, very pale and weak, an Indian doctor with a concerned expression looking at her chart.",
+   "speaker": "narrator",
+   "line": "Ek din Saasu Maa bahut beemaar pad gayi.",
+   "fx": "none",
+   "sub": "One day Mother-in-law fell very ill.",
+   "say": "एक दिन सासू माँ बहुत बीमार पड़ गई।"
+  },
+  {
+   "image": "Karan, looking intensely worried, talking to the Indian doctor outside Aisha's hospital room, holding his head in distress.",
+   "speaker": "narrator",
+   "line": "Doctor ne bataya, unhe naya khoon chahiye.",
+   "fx": "none",
+   "sub": "Doctor said, she needed new blood.",
+   "say": "डॉक्टर ने बताया, उन्हें नया खून चाहिए।"
+  },
+  {
+   "image": "Rina standing near the hospital room door, overhearing the conversation, her face shifting from sadness to determined resolve, eyes wide.",
+   "speaker": "narrator",
+   "line": "Unka khoon bahut mushkil se milta tha.",
+   "fx": "none",
+   "sub": "Her blood type was very rare.",
+   "say": "उनका खून बहुत मुश्किल से मिलता था।"
+  },
+  {
+   "image": "Rina in a hospital bed, wearing a gown, arm outstretched as a nurse takes her blood. Rina looks a little pale but resolute.",
+   "speaker": "narrator",
+   "line": "Main chupchaap khoon dene chali gayi.",
+   "fx": "none",
+   "sub": "I quietly went to donate blood.",
+   "say": "मैं चुपचाप खून देने चली गई।"
+  },
+  {
+   "image": "Aisha in her hospital bed, looking much better and more alert, a faint, soft smile on her face, but still appearing weak.",
+   "speaker": "narrator",
+   "line": "Kuch dino mein Saasu Maa theek ho gayi.",
+   "fx": "none",
+   "sub": "In a few days Mother-in-law recovered.",
+   "say": "कुछ दिनों में सासू माँ ठीक हो गई।"
+  },
+  {
+   "image": "Aisha sitting on her bed at home, holding a slightly faded, sepia-toned photograph of a young Indian couple, looking contemplative and melancholic. Rina watches her from the doorway.",
+   "speaker": "narrator",
+   "line": "Tab unhone mujhe ek purani tasveer dikhai.",
+   "fx": "none",
+   "sub": "Then she showed me an old photograph.",
+   "say": "तब उन्होंने मुझे एक पुरानी तस्वीर दिखाई।"
+  },
+  {
+   "image": "Close-up on the faded photograph, showing a young Aisha smiling joyfully with a handsome young man, perhaps in a garden setting.",
+   "speaker": "narrator",
+   "line": "Yeh unka pehla pyaar tha, jo kho gaya.",
+   "fx": "none",
+   "sub": "This was her first love, whom she lost.",
+   "say": "यह उनका पहला प्यार था, जो खो गया।"
+  },
+  {
+   "image": "Aisha looking at Rina with soft, teary eyes, a deep understanding and a hint of remorse finally dawning on her face.",
+   "speaker": "narrator",
+   "line": "Meri shaadi unko unke pyaar ki yaad dilaati thi.",
+   "fx": "none",
+   "sub": "My marriage reminded her of her lost love.",
+   "say": "मेरी शादी उनको उनके प्यार की याद दिलाती थी।"
+  },
+  {
+   "image": "Aisha gently taking Rina's hands, placing a beautiful, intricate gold pendant into her palm. Rina looks surprised and deeply touched.",
+   "speaker": "narrator",
+   "line": "Unhone apni khaas gold pendant mujhe di.",
+   "fx": "none",
+   "sub": "She gave me her special gold pendant.",
+   "say": "उन्होंने अपनी खास गोल्ड पेंडेंट मुझे दी।"
+  },
+  {
+   "image": "Aisha embracing Rina tightly, Rina burying her face in Aisha's shoulder, tears of happiness streaming down her face, a warm emotional moment.",
+   "speaker": "narrator",
+   "line": "Aur pehli baar mujhe ‘beti’ bulaya.",
+   "fx": "none",
+   "sub": "And for the first time called me 'daughter'.",
+   "say": "और पहली बार मुझे ‘बेटी’ बुलाया।"
+  },
+  {
+   "image": "Rina smiling warmly at the camera, touching the gold pendant around her neck, her eyes glistening with emotion.",
+   "speaker": "narrator",
+   "line": "Kya pyaar ka naya rishta purane ghaav bhar sakta hai?",
+   "fx": "none",
+   "sub": "Can a new bond of love heal old wounds?",
+   "say": "क्या प्यार का नया रिश्ता पुराने घाव भर सकता है?"
+  }
+ ],
+ "caption": "My Mother-in-Law Hated My Love Marriage... Until This Happened 💔",
+ "slug": "2026-11-24_part3",
+ "story_no": 84,
+ "yt_title": "My Mother-in-Law Hated My Love Marriage... Until This Happened 💔",
+ "description": "My mother-in-law hated my love marriage and ignored me every day.\nBut when she fell gravely ill, a secret act revealed a hidden pain in her past.\nKya pyaar ka naya rishta purane ghaav bhar sakta hai?",
+ "comment_question": "Kya pyaar ka naya rishta purane ghaav bhar sakta hai?",
+ "hashtags": [
+  "#lovestory",
+  "#premkahani",
+  "#emotionalstory",
+  "#story",
+  "#storytime",
+  "#indianstory",
+  "#sachapyaar",
+  "#प्रेमकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदीकहानी"
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "series": "The Sea's Silent Guardian",
+ "episode": 1,
+ "title": "The Sea's Silent Guardian",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, young woman, early 20s, long wavy dark-brown hair, expressive eyes, wearing a simple blue kurta, fair skin.",
+   "voice": "hindi_narrator_female"
+  },
+  "Priya": {
+   "look": "Priya, young woman, early 20s, long wavy dark-brown hair, expressive eyes, wearing a simple blue kurta, fair skin.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Priya's younger brother, 8-year-old boy, innocent face, short dark hair, wearing a striped t-shirt.",
+   "voice": "hindi_male_young"
+  },
+  "Papa": {
+   "look": "Fisherman, middle-aged, weathered face, strong build, wearing a simple lungi and shirt.",
+   "voice": "hindi_male_young"
+  },
+  "Dhruv": {
+   "look": "A friendly dolphin, sleek grey, noticeable small scar near its dorsal fin.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "Samundar ne mera bhai cheena!",
+ "scenes": [
+  {
+   "image": "Priya looking distressed at a stormy sea, clutching a small, wet child's toy. Rain drops on her face, tears in her eyes.",
+   "speaker": "narrator",
+   "line": "Uss din samundar ne mera chhota bhai cheen liya tha.",
+   "fx": "rain",
+   "sub": "That day the sea took my little brother.",
+   "say": "उस दिन समुंदर ने मेरा छोटा भाई छीन लिया था।"
+  },
+  {
+   "image": "Priya smiling, watching Rohan playing happily by the shore, splashing water. Sun shining.",
+   "speaker": "narrator",
+   "line": "Rohan, mera aath saal ka bhai, samundar se bahut pyaar karta tha.",
+   "fx": "none",
+   "sub": "Rohan, my eight-year-old brother, loved the sea very much.",
+   "say": "रोहन, मेरा आठ साल का भाई, समुंदर से बहुत प्यार करता था।"
+  },
+  {
+   "image": "Papa mending a fishing net on the shore, looking strong but tired. Rohan watching him intently, fascinated.",
+   "speaker": "narrator",
+   "line": "Humara papa machhli pakadte the, usi se ghar chalta tha.",
+   "fx": "none",
+   "sub": "Our father caught fish, that's how our home ran.",
+   "say": "हमारा पापा मछली पकड़ते थे, उसी से घर चलता था।"
+  },
+  {
+   "image": "Empty fishing boat near shore. Priya and Papa searching frantically along the beach, calling out Rohan's name. Fear on their faces.",
+   "speaker": "narrator",
+   "line": "Ek shaam, Rohan boat par khelte hue, kahin kho gaya.",
+   "fx": "none",
+   "sub": "One evening, Rohan, playing on the boat, got lost somewhere.",
+   "say": "एक शाम, रोहन बोट पर खेलते हुए, कहीं खो गया।"
+  },
+  {
+   "image": "Priya and Papa looking horrified at the rapidly darkening, stormy sea. Wind blowing their hair wildly, expressions of terror.",
+   "speaker": "narrator",
+   "line": "Phir achanak, tez toofan aa gaya. Hum dar gaye.",
+   "fx": "rain",
+   "sub": "Then suddenly, a fierce storm came. We got scared.",
+   "say": "फिर अचानक, तेज़ तूफ़ान आ गया। हम डर गए।"
+  },
+  {
+   "image": "Papa on a small fishing boat, battling rough waves, calling out Rohan's name with desperation. Rain blurring his vision.",
+   "speaker": "narrator",
+   "line": "Papa apni chhoti naav lekar use dhoondhne nikle.",
+   "fx": "rain",
+   "sub": "Papa took his small boat to search for him.",
+   "say": "पापा अपनी छोटी नाव लेकर उसे ढूँढने निकले।"
+  },
+  {
+   "image": "Papa looking surprised, then hopeful, as Dhruv the dolphin leaps gracefully near his boat. Water splashing around them.",
+   "speaker": "narrator",
+   "line": "Tabhi, humara purana dost Dhruv, samne aa gaya.",
+   "fx": "rain",
+   "sub": "Just then, our old friend Dhruv, appeared in front.",
+   "say": "तभी, हमारा पुराना दोस्त ध्रुव, सामने आ गया।"
+  },
+  {
+   "image": "Dhruv swimming steadily ahead of Papa's boat, looking back as if to guide him. Papa following intently, steering the boat through waves.",
+   "speaker": "narrator",
+   "line": "Woh Papa ki naav ke aage-aage chalne laga.",
+   "fx": "rain",
+   "sub": "It started swimming ahead of Papa's boat.",
+   "say": "वह पापा की नाव के आगे-आगे चलने लगा।"
+  },
+  {
+   "image": "Papa's face filled with immense relief and tears of joy as he sees Rohan clinging to a piece of driftwood in the distance. Dhruv nearby.",
+   "speaker": "narrator",
+   "line": "Thodi der mein, Dhruv ne Rohan ko dikha diya.",
+   "fx": "none",
+   "sub": "In a little while, Dhruv showed us Rohan.",
+   "say": "थोड़ी देर में, ध्रुव ने रोहन को दिखा दिया।"
+  },
+  {
+   "image": "Papa hugging Rohan tightly on the boat, both soaked, tears of relief streaming down Papa's face. Rohan burying his face in Papa's shoulder. Dhruv close by, looking at them.",
+   "speaker": "narrator",
+   "line": "Papa ne use apni baahon mein bhar liya. Meri jaan mein jaan aayi.",
+   "fx": "none",
+   "sub": "Papa hugged him in his arms. I felt alive again.",
+   "say": "पापा ने उसे अपनी बाहों में भर लिया। मेरी जान में जान आई।"
+  },
+  {
+   "image": "Closer shot of Dhruv looking at Papa with an almost human understanding in its eyes. Papa gently touching the water towards Dhruv with a grateful expression.",
+   "speaker": "narrator",
+   "line": "Hum sab Dhruv ki wafadari se hairan the.",
+   "fx": "none",
+   "sub": "We were all amazed by Dhruv's loyalty.",
+   "say": "हम सब ध्रुव की वफ़ादारी से हैरान थे।"
+  },
+  {
+   "image": "Flashback: A younger Papa (same appearance, just younger expression) carefully releasing a baby dolphin (Dhruv as a calf) from a tangled fishing net. Water is clear.",
+   "speaker": "narrator",
+   "line": "Papa ne bataya, saalon pehle unhone Dhruv ke bachpan mein jaan bachayi thi.",
+   "fx": "dust",
+   "sub": "Papa told, years ago he saved Dhruv's life in its childhood.",
+   "say": "पापा ने बताया, सालों पहले उन्होंने ध्रुव के बचपन में जान बचाई थी।"
+  },
+  {
+   "image": "Flashback: An adult dolphin (Dhruv's mother) gently touching Papa's hand in the water, as if in gratitude, after her calf (Dhruv) was saved. Papa looks moved.",
+   "speaker": "narrator",
+   "line": "Uski maa ne shukraguzari mein humari hifazat ka vada kiya tha.",
+   "fx": "dust",
+   "sub": "Its mother had promised our protection in gratitude.",
+   "say": "उसकी माँ ने शुक्रगुज़ारी में हमारी हिफ़ाज़त का वादा किया था।"
+  },
+  {
+   "image": "Priya, Rohan, and Papa on the boat, all looking at Dhruv swimming gracefully beside them. All three are smiling, a profound connection evident.",
+   "speaker": "narrator",
+   "line": "Woh vada Dhruv ne nibhaya. Humara rishta aur gehra ho gaya.",
+   "fx": "none",
+   "sub": "Dhruv fulfilled that promise. Our bond grew deeper.",
+   "say": "वह वादा ध्रुव ने निभाया। हमारा रिश्ता और गहरा हो गया।"
+  },
+  {
+   "image": "Priya at the shore, watching the vast ocean, a thoughtful, slightly serious expression on her face, contemplating.",
+   "speaker": "narrator",
+   "line": "Unjaan jaanwar ne humara saath diya. Humara farz kya hai?",
+   "fx": "none",
+   "sub": "An unknown animal supported us. What is our duty?",
+   "say": "अनजान जानवर ने हमारा साथ दिया। हमारा फ़र्ज़ क्या है?"
+  },
+  {
+   "image": "Close up of Priya's face, looking directly at the camera with a searching, questioning look in her eyes.",
+   "speaker": "narrator",
+   "line": "Aap hoti toh Dhruv jaise doston ke liye kya karti?",
+   "fx": "none",
+   "sub": "If it were you, what would you do for friends like Dhruv?",
+   "say": "आप होती तो ध्रुव जैसे दोस्तों के लिए क्या करती?"
+  }
+ ],
+ "caption": "Dolphin Saved My Brother Lost at Sea 🐬 | Unbreakable Bond",
+ "slug": "2026-11-24_part1",
+ "story_no": 82,
+ "yt_title": "Dolphin Saved My Brother Lost at Sea 🐬 | Unbreakable Bond",
+ "description": "The sea took my little brother, Rohan. We thought all hope was lost in the storm.\nBut then, a loyal dolphin appeared, leading us to an astonishing, years-old secret.\nIf a wild animal saves your family, what is your duty towards it?",
+ "comment_question": "Aap hoti toh Dhruv jaise doston ke liye kya karti?",
+ "hashtags": [
+  "#moralstory",
+  "#animalstory",
+  "#pyaarkikahani",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalrescue",
+  "#dolphin",
+  "#sachhidosti",
+  "#नैतिककहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}
