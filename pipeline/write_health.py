@@ -30,9 +30,18 @@ SUFFIX_CHARACTER = ("The character is NOT a person: no human face, no girl, no b
 STYLE_BRAIN = ("cinematic 3D render of a glowing human brain with neon blue and violet neural pathways, "
                "dark background, soft volumetric light, ultra detailed, vertical 9:16")
 SUFFIX_BRAIN = "No people, no faces, no text, no watermark, no logos."
-STYLE_YOGA = ("natural photo of a young Indian woman in simple comfortable yoga clothes doing a yoga pose on a "
-              "mat in a bright clean room, soft daylight, full body visible, calm expression, vertical 9:16")
-SUFFIX_YOGA = "One woman only, correct anatomy, no text, no watermark, no logos."
+STYLE_YOGA = ("clean medical 3D illustration of a translucent human body in the yoga pose, the spine and the "
+              "working muscles softly glowing, dark blue background, whole body visible, scientific, highly "
+              "detailed, vertical 9:16")
+SUFFIX_YOGA = "Show the whole body, not a close-up of a face. Correct anatomy. No text, no watermark, no logos."
+STYLE_ANATOMY = ("clean medical 3D illustration, a translucent human body silhouette with the organ softly glowing "
+                 "inside it, dark blue background, volumetric light, scientific, highly detailed, vertical 9:16")
+SUFFIX_ANATOMY = ("Stylised and clean: no blood, no gore, no surgery, no close-up of a face, no text, no watermark, "
+                  "no logos.")
+# Health topics that are body parts: shown as "inside your body" explainers instead of cartoon food mascots
+BODY_SUBJECTS = {"Pet (stomach)", "Acidity (seene ki jalan)", "Gas aur pet phoolna", "Kabz (constipation)",
+                 "Baal jhadna (hair fall)", "Tvacha (skin)", "Dil (heart)", "Aankhein (eyes)", "Kidney",
+                 "Rirh ki haddi (spine)", "Ghutne (knees)", "Dimaag (brain)", "Fefde (lungs)", "Daant (teeth)"}
 
 # ---------------------------------------------------------------- HEALTH (talking characters)
 HEALTH_SUBJECTS = [
@@ -260,8 +269,8 @@ Return ONLY JSON:
   "scenes": [{{"image": "", "speaker": "sir", "line": "", "say": "", "tag": "PSYCHOLOGY FACT", "fx": "none"}}]}}"""
 
 YOGA_PROMPT = """You write calm 55-second yoga how-to Reels for the Facebook Page "Money Mind Health".
-PILLAR: Health. FORMAT: a yoga demo. A picture of a young Indian woman doing the pose is shown, while a calm
-male teacher ("Yoga Sir") speaks to the viewer in clear, warm Hindi.
+PILLAR: Health. FORMAT: a yoga demo. A clean anatomical picture of a translucent body doing the pose, with the
+spine and the working muscles glowing, is shown, while a calm male teacher ("Yoga Sir") speaks to the viewer in clear, warm Hindi.
 POSE: {subject}
 SAFE FACTS (stay inside them, add nothing risky): {facts}
 
@@ -274,9 +283,9 @@ Rules:
 - "say" = the line in Devanagari exactly as spoken, real Hindi words, no English phrases spelled in Devanagari
   (the pose name may stay). "line" = the SAME words in English letters.
 - "tag" on every scene: "YOGA TIP". "speaker": "sir".
-- "image": for scene 1 describe the woman starting the pose (standing or sitting ready); for scene 7 the
-  woman in the finished pose; for scene 13 the same pose seen a little differently or her relaxed afterwards.
-  One woman only, simple clothes, bright clean room, no text.
+- "image": for scene 1 describe the translucent body in the starting position; for scene 7 the body in the
+  finished pose with the spine and the working muscles glowing; for scene 13 a close-up of the glowing back or
+  muscle area that the pose works. Whole-body anatomy, no face close-ups, no text.
 - hook_text: 2-5 English words (the pose name). Titles etc. in English / roman letters.
 These titles were already made. Choose a different title:
 {history}
@@ -289,6 +298,37 @@ Return ONLY JSON:
   "comment_question": "<a question in Hinglish roman letters that makes people answer>",
   "hashtags": ["<5 hashtags specific to this pose>"],
   "scenes": [{{"image": "", "speaker": "sir", "line": "", "say": "", "tag": "YOGA TIP", "fx": "none"}}]}}"""
+
+ANATOMY_PROMPT = """You write calm, fascinating 55-second health Reels for the Facebook Page "Money Mind Health".
+PILLAR: Health. FORMAT: an "inside your body" explainer. A calm male doctor-style teacher ("Health Sir") speaks to
+the viewer in clear, warm Hindi while stylised, clean anatomical pictures of the body part are shown.
+TOPIC: {subject}
+SAFE FACTS (stay inside them, add nothing risky): {facts}
+
+Rules:
+- Exactly 18 scenes, one short sentence each (6-12 words), one speaker only: the key "sir".
+- Structure: (1) a curious hook ("Kya aap jaante hain ki aapke andar ... kya karta hai?"); (2) what this body part
+  does, in simple words; (3) what helps it (food, habits); (4) what harms it; (5) two simple tips; (6) one line to
+  see a doctor if there is a real problem; (7) last line: a question that makes people comment.
+- Accuracy and safety: general education only; never diagnose, never promise a cure; use "can", "may".
+- "say" = the line in Devanagari exactly as spoken, real Hindi words, no English phrases spelled in Devanagari
+  (body-part names and medical words may stay). "line" = the SAME words in English letters.
+- "tag" on every scene: "INSIDE YOUR BODY". "speaker": "sir".
+- "image": scene 1: a translucent glowing human body with the body part highlighted; scene 7: a clean close-up of
+  that body part glowing softly (medical illustration); scene 13: the body part healthy, glowing with soft light.
+  Stylised and clean: no blood, no gore, no surgery, no face close-ups, no text.
+- hook_text: 2-5 English words. Titles etc. in English / roman letters.
+These titles were already made. Choose a different title:
+{history}
+
+Return ONLY JSON:
+{{"title": "", "hook_text": "",
+  "characters": {{"sir": {{"look": "calm male health teacher (voice only)", "voice": "hindi_narrator_male", "name": "Health Sir"}}}},
+  "yt_title": "<under 70 characters>",
+  "description": "<2 short lines>",
+  "comment_question": "<a question in Hinglish roman letters that makes people answer>",
+  "hashtags": ["<5 hashtags specific to this topic>"],
+  "scenes": [{{"image": "", "speaker": "sir", "line": "", "say": "", "tag": "INSIDE YOUR BODY", "fx": "none"}}]}}"""
 
 MONEY_RULES = """MONEY RULES (SEBI-safe): educational only. NEVER name any stock, mutual fund, scheme, broker, bank, app or
 product. NEVER promise or imply returns, never say "buy" or "sell", never predict markets. Where investing is
@@ -324,7 +364,8 @@ def pick_subject(pillar, d, n):
         if i % 3 == 2:
             s = YOGA_SUBJECTS[(i // 3) % len(YOGA_SUBJECTS)]
             return "yoga", s
-        return "character", HEALTH_SUBJECTS[(i - i // 3) % len(HEALTH_SUBJECTS)]
+        subj = HEALTH_SUBJECTS[(i - i // 3) % len(HEALTH_SUBJECTS)]
+        return ("anatomy" if subj[0] in BODY_SUBJECTS else "character"), subj
     if pillar == "Money":
         return "character", MONEY_SUBJECTS[i % len(MONEY_SUBJECTS)]
     return "lecture", MIND_FACTS[i % len(MIND_FACTS)]
@@ -372,6 +413,8 @@ def make_one(day, n, history):
         prompt = LECTURE_PROMPT.format(subject=subject, facts=facts, history=hist)
     elif fmt == "yoga":
         prompt = YOGA_PROMPT.format(subject=subject, facts=facts, history=hist)
+    elif fmt == "anatomy":
+        prompt = ANATOMY_PROMPT.format(subject=subject, facts=facts, history=hist)
     else:
         prompt = CHAR_PROMPT.format(pillar=pillar, subject=subject, facts=facts, history=hist,
                                     pillar_rules=MONEY_RULES if pillar == "Money" else HEALTH_RULES)
@@ -398,6 +441,8 @@ def make_one(day, n, history):
         style, suffix, pic_group = STYLE_CHARACTER, SUFFIX_CHARACTER, 3
     elif fmt == "lecture":
         style, suffix, pic_group = STYLE_BRAIN, SUFFIX_BRAIN, 9
+    elif fmt == "anatomy":
+        style, suffix, pic_group = STYLE_ANATOMY, SUFFIX_ANATOMY, 6
     else:
         style, suffix, pic_group = STYLE_YOGA, SUFFIX_YOGA, 6
     chars = {k: {"look": c.get("look", ""), "voice": c["voice"]} for k, c in story["characters"].items()}
