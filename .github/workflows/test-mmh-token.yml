@@ -1,0 +1,17 @@
+# Manual diagnostic: what does Facebook say about the Money Mind Health token? Prints no secrets.
+name: Test MMH token
+on: workflow_dispatch
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      MM_FB_PAGE_ID: ${{ secrets.MM_FB_PAGE_ID }}
+      MM_FB_PAGE_TOKEN: ${{ secrets.MM_FB_PAGE_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          pip install -q requests
+          python pipeline/test_mmh_token.py
