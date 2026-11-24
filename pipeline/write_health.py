@@ -334,6 +334,8 @@ def check(story, used, fmt):
     errs = []
     if story.get("title", "").strip().lower() in used:
         errs.append("title already used")
+    if re.search(r"[ऀ-ॿ]", (story.get("title") or "") + (story.get("yt_title") or "") + (story.get("hook_text") or "")):
+        errs.append("title or hook_text must be in English letters, not Devanagari")
     scenes = story.get("scenes") or []
     if len(scenes) != SCENES:
         errs.append(f"has {len(scenes)} scenes, needs {SCENES}")
