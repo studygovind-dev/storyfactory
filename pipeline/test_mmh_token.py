@@ -33,3 +33,13 @@ for v in ("v24.0", "v26.0"):
     body = r.json() if r.headers.get("content-type", "").startswith("application/json") else {}
     shown = {k: ("(hidden)" if k in ("upload_url",) else v) for k, v in body.items()}
     print(f"POST video_reels start {v}: {r.status_code} {shown}")
+
+
+# the StoryBite TV token must be untouched by mistake: report its type too (never the token)
+page2 = os.environ.get("FB_PAGE_ID", "").strip()
+token2 = os.environ.get("FB_PAGE_TOKEN", "").strip()
+if page2 and token2:
+    d2 = requests.get("https://graph.facebook.com/debug_token", params={"input_token": token2, "access_token": token2}, timeout=60)
+    j2 = d2.json().get("data", {}) if d2.ok else {}
+    print("StoryBite TV token -> type:", j2.get("type"), "| valid:", j2.get("is_valid"), "| expires_at:", j2.get("expires_at"),
+          "| publish_video:", "publish_video" in (j2.get("scopes") or []))
