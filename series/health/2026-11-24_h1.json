@@ -1,0 +1,195 @@
+{
+ "series": "Moong Chana Ka Dum!",
+ "episode": 1,
+ "title": "Moong Chana Ka Dum!",
+ "style": "3D animated movie still in the style of a Pixar film, one cute glossy non-human cartoon mascot character with big expressive eyes, arms and legs and a small headband, centered, simple clean colourful background, sharp focus, hyper-detailed, soft cinematic lighting, vertical 9:16",
+ "img_suffix": "The character is NOT a person: no human face, no girl, no boy, no extra people. No text, no watermark, no logos.",
+ "pic_group": 3,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "MOONG_BHAI": {
+   "look": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile.",
+   "voice": "hindi_cartoon_male"
+  },
+  "CHANA_BHIDU": {
+   "look": "A larger, light brown [[chana]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Moong Chana Power!",
+ "scenes": [
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai standing confidently, one hand on hip, winking.",
+   "speaker": "MOONG_BHAI",
+   "line": "Arre bhai, hum Moong aur Chana hai!",
+   "say": "अरे भाई, हम मूंग और चना हैं!",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai standing confidently, one hand on hip, winking.",
+   "speaker": "MOONG_BHAI",
+   "line": "Main hoon Moong Bhai, chhota packet, bada dhamaka!",
+   "say": "मैं हूँ मूंग भाई, छोटा पैकेट, बड़ा धमाका!",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai standing confidently, one hand on hip, winking.",
+   "speaker": "MOONG_BHAI",
+   "line": "Protein aur fiber se bharpoor, body ko banaye majboot!",
+   "say": "प्रोटीन और फाइबर से भरपूर, बॉडी को बनाए मजबूत!",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu flexing a bicep, grinning widely.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Aur main Chana Bhidu! Bhook bhagau, energy badhau!",
+   "say": "और मैं चना भिड़ू! भूख भगाऊँ, एनर्जी बढ़ाऊँ!",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu flexing a bicep, grinning widely.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Hum dono milke pet bharenge, bina fat badhaye!",
+   "say": "हम दोनों मिलके पेट भरेंगे, बिना फैट बढ़ाए!",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu flexing a bicep, grinning widely.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Healthy rehna hai toh humein khana seekh le, bhidu!",
+   "say": "हेल्दी रहना है तो हमें खाना सीख ले, भिड़ू!",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai looking thoughtful, tapping chin with a tiny finger.",
+   "speaker": "MOONG_BHAI",
+   "line": "Humko sprouts banao, ekdum taaza aur energizing!",
+   "say": "हम को स्प्राउट्स बनाओ, एकदम ताज़ा और एनर्जाइजिंग!",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai looking thoughtful, tapping chin with a tiny finger.",
+   "speaker": "MOONG_BHAI",
+   "line": "Ya phir ubaal ke khao, simple aur mast snack banega.",
+   "say": "या फिर उबाल के खाओ, सिम्पल और मस्त स्नैक बनेगा।",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai looking thoughtful, tapping chin with a tiny finger.",
+   "speaker": "MOONG_BHAI",
+   "line": "Tension nahi lene ka, digestion bhi ekdum set ho jayega.",
+   "say": "टेंशन नहीं लेने का, डाइजेशन भी एकदम सेट हो जाएगा।",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu giving a thumbs-up, winking.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Bole toh, gyms wale bhi humein khaate hain! Kyun?",
+   "say": "बोले तो, जिम वाले भी हमें खाते हैं! क्यों?",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu giving a thumbs-up, winking.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Muscles banane mein hum poora support dete hain, boss!",
+   "say": "मसल्स बनाने में हम पूरा सपोर्ट देते हैं, बॉस!",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu giving a thumbs-up, winking.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Doctor se pooch le, agar koi bada lafda hai, samjha?",
+   "say": "डॉक्टर से पूछ ले, अगर कोई बड़ा लफड़ा है, समझा?",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai doing a little happy dance, arms up.",
+   "speaker": "MOONG_BHAI",
+   "line": "Zyada tel-masale se humara asli mazaa chhip jata hai.",
+   "say": "ज़्यादा तेल-मसाले से हमारा असली मज़ा छिप जाता है।",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai doing a little happy dance, arms up.",
+   "speaker": "MOONG_BHAI",
+   "line": "Thoda namak, mirchi aur nimbu, bas itna kaafi hai, dost!",
+   "say": "थोड़ा नमक, मिर्ची और नींबू, बस इतना काफी है, दोस्त!",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A small, round, bright green [[moong dal]] character with big, sparkling eyes, tiny arms and legs, a red \"bindaas\" headband, and a cheeky smile. Moong Bhai doing a little happy dance, arms up.",
+   "speaker": "MOONG_BHAI",
+   "line": "Everyday khao, lekin ekdum bhar-bhar ke nahi, moderation!",
+   "say": "एवरीडे खाओ, लेकिन एकदम भर-भर के नहीं, मॉडरेशन!",
+   "tag": "MOONG BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu leaning forward, hands open, inviting interaction.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Humara saath doge toh sehat ka level up hoga!",
+   "say": "हमारा साथ दोगे तो सेहत का लेवल अप होगा!",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu leaning forward, hands open, inviting interaction.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Body ko rakho fit, mind ko karo sharp!",
+   "say": "बॉडी को रखो फिट, माइंड को करो शार्प!",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "A larger, light brown [[CHANA_BHIDU]] character, slightly wrinkled, with expressive eyes, strong arms and legs, a blue \"dhamakedaar\" headband, and a confident smirk. Chana Bhidu leaning forward, hands open, inviting interaction.",
+   "speaker": "CHANA_BHIDU",
+   "line": "Toh bolo, aapko hum Moong aur Chana kaise pasand hain?",
+   "say": "तो बोलो, आपको हम मूंग और चना कैसे पसंद हैं?",
+   "tag": "CHANA BHIDU",
+   "fx": "none"
+  }
+ ],
+ "caption": "Moong Chana Ka Kamaal: Health Ka Naya Funda!",
+ "slug": "2026-11-24_h1",
+ "story_no": 18,
+ "yt_title": "Moong Chana Ka Kamaal: Health Ka Naya Funda!",
+ "description": "Moong aur Chana, sirf tasty nahi, healthy bhi! Jaanenge inke secret!",
+ "comment_question": "Aapko Moong Chana kaise pasand hai - sprouts ya boiled? Comment mein batao!",
+ "hashtags": [
+  "#MoongChana",
+  "#HealthySnack",
+  "#ProteinPower",
+  "#FiberRich",
+  "#DesiHealth",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#yoga",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Moong Chana Ka Kamaal: Health Ka Naya Funda!\n\nMoong aur Chana, sirf tasty nahi, healthy bhi! Jaanenge inke secret!\n\nAapko Moong Chana kaise pasand hai - sprouts ya boiled? Comment mein batao!\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind & Health for a new tip every day!\n\n#MoongChana #HealthySnack #ProteinPower #FiberRich #DesiHealth #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #yoga #reelsindia #viralreels #facebookreels",
+ "pillar": "Health",
+ "format": "character",
+ "telegram_caption": "🥗 Money Mind Health · Health · video 1\nMoong Chana Ka Dum!"
+}

@@ -1,0 +1,195 @@
+{
+ "series": "Needs Vs Wants Ka Chakkar!",
+ "episode": 3,
+ "title": "Needs Vs Wants Ka Chakkar!",
+ "style": "3D animated movie still in the style of a Pixar film, one cute glossy non-human cartoon mascot character with big expressive eyes, arms and legs and a small headband, centered, simple clean colourful background, sharp focus, hyper-detailed, soft cinematic lighting, vertical 9:16",
+ "img_suffix": "The character is NOT a person: no human face, no girl, no boy, no extra people. No text, no watermark, no logos.",
+ "pic_group": 3,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sona_bhai": {
+   "look": "A shiny, smiling golden coin with big, wise eyes, small arms and legs, wearing a red 'hero' style headband. Always looks a bit stern but caring.",
+   "voice": "hindi_male_deep"
+  },
+  "plastic_didi": {
+   "look": "A sleek, purple credit card with fashionable, expressive eyes, small arms and legs, wearing a pink bow headband. Always looks playful and a bit mischievous.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Need Ya Want? Samjho!",
+ "scenes": [
+  {
+   "image": "[[sona_bhai]] looking serious and a bit stern, one arm pointing up decisively.",
+   "speaker": "sona_bhai",
+   "line": "Arre, kharchne se pehle poochh, zaroorat hai ya bas chaahat?",
+   "say": "अरे, खर्चने से पहले पूछ, ज़रूरत है या बस चाहत?",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[sona_bhai]] looking serious and a bit stern, one arm pointing up decisively.",
+   "speaker": "sona_bhai",
+   "line": "Main hoon [[SONA BHAI]], tumhara asli dhan! Har paisa important hai, bhidu.",
+   "say": "मैं हूं [[सोना भाई]], तुम्हारा असली धन! हर पैसा इम्पोर्टेन्ट है, भिड़ू।",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[sona_bhai]] looking serious and a bit stern, one arm pointing up decisively.",
+   "speaker": "sona_bhai",
+   "line": "Samjho, 'needs' matlab zaroori cheezein, 'wants' matlab 'hota toh achha hota'.",
+   "say": "समझो, 'नीड्स' मतलब ज़रूरी चीज़ें, 'वॉन्ट्स' मतलब 'होता तो अच्छा होता'।",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] looking playful and a bit mischievous, winking.",
+   "speaker": "plastic_didi",
+   "line": "Main hoon [[PLASTIC DIDI]], kharch karna toh mera kaam hai!",
+   "say": "मैं हूं [[प्लास्टिक दीदी]], खर्च करना तो मेरा काम है!",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] looking playful and a bit mischievous, winking.",
+   "speaker": "plastic_didi",
+   "line": "Lekin, 'wants' ko control karna bhi seekhna padega, jaan.",
+   "say": "लेकिन, 'वॉन्ट्स' को कंट्रोल करना भी सीखना पड़ेगा, जान।",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] looking playful and a bit mischievous, winking.",
+   "speaker": "plastic_didi",
+   "line": "Plan bana ke 'wants' poore karo, tension nahi lene ka!",
+   "say": "प्लान बना के 'वॉन्ट्स' पूरे करो, टेंशन नहीं लेने का!",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[sona_bhai]] looking thoughtful, hand on chin.",
+   "speaker": "sona_bhai",
+   "line": "Roti, kapda, makaan, education – yeh sab asli 'needs' hain, boss!",
+   "say": "रोटी, कपड़ा, मकान, एजुकेशन – ये सब असली 'नीड्स' हैं, बॉस!",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[sona_bhai]] looking thoughtful, hand on chin.",
+   "speaker": "sona_bhai",
+   "line": "Luxury phone, fancy gaadi – yeh sab 'wants' mein aata hai, samajh le!",
+   "say": "लक्ज़री फ़ोन, फैंसी गाड़ी – ये सब 'वॉन्ट्स' में आता है, समझ ले!",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[sona_bhai]] looking thoughtful, hand on chin.",
+   "speaker": "sona_bhai",
+   "line": "Pehle 'needs' poore kar, fir 'wants' ke baare mein sochne ka.",
+   "say": "पहले 'नीड्स' पूरे कर, फिर 'वॉन्ट्स' के बारे_में सोचने का।",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] looking persuasive, hands open as if presenting options.",
+   "speaker": "plastic_didi",
+   "line": "Apne budget ka ek hissa 'wants' ke liye alag rakh, cool rahega.",
+   "say": "अपने बजट का एक हिस्सा 'वॉन्ट्स' के लिए अलग रख, कूल रहेगा।",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] looking persuasive, hands open as if presenting options.",
+   "speaker": "plastic_didi",
+   "line": "Zyada 'wants' poore kiye toh 'needs' ka lafda, pakka!",
+   "say": "ज़्यादा 'वॉन्ट्स' पूरे किए तो 'नीड्स' का लफड़ा, पक्का!",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] looking persuasive, hands open as if presenting options.",
+   "speaker": "plastic_didi",
+   "line": "Control mein kharch kiya toh 'wants' bhi khushi denge, promise!",
+   "say": "कंट्रोल में खर्च किया तो 'वॉन्ट्स' भी ख़ुशी देंगे, प्रॉमिस!",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[sona_bhai]] looking wise and slightly concerned, pointing to a small chart.",
+   "speaker": "sona_bhai",
+   "line": "Apni financial health check karta rehne ka, ekdum doctor jaisa!",
+   "say": "अपनी फाइनेंशियल हेल्थ चेक करता रहने का, एकदम डॉक्टर जैसा!",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[sona_bhai]] looking wise and slightly concerned, pointing to a small chart.",
+   "speaker": "sona_bhai",
+   "line": "Agar paise ka zyada lafda lage, toh kisi financial expert se mil.",
+   "say": "अगर पैसे का ज़्यादा लफड़ा लगे, तो किसी फाइनेंशियल एक्सपर्ट से मिल।",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[sona_bhai]] looking wise and slightly concerned, pointing to a small chart.",
+   "speaker": "sona_bhai",
+   "line": "Zindagi mein balance zaroori hai, kharche mein bhi, mere dost.",
+   "say": "ज़िंदगी में बैलेंस ज़रूरी है, खर्चे में भी, मेरे दोस्त।",
+   "tag": "SONA BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] smiling confidently, tapping her head.",
+   "speaker": "plastic_didi",
+   "line": "Smart spending se hi life set hoti hai, bole toh ekdum jhakaas!",
+   "say": "स्मार्ट स्पेंडिंग से ही लाइफ सेट होती है, बोले तो एकदम झकास!",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] smiling confidently, tapping her head.",
+   "speaker": "plastic_didi",
+   "line": "Har kharch se pehle poochh, \"Arre, kya ye sach mein zaroori hai?\"",
+   "say": "हर खर्च से पहले पूछ, \"अरे, क्या ये सच में ज़रूरी है?\"",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[plastic_didi]] smiling confidently, tapping her head.",
+   "speaker": "plastic_didi",
+   "line": "Tumhari sabse badi \"want\" kya hai jo \"need\" nahi? Bolo!",
+   "say": "तुम्हारी सबसे बड़ी \"वॉन्ट\" क्या है जो \"नीड\" नहीं? बोलो!",
+   "tag": "PLASTIC DIDI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Needs Vs Wants: Apne Kharcho Ko Samjho, Money Mind Health!",
+ "slug": "2026-11-24_h3",
+ "story_no": 20,
+ "yt_title": "Needs Vs Wants: Apne Kharcho Ko Samjho, Money Mind Health!",
+ "description": "Kharch karne se pehle socho, kya ye sach mein zaroorat hai ya bas chaahat? Sona Bhai aur Plastic Didi sikhayenge!",
+ "comment_question": "Tumhari sabse badi 'want' kya hai jo abhi tak 'need' nahi bani? Batao comments mein!",
+ "hashtags": [
+  "#MoneyMindHealth",
+  "#NeedsVsWants",
+  "#FinancialPlanning",
+  "#SmartSpending",
+  "#TaporiFinance",
+  "#moneytips",
+  "#personalfinance",
+  "#paisa",
+  "#financialliteracy",
+  "#savemoney",
+  "#moneymindset",
+  "#budgeting",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Needs Vs Wants: Apne Kharcho Ko Samjho, Money Mind Health!\n\nKharch karne se pehle socho, kya ye sach mein zaroorat hai ya bas chaahat? Sona Bhai aur Plastic Didi sikhayenge!\n\nTumhari sabse badi 'want' kya hai jo abhi tak 'need' nahi bani? Batao comments mein!\n\nEducational only. Not investment advice. Investments are subject to market risks; read all scheme-related documents. Consult a SEBI-registered adviser.\n\nFollow Money Mind & Health for a new tip every day!\n\n#MoneyMindHealth #NeedsVsWants #FinancialPlanning #SmartSpending #TaporiFinance #moneytips #personalfinance #paisa #financialliteracy #savemoney #moneymindset #budgeting #reelsindia #viralreels #facebookreels",
+ "pillar": "Money",
+ "format": "character",
+ "telegram_caption": "💰 Money Mind Health · Money · video 3\nNeeds Vs Wants Ka Chakkar!"
+}

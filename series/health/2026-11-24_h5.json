@@ -1,0 +1,191 @@
+{
+ "series": "खुद से बातें: आपका आईना!",
+ "episode": 5,
+ "title": "खुद से बातें: आपका आईना!",
+ "style": "cinematic 3D render of a glowing human brain with neon blue and violet neural pathways, dark background, soft volumetric light, ultra detailed, vertical 9:16",
+ "img_suffix": "No people, no faces, no text, no watermark, no logos.",
+ "pic_group": 9,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sir": {
+   "look": "calm male psychology teacher (voice only)",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Mind Mirror",
+ "scenes": [
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Kya aapne kabhi socha hai ki hum khud se kya kehte hain?",
+   "say": "क्या आपने कभी सोचा है कि हम खुद से क्या कहते हैं?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Ise manovigyan mein 'Self-Talk Reflection' kehte hain.",
+   "say": "इसे मनोविज्ञान में 'सेल्फ-टॉक रिफ्लेक्शन' कहते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Yaani, humari andaruni baatein humare aatmavishwas ka aaina hoti hain.",
+   "say": "यानी, हमारी अंदरूनी बातें हमारे आत्मविश्वास का आईना होती हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Sochiye, ek zaroori presentation se pehle aap khud se kya kehte hain?",
+   "say": "सोचिए, एक ज़रूरी प्रेजेंटेशन से पहले आप खुद से क्या कहते हैं?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Agar kehte hain 'main achha nahi kar paunga', toh ghabrahat badh sakti hai.",
+   "say": "अगर कहते हैं 'मैं अच्छा नहीं कर पाऊँगा', तो घबराहट बढ़ सकती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Par 'main yeh kar sakta hoon' kehne se aapka aatmavishwas badhta hai.",
+   "say": "पर 'मैं यह कर सकता हूँ' कहने से आपका आत्मविश्वास बढ़ता है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Shodhकर्ताओं ne dekha hai ki humari andaruni baatcheet bahut shaktishali hoti hai.",
+   "say": "शोधकर्ताओं ने देखा है कि हमारी अंदरूनी बातचीत बहुत शक्तिशाली होती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Yeh humare mood, pradarshan aur vicharon ko prabhavit karti hai aksar.",
+   "say": "यह हमारे मूड, प्रदर्शन और विचारों को प्रभावित करती है अक्सर।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Nakararatmak baatein aatmavishwas ko kam karti hain, jabki sakaratmak badhati hain.",
+   "say": "नकारात्मक बातें आत्मविश्वास को कम करती हैं, जबकि सकारात्मक बढ़ाती हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Aapki aantrik awaaz aapki dainik safaltaon ko nirdharit kar sakti hai.",
+   "say": "आपकी आंतरिक आवाज़ आपकी दैनिक सफलताओं को निर्धारित कर सकती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Yeh aapki kshamataon aur duniya ke prati aapke drishtikon ko dhalti hai.",
+   "say": "यह आपकी क्षमताओं और दुनिया के प्रति आपके दृष्टिकोण को ढालती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Jo khud se bura bolte hain, ve chunautiyon ko mushkil paate hain aksar.",
+   "say": "जो खुद से बुरा बोलते हैं, वे चुनौतियों को मुश्किल पाते हैं अक्सर।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Aur jo achhe shabd chunte hain, ve unse behtar nipatte hain.",
+   "say": "और जो अच्छे शब्द चुनते हैं, वे उनसे बेहतर निपटते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Pehla tareeka: Khud se ek dost ki tarah baatein karein hamesha.",
+   "say": "पहला तरीका: खुद से एक दोस्त की तरह बातें करें हमेशा।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Jaise aap kisi kareebi ko samajhte hain, waise hi khud ko samjhein.",
+   "say": "जैसे आप किसी करीबी को समझते हैं, वैसे ही खुद को समझें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Doosra tareeka: Nakararatmak vicharon ko sakaratmak mein badlein dheere-dheere.",
+   "say": "दूसरा तरीका: नकारात्मक विचारों को सकारात्मक में बदलें धीरे-धीरे।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Galti hone par khud ko kosne ke bajaaye seekh lein aur aage badhein.",
+   "say": "गलती होने पर खुद को कोसने के बजाय सीख लें और आगे बढ़ें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Aap khud se kis tarah baatein karte hain? Humein comments mein batayein.",
+   "say": "आप खुद से किस तरह बातें करते हैं? हमें कमेंट्स में बताएं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  }
+ ],
+ "caption": "क्या आपकी खुद से बातें आपको कमज़ोर करती हैं? जानिये!",
+ "slug": "2026-11-24_h5",
+ "story_no": 22,
+ "yt_title": "क्या आपकी खुद से बातें आपको कमज़ोर करती हैं? जानिये!",
+ "description": "Self-talk या खुद से बातचीत, आपके आत्मविश्वास को कैसे प्रभावित करती है?\nजानें इस मनोवैज्ञानिक तथ्य को और सुधारें अपनी अंदरूनी आवाज़।",
+ "comment_question": "Aap khud se kis tarah baatein karte hain? Bataiye comments mein!",
+ "hashtags": [
+  "#SelfTalk",
+  "#MindsetMatters",
+  "#PositiveSelfTalk",
+  "#PsychologyFacts",
+  "#MoneyMindHealth",
+  "#psychology",
+  "#mindset",
+  "#humanbehavior",
+  "#brainfacts",
+  "#selfimprovement",
+  "#mindblown",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदी"
+ ],
+ "caption_text": "क्या आपकी खुद से बातें आपको कमज़ोर करती हैं? जानिये!\n\nSelf-talk या खुद से बातचीत, आपके आत्मविश्वास को कैसे प्रभावित करती है?\nजानें इस मनोवैज्ञानिक तथ्य को और सुधारें अपनी अंदरूनी आवाज़।\n\nAap khud se kis tarah baatein karte hain? Bataiye comments mein!\n\nEducational only. Not a substitute for professional mental-health care.\n\nFollow Money Mind & Health for a new tip every day!\n\n#SelfTalk #MindsetMatters #PositiveSelfTalk #PsychologyFacts #MoneyMindHealth #psychology #mindset #humanbehavior #brainfacts #selfimprovement #mindblown #reelsindia #viralreels #facebookreels #हिंदी",
+ "pillar": "Mind",
+ "format": "lecture",
+ "telegram_caption": "🧠 Money Mind Health · Mind · video 5\nखुद से बातें: आपका आईना!"
+}

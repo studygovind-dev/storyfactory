@@ -1,0 +1,199 @@
+{
+ "series": "Instant Noodles Ka Jhol Jhal!",
+ "episode": 4,
+ "title": "Instant Noodles Ka Jhol Jhal!",
+ "style": "3D animated movie still in the style of a Pixar film, one cute glossy non-human cartoon mascot character with big expressive eyes, arms and legs and a small headband, centered, simple clean colourful background, sharp focus, hyper-detailed, soft cinematic lighting, vertical 9:16",
+ "img_suffix": "The character is NOT a person: no human face, no girl, no boy, no extra people. No text, no watermark, no logos.",
+ "pic_group": 3,
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "noodle_bhai": {
+   "look": "A rectangular, bright yellow instant noodle packet character with wavy edges, big googly eyes, a mischievous grin, tiny stick arms and legs, and a red \"Boss\" headband.",
+   "voice": "hindi_male_young"
+  },
+  "namak_bhidu": {
+   "look": "A small, white, classic salt shaker character, slightly transparent, with tiny holes on top forming a smiley face, big round eyes, small arms and legs, and a blue \"King\" headband.",
+   "voice": "hindi_cartoon_male"
+  },
+  "fibre_didi": {
+   "look": "A sturdy, brown, leafy-textured character, like a friendly tree stump with an inviting smile, big compassionate eyes, small green arms and legs, and a pink \"Health Queen\" headband.",
+   "voice": "hindi_cartoon_female"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Instant Noodles: The Truth!",
+ "scenes": [
+  {
+   "image": "[[noodle_bhai]] posing like a cool dude, one hand on his hip, winking.",
+   "speaker": "noodle_bhai",
+   "line": "Arre bhai, main hoon instant noodles, tere pet ka asli dost!",
+   "say": "अरे भाई, मैं हूँ इंस्टेंट नूडल्स, तेरे पेट का असली दोस्त!",
+   "tag": "NOODLE BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[noodle_bhai]] posing like a cool dude, one hand on his hip, winking.",
+   "speaker": "noodle_bhai",
+   "line": "Bhookh, party, exam, tension, sab mein main hi chalta hoon!",
+   "say": "भूख, पार्टी, एग्जाम, टेंशन, सब में मैं ही चलता हूँ!",
+   "tag": "NOODLE BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[noodle_bhai]] posing like a cool dude, one hand on his hip, winking.",
+   "speaker": "noodle_bhai",
+   "line": "Ekdum jhatpat, do minute mein haazir, swaad ka poocho mat!",
+   "say": "एकदम झटपट, दो मिनट में हाज़िर, स्वाद का पूछो मत!",
+   "tag": "NOODLE BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[namak_bhidu]] looking a bit sly, holding up a finger as if sharing a secret.",
+   "speaker": "namak_bhidu",
+   "line": "Main hoon Namak Bhidu, tera apna, Noodle Bhai mein rehta hoon.",
+   "say": "मैं हूँ नमक भिड़ू, तेरा अपना, नूडल भाई में रहता हूँ.",
+   "tag": "NAMAK BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "[[namak_bhidu]] looking a bit sly, holding up a finger as if sharing a secret.",
+   "speaker": "namak_bhidu",
+   "line": "Mera level high hai, bole toh swaad deta, BP badha sakta.",
+   "say": "मेरा लेवल हाई है, बोले तो स्वाद देता, बीपी बढ़ा सकता.",
+   "tag": "NAMAK BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "[[namak_bhidu]] looking a bit sly, holding up a finger as if sharing a secret.",
+   "speaker": "namak_bhidu",
+   "line": "Thoda kam daalo ya pani zyada, dil ko tension nahi.",
+   "say": "थोड़ा कम डालो या पानी ज़्यादा, दिल को टेंशन नहीं.",
+   "tag": "NAMAK BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "[[fibre_didi]] with a caring, slightly worried expression, hands clasped.",
+   "speaker": "fibre_didi",
+   "line": "Main hoon Fibre Didi, jo poori body ko fit rakhti hai.",
+   "say": "मैं हूँ फ़ाइबर दीदी, जो पूरी बॉडी को फिट रखती है.",
+   "tag": "FIBRE DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[fibre_didi]] with a caring, slightly worried expression, hands clasped.",
+   "speaker": "fibre_didi",
+   "line": "Instant noodles mein main ekdum kam hoon, digestion ka lafda.",
+   "say": "इंस्टेंट नूडल्स में मैं एकदम कम हूँ, डाइजेशन का लफड़ा.",
+   "tag": "FIBRE DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[fibre_didi]] with a caring, slightly worried expression, hands clasped.",
+   "speaker": "fibre_didi",
+   "line": "Uske saath sabzi ya daal kha, pet bhi khush sehat bhi.",
+   "say": "उसके साथ सब्ज़ी या दाल खा, पेट भी खुश सेहत भी.",
+   "tag": "FIBRE DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[noodle_bhai]] now looking a bit more serious, pointing a finger wisely.",
+   "speaker": "noodle_bhai",
+   "line": "Dekh, main burra nahi hoon, bas roz ka khaana nahi.",
+   "say": "देख, मैं बुरा नहीं हूँ, बस रोज़ का खाना नहीं.",
+   "tag": "NOODLE BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[noodle_bhai]] now looking a bit more serious, pointing a finger wisely.",
+   "speaker": "noodle_bhai",
+   "line": "Kabhi kabhar, mauke par, ekdum chalega, tension nahi lene ka.",
+   "say": "कभी कभार, मौक़े पर, एकदम चलेगा, टेंशन नहीं लेने का.",
+   "tag": "NOODLE BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[noodle_bhai]] now looking a bit more serious, pointing a finger wisely.",
+   "speaker": "noodle_bhai",
+   "line": "Lekin roz khaya toh, body mein thoda locha ho sakta hai.",
+   "say": "लेकिन रोज़ खाया तो, बॉडी में थोड़ा लोचा हो सकता है.",
+   "tag": "NOODLE BHAI",
+   "fx": "none"
+  },
+  {
+   "image": "[[namak_bhidu]] nodding sagely, like an experienced elder.",
+   "speaker": "namak_bhidu",
+   "line": "Zyada mera dose le, toh BP ka problem ho sakta hai.",
+   "say": "ज़्यादा मेरा डोज़ ले, तो बीपी का प्रॉब्लम हो सकता है.",
+   "tag": "NAMAK BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "[[namak_bhidu]] nodding sagely, like an experienced elder.",
+   "speaker": "namak_bhidu",
+   "line": "Doctor ko poochhne ka, agar tujhe kuch serious lage toh.",
+   "say": "डॉक्टर को पूछने का, अगर तुझे कुछ सीरियस लगे तो.",
+   "tag": "NAMAK BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "[[namak_bhidu]] nodding sagely, like an experienced elder.",
+   "speaker": "namak_bhidu",
+   "line": "Ye sab chhoti baatein nahi, sehat ka sawal hai, bhidu.",
+   "say": "ये सब छोटी बातें नहीं, सेहत का सवाल है, भिड़ू.",
+   "tag": "NAMAK BHIDU",
+   "fx": "none"
+  },
+  {
+   "image": "[[fibre_didi]] looking encouraging, giving a thumbs up.",
+   "speaker": "fibre_didi",
+   "line": "Bas ek baat yaad rakh, balance hai sabse zaroori funda.",
+   "say": "बस एक बात याद रख, बैलेंस है सबसे ज़रूरी फंडा.",
+   "tag": "FIBRE DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[fibre_didi]] looking encouraging, giving a thumbs up.",
+   "speaker": "fibre_didi",
+   "line": "Healthy cheezein zyada kha, main teri dost hoon!",
+   "say": "हेल्दी चीज़ें ज़्यादा खा, मैं तेरी दोस्त हूँ!",
+   "tag": "FIBRE DIDI",
+   "fx": "none"
+  },
+  {
+   "image": "[[fibre_didi]] looking encouraging, giving a thumbs up.",
+   "speaker": "fibre_didi",
+   "line": "Ab batao, instant noodles kitni baar khaate ho, dosto?",
+   "say": "अब बताओ, इंस्टेंट नूडल्स कितनी बार खाते हो, दोस्तो?",
+   "tag": "FIBRE DIDI",
+   "fx": "none"
+  }
+ ],
+ "caption": "Instant Noodles: Your Quick Meal Friend or Foe?",
+ "slug": "2026-11-24_h4",
+ "story_no": 21,
+ "yt_title": "Instant Noodles: Your Quick Meal Friend or Foe?",
+ "description": "Quick hunger fix? Instant noodles are super easy, but what's the real story? Find out the fun facts about your favourite packet and keep your health in check!",
+ "comment_question": "Kya aapko instant noodles ekdum pasand hai? Kitni baar khate ho?",
+ "hashtags": [
+  "#InstantNoodles",
+  "#MaggiFacts",
+  "#QuickMeal",
+  "#HealthyEatingTips",
+  "#FoodHumor",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#yoga",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Instant Noodles: Your Quick Meal Friend or Foe?\n\nQuick hunger fix? Instant noodles are super easy, but what's the real story? Find out the fun facts about your favourite packet and keep your health in check!\n\nKya aapko instant noodles ekdum pasand hai? Kitni baar khate ho?\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind & Health for a new tip every day!\n\n#InstantNoodles #MaggiFacts #QuickMeal #HealthyEatingTips #FoodHumor #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #yoga #reelsindia #viralreels #facebookreels",
+ "pillar": "Health",
+ "format": "character",
+ "telegram_caption": "🥗 Money Mind Health · Health · video 4\nInstant Noodles Ka Jhol Jhal!"
+}
