@@ -69,6 +69,28 @@ def expand(text, chars):
 POLLEN_EMPTY = False  # set once the account balance runs out, so later scenes skip straight to the fallback
 
 
+def library_image(ep, i, out):
+    """Use a ready-made picture from assets/library/<key>_<n>.png (made once with Gemini) when the video asks for
+    one (ep["library"] = list of keys, tried in order). Returns True when the picture is saved."""
+    keys = ep.get("library") or []
+    if not keys:
+        return False
+    base = ROOT / "assets" / "library"
+    grp = max(1, int(ep.get("pic_group", 3)))
+    seed = sum(map(ord, ep.get("slug", ""))) + i // grp  # a different picture for each group of lines
+    for key in keys:
+        files = sorted(f for ext in ("png", "jpg", "jpeg", "webp") for f in base.glob(f"{key}_*.{ext}"))
+        if files:
+            r = subprocess.run(["ffmpeg", "-y", "-i", str(files[seed % len(files)]), "-vf",
+                                "scale=720:1280:force_original_aspect_ratio=increase,crop=720:1280", str(out)],
+                               capture_output=True, text=True)
+            if r.returncode == 0 and out.exists():
+                return True
+            print(f"  library picture unusable ({files[seed % len(files)].name}), generating one instead")
+            return False
+    return False
+
+
 def cloudflare_image(prompt, out):
     """Picture from Cloudflare Workers AI (FLUX.1 schnell). Free daily allowance, much better than the
     free Pollinations server. Needs CF_ACCOUNT_ID and CF_API_TOKEN. Returns True when the picture is saved."""
@@ -104,6 +126,8 @@ def make_image_free(ep, i, scene, out):
     global POLLEN_EMPTY
     prompt = (f"{ep['style']}. {expand(scene['image'], ep['characters'])}. "
               + (ep.get("img_suffix") or "Well-lit face, clear smooth skin, no dark spots. No text, no watermark, no logos."))
+    if library_image(ep, i, out):
+        return
     if cloudflare_image(prompt, out):
         return
     key = "" if POLLEN_EMPTY else os.environ.get("POLLINATIONS_KEY", "").strip().lstrip("﻿")

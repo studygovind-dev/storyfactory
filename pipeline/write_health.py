@@ -403,6 +403,29 @@ def check(story, used, fmt):
     return errs
 
 
+PART_KEYS = [  # which ready-made picture to try first for a body-part topic (assets/library/<key>_<n>.png)
+    (("spine", "haddi", "knee", "ghutne", "joint"), ["spine", "joints", "body"]),
+    (("stomach", "pet", "acidity", "gas", "kabz", "digest"), ["stomach", "body"]),
+    (("heart", "dil", "lung", "fefde"), ["heart", "body"]),
+    (("brain", "dimaag"), ["brain", "body"]),
+]
+
+
+def library_keys(fmt, subject):
+    """Library picture keys for this video (empty = generate pictures as before)."""
+    if fmt == "lecture":
+        return ["brain"]
+    if fmt == "yoga":
+        return ["yoga", "body"]
+    if fmt == "anatomy":
+        low = subject.lower()
+        for words, keys in PART_KEYS:
+            if any(w in low for w in words):
+                return keys
+        return ["body"]
+    return []
+
+
 def make_one(day, n, history):
     d = datetime.date.fromisoformat(day).toordinal()
     pillar = SLOT_PILLARS[n - 1]
@@ -458,7 +481,7 @@ def make_one(day, n, history):
                f"{story.get('comment_question', '')}\n\n{DISCLAIMERS[pillar]}\n\n"
                "Follow Money Mind & Health for a new tip every day!\n\n" + " ".join(all_tags))[:2100]
     ep = {"series": title, "episode": n, "title": title, "style": style, "img_suffix": suffix,
-          "pic_group": pic_group, "handle": HANDLE, "characters": chars, "short": True,
+          "pic_group": pic_group, "library": library_keys(fmt, subject), "handle": HANDLE, "characters": chars, "short": True,
           "mood": {"Money": "emotional", "Mind": "emotional", "Health": "funny"}[pillar],
           "hook_text": story.get("hook_text", ""),
           "scenes": [{"image": s["image"], "speaker": s["speaker"], "line": s["line"], "say": s["say"],
