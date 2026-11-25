@@ -1,0 +1,164 @@
+{
+ "series": "Bagel Ka Billa-board",
+ "episode": 2,
+ "title": "Bagel Ka Billa-board",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A friendly male storyteller, unseen but authoritative voice.",
+   "voice": "hindi_narrator_male"
+  },
+  "Bagel": {
+   "look": "A fluffy, pristine white Persian cat with expressive blue eyes and a tiny, often-frowning mouth. Wears a fancy blue collar.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Aisha": {
+   "look": "A graceful young woman (mid-20s) with long, soft wavy dark-brown hair, a small bindi, wearing an elegant pastel kurta. Her face shows gentle amusement.",
+   "voice": "hindi_narrator_male"
+  },
+  "Rahul": {
+   "look": "A pleasant young man (mid-20s) with short dark hair, wearing a neat casual t-shirt. His face shows relaxed amusement.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "BILLI KE SHIKAYATEIN!",
+ "scenes": [
+  {
+   "image": "Close-up on Bagel, the white Persian cat, looking dramatically annoyed with a tiny frown, ears slightly flattened. He's looking directly at the camera with a 'can you believe this?' expression.",
+   "speaker": "Bagel",
+   "line": "Humari family mein koi shanti nahi hai!",
+   "fx": "none",
+   "say": "हमारी फैमिली में कोई शांति नहीं है!"
+  },
+  {
+   "image": "Bagel is sitting primly on a plush sofa, looking disdainfully at a slightly messy living room, with scattered magazines and a half-eaten snack on a table. He's shaking his head slightly.",
+   "speaker": "narrator",
+   "line": "Yeh tha Bagel, humara sabse grumpy billa.",
+   "fx": "none",
+   "say": "यह था बैगल, हमारा सबसे ग्रम्पी बिल्ला।"
+  },
+  {
+   "image": "A close-up of Bagel, covering his ears with his paws, eyes wide with exaggerated annoyance, as if a loud noise just happened off-screen. His face is comically distressed.",
+   "speaker": "Bagel",
+   "line": "Subah-subah itna shor, mera dimag kharab ho gaya!",
+   "fx": "none",
+   "say": "सुबह-सुबह इतना शोर, मेरा दिमाग खराब हो गया!"
+  },
+  {
+   "image": "Aisha, smiling sweetly, gently strokes Bagel's head. Bagel looks up at her with a confused, still annoyed expression. Aisha's face shows pure affection.",
+   "speaker": "Aisha",
+   "line": "Uff, mere Bagel ko kya hua?",
+   "fx": "none",
+   "say": "उफ़, मेरे बैगल को क्या हुआ?"
+  },
+  {
+   "image": "Bagel is sitting by his food bowl, pushing a kibble with his paw, a look of utter boredom and disgust on his face. The bowl is full.",
+   "speaker": "Bagel",
+   "line": "Phir se wohi boring khana, roz-roz!",
+   "fx": "none",
+   "say": "फिर से वही बोरिंग खाना, रोज़-रोज़!"
+  },
+  {
+   "image": "Rahul is kneeling beside Bagel, chuckling softly while pointing at the food bowl. Bagel looks up at Rahul, still unimpressed. Rahul's face is amused.",
+   "speaker": "Rahul",
+   "line": "Mummy, dekho, Bagel ko bhook lagi hai!",
+   "fx": "none",
+   "say": "मम्मी, देखो, बैगल को भूख लगी है!"
+  },
+  {
+   "image": "Bagel stands on the armrest of a sofa, looking at his favorite spot on the cushion, which is occupied by a laptop and a pile of clothes. He has a 'how dare they' expression.",
+   "speaker": "Bagel",
+   "line": "Mera favourite sofa! Phir se sabne chheena!",
+   "fx": "none",
+   "say": "मेरा फेवरेट सोफा! फिर से सबने छीना!"
+  },
+  {
+   "image": "Bagel is sprawled dramatically across the floor, looking utterly exhausted and put-upon, with one paw covering his eyes.",
+   "speaker": "narrator",
+   "line": "Bagel ki complaints kabhi khatam nahi hoti.",
+   "fx": "none",
+   "say": "बैगल की कंप्लेंट्स कभी खत्म नहीं होती।"
+  },
+  {
+   "image": "Bagel is sitting upright on a coffee table, staring intently at a TV screen showing a generic soap opera. He looks highly critical and unimpressed.",
+   "speaker": "Bagel",
+   "line": "Insaan saare din TV dekhenge, kitna bore hai!",
+   "fx": "none",
+   "say": "इंसान सारे दिन टीवी देखेंगे, कितना बोर है!"
+  },
+  {
+   "image": "Aisha, holding a phone, is whispering conspiratorially to Rahul. Both are looking at Bagel (off-screen) with suppressed smiles. Bagel's ears are slightly perked up.",
+   "speaker": "Aisha",
+   "line": "Iske tantrums kitne cute hain na?",
+   "fx": "none",
+   "say": "इसके टैंट्रम्स कितने क्यूट हैं न?"
+  },
+  {
+   "image": "Rahul bursts into a quiet giggle, covering his mouth. Aisha smiles widely. Both are clearly enjoying Bagel's 'drama'. Bagel is still off-screen.",
+   "speaker": "Rahul",
+   "line": "Haha! Yeh toh humara daily serial hai!",
+   "fx": "none",
+   "say": "हाहा! ये तो हमारा डेली सीरियल है!"
+  },
+  {
+   "image": "Close-up on Bagel's face, his eyes wide and shocked, ears fully perked, mouth slightly open in disbelief. He has clearly just overheard them.",
+   "speaker": "Bagel",
+   "line": "Kya... cute? Toh yeh log meri baat sunte nahi!",
+   "fx": "none",
+   "say": "क्या... क्यूट? तो ये लोग मेरी बात सुनते नहीं!"
+  },
+  {
+   "image": "Bagel is sitting alone on the sofa, looking small and isolated, a look of profound disappointment on his face. Aisha and Rahul are in the background, still chuckling softly.",
+   "speaker": "narrator",
+   "line": "Uski baatein sirf unke liye mazak thi.",
+   "fx": "none",
+   "say": "उसकी बातें सिर्फ उनके लिए मज़ाक थीं।"
+  },
+  {
+   "image": "Bagel's head is buried in his paws, looking utterly defeated and deflated. His shoulders are slumped, conveying deep emotional distress, even for a cat.",
+   "speaker": "Bagel",
+   "line": "Main serious bolta hoon, aur yeh...?",
+   "fx": "none",
+   "say": "मैं सीरियस बोलता हूं, और ये...?"
+  },
+  {
+   "image": "Bagel is looking out a window with a melancholic, thoughtful expression, as if contemplating the unfairness of the world. Dust motes float in the sunlight.",
+   "speaker": "narrator",
+   "line": "Bechara Bagel, uski samajhदारी koi nahi samajhta.",
+   "fx": "dust",
+   "say": "बेचारा बैगल, उसकी समझदारी कोई नहीं समझता।"
+  },
+  {
+   "image": "Bagel looks directly at the camera again, with a resigned but slightly accusatory look, as if asking the viewer for validation. The family is out of frame.",
+   "speaker": "narrator",
+   "line": "Bagel sahi tha ya family? Aapko kya lagta hai?",
+   "fx": "none",
+   "say": "बैगल सही था या फैमिली? आपको क्या लगता है?"
+  }
+ ],
+ "caption": "My Cat's Hilarious Daily Complaints 😂",
+ "slug": "2026-11-25_part2",
+ "story_no": 86,
+ "yt_title": "My Cat's Hilarious Daily Complaints 😂",
+ "description": "Meet Bagel, the grumpiest cat with the most human-like complaints! His family thinks he's just being cute, but Bagel has some serious opinions.\nWatch till the end to see the hilarious truth about what his humans really think of his daily drama.\nToh kaun sahi tha, Bagel ya family? Aapko kya lagta hai?",
+ "comment_question": "Bagel sahi tha ya family? Aapko kya lagta hai?",
+ "hashtags": [
+  "#hindijokes",
+  "#funnyreels",
+  "#comedy",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#talkingcat",
+  "#funnycat",
+  "#chutkule",
+  "#मज़ेदारकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}

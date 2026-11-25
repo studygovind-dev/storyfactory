@@ -1,0 +1,180 @@
+{
+ "series": "Pyaar Ka Asli Mol",
+ "episode": 1,
+ "title": "Pyaar Ka Asli Mol",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, early 20s, warm smile, long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta, light wheatish skin.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Young man, early 20s, kind eyes, short black hair, neat casual Indian shirt (kurta-style), light wheatish skin.",
+   "voice": "hindi_male_young"
+  },
+  "Dadi": {
+   "look": "Elderly woman, late 70s, gentle face, silver hair in a neat bun, simple cotton saree, slightly weathered hands.",
+   "voice": "hindi_narrator_male"
+  },
+  "Rishtedar_Female": {
+   "look": "Woman, 30s, snobbish expression, heavy silk saree, elaborate jewelry, light wheatish skin.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Her Strange Gift!",
+ "scenes": [
+  {
+   "image": "Priya, looking embarrassed and slightly dejected, stands in a bustling Indian market, holding a small paper bag with tongs inside. In the background, a well-dressed Rishtedar_Female laughs while whispering to another person, pointing towards Priya. Bright sunlight.",
+   "speaker": "narrator",
+   "line": "Mera pehla shopping anubhav, sabne hasa.",
+   "fx": "none",
+   "sub": "My first shopping experience, everyone laughed.",
+   "say": "मेरा पहला शॉपिंग अनुभव, सबने हँसा।"
+  },
+  {
+   "image": "Priya and Rohan, early 20s, holding hands and smiling shyly at each other, standing in a small, simply furnished Indian home, looking hopeful and united.",
+   "speaker": "narrator",
+   "line": "Rohan aur main, naye-naye shaadi shuda.",
+   "fx": "none",
+   "sub": "Rohan and I, newly married.",
+   "say": "रोहन और मैं, नए-नए शादी शुदा।"
+  },
+  {
+   "image": "Priya and Rohan sitting on a modest bed, looking at a small stack of rupee notes. Rohan gently touches Priya's hand, both looking a bit wistful but with understanding.",
+   "speaker": "narrator",
+   "line": "Paisa bohot kam tha, par dil mein pyaar.",
+   "fx": "none",
+   "sub": "Money was very little, but love was in our hearts.",
+   "say": "पैसा बहुत कम था, पर दिल में प्यार।"
+  },
+  {
+   "image": "Close-up of Priya's hand holding a few rupee notes, her face slightly out of focus in the background, showing a happy, surprised smile.",
+   "speaker": "narrator",
+   "line": "Ek chhota bonus mila, khush ho gayi.",
+   "fx": "none",
+   "sub": "Received a small bonus, I was happy.",
+   "say": "एक छोटा बोनस मिला, खुश हो गई।"
+  },
+  {
+   "image": "Priya stands in a vibrant market, looking longingly at a shimmering pastel saree displayed in a stall. Her expression shows a mix of desire and hesitation.",
+   "speaker": "narrator",
+   "line": "Socha, apne liye kuch khoobsurat loon.",
+   "fx": "none",
+   "sub": "Thought, I'd buy something beautiful for myself.",
+   "say": "सोचा, अपने लिए कुछ खूबसूरत लूँ।"
+  },
+  {
+   "image": "Close-up of Dadi's slightly wrinkled hand with a small, old burn mark on it, as she carefully flips a roti on a hot tava, wincing slightly.",
+   "speaker": "narrator",
+   "line": "Phir Dadi ka haath yaad aaya, jalta hua.",
+   "fx": "none",
+   "sub": "Then Dadi's hand came to mind, burnt.",
+   "say": "फिर दादी का हाथ याद आया, जलता हुआ।"
+  },
+  {
+   "image": "Dadi, with a tired but determined expression, struggling to hold a hot roti with a pair of very old, short, worn-out metal tongs. Smoke rises around her.",
+   "speaker": "narrator",
+   "line": "Purane chimte se roti banati thi.",
+   "fx": "none",
+   "sub": "She used to make rotis with old tongs.",
+   "say": "पुराने चिमटे से रोटी बनाती थी।"
+  },
+  {
+   "image": "Priya, with a sudden resolute expression, turns away from the saree stall and walks purposefully towards another section of the bustling market, her focus clear.",
+   "speaker": "narrator",
+   "line": "Man badal gaya. Dukaan par gayi.",
+   "fx": "none",
+   "sub": "My mind changed. I went to the shop.",
+   "say": "मन बदल गया। दुकान पर गई।"
+  },
+  {
+   "image": "Close-up of Priya's hands holding a brand new, shining pair of long steel tongs. A gentle, proud smile plays on her lips.",
+   "speaker": "narrator",
+   "line": "Ek majboot, naya chimta kharida.",
+   "fx": "none",
+   "sub": "Bought strong, new tongs.",
+   "say": "एक मजबूत, नया चिमटा खरीदा।"
+  },
+  {
+   "image": "Rishtedar_Female, with a snobbish grin, points at Priya (out of frame) while talking to another relative in the market. Rohan stands nearby, looking uncomfortable and slightly embarrassed, observing the scene.",
+   "speaker": "narrator",
+   "line": "Rohan ke rishtedar ne dekha aur hasa.",
+   "fx": "none",
+   "sub": "Rohan's relative saw and laughed.",
+   "say": "रोहन के रिश्तेदार ने देखा और हँसा।"
+  },
+  {
+   "image": "Close-up of Rishtedar_Female's face, a sneering expression as she looks at Rohan. Rohan's face is visible in the background, looking downcast and conflicted.",
+   "speaker": "Rishtedar_Female",
+   "line": "Rohan se kaha, 'Ab bhi bachchi hai.'",
+   "fx": "none",
+   "sub": "Told Rohan, 'She's still a child.'",
+   "say": "रोहन से कहा, 'अब भी बच्ची है।'"
+  },
+  {
+   "image": "Priya, walking home from the market, looks dejected and worried, clutching the paper bag with the tongs close to her chest. Her eyes are downcast.",
+   "speaker": "narrator",
+   "line": "Dil toot gaya, Rohan kya sochega?",
+   "fx": "none",
+   "sub": "My heart broke, what would Rohan think?",
+   "say": "दिल टूट गया, रोहन क्या सोचेगा?"
+  },
+  {
+   "image": "Close-up of Dadi's emotional face, tears streaming down her cheeks, as she looks at the new tongs. Priya looks at her Dadi with a soft, loving smile, relief washing over her face.",
+   "speaker": "narrator",
+   "line": "Dadi ko chimta diya. Unki aankhein bhar aayi.",
+   "fx": "none",
+   "sub": "Gave the tongs to Dadi. Her eyes welled up.",
+   "say": "दादी को चिमटा दिया। उनकी आँखें भर आईं।"
+  },
+  {
+   "image": "Rohan walks into the room, his expression tender and loving. He gently takes the new tongs from Dadi's hand, looking at them with a soft smile.",
+   "speaker": "narrator",
+   "line": "Tab Rohan aaya, chimta haath mein liya.",
+   "fx": "none",
+   "sub": "Then Rohan came, took the tongs in his hand.",
+   "say": "तब रोहन आया, चिमटा हाथ में लिया।"
+  },
+  {
+   "image": "Rohan looks deeply into Priya's eyes with profound admiration and love, holding the tongs. He gently embraces her as Dadi watches, smiling happily in the background.",
+   "speaker": "Rohan",
+   "line": "Yeh hi toh hai asli rishta, Priya.",
+   "fx": "none",
+   "sub": "This is the true relationship, Priya.",
+   "say": "यह ही तो है असली रिश्ता, प्रिया।"
+  },
+  {
+   "image": "Priya and Rohan look lovingly at each other, holding hands, their faces beaming with happiness and understanding. Dadi is seen in the background, smiling peacefully, feeling at ease.",
+   "speaker": "narrator",
+   "line": "Uske rishtedar sahi the ya mera pyar?",
+   "fx": "none",
+   "sub": "Were his relatives right or was my love?",
+   "say": "उसके रिश्तेदार सही थे या मेरा प्यार?"
+  }
+ ],
+ "caption": "Young Wife Buys Tongs for Dadi... Then Husband Reveals His True Heart ❤️",
+ "slug": "2026-11-25_part1",
+ "story_no": 85,
+ "yt_title": "Young Wife Buys Tongs for Dadi... Then Husband Reveals His True Heart ❤️",
+ "description": "Priya had little money but a big heart. She chose a practical gift for her Dadi, only to be mocked. But her husband's reaction revealed a surprising twist. Was her choice right, or should she have bought something else?",
+ "comment_question": "Rishtedar sahi the ya uska pyar?",
+ "hashtags": [
+  "#lovestory",
+  "#premkahani",
+  "#emotionalstory",
+  "#premchand",
+  "#story",
+  "#storytime",
+  "#indiastory",
+  "#sachapyaar",
+  "#प्रेमकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ]
+}

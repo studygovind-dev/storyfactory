@@ -1,0 +1,176 @@
+{
+ "series": "Leo's Silent Promise",
+ "episode": 3,
+ "title": "Leo's Silent Promise",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, a young Indian woman in her late 20s. Fair, light wheatish skin, long soft wavy dark-brown hair, natural makeup, small gold hoop earrings, wearing a simple pastel blue cotton kurta.",
+   "voice": "hindi_female_young"
+  },
+  "Captain Vikram": {
+   "look": "An old Indian man in his late 70s. Kind, weathered face, short neatly combed grey hair, wearing a simple light brown button-down shirt and dark trousers. His eyes show deep sadness but also warmth.",
+   "voice": "hindi_narrator_male"
+  },
+  "Leo": {
+   "look": "A beautiful Golden Retriever. As a puppy, small and fluffy. As an adult, healthy and medium-sized with a distinct small brown spot behind his left ear.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "Mera khoobsoorat kutta...",
+ "scenes": [
+  {
+   "image": "Close-up of Priya's hand, fair light wheatish skin, holding an old, slightly faded photo of a cute Golden Retriever puppy. Her expression is wistful, a hint of sadness.",
+   "speaker": "narrator",
+   "line": "Mera khoobsoorat kutta, jo maine khoya tha.",
+   "fx": "none",
+   "sub": "My beautiful dog, whom I had lost.",
+   "say": "मेरा खूबसूरत कुत्ता, जो मैंने खोया था।"
+  },
+  {
+   "image": "Priya, wearing a pastel blue kurta, sitting on a park bench, looking across a lush green park with a hopeful yet longing expression.",
+   "speaker": "narrator",
+   "line": "Uski yaad aaj bhi mere dil mein thi.",
+   "fx": "none",
+   "sub": "His memory was still in my heart today.",
+   "say": "उसकी याद आज भी मेरे दिल में थी।"
+  },
+  {
+   "image": "Captain Vikram, an old Indian soldier in simple light brown shirt, with a kind, weathered face, sitting alone on a distant park bench, looking a bit lonely, sunlight filtering through trees.",
+   "speaker": "narrator",
+   "line": "Park mein ek buzurrg fauji roz aate the.",
+   "fx": "none",
+   "sub": "An old soldier came to the park every day.",
+   "say": "पार्क में एक बुज़ुर्ग फौजी रोज आते थे।"
+  },
+  {
+   "image": "Captain Vikram looking affectionately at an adult Golden Retriever sitting beside him on the park bench. The dog looks happy, resting his head on the man's lap.",
+   "speaker": "narrator",
+   "line": "Unke paas ek pyara sa sunahra kutta tha.",
+   "fx": "none",
+   "sub": "He had a lovely golden dog with him.",
+   "say": "उनके पास एक प्यारा सा सुनहरा कुत्ता था।"
+  },
+  {
+   "image": "Priya watching Captain Vikram and the dog from afar, hiding slightly behind a tree. A flicker of recognition and intense curiosity in her eyes.",
+   "speaker": "narrator",
+   "line": "Kutta bilkul mere Leo jaisa dikhta tha.",
+   "fx": "none",
+   "sub": "The dog looked exactly like my Leo.",
+   "say": "कुत्ता बिल्कुल मेरे लियो जैसा दिखता था।"
+  },
+  {
+   "image": "Close-up of Captain Vikram gently petting the dog, who leans into his touch. Their bond is evident, warm and comforting.",
+   "speaker": "narrator",
+   "line": "Unka rishta dekhkar mujhe laga woh akela nahi.",
+   "fx": "none",
+   "sub": "Seeing their bond, I felt he wasn't alone.",
+   "say": "उनका रिश्ता देखकर मुझे लगा वो अकेला नहीं।"
+  },
+  {
+   "image": "Priya hesitantly walking closer to the bench, trying to get a better look at the dog. Her face shows growing realization and nervous anticipation.",
+   "speaker": "narrator",
+   "line": "Ek din main unke kareeb chali gayi.",
+   "fx": "none",
+   "sub": "One day, I went closer to them.",
+   "say": "एक दिन मैं उनके करीब चली गई।"
+  },
+  {
+   "image": "Extreme close-up of the adult Golden Retriever's left ear, clearly showing a small, distinct brown spot or scar behind it. Priya's hand is hesitantly reaching out, almost touching it.",
+   "speaker": "narrator",
+   "line": "Kaan ke peeche wahi nishaan, yeh Leo hi tha!",
+   "fx": "none",
+   "sub": "That same mark behind the ear, it was Leo!",
+   "say": "कान के पीछे वही निशान, यह लियो ही था!"
+  },
+  {
+   "image": "Flashback: A younger Priya (or just her hands and arm, with a colourful bracelet) playing happily with a small Golden Retriever puppy in a sunny garden, full of joy and innocence.",
+   "speaker": "narrator",
+   "line": "Mere bachpan ka saathi, mera pyaara Leo.",
+   "fx": "none",
+   "sub": "My childhood companion, my dear Leo.",
+   "say": "मेरे बचपन का साथी, मेरा प्यारा लियो।"
+  },
+  {
+   "image": "Close-up of Priya's face, tears welling up in her eyes, a complex mix of joy, shock, and immense sadness.",
+   "speaker": "narrator",
+   "line": "Meri aankhon mein khushi aur dard dono the.",
+   "fx": "none",
+   "sub": "There were both happiness and pain in my eyes.",
+   "say": "मेरी आँखों में खुशी और दर्द दोनों थे।"
+  },
+  {
+   "image": "Captain Vikram looking down at the dog, speaking softly with a gentle smile, dog looking up at him with utter devotion. A profound connection between them.",
+   "speaker": "Captain Vikram",
+   "line": "Leo, tu hi toh mera sab kuch hai.",
+   "fx": "none",
+   "sub": "Leo, you are everything to me.",
+   "say": "लियो, तू ही तो मेरा सब कुछ है।"
+  },
+  {
+   "image": "Close-up of Captain Vikram's face, a deep, silent sadness in his eyes as he strokes the dog's head, conveying immense loss.",
+   "speaker": "Captain Vikram",
+   "line": "Apne parivaar ko kho chuka hoon main.",
+   "fx": "none",
+   "sub": "I have lost my family.",
+   "say": "अपने परिवार को खो चुका हूँ मैं।"
+  },
+  {
+   "image": "Priya hiding behind a large tree, watching them from a distance, tears silently falling down her face. Her expression shows profound understanding and a difficult internal struggle.",
+   "speaker": "narrator",
+   "line": "Unki baat sunkar mera dil baith gaya.",
+   "fx": "none",
+   "sub": "Hearing his words, my heart sank.",
+   "say": "उनकी बात सुनकर मेरा दिल बैठ गया।"
+  },
+  {
+   "image": "Priya slowly walking away from the park, looking back one last time at Captain Vikram and Leo. Her back is mostly to the camera, conveying a difficult choice made.",
+   "speaker": "narrator",
+   "line": "Main janti thi kya karna sahi hoga.",
+   "fx": "none",
+   "sub": "I knew what would be the right thing to do.",
+   "say": "मैं जानती थी क्या करना सही होगा।"
+  },
+  {
+   "image": "Captain Vikram and Leo happily playing fetch in the park, the dog jumping playfully, the soldier smiling weakly but genuinely. Sunbeams filter beautifully through the surrounding trees.",
+   "speaker": "narrator",
+   "line": "Unki khushi dekhkar mujhe thoda sukoon mila.",
+   "fx": "dust",
+   "sub": "Seeing their happiness gave me some peace.",
+   "say": "उनकी खुशी देखकर मुझे थोड़ा सुकून मिला।"
+  },
+  {
+   "image": "Priya looking directly into the camera, her expression thoughtful, slightly sad but resolved. She waits for the viewer's answer.",
+   "speaker": "narrator",
+   "line": "Agar aap meri jagah hoti, toh kya karti?",
+   "fx": "none",
+   "sub": "If you were in my place, what would you do?",
+   "say": "अगर आप मेरी जगह होती, तो क्या करती?"
+  }
+ ],
+ "caption": "My Lost Dog Found a New Family... And My Heart Broke 💔",
+ "slug": "2026-11-25_part3",
+ "story_no": 87,
+ "yt_title": "My Lost Dog Found a New Family... And My Heart Broke 💔",
+ "description": "I thought I'd never see my beloved dog again after he went missing years ago.\nBut then I saw him with an old, lonely soldier, and realized the heartbreaking truth.\nWould you reclaim your pet, or let them stay with their new family?",
+ "comment_question": "Apna kutta wapas leti? Haan ya Na?",
+ "hashtags": [
+  "#moralstory",
+  "#animalstory",
+  "#pyaarkikahani",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#animalhumanbond",
+  "#doglove",
+  "#sachhidosti",
+  "#नैतिककहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}
