@@ -1,0 +1,164 @@
+{
+ "series": "Masala Dragon",
+ "episode": 2,
+ "title": "Masala Dragon",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A gentle female storyteller, warm expression.",
+   "voice": "hindi_narrator_female"
+  },
+  "Priya": {
+   "look": "A graceful Indian woman in her early 30s, fair skin, long soft wavy dark-brown hair, a small red bindi, wearing an elegant pastel green saree. Her face shows a mix of concern and eventual amusement.",
+   "voice": "hindi_narrator_female"
+  },
+  "Aarav": {
+   "look": "An 8-year-old Indian boy, light wheatish skin, bright, curious eyes, short black hair, wearing a blue t-shirt and khaki shorts. He is energetic and loving towards his pet.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Sparky": {
+   "look": "A tiny, adorable baby dragon with shimmering emerald green scales, large, expressive golden eyes, small budding wings, and two tiny horns. It has a mischievous yet innocent expression.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Mera beta laaya aag!",
+ "scenes": [
+  {
+   "image": "CLOSE UP: Aarav (8, blue t-shirt) excitedly holds up Sparky (baby dragon, emerald green scales) towards Priya (pastel green saree) who looks shocked, mouth slightly open. They are in a brightly lit living room.",
+   "speaker": "Aarav",
+   "line": "Mummy, dekho, mera naya dost!",
+   "fx": "none",
+   "say": "मम्मी, देखो, मेरा नया दोस्त!"
+  },
+  {
+   "image": "Priya (pastel green saree), eyes wide with alarm, recoils slightly. Sparky (baby dragon) looks up innocently from Aarav's hands.",
+   "speaker": "Priya",
+   "line": "Aarav, yeh kaun sa janwar hai?",
+   "fx": "none",
+   "say": "आरव, यह कौन सा जानवर है?"
+  },
+  {
+   "image": "Sparky (baby dragon) is perched on a kitchen counter next to a bowl of vegetables, sniffing curiously. Priya (pastel green saree) watches from a distance, looking worried.",
+   "speaker": "narrator",
+   "line": "Chhota Sparky humare ghar ka mehmaan ban gaya.",
+   "fx": "none",
+   "say": "छोटा स्पार्की हमारे घर का मेहमान बन गया।"
+  },
+  {
+   "image": "Sparky (baby dragon) has just breathed a tiny puff of fire on a dosa on a tawa. The dosa is slightly charred. Priya (pastel green saree) rushes forward, looking panicked.",
+   "speaker": "Priya",
+   "line": "Arre, mera dosa jal gaya!",
+   "fx": "none",
+   "say": "अर्रे, मेरा डोसा जल गया!"
+  },
+  {
+   "image": "Priya (pastel green saree) points a finger at Sparky (baby dragon) sternly. Sparky looks down, appearing scolded, on the counter.",
+   "speaker": "Priya",
+   "line": "Sparky, aag mat nikalo, samjhe?",
+   "fx": "none",
+   "say": "स्पार्की, आग मत निकालो, समझे?"
+  },
+  {
+   "image": "Sparky (baby dragon) is now breathing fire on a shiny steel karahi, leaving a black scorch mark. Priya (pastel green saree) throws her hands up in exasperation.",
+   "speaker": "Priya",
+   "line": "Yeh kya kar rahe ho? Meri karahi!",
+   "fx": "none",
+   "say": "यह क्या कर रहे हो? मेरी कड़ाही!"
+  },
+  {
+   "image": "Priya (pastel green saree) is wiping a smoky counter with a frustrated expression, looking towards Sparky (baby dragon) who is peeking from behind a spice jar.",
+   "speaker": "narrator",
+   "line": "Har din kuch naya hungama karta tha.",
+   "fx": "dust",
+   "say": "हर दिन कुछ नया हंगामा करता था।"
+  },
+  {
+   "image": "CLOSE UP: Sparky (baby dragon) with a sad, confused expression, eyes slightly downcast. Smoke curls faintly in the background.",
+   "speaker": "narrator",
+   "line": "Use samajh nahi aa raha tha.",
+   "fx": "dust",
+   "say": "उसे समझ नहीं आ रहा था।"
+  },
+  {
+   "image": "Priya (pastel green saree) gently holds Sparky's (baby dragon) tiny paw, trying to explain something with a calm, teaching expression in the kitchen.",
+   "speaker": "Priya",
+   "line": "Beta, aag sirf ghar ke bahar.",
+   "fx": "none",
+   "say": "बेटा, आग सिर्फ घर के बाहर।"
+  },
+  {
+   "image": "Sparky (baby dragon) is excitedly perched on Priya's shoulder while she is chopping vegetables. Sparky looks eager, ready to 'help'.",
+   "speaker": "narrator",
+   "line": "Par Sparky toh madad karna chahta tha.",
+   "fx": "none",
+   "say": "पर स्पार्की तो मदद करना चाहता था।"
+  },
+  {
+   "image": "CHAOS: The kitchen is filled with light smoke. Sparky (baby dragon) breathes a stream of fire towards a cooking pot. Priya (pastel green saree) looks utterly bewildered and stressed.",
+   "speaker": "Priya",
+   "line": "Bas! Bahut ho gaya yeh sab!",
+   "fx": "dust",
+   "say": "बस! बहुत हो गया यह सब!"
+  },
+  {
+   "image": "Priya (pastel green saree), with an angry but desperate face, points a finger at Sparky (baby dragon). Sparky cowers slightly on the counter.",
+   "speaker": "Priya",
+   "line": "Sparky, tum yeh aag kyun nikalte ho?",
+   "fx": "none",
+   "say": "स्पार्की, तुम यह आग क्यों निकालते हो?"
+  },
+  {
+   "image": "CLOSE UP: Sparky (baby dragon) looks up at Priya with big, innocent eyes. A small puff of smoke comes from its nose. It speaks with a child-like voice.",
+   "speaker": "Sparky",
+   "line": "Khane mein masala nahi tha, Mummy!",
+   "fx": "none",
+   "say": "खाने में मसाला नहीं था, मम्मी!"
+  },
+  {
+   "image": "Priya (pastel green saree) freezes, then her angry face slowly turns into disbelief, then a slight, bewildered smile. She looks at Sparky (baby dragon) with understanding.",
+   "speaker": "narrator",
+   "line": "Uski baat sunkar Priya hairaan reh gayi.",
+   "fx": "none",
+   "say": "उसकी बात सुनकर प्रिया हैरान रह गई।"
+  },
+  {
+   "image": "OVERHEAD SHOT: The kitchen is a mess – scorched counter, a half-burnt roti, a smoking karahi. Sparky (baby dragon) sits innocently amidst the chaos.",
+   "speaker": "narrator",
+   "line": "Woh toh bas hamare khane ko teekha kar raha tha.",
+   "fx": "dust",
+   "say": "वह तो बस हमारे खाने को तीखा कर रहा था।"
+  },
+  {
+   "image": "Priya (pastel green saree) stands in the smoky kitchen, a wry smile on her face, shaking her head. Sparky (baby dragon) looks expectantly at her.",
+   "speaker": "Priya",
+   "line": "Aapke ghar aisa dragon ho toh kya karti? Rakhti ya bhejti?",
+   "fx": "dust",
+   "say": "आपके घर ऐसा ड्रैगन हो तो क्या करती? रखती या भेजती?"
+  }
+ ],
+ "caption": "My Son's New Pet Breathes Fire! 🔥",
+ "slug": "2026-11-26_part2",
+ "story_no": 89,
+ "yt_title": "My Son's New Pet Breathes Fire! 🔥",
+ "description": "My son brought home a 'lizard' that turned our kitchen into a fiery mess. But when I confronted it, its reason was hilariously unexpected! What would YOU do?",
+ "comment_question": "Aapke ghar aisa dragon ho toh kya karti? Rakhti ya bhejti?",
+ "hashtags": [
+  "#hindijokes",
+  "#funnyreels",
+  "#comedy",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#babydragon",
+  "#indianfamily",
+  "#chutkule",
+  "#मज़ेदारकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}

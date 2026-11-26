@@ -1,0 +1,176 @@
+{
+ "series": "The Baby Dragon's Silent Spark",
+ "episode": 1,
+ "title": "The Baby Dragon's Silent Spark",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Siya: Young woman, late teens/early twenties. Long, soft, wavy dark-brown hair, pulled back into a neat braid. Natural makeup, small diamond studs. Wears a light blue cotton kurta with delicate white embroidery. Warm, empathetic eyes. Fair, light wheatish, clear skin.",
+   "voice": "hindi_female_young"
+  },
+  "Iggy": {
+   "look": "Tiny, palm-sized baby dragon. Iridescent emerald green scales, large, expressive golden eyes. Small wings, puffs of silver smoke from his nostrils when he breathes.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Mrs. Sharma": {
+   "look": "Elegant woman, late 30s. Beautiful silk saree, perfectly styled hair, anxious expression. Fair, light wheatish, clear skin.",
+   "voice": "hindi_narrator_female"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "NANHA DRAGON KYON RO RAHA THA?",
+ "scenes": [
+  {
+   "image": "Siya, a young woman, looks worriedly but determinedly at a tiny, green baby dragon in a soft basket. The dragon is crying loudly, visible tears on its face. Siya's face shows deep concern.",
+   "speaker": "narrator",
+   "line": "Mujhe hamesha se sabki bhasha samajh aati thi.",
+   "fx": "none",
+   "sub": "I always understood everyone's language.",
+   "say": "मुझे हमेशा से सबकी भाषा समझ आती थी।"
+  },
+  {
+   "image": "Close-up of the baby dragon, Iggy, in a soft, plush basket. He is crying loudly, mouth open, tears streaming down his tiny face. Small puffs of smoke rise from his nostrils.",
+   "speaker": "narrator",
+   "line": "Par yeh nanha dragon Iggy alag tha.",
+   "fx": "none",
+   "sub": "But this tiny dragon Iggy was different.",
+   "say": "पर यह नन्हा ड्रैगन इग्गी अलग था।"
+  },
+  {
+   "image": "Mrs. Sharma, an elegant woman, looks exhausted and distraught while cradling the perpetually crying baby dragon. Her hair is slightly disheveled, and there are dark circles under her eyes. She looks desperate.",
+   "speaker": "narrator",
+   "line": "Mrs. Sharma ne sab kuch karke dekh liya.",
+   "fx": "none",
+   "sub": "Mrs. Sharma had tried everything.",
+   "say": "मिसेज़ शर्मा ने सब कुछ करके देख लिया।"
+  },
+  {
+   "image": "Siya gently tries to offer a small bottle of milk to Iggy, who turns his head away, still crying, refusing the food. There are various toys scattered around the plush nursery room.",
+   "speaker": "narrator",
+   "line": "Khana, doodh, khel... kuch kaam na aaya.",
+   "fx": "none",
+   "sub": "Food, milk, play... nothing worked.",
+   "say": "खाना, दूध, खेल... कुछ काम न आया।"
+  },
+  {
+   "image": "Mrs. Sharma, looking defeated and weary, hands the crying Iggy over to Siya. Her expression is pleading, hopeful, but also utterly exhausted.",
+   "speaker": "Mrs. Sharma",
+   "line": "Siya, sirf tum hi meri madad kar sakti ho, woh boli.",
+   "fx": "none",
+   "sub": "Siya, only you can help me, she said.",
+   "say": "सिया, सिर्फ़ तुम ही मेरी मदद कर सकती हो, वह बोली।"
+  },
+  {
+   "image": "Siya cradles the crying Iggy gently, looking determined and thoughtful. Her eyes are closed for a moment, concentrating, a soft glow of resolve on her face.",
+   "speaker": "narrator",
+   "line": "Maine apni shakti par bharosa kiya.",
+   "fx": "none",
+   "sub": "I trusted my gift.",
+   "say": "मैंने अपनी शक्ति पर भरोसा किया।"
+  },
+  {
+   "image": "Close-up of Siya's hand gently resting on Iggy's tiny head. Iggy is still crying, but Siya's face shows deep concentration, almost as if listening to something only she can hear. A faint, soft glow emanates from her hand.",
+   "speaker": "narrator",
+   "line": "Dheere-dheere, uski awaaz mere mann mein gunji.",
+   "fx": "none",
+   "sub": "Slowly, his voice echoed in my mind.",
+   "say": "धीरे-धीरे, उसकी आवाज़ मेरे मन में गूंजी।"
+  },
+  {
+   "image": "Extreme close-up on Iggy's tear-filled, golden eyes. A single, luminous tear rolls down his cheek. He is still crying, but his tiny mouth is shaped like he's speaking.",
+   "speaker": "Iggy",
+   "line": "Mujhe apni maa ki jaadui aag chahiye!",
+   "fx": "none",
+   "sub": "I want my mother's magical fire!",
+   "say": "मुझे अपनी माँ की जादुई आग चाहिए!"
+  },
+  {
+   "image": "Siya's face, her eyes wide with surprise and profound understanding. Her expression shifts from shock to deep empathy. She cradles Iggy closer.",
+   "speaker": "narrator",
+   "line": "Woh garam aag nahi, pyaar ki roshni thi.",
+   "fx": "none",
+   "sub": "It wasn't hot fire, it was light of love.",
+   "say": "वह गरम आग नहीं, प्यार की रोशनी थी।"
+  },
+  {
+   "image": "Siya pulls out a small, smooth, slightly glowing stone from a delicate silver chain worn around her neck, hidden under her kurta. The stone emits a soft, warm light.",
+   "speaker": "narrator",
+   "line": "Mujhe apna purana jaadui patthar yaad aaya.",
+   "fx": "none",
+   "sub": "I remembered my old magic stone.",
+   "say": "मुझे अपना पुराना जादुई पत्थर याद आया।"
+  },
+  {
+   "image": "Siya gently places the glowing stone right next to the still-crying Iggy in his basket. The stone emits a soft, comforting warmth.",
+   "speaker": "narrator",
+   "line": "Maine woh garam patthar uske paas rakha.",
+   "fx": "none",
+   "sub": "I placed that warm stone near him.",
+   "say": "मैंने वह गरम पत्थर उसके पास रखा।"
+  },
+  {
+   "image": "Iggy immediately stops crying. He nuzzles against the glowing stone, his body relaxing. A tiny, almost imperceptible spark emits from his nose, and his scales briefly shimmer with an inner light.",
+   "speaker": "narrator",
+   "line": "Iggy shaant ho gaya, aur woh chamak utha.",
+   "fx": "none",
+   "sub": "Iggy calmed down, and he lit up.",
+   "say": "इग्गी शांत हो गया, और वह चमक उठा।"
+  },
+  {
+   "image": "Mrs. Sharma enters the nursery, stops abruptly, her eyes wide with shock and amazement as she sees the calm, glowing Iggy next to the mysterious stone. Her anxious expression has turned to wonder.",
+   "speaker": "narrator",
+   "line": "Mrs. Sharma ne hairani se dekha.",
+   "fx": "none",
+   "sub": "Mrs. Sharma watched in amazement.",
+   "say": "मिसेज़ शर्मा ने हैरानी से देखा।"
+  },
+  {
+   "image": "Iggy is now happily playing with the glowing stone in his basket, batting at it with his tiny paws, small playful puffs of shimmery smoke coming from his nose. He looks completely content.",
+   "speaker": "narrator",
+   "line": "Ab Iggy kabhi nahi rota tha.",
+   "fx": "none",
+   "sub": "Now Iggy never cried.",
+   "say": "अब इग्गी कभी नहीं रोता था।"
+  },
+  {
+   "image": "Siya watches Iggy play, a gentle smile on her face. She gently covers the glowing stone with her hand, her expression turning slightly conflicted and thoughtful. She glances at Mrs. Sharma.",
+   "speaker": "narrator",
+   "line": "Yeh raaz main kaise batati Mrs. Sharma ko?",
+   "fx": "none",
+   "sub": "How could I tell Mrs. Sharma this secret?",
+   "say": "यह राज़ मैं कैसे बताती मिसेज़ शर्मा को?"
+  },
+  {
+   "image": "Siya looks directly at the camera, a thoughtful and slightly hesitant expression on her face, inviting the viewer to consider the dilemma.",
+   "speaker": "narrator",
+   "line": "Agar aap hoti toh kya karti? Sach batati ya chup rehti?",
+   "fx": "none",
+   "sub": "If it were you, what would you do? Tell the truth or stay quiet?",
+   "say": "अगर आप होती तो क्या करती? सच बताती या चुप रहती?"
+  }
+ ],
+ "caption": "Nanny's Secret: Baby Dragon Cried for THIS! 🐉",
+ "slug": "2026-11-26_part1",
+ "story_no": 88,
+ "yt_title": "Nanny's Secret: Baby Dragon Cried for THIS! 🐉",
+ "description": "This baby dragon cried endlessly, exhausting everyone. But the new nanny had a secret gift to understand him.\nWhat the tiny dragon revealed shocked her, leading to a magical solution. But should she tell the truth?\nAgar aap hoti toh kya karti? Sach batati ya chup rehti?",
+ "comment_question": "Sach batati ya chup rehti?",
+ "hashtags": [
+  "#moralstory",
+  "#animalstory",
+  "#pyaarkikahani",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#babydragon",
+  "#magicalcreature",
+  "#sachhidosti",
+  "#नैतिककहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "series": "Dadi Ka Nyaay",
+ "episode": 3,
+ "title": "Dadi Ka Nyaay",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya, young, warm, relatable. Long soft wavy dark-brown hair, natural makeup, small bindi, elegant pastel kurta, fair skin.",
+   "voice": "hindi_female_young"
+  },
+  "Rohan": {
+   "look": "Handsome, kind, caring young man. Short, neat dark hair, simple shirt, light wheatish skin.",
+   "voice": "hindi_male_young"
+  },
+  "Dadi": {
+   "look": "Old, wise, gentle face, silver hair in a neat bun, spectacles, simple traditional saree, clear skin.",
+   "voice": "hindi_narrator_female"
+  },
+  "Elder": {
+   "look": "Old, respected village elder. White hair and beard, traditional kurta-pajama, wise expression.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "WAS DADI WRONG?",
+ "scenes": [
+  {
+   "image": "Priya (narrator), young, warm, in a pastel kurta, sitting alone on a wooden bench in a sunlit courtyard, looking devastated, tears in her eyes. Head bowed.",
+   "speaker": "narrator",
+   "line": "मेरी दादी ने मेरे प्यार को तोड़ा।",
+   "fx": "none",
+   "sub": "My Dadi broke my love.",
+   "say": "मेरी दादी ने मेरे प्यार को तोड़ा।"
+  },
+  {
+   "image": "Priya and Rohan, young, laughing happily, walking hand-in-hand through a vibrant flower field. Both smiling brightly, warm light.",
+   "speaker": "narrator",
+   "line": "रोहन मेरा बचपन का प्यार था।",
+   "fx": "none",
+   "sub": "Rohan was my childhood love.",
+   "say": "रोहन मेरा बचपन का प्यार था।"
+  },
+  {
+   "image": "Dadi (old, wise, gentle), in a simple saree, hands a set of old, rustic keys to Rohan. Rohan looks respectful and grateful. Priya watches fondly. Set in Dadi's ancestral home veranda.",
+   "speaker": "narrator",
+   "line": "दादी ने उसे अपनी ज़मीन सौंपी।",
+   "fx": "none",
+   "sub": "Dadi entrusted him with her land.",
+   "say": "दादी ने उसे अपनी ज़मीन सौंपी।"
+  },
+  {
+   "image": "Dadi, sitting alone on a charpai, looking frail and melancholic, staring into the distance in the ancestral home. The home looks quiet and slightly neglected.",
+   "speaker": "narrator",
+   "line": "फिर दादी उदास रहने लगीं।",
+   "fx": "none",
+   "sub": "Then Dadi started staying sad.",
+   "say": "फिर दादी उदास रहने लगीं।"
+  },
+  {
+   "image": "Close-up of Dadi's face, a single tear rolling down her cheek, looking sad. Priya's hand gently rests on Dadi's shoulder, concerned.",
+   "speaker": "Dadi",
+   "line": "उन्होंने कहा, \"वादा टूट गया।\"",
+   "fx": "none",
+   "sub": "She said, \"The promise is broken.\"",
+   "say": "उन्होंने कहा, \"वादा टूट गया।\""
+  },
+  {
+   "image": "Priya, conflicted, looking between a framed photo of her and Rohan smiling, and Dadi sitting alone in the distance. Her face shows deep worry and internal struggle.",
+   "speaker": "narrator",
+   "line": "मेरा दिल दो हिस्सों में बँट गया।",
+   "fx": "none",
+   "sub": "My heart was split in two.",
+   "say": "मेरा दिल दो हिस्सों में बँट गया।"
+  },
+  {
+   "image": "Priya confronting Rohan in the ancestral garden, her expression serious and concerned. Rohan looks surprised, slightly defensive.",
+   "speaker": "narrator",
+   "line": "मैंने रोहन से पूछा, \"क्या हुआ?\"",
+   "fx": "none",
+   "sub": "I asked Rohan, \"What happened?\"",
+   "say": "मैंने रोहन से पूछा, \"क्या हुआ?\""
+  },
+  {
+   "image": "Rohan, with a troubled expression, turning away from Priya. Priya looks hurt and confused, trying to understand.",
+   "speaker": "Rohan",
+   "line": "उसने कुछ नहीं बताया, बस इनकार किया।",
+   "fx": "none",
+   "sub": "He didn't say anything, just denied it.",
+   "say": "उसने कुछ नहीं बताया, बस इनकार किया।"
+  },
+  {
+   "image": "Priya, with a determined yet pained expression, walks purposefully towards the village elder's traditional house. It's a clear, brave step.",
+   "speaker": "narrator",
+   "line": "मैंने न्याय चुना, चाहे कुछ भी हो।",
+   "fx": "none",
+   "sub": "I chose justice, no matter what.",
+   "say": "मैंने न्याय चुना, चाहे कुछ भी हो।"
+  },
+  {
+   "image": "The village elder (an old, wise man) sitting in the center, flanked by Dadi on one side and Rohan and Priya on the other, in a traditional panchayat setting. Rohan looks tense.",
+   "speaker": "narrator",
+   "line": "न्याय के लिए मैंने पंचायत बुलाई।",
+   "fx": "none",
+   "sub": "For justice, I called the panchayat.",
+   "say": "न्याय के लिए मैंने पंचायत बुलाई।"
+  },
+  {
+   "image": "Close-up of the Elder, his face grave, making a pronouncement. Rohan looks shocked and deeply hurt. Priya looks devastated and conflicted.",
+   "speaker": "Elder",
+   "line": "बड़े ने रोहन के खिलाफ फैसला सुनाया।",
+   "fx": "none",
+   "sub": "The elder ruled against Rohan.",
+   "say": "बड़े ने रोहन के खिलाफ फैसला सुनाया।"
+  },
+  {
+   "image": "Rohan, looking angry and betrayed, walking away from Priya, who is standing alone, clutching her chest, tears streaming down her face. A small engagement ring lies on the ground near her feet.",
+   "speaker": "Rohan",
+   "line": "रोहन ने हमारी सगाई तोड़ दी।",
+   "fx": "none",
+   "sub": "Rohan broke off our engagement.",
+   "say": "रोहन ने हमारी सगाई तोड़ दी।"
+  },
+  {
+   "image": "Dadi gently embracing a sobbing Priya. Dadi's face is now full of love and a knowing, soft smile, not sadness. Priya is still crying but looks up in confusion.",
+   "speaker": "Dadi",
+   "line": "दादी मेरे पास आईं, \"मेरी बच्ची।\"",
+   "fx": "none",
+   "sub": "Dadi came to me, \"My child.\"",
+   "say": "दादी मेरे पास आईं, \"मेरी बच्ची।\""
+  },
+  {
+   "image": "Dadi holding Priya's hand, explaining with a soft, wise expression. Priya looks up, confused but listening intently, realization dawning on her face.",
+   "speaker": "Dadi",
+   "line": "\"यह रोहन का इम्तिहान था।\"",
+   "fx": "none",
+   "sub": "\"This was Rohan's test.\"",
+   "say": "\"यह रोहन का इम्तिहान था।\""
+  },
+  {
+   "image": "Rohan and Priya, reunited, holding hands, looking into each other's eyes with deep love and understanding, smiling through happy tears. Dadi smiles warmly in the background, witnessing their reunion.",
+   "speaker": "narrator",
+   "line": "रोहन लौटा, प्यार सच्चा साबित हुआ।",
+   "fx": "none",
+   "sub": "Rohan returned, love proved true.",
+   "say": "रोहन लौटा, प्यार सच्चा साबित हुआ।"
+  },
+  {
+   "image": "Priya (narrator), looking directly at the camera, a thoughtful, gentle expression, inviting the viewer's opinion.",
+   "speaker": "narrator",
+   "line": "दादी का यह तरीक़ा सही था क्या?",
+   "fx": "none",
+   "sub": "Was Dadi's method right?",
+   "say": "दादी का यह तरीक़ा सही था क्या?"
+  }
+ ],
+ "caption": "My Dadi Broke My Engagement... But She Had A Secret Plan 💔",
+ "slug": "2026-11-26_part3",
+ "story_no": 90,
+ "yt_title": "My Dadi Broke My Engagement... But She Had A Secret Plan 💔",
+ "description": "My Dadi seemingly broke my heart and my love for Rohan. I accused him of neglect, choosing justice over everything. But Dadi had a secret plan all along. Dadi ka yeh tareeka sahi tha kya? Haan ya Na?",
+ "comment_question": "Dadi ka yeh tareeka sahi tha kya? Haan ya Na?",
+ "hashtags": [
+  "#lovestory",
+  "#premkahani",
+  "#emotionalstory",
+  "#premchand",
+  "#story",
+  "#storytime",
+  "#IndianLoveStory",
+  "#FamilyDrama",
+  "#sachapyaar",
+  "#प्रेमकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}
