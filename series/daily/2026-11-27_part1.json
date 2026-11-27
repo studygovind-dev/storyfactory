@@ -1,0 +1,172 @@
+{
+ "series": "Adhoora Sach, Poora Pyaar",
+ "episode": 1,
+ "title": "Adhoora Sach, Poora Pyaar",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Young woman, early 20s, fair skin, long soft wavy dark-brown hair, small bindi, elegant pastel kurta, focused and earnest.",
+   "voice": "hindi_female_young"
+  },
+  "Rahul": {
+   "look": "Young man, early 20s, fair skin, short neat black hair, simple kurta-pajama, kind eyes, looks tired but gentle.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "HIS SECRET, HER SUCCESS",
+ "scenes": [
+  {
+   "image": "Priya in a bright pastel kurta, smiling, holding a degree certificate. Rahul stands slightly behind her, looking a little downcast but supportive. Both have fair, light wheatish skin. Bright soft light.",
+   "speaker": "narrator",
+   "line": "Mera pati, Rahul, hamesha mere se peeche reh jaata tha.",
+   "fx": "none",
+   "sub": "My husband, Rahul, always fell behind me.",
+   "say": "मेरा पति, राहुल, हमेशा मेरे से पीछे रह जाता था।"
+  },
+  {
+   "image": "Priya studying intently at a wooden table piled with books and a laptop, looking determined and focused. Bright soft light on her face.",
+   "speaker": "narrator",
+   "line": "Main padhai mein hamesha aage rahi.",
+   "fx": "none",
+   "sub": "I was always ahead in my studies.",
+   "say": "मैं पढ़ाई में हमेशा आगे रही।"
+  },
+  {
+   "image": "Rahul looking stressed and tired, holding a crumpled exam paper or a rejection letter. His shoulders slightly slumped. Soft light.",
+   "speaker": "narrator",
+   "line": "Par Rahul ko har exam mein mushkil aati.",
+   "fx": "none",
+   "sub": "But Rahul struggled with every exam.",
+   "say": "पर राहुल को हर एग्ज़ाम में मुश्किल आती।"
+  },
+  {
+   "image": "Priya looking at Rahul with a mix of love and slight concern or pity, her brows slightly furrowed. Close-up on her expressive face.",
+   "speaker": "narrator",
+   "line": "Usko dekh kar kabhi dukhi, kabhi naraz hoti.",
+   "fx": "none",
+   "sub": "Seeing him, I'd sometimes feel sad, sometimes upset.",
+   "say": "उसको देख कर कभी दुखी, कभी नाराज़ होती।"
+  },
+  {
+   "image": "Priya excitedly talking on a phone, her face beaming with joy and surprise, looking thrilled about a job offer or admission letter. Bright soft light.",
+   "speaker": "narrator",
+   "line": "Phir mujhe ek bade shahar mein mauka mila.",
+   "fx": "none",
+   "sub": "Then I got an opportunity in a big city.",
+   "say": "फिर मुझे एक बड़े शहर में मौक़ा मिला।"
+  },
+  {
+   "image": "Rahul smiling warmly and encouragingly at Priya, gesturing for her to go, but with a subtle hint of tiredness in his eyes. Gentle lighting.",
+   "speaker": "Rahul",
+   "line": "Jao, apna sapna poora karo.",
+   "fx": "none",
+   "sub": "Go, fulfill your dream.",
+   "say": "जाओ, अपना सपना पूरा करो।"
+  },
+  {
+   "image": "Priya in a professional setting like an office or college campus in a new city, looking confident but also a bit thoughtful or lonely, glancing away. Soft, cool lighting.",
+   "speaker": "narrator",
+   "line": "Main aage badhi, par uska future sochti rahi.",
+   "fx": "none",
+   "sub": "I moved forward, but kept thinking about his future.",
+   "say": "मैं आगे बढ़ी, पर उसका फ़्यूचर सोचती रही।"
+  },
+  {
+   "image": "Close-up on Priya's hand, holding an old, worn leather-bound diary or a stack of faded receipts, looking curious and a little puzzled.",
+   "speaker": "narrator",
+   "line": "Ek din mujhe uski purani diary mili.",
+   "fx": "none",
+   "sub": "One day I found his old diary.",
+   "say": "एक दिन मुझे उसकी पुरानी डायरी मिली।"
+  },
+  {
+   "image": "Close-up on Priya's face, eyes wide with shock and sudden realization, tears welling up, a hand covering her mouth in disbelief. Dramatic lighting.",
+   "speaker": "narrator",
+   "line": "Usmein likha tha uske adhoore sapnon ka sach.",
+   "fx": "none",
+   "sub": "It held the truth of his incomplete dreams.",
+   "say": "उसमें लिखा था उसके अधूरे सपनों का सच।"
+  },
+  {
+   "image": "Flashback: Young Rahul, looking tired but determined, studying under a dim lamp late at night, while also working at a simple, humble night job (e.g., sweeping, sorting).",
+   "speaker": "narrator",
+   "line": "Mere liye usne apni padhai chhod di thi.",
+   "fx": "dust",
+   "sub": "For me, he had left his own studies.",
+   "say": "मेरे लिए उसने अपनी पढ़ाई छोड़ दी थी।"
+  },
+  {
+   "image": "Flashback: Rahul, with a strained but resolute expression, handing over a small wad of money to someone, perhaps a tutor or an institution, for Priya's fees. His clothes look simple.",
+   "speaker": "narrator",
+   "line": "Meri fees, mere kharche, sab usne uthaye.",
+   "fx": "dust",
+   "sub": "My fees, my expenses, he bore them all.",
+   "say": "मेरी फ़ीस, मेरे ख़र्चे, सब उसने उठाए।"
+  },
+  {
+   "image": "Flashback: Rahul deliberately tearing up an exam application form or looking disinterested while filling it, a subtle sadness in his eyes. Soft, dramatic lighting.",
+   "speaker": "narrator",
+   "line": "Apne exams mein woh jaan-boojh kar hara.",
+   "fx": "dust",
+   "sub": "In his own exams, he deliberately failed.",
+   "say": "अपने एग्ज़ाम्स में वो जान-बूझ कर हारा।"
+  },
+  {
+   "image": "Priya sitting alone, tears streaming down her face, looking at her degree/certificate. Her face shows profound regret, love, and understanding. Soft, emotional lighting.",
+   "speaker": "narrator",
+   "line": "Meri jeet uske tyaag ki nishaani thi.",
+   "fx": "none",
+   "sub": "My victory was a symbol of his sacrifice.",
+   "say": "मेरी जीत उसके त्याग की निशानी थी।"
+  },
+  {
+   "image": "Priya embracing Rahul tightly, burying her face in his shoulder, visibly sobbing. Rahul looks surprised initially, then gently holds her back, stroking her hair. Warm, intimate lighting.",
+   "speaker": "narrator",
+   "line": "Main uske gale lag gayi, maafi maangi.",
+   "fx": "none",
+   "sub": "I hugged him, begging for forgiveness.",
+   "say": "मैं उसके गले लग गई, माफ़ी मांगी।"
+  },
+  {
+   "image": "Close-up on Rahul's face, a soft, understanding, loving smile playing on his lips as he gently strokes Priya's hair. His eyes convey deep affection. Warm, comforting light.",
+   "speaker": "Rahul",
+   "line": "Usne bas kaha, 'Hum ek hain, Priya'.",
+   "fx": "none",
+   "sub": "He just said, 'We are one, Priya'.",
+   "say": "उसने बस कहा, 'हम एक हैं, प्रिया'।"
+  },
+  {
+   "image": "Priya looking directly into the camera, still emotional but composed, with a thoughtful expression, eyes seeking answers. Bright, direct lighting.",
+   "speaker": "narrator",
+   "line": "Kya uska yeh tyaag sahi tha ya galat?",
+   "fx": "none",
+   "sub": "Was his sacrifice right or wrong?",
+   "say": "क्या उसका यह त्याग सही था या ग़लत?"
+  }
+ ],
+ "caption": "My Husband Failed So I Could Shine... Then I Found His Secret. 💔",
+ "slug": "2026-11-27_part1",
+ "story_no": 91,
+ "yt_title": "My Husband Failed So I Could Shine... Then I Found His Secret. 💔",
+ "description": "My husband always lagged behind me, while I excelled. But his 'failures' hid a profound sacrifice for my dreams. Was his silent devotion right or wrong?",
+ "comment_question": "Kya uska yeh tyaag sahi tha ya galat?",
+ "hashtags": [
+  "#lovestory",
+  "#premkahani",
+  "#emotionalstory",
+  "#premchand",
+  "#story",
+  "#storytime",
+  "#indianshorts",
+  "#sachapyaar",
+  "#प्रेमकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ]
+}

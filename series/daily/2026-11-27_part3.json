@@ -1,0 +1,176 @@
+{
+ "series": "The Lion's Unfinished Song",
+ "episode": 3,
+ "title": "The Lion's Unfinished Song",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Anya, female, early 20s. Long wavy dark-brown hair, expressive kind eyes, light wheatish skin. Wears a light blue cotton kurta and simple silver earrings.",
+   "voice": "hindi_narrator_female"
+  },
+  "Raja": {
+   "look": "An old, majestic lion with a golden-brown mane, but weary and sad eyes.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Dadu": {
+   "look": "Anya's grandfather, male, late 70s. White hair, kind wrinkles, light wheatish skin. Wears a simple white kurta.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "CAN ANIMALS TALK?",
+ "scenes": [
+  {
+   "image": "Anya's face framed by dark-brown wavy hair, wide, kind eyes, looking slightly off-camera with a thoughtful, empathetic expression. Wears a pastel blue kurta.",
+   "speaker": "narrator",
+   "line": "Mujhe janwaron ki awaaz sunai deti hai. Dard bhi.",
+   "fx": "dust",
+   "sub": "I can hear animals' voices. Their pain too.",
+   "say": "मुझे जानवरों की आवाज़ सुनाई देती है। दर्द भी।"
+  },
+  {
+   "image": "Medium shot of Anya standing outside a large, rustic zoo enclosure, looking at an old lion (Raja) resting far in the background. Her expression is concerned.",
+   "speaker": "narrator",
+   "line": "Zoo mein ek sher tha, Raja. Akela tha.",
+   "fx": "none",
+   "sub": "There was a lion at the zoo, Raja. He was lonely.",
+   "say": "ज़ू में एक शेर था, राजा। अकेला था।"
+  },
+  {
+   "image": "Close-up of Raja, an old, weary lion's face through sturdy metal bars, eyes looking distant, conveying deep sadness.",
+   "speaker": "narrator",
+   "line": "Uska pinjra... ek udaas kahaani thi.",
+   "fx": "none",
+   "sub": "His cage... was a sad story.",
+   "say": "उसका पिंजरा... एक उदास कहानी थी।"
+  },
+  {
+   "image": "Close-up on Anya's face, focused on Raja, her hand gently touching the cold metal of the enclosure. Her eyes are compassionate.",
+   "speaker": "narrator",
+   "line": "Kai dinon tak uski aankhon mein dekha.",
+   "fx": "none",
+   "sub": "For many days, I looked into his eyes.",
+   "say": "कई दिनों तक उसकी आँखों में देखा।"
+  },
+  {
+   "image": "Extreme close-up on Raja's mouth as if speaking, jaw slightly open, eyes still sad but with a flicker of hope or memory.",
+   "speaker": "Raja",
+   "line": "Ek raat woh bola, 'Mera dost kahaan hai?'",
+   "fx": "dust",
+   "sub": "One night he spoke, 'Where is my friend?'",
+   "say": "एक रात वह बोला, 'मेरा दोस्त कहाँ है?'"
+  },
+  {
+   "image": "Raja in the foreground, looking sad. In the background, a slightly blurred, nostalgic image of a young boy (small Dadu, maybe 8-10 years old, in old-fashioned simple clothes) sitting near the enclosure, smiling and looking at Raja.",
+   "speaker": "Raja",
+   "line": "'Ek chhota ladka tha. Roz aata tha.'",
+   "fx": "dust",
+   "sub": "'He was a small boy. Came every day.'",
+   "say": "'एक छोटा लड़का था। रोज़ आता था।'"
+  },
+  {
+   "image": "Close-up of Raja, eyes closed, a faint, almost imperceptible smile, lost in memory.",
+   "speaker": "Raja",
+   "line": "'Woh mujhe geet sunata tha. Har shaam.'",
+   "fx": "dust",
+   "sub": "'He used to sing me a song. Every evening.'",
+   "say": "'वह मुझे गीत सुनाता था। हर शाम।'"
+  },
+  {
+   "image": "Close-up on Anya's face. Her eyes suddenly widen, a moment of profound realization, lips slightly parted in surprise.",
+   "speaker": "narrator",
+   "line": "Geet sunte hi... mujhe Dadu yaad aaye.",
+   "fx": "none",
+   "sub": "Hearing the song... I remembered Dadu.",
+   "say": "गीत सुनते ही... मुझे दादू याद आए।"
+  },
+  {
+   "image": "Anya looking at a slightly faded old photo or sketch of a young boy (Dadu) standing near a lion enclosure, then looking up at her now-old Dadu, who is sitting on a chair, distant look on his face.",
+   "speaker": "narrator",
+   "line": "Dadu bachpan mein zoo aate the, ek dost milne.",
+   "fx": "none",
+   "sub": "Dadu used to come to the zoo as a child, to meet a friend.",
+   "say": "दादू बचपन में ज़ू आते थे, एक दोस्त मिलने।"
+  },
+  {
+   "image": "Close-up of old Dadu's face, looking out a window, a faint shadow of past worry or sadness.",
+   "speaker": "narrator",
+   "line": "Phir unke pariwar mein museebat aayi.",
+   "fx": "none",
+   "sub": "Then trouble came in his family.",
+   "say": "फिर उनके परिवार में मुसीबत आई।"
+  },
+  {
+   "image": "Anya watching her Dadu from a distance, Dadu reading a newspaper, but with a melancholic expression. Anya's face shows understanding and a hint of a plan forming.",
+   "speaker": "narrator",
+   "line": "Unhone dobara us sher ki baat nahi ki.",
+   "fx": "none",
+   "sub": "He never mentioned that lion again.",
+   "say": "उन्होंने दोबारा उस शेर की बात नहीं की।"
+  },
+  {
+   "image": "Anya gently takes Dadu's hand, leading him towards a zoo gate. Dadu looks a little confused but trusting.",
+   "speaker": "narrator",
+   "line": "Main Dadu ko Raja ke paas le gayi.",
+   "fx": "none",
+   "sub": "I took Dadu to Raja.",
+   "say": "मैं दादू को राजा के पास ले गई।"
+  },
+  {
+   "image": "Dadu stands at the enclosure, Anya beside him. Dadu starts singing a soft, old lullaby. Raja, initially still, slowly lifts his head.",
+   "speaker": "narrator",
+   "line": "Dadu ne woh purana geet gaaya.",
+   "fx": "none",
+   "sub": "Dadu sang that old song.",
+   "say": "दादू ने वह पुराना गीत गाया।"
+  },
+  {
+   "image": "Raja is now fully alert, moving towards the bars, nudging Dadu's outstretched hand with his nose. Dadu has tears streaming down his face, a mix of overwhelming joy and regret.",
+   "speaker": "narrator",
+   "line": "Raja ne Dadu ko pehchaan liya! Khushi se.",
+   "fx": "none",
+   "sub": "Raja recognized Dadu! With joy.",
+   "say": "राजा ने दादू को पहचान लिया! ख़ुशी से।"
+  },
+  {
+   "image": "Close-up on Dadu's tear-filled eyes and trembling lips, his voice choked with emotion.",
+   "speaker": "Dadu",
+   "line": "Laga tum bhool gaye hoge.",
+   "fx": "none",
+   "sub": "I thought you would have forgotten.",
+   "say": "लगा तुम भूल गए होगे।"
+  },
+  {
+   "image": "Close-up on Anya's face, looking directly at the camera, her expression a mix of emotion and a probing question, inviting the viewer's judgment.",
+   "speaker": "narrator",
+   "line": "Raja ka dard sahi tha, ya Dadu ki majboori?",
+   "fx": "none",
+   "sub": "Was Raja's pain right, or Dadu's compulsion?",
+   "say": "राजा का दर्द सही था, या दादू की मज़बूरी?"
+  }
+ ],
+ "caption": "This Zoo Lion Sang a Secret Song to Me... My Grandfather's. 🦁❤️",
+ "slug": "2026-11-27_part3",
+ "story_no": 93,
+ "yt_title": "This Zoo Lion Sang a Secret Song to Me... My Grandfather's. 🦁❤️",
+ "description": "I can hear what animals say, and the old zoo lion's silent pain broke my heart.\nHe whispered a secret song, and it led me to a shocking discovery about my own family.\nWas the lion's heartbreak justified, or my Dadu's difficult past?",
+ "comment_question": "Raja ka dard sahi tha, ya Dadu ki majboori?",
+ "hashtags": [
+  "#moralstory",
+  "#animalstory",
+  "#pyaarkikahani",
+  "#AnimalLove",
+  "#EmotionalStory",
+  "#ZooStory",
+  "#TalkingAnimals",
+  "#HumanAnimalBond",
+  "#sachhidosti",
+  "#नैतिककहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#storytime",
+  "#reelsindia"
+ ]
+}

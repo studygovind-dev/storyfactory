@@ -1,0 +1,164 @@
+{
+ "series": "Dadu aur Tuffy ka Raaz",
+ "episode": 2,
+ "title": "Dadu aur Tuffy ka Raaz",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A male storyteller, warm and clear.",
+   "voice": "hindi_narrator_male"
+  },
+  "Dadu": {
+   "look": "Old, kind man, fair skin, thin white hair, spectacles, wearing a clean white kurta-pajama, always with a warm smile. Bright soft light on his face.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Rani": {
+   "look": "Young woman, fair skin, long wavy dark-brown hair, natural makeup, small gold earrings, wearing a graceful pastel yellow kurta with neat jeans. Bright soft light on her face.",
+   "voice": "hindi_cartoon_female"
+  },
+  "Tuffy": {
+   "look": "Small, fluffy white terrier mix dog, wearing a blue collar, very expressive, mischievous eyes, wagging tail.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "DOG SIRF DADU SE BAAT KARTA HAI?",
+ "scenes": [
+  {
+   "image": "Close-up on Tuffy, a fluffy white terrier mix dog, looking directly at the camera with wide, mischievous eyes, head slightly tilted. A thought bubble above him shows him winking.",
+   "speaker": "narrator",
+   "line": "Mera kutta sirf Dadu se baat karta hai!",
+   "fx": "none",
+   "say": "मेरा कुत्ता सिर्फ दादू से बात करता है!"
+  },
+  {
+   "image": "Rani stands at the kitchen doorway, looking confused and concerned at Dadu, who is stirring something in a pot, oblivious to her. Tuffy sits beside Dadu's feet, looking up at him expectantly.",
+   "speaker": "narrator",
+   "line": "Rani ne Dadu ko kitchen mein dekha.",
+   "fx": "none",
+   "say": "रानी ने दादू को किचन में देखा।"
+  },
+  {
+   "image": "Dadu bends down slightly, holding a spoon, and smiles at Tuffy with affection. Tuffy looks up at Dadu with a happy, eager expression.",
+   "speaker": "Dadu",
+   "line": "Tuffy, aaj biryani khaoge?",
+   "fx": "none",
+   "say": "टफी, आज बिरयानी खाओगे?"
+  },
+  {
+   "image": "Close-up on Tuffy, who winks at Dadu and nudges his leg playfully. He looks like he's trying to be secretive.",
+   "speaker": "Tuffy",
+   "line": "Haan Dadu, bohot bhookh lagi hai!",
+   "fx": "none",
+   "say": "हाँ दादू, बहुत भूख लगी है!"
+  },
+  {
+   "image": "Rani, still at the doorway, looks puzzled, tilting her head. She clearly heard Dadu talking, but no visible response from Tuffy.",
+   "speaker": "Rani",
+   "line": "Dadu, kisse baat kar rahe ho?",
+   "fx": "none",
+   "say": "दादू, किससे बात कर रहे हो?"
+  },
+  {
+   "image": "Dadu turns to Rani with a broad, innocent smile, gesturing towards Tuffy who now looks like a normal, quiet dog.",
+   "speaker": "Dadu",
+   "line": "Arre, Tuffy se! Woh apni pasand bata raha hai.",
+   "fx": "none",
+   "say": "अरे, टफी से! वो अपनी पसंद बता रहा है।"
+  },
+  {
+   "image": "Rani crosses her arms, looking skeptical. Tuffy glances at her quickly, then back at Dadu, playing innocent.",
+   "speaker": "Rani",
+   "line": "Dadu, woh to sirf bhonkta hai.",
+   "fx": "none",
+   "say": "दादू, वो तो सिर्फ भौंकता है।"
+  },
+  {
+   "image": "Rani stands in the living room, looking thoughtful and worried, holding her chin. She's genuinely concerned about Dadu.",
+   "speaker": "narrator",
+   "line": "Rani ko Dadu ki chinta hone lagi.",
+   "fx": "none",
+   "say": "रानी को दादू की चिंता होने लगी।"
+  },
+  {
+   "image": "Rani peeks from behind a potted plant in the living room, secretly watching Tuffy, who is sitting alone on the rug, looking bored.",
+   "speaker": "narrator",
+   "line": "Rani ne Tuffy ko chhupke se dekha.",
+   "fx": "none",
+   "say": "रानी ने टफी को छुपके से देखा।"
+  },
+  {
+   "image": "Rani crouches down, still hidden, and whispers towards Tuffy, who slowly turns his head, eyes widening slightly.",
+   "speaker": "Rani",
+   "line": "Tuffy, kya tum sach mein bolte ho?",
+   "fx": "none",
+   "say": "टफी, क्या तुम सच में बोलते हो?"
+  },
+  {
+   "image": "Tuffy looks left and right furtively, then leans in conspiratorially towards Rani, lowering his head slightly.",
+   "speaker": "Tuffy",
+   "line": "Shhh! Dadu ko mat batana!",
+   "fx": "none",
+   "say": "शश! दादू को मत बताना!"
+  },
+  {
+   "image": "Rani's face in a close-up, eyes wide with shock and a hand clapped over her mouth. She is utterly surprised.",
+   "speaker": "Rani",
+   "line": "Tum to sach mein bolte ho!",
+   "fx": "none",
+   "say": "तुम तो सच में बोलते हो!"
+  },
+  {
+   "image": "Dadu enters the living room, smiling knowingly at Rani and Tuffy, who are both frozen in surprise. Dadu looks amused.",
+   "speaker": "Dadu",
+   "line": "Kya hua Rani? Tuffy ne kya kaha?",
+   "fx": "none",
+   "say": "क्या हुआ रानी? टफी ने क्या कहा?"
+  },
+  {
+   "image": "Rani points an accusing finger at Tuffy, who gives a sheepish, guilty look, but also a hint of mischief in his eyes.",
+   "speaker": "Rani",
+   "line": "Dadu, yeh to... yeh to sab nautanki hai!",
+   "fx": "none",
+   "say": "दादू, ये तो... ये तो सब नौटंकी है!"
+  },
+  {
+   "image": "Dadu and Tuffy are sitting together, Dadu gently petting Tuffy, both laughing heartily. Dadu's eyes are twinkling, Tuffy has a wide, happy doggy grin.",
+   "speaker": "narrator",
+   "line": "Tuffy aur Dadu dono hansne lage.",
+   "fx": "none",
+   "say": "टफी और दादू दोनों हँसने लगे।"
+  },
+  {
+   "image": "Close-up on Tuffy looking directly into the camera with a smug, knowing look, as if sharing a secret with the viewer.",
+   "speaker": "narrator",
+   "line": "Dadu aur Tuffy mein zyaada chaalak kaun tha?",
+   "fx": "none",
+   "say": "दादू और टफी में ज़्यादा चालाक कौन था?"
+  }
+ ],
+ "caption": "My Dog Only Talks To Grandpa... Until This! 😂",
+ "slug": "2026-11-27_part2",
+ "story_no": 92,
+ "yt_title": "My Dog Only Talks To Grandpa... Until This! 😂",
+ "description": "This talking dog only whispers secrets to Dadu! 🤫\nHis granddaughter thought Dadu was losing his mind, but then she caught them in a hilarious act. \nWho do you think was more mischievous, Dadu or Tuffy?",
+ "comment_question": "Dadu aur Tuffy mein zyaada chaalak kaun tha?",
+ "hashtags": [
+  "#hindijokes",
+  "#funnyreels",
+  "#comedy",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnydog",
+  "#talkinganimals",
+  "#chutkule",
+  "#मज़ेदारकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}
