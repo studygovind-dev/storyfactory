@@ -1,0 +1,194 @@
+{
+ "series": "Pehli Chhaap: Mind Ka Khel!",
+ "episode": 2,
+ "title": "Pehli Chhaap: Mind Ka Khel!",
+ "style": "cinematic 3D render of a glowing human brain with neon blue and violet neural pathways, dark background, soft volumetric light, ultra detailed, vertical 9:16",
+ "img_suffix": "No people, no faces, no text, no watermark, no logos.",
+ "pic_group": 9,
+ "library": [
+  "brain"
+ ],
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sir": {
+   "look": "calm male psychology teacher (voice only)",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "First Impression Magic",
+ "scenes": [
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Kya aapne kabhi socha hai ki pehli chhaap kitni aham hoti hai?",
+   "say": "क्या आपने कभी सोचा है कि पहली छाप कितनी अहम होती है?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Ise manovigyan mein 'Halo Effect' kehte hain.",
+   "say": "इसे मनोविज्ञान में 'Halo Effect' कहते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Iska matlab hai ki ek achhi visheshta anya sabhi ko prabhavit karti hai.",
+   "say": "इसका मतलब है कि एक अच्छी विशेषता अन्य सभी को प्रभावित करती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Maan lijiye aap ek naye sahakarmi se milte hain.",
+   "say": "मान लीजिए आप एक नए सहकर्मी से मिलते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Yadi ve akarshak dikhte hain, to aap unhein buddhiman maan sakte hain.",
+   "say": "यदि वे आकर्षक दिखते हैं, तो आप उन्हें बुद्धिमान मान सकते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Jabki unki buddhimatta ka koi pramaan nahin hota.",
+   "say": "जबकि उनकी बुद्धिमत्ता का कोई प्रमाण नहीं होता।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Adhyayanon se pata chala hai ki sundar log aksar adhik saksham maane jaate hain.",
+   "say": "अध्ययनों से पता चला है कि सुंदर लोग अक्सर अधिक सक्षम माने जाते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Unki yogyata ya charitra ko lekar hum sakaratmak dharnaen bana lete hain.",
+   "say": "उनकी योग्यता या चरित्र को लेकर हम सकारात्मक धारणाएँ बना लेते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Yah dharna keval ek gun par aadhaarit hoti hai.",
+   "say": "यह धारणा केवल एक गुण पर आधारित होती है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Yah prabhav aapke nirnayon ko anjaane mein prabhavit karta hai.",
+   "say": "यह प्रभाव आपके निर्णयों को अनजाने में प्रभावित करता है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Chaahe vah koi utpaad kharidna ho ya kisi par vishwas karna.",
+   "say": "चाहे वह कोई उत्पाद खरीदना हो या किसी पर विश्वास करना।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Hum aksar vyakti ke vastavik gunon ko andekha kar dete hain.",
+   "say": "हम अक्सर व्यक्ति के वास्तविक गुणों को अनदेखा कर देते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Isse bachne ke liye, doosron ko samagra roop se dekhein.",
+   "say": "इससे बचने के लिए, दूसरों को समग्र रूप से देखें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Keval ek achhe gun par aadhaarit raay na banaen.",
+   "say": "केवल एक अच्छे गुण पर आधारित राय न बनाएँ।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Tathyon aur vyavhaar par adhik dhyaan dein.",
+   "say": "तथ्यों और व्यवहार पर अधिक ध्यान दें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Aap swayam bhi pehli achhi chhaap bana sakte hain.",
+   "say": "आप स्वयं भी पहली अच्छी छाप बना सकते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Aatmavishwas se bolen aur sakaratmak oorja bikheren.",
+   "say": "आत्मविश्वास से बोलें और सकारात्मक ऊर्जा बिखेरें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Yah aapke baare mein behtar dharna banane mein madad karega.",
+   "say": "यह आपके बारे में बेहतर धारणा बनाने में मदद करेगा।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  }
+ ],
+ "caption": "🤯 Pehli Chaap Ka Rahasya: Halo Effect Kya Hai? Psychology Sir",
+ "slug": "2026-11-28_h2",
+ "story_no": 24,
+ "yt_title": "🤯 Pehli Chaap Ka Rahasya: Halo Effect Kya Hai? Psychology Sir",
+ "description": "Jaanenge Halo Effect kaise hamare faislon ko prabhavit karta hai. Seekhiye ise samajhna aur sahi tareeke se istemal karna.",
+ "comment_question": "Kya aapne kabhi kisi par Halo Effect dekha hai? Share your experience! 👇",
+ "hashtags": [
+  "#HaloEffect",
+  "#PsychologyFacts",
+  "#MoneyMindHealth",
+  "#PehliChhaap",
+  "#PerceptionBias",
+  "#psychology",
+  "#mindset",
+  "#humanbehavior",
+  "#brainfacts",
+  "#selfimprovement",
+  "#mindblown",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदी"
+ ],
+ "caption_text": "🤯 Pehli Chaap Ka Rahasya: Halo Effect Kya Hai? Psychology Sir\n\nJaanenge Halo Effect kaise hamare faislon ko prabhavit karta hai. Seekhiye ise samajhna aur sahi tareeke se istemal karna.\n\nKya aapne kabhi kisi par Halo Effect dekha hai? Share your experience! 👇\n\nEducational only. Not a substitute for professional mental-health care.\n\nFollow Money Mind & Health for a new tip every day!\n\n#HaloEffect #PsychologyFacts #MoneyMindHealth #PehliChhaap #PerceptionBias #psychology #mindset #humanbehavior #brainfacts #selfimprovement #mindblown #reelsindia #viralreels #facebookreels #हिंदी",
+ "pillar": "Mind",
+ "format": "lecture",
+ "telegram_caption": "🧠 Money Mind Health · Mind · video 2\nPehli Chhaap: Mind Ka Khel!"
+}

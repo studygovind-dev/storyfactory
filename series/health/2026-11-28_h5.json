@@ -1,0 +1,194 @@
+{
+ "series": "Soch Ka Parda: Aapki Sachai Ka Khel",
+ "episode": 5,
+ "title": "Soch Ka Parda: Aapki Sachai Ka Khel",
+ "style": "cinematic 3D render of a glowing human brain with neon blue and violet neural pathways, dark background, soft volumetric light, ultra detailed, vertical 9:16",
+ "img_suffix": "No people, no faces, no text, no watermark, no logos.",
+ "pic_group": 9,
+ "library": [
+  "brain"
+ ],
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sir": {
+   "look": "calm male psychology teacher (voice only)",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Mind's Veil",
+ "scenes": [
+  {
+   "image": "a glowing brain with neon blue neural pathways, slow light pulses",
+   "speaker": "sir",
+   "line": "Kya aapne kabhi socha hai ki hum kuch baatein hi kyun sunte hain?",
+   "say": "क्या आपने कभी सोचा है कि हम कुछ बातें ही क्यों सुनते हैं?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Aur jo hamare khilaaf ho, unhe aksar nazarandaaz karte hain?",
+   "say": "और जो हमारे खिलाफ हो, उन्हें अक्सर नज़रअंदाज़ करते हैं?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Ise psychology mein Confirmation Bias kehte hain.",
+   "say": "इसे साइकोलॉजी में कन्फर्मेशन बायस कहते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Yaani, apni pehle se bani soch ko sahi saabit karna.",
+   "say": "यानी, अपनी पहले से बनी सोच को सही साबित करना।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Agar aap maante hain ki ek brand sabse achha hai.",
+   "say": "अगर आप मानते हैं कि एक ब्रांड सबसे अच्छा है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Toh aap uski tareefen zyada sunenge, aur buraiyan kam.",
+   "say": "तो आप उसकी तारीफें ज़्यादा सुनेंगे, और बुराइयां कम।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Dusre brands ke positive review aapko jhoote lagenge.",
+   "say": "दूसरे ब्रांड्स के पॉज़िटिव रिव्यू आपको झूठे लगेंगे।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Researchers dekhte hain, log pasandida jaankari hi chunte hain.",
+   "say": "रिसर्चर्स देखते हैं, लोग पसंदीदा जानकारी ही चुनते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Ve unhi baaton par vishwas karte hain, jo unki soch se milti hain.",
+   "say": "वे उन्हीं बातों पर विश्वास करते हैं, जो उनकी सोच से मिलती हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a brain with warm orange and violet light, close-up of neurons",
+   "speaker": "sir",
+   "line": "Yeh aapke faislon ko ek tarfa bana sakta hai.",
+   "say": "यह आपके फैसलों को एक तरफा बना सकता है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Nayi soch aur sachai ko samajhne mein rukawat banata hai.",
+   "say": "नई सोच और सच्चाई को समझने में रुकावट बनाता है।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Aap galat jaankari par bhi aasani se bharosa kar sakte hain.",
+   "say": "आप गलत जानकारी पर भी आसानी से भरोसा कर सकते हैं।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Isse bachne ke liye, hamesha alag-alag nazariye dekhein.",
+   "say": "इससे बचने के लिए, हमेशा अलग-अलग नज़रिए देखें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Apni soch ke vipreet baaton ko bhi gaur se suniye.",
+   "say": "अपनी सोच के विपरीत बातों को भी गौर से सुनिए।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Faisla lene se pehle, har pehlu par theek se vichaar karein.",
+   "say": "फैसला लेने से पहले, हर पहलू पर ठीक से विचार करें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Sirf apni pasand ki cheezon par hi bharosa na karein.",
+   "say": "सिर्फ अपनी पसंद की चीज़ों पर ही भरोसा ना करें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Apne aas-paas is bias ko pehchan'na shuru karein.",
+   "say": "अपने आस-पास इस बायस को पहचानना शुरू करें।",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  },
+  {
+   "image": "a stylized representation of a human brain, subtly glowing with intricate patterns",
+   "speaker": "sir",
+   "line": "Kya aapne kabhi apni soch ko pakka karne ki koshish ki hai?",
+   "say": "क्या आपने कभी अपनी सोच को पक्का करने की कोशिश की है?",
+   "tag": "PSYCHOLOGY FACT",
+   "fx": "none"
+  }
+ ],
+ "caption": "Confirmation Bias: Kya Aap Apni Hi Soch Ke Ghulam Hain?",
+ "slug": "2026-11-28_h5",
+ "story_no": 27,
+ "yt_title": "Confirmation Bias: Kya Aap Apni Hi Soch Ke Ghulam Hain?",
+ "description": "Kya aapka dimag sirf wahi sunta hai jo aap sun'na chahte hain? Jaaniye Confirmation Bias aur iska aapke faislon par asar.",
+ "comment_question": "Kya aapne kabhi apni soch ko pakka karne ki koshish ki hai?",
+ "hashtags": [
+  "#ConfirmationBias",
+  "#PsychologyFacts",
+  "#MindPower",
+  "#CognitiveBias",
+  "#MoneyMindHealth",
+  "#psychology",
+  "#mindset",
+  "#humanbehavior",
+  "#brainfacts",
+  "#selfimprovement",
+  "#mindblown",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels",
+  "#हिंदी"
+ ],
+ "caption_text": "Confirmation Bias: Kya Aap Apni Hi Soch Ke Ghulam Hain?\n\nKya aapka dimag sirf wahi sunta hai jo aap sun'na chahte hain? Jaaniye Confirmation Bias aur iska aapke faislon par asar.\n\nKya aapne kabhi apni soch ko pakka karne ki koshish ki hai?\n\nEducational only. Not a substitute for professional mental-health care.\n\nFollow Money Mind & Health for a new tip every day!\n\n#ConfirmationBias #PsychologyFacts #MindPower #CognitiveBias #MoneyMindHealth #psychology #mindset #humanbehavior #brainfacts #selfimprovement #mindblown #reelsindia #viralreels #facebookreels #हिंदी",
+ "pillar": "Mind",
+ "format": "lecture",
+ "telegram_caption": "🧠 Money Mind Health · Mind · video 5\nSoch Ka Parda: Aapki Sachai Ka Khel"
+}

@@ -1,0 +1,195 @@
+{
+ "series": "Aarogya Ka Raj",
+ "episode": 1,
+ "title": "Aarogya Ka Raj",
+ "style": "clean medical 3D illustration of a translucent human body in the yoga pose, the spine and the working muscles softly glowing, dark blue background, whole body visible, scientific, highly detailed, vertical 9:16",
+ "img_suffix": "Show the whole body, not a close-up of a face. Correct anatomy. No text, no watermark, no logos.",
+ "pic_group": 6,
+ "library": [
+  "yoga",
+  "body"
+ ],
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sir": {
+   "look": "calm male yoga teacher (voice only)",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Trikonasana Triangle Pose",
+ "scenes": [
+  {
+   "image": "A translucent body stands in Tadasana (mountain pose), feet together, hands by sides. No specific muscles glowing yet.",
+   "speaker": "sir",
+   "line": "Namaste! Aaj hum Trikonasana seekhenge, ek adbhut aasan.",
+   "say": "नमस्ते! आज हम त्रिकोणासन सीखेंगे, एक अद्भुत आसन।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body standing, focus on the general outline.",
+   "speaker": "sir",
+   "line": "Trikonasana, yaani Tribhuj Aasan, sharir ko kholta hai.",
+   "say": "त्रिकोणासन, यानि त्रिभुज आसन, शरीर को खोलता है।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body spreading its feet wide, ready for the pose.",
+   "speaker": "sir",
+   "line": "Apne pairon ko chauda faila kar khade ho jaayen.",
+   "say": "अपने पैरों को चौड़ा फैला कर खड़े हो जाएँ।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body with one foot turned outwards, the other straight.",
+   "speaker": "sir",
+   "line": "Daahine pair ko bahar ki or moden, baayen ko seedha.",
+   "say": "दाहिने पैर को बाहर की ओर मोड़ें, बायें को सीधा।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body with arms extended to the sides at shoulder height.",
+   "speaker": "sir",
+   "line": "Apne haathon ko kandhon ki seedh mein uthaayen.",
+   "say": "अपने हाथों को कंधों की सीध में उठाएँ।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body beginning to bend sideways towards the turned-out foot.",
+   "speaker": "sir",
+   "line": "Saans chhodte hue, daahini or dheere se jhukein.",
+   "say": "साँस छोड़ते हुए, दाहिनी ओर धीरे से झुकें।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A clean anatomical picture of a translucent body in the finished Trikonasana pose. The spine (especially lumbar and thoracic regions) and working muscles like obliques, hamstrings, and inner thighs are glowing brightly.",
+   "speaker": "sir",
+   "line": "Daahina haath pair par aur baaya haath upar uthaayen.",
+   "say": "दाहिना हाथ पैर पर और बायाँ हाथ ऊपर उठाएँ।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body in Trikonasana, focus on the head turning towards the raised hand.",
+   "speaker": "sir",
+   "line": "Apni najar upar uthe hue haath par rakhein.",
+   "say": "अपनी नज़र ऊपर उठे हुए हाथ पर रखें।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body in Trikonasana, highlighting the straight line from head to back foot.",
+   "speaker": "sir",
+   "line": "Sharir ko ek seedhi rekha mein rakhne ka prayas karein.",
+   "say": "शरीर को एक सीधी रेखा में रखने का प्रयास करें।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body holding the Trikonasana pose, then slowly returning to standing.",
+   "speaker": "sir",
+   "line": "Is aasan mein kuch der rukein, phir uth jaayen.",
+   "say": "इस आसन में कुछ देर रुकें, फिर उठ जाएँ।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body setting up for Trikonasana on the other side.",
+   "speaker": "sir",
+   "line": "Ab yahi prakriya doosri or bhi dohrayein, aaram se.",
+   "say": "अब यही प्रक्रिया दूसरी ओर भी दोहराएँ, आराम से।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body showing the side body being stretched.",
+   "speaker": "sir",
+   "line": "Trikonasana peeth, kamar aur pairon ko halka khinchav deta hai.",
+   "say": "त्रिकोणासन पीठ, कमर और पैरों को हल्का खिंचाव देता है।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A close-up of the glowing back and side torso muscles (obliques, latissimus dorsi) and hamstrings/inner thighs, indicating the stretch.",
+   "speaker": "sir",
+   "line": "Yeh santulan aur sharir ki lachak badhaane mein madad kar sakta hai.",
+   "say": "यह संतुलन और शरीर की लचक बढ़ाने में मदद कर सकता है।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body demonstrating a slow, controlled movement.",
+   "speaker": "sir",
+   "line": "Hamesha dheere dheere karein, jaldbazi bilkul na karein.",
+   "say": "हमेशा धीरे धीरे करें, जल्दबाज़ी बिलकुल ना करें।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body looking concerned, indicating discomfort.",
+   "speaker": "sir",
+   "line": "Agar koi dard ho toh turant ruk jaayen.",
+   "say": "अगर कोई दर्द हो तो तुरंत रुक जाएँ।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body with a subtle 'X' mark on an injured area (generic).",
+   "speaker": "sir",
+   "line": "Chot ya bimari mein doctor se pooch kar hi karein.",
+   "say": "चोट या बीमारी में डॉक्टर से पूछ कर ही करें।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body with a guiding hand gesture from an implied teacher.",
+   "speaker": "sir",
+   "line": "Ya kisi prashikshit yoga guru ki dekhrekh mein karein.",
+   "say": "या किसी प्रशिक्षित योग गुरु की देखरेख में करें।",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  },
+  {
+   "image": "A translucent body in a relaxed, friendly pose.",
+   "speaker": "sir",
+   "line": "Aapko Trikonasana ka abhyaas kaisa laga?",
+   "say": "आपको त्रिकोणासन का अभ्यास कैसा लगा?",
+   "tag": "YOGA TIP",
+   "fx": "none"
+  }
+ ],
+ "caption": "Trikonasana: Triangle Pose | Full Body Stretch for Beginners",
+ "slug": "2026-11-28_h1",
+ "story_no": 23,
+ "yt_title": "Trikonasana: Triangle Pose | Full Body Stretch for Beginners",
+ "description": "Learn Trikonasana, the Triangle Pose, for a gentle side body stretch. Improve your flexibility and balance with this simple yoga posture.",
+ "comment_question": "Aapko Trikonasana kaisa laga? Comment mein batayein!",
+ "hashtags": [
+  "#Trikonasana",
+  "#TrianglePose",
+  "#YogaForHealth",
+  "#SideStretch",
+  "#BeginnerYoga",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#yoga",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Trikonasana: Triangle Pose | Full Body Stretch for Beginners\n\nLearn Trikonasana, the Triangle Pose, for a gentle side body stretch. Improve your flexibility and balance with this simple yoga posture.\n\nAapko Trikonasana kaisa laga? Comment mein batayein!\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind & Health for a new tip every day!\n\n#Trikonasana #TrianglePose #YogaForHealth #SideStretch #BeginnerYoga #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #yoga #reelsindia #viralreels #facebookreels",
+ "pillar": "Health",
+ "format": "yoga",
+ "telegram_caption": "🥗 Money Mind Health · Health · video 1\nAarogya Ka Raj"
+}

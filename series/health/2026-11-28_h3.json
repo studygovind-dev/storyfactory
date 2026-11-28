@@ -1,0 +1,196 @@
+{
+ "series": "Bhaiyya, Emergency Fund Ka Jugaad!",
+ "episode": 3,
+ "title": "Bhaiyya, Emergency Fund Ka Jugaad!",
+ "style": "3D animated movie still in the style of a Pixar film, one cute glossy non-human cartoon mascot character with big expressive eyes, arms and legs and a small headband, centered, simple clean colourful background, sharp focus, hyper-detailed, soft cinematic lighting, vertical 9:16",
+ "img_suffix": "The character is NOT a person: no human face, no girl, no boy, no extra people. No text, no watermark, no logos.",
+ "pic_group": 3,
+ "library": [],
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sikka_seth": {
+   "look": "A small, shiny, golden coin with big, wise eyes, a small red cape, and a blue headband. Always looks ready to help and confident.",
+   "voice": "hindi_cartoon_male"
+  },
+  "kharche_kaka": {
+   "look": "A slightly crumpled, purple-colored bill (like a receipt) with a mischievous grin, one eye winking, a small red tie, and a green headband. Looks a bit sneaky but harmless.",
+   "voice": "hindi_male_young"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "Unexpected Money Troubles?",
+ "scenes": [
+  {
+   "image": "[[sikka_seth]] with a determined look, flexing his tiny coin muscles.",
+   "speaker": "sikka_seth",
+   "line": "Arre bhai! Tera emergency fund kahan hai? Tension nahi lene ka!",
+   "say": "अरे भाई! तेरा इमरजेंसी फंड कहाँ है? टेंशन नहीं लेने का!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] with a determined look, flexing his tiny coin muscles.",
+   "speaker": "sikka_seth",
+   "line": "Main Sikka Seth! Tera mushkil ghadi ka asli dost, bole toh!",
+   "say": "मैं सिक्का सेठ! तेरा मुश्किल घड़ी का असली दोस्त, बोले तो!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] with a determined look, flexing his tiny coin muscles.",
+   "speaker": "sikka_seth",
+   "line": "Emergency fund? Jab life mein lafda ho, yeh kaam aata hai, bhidu!",
+   "say": "इमरजेंसी फंड? जब लाइफ में लफड़ा हो, ये काम आता है, भिडू!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[kharche_kaka]] looking innocent but with a sly smile, shrugging.",
+   "speaker": "kharche_kaka",
+   "line": "Ae Sikka Seth, main hoon Kharche Kaka! Kabhi bhi tapak jata hoon!",
+   "say": "ऐ सिक्का सेठ, मैं हूँ खर्चे काका! कभी भी टपक जाता हूँ!",
+   "tag": "KHARCHE KAKA",
+   "fx": "none"
+  },
+  {
+   "image": "[[kharche_kaka]] looking innocent but with a sly smile, shrugging.",
+   "speaker": "kharche_kaka",
+   "line": "Sudden expenses toh aate hi rehte hain, ekdum pakka!",
+   "say": "सडन एक्सपेंसेस तो आते ही रहते हैं, एकदम पक्का!",
+   "tag": "KHARCHE KAKA",
+   "fx": "none"
+  },
+  {
+   "image": "[[kharche_kaka]] looking innocent but with a sly smile, shrugging.",
+   "speaker": "kharche_kaka",
+   "line": "Agar ready nahi, toh budget ka band baja deta hoon, sun!",
+   "say": "अगर रेडी नहीं, तो बजट का बैंड बजा देता हूँ, सुन!",
+   "tag": "KHARCHE KAKA",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] looking serious and wise, pointing to his chest.",
+   "speaker": "sikka_seth",
+   "line": "Yeh woh paisa hai jo safe jagah pe rakha hota hai, ekdum easy!",
+   "say": "ये वो पैसा है जो सेफ जगह पे रखा होता है, एकदम ईज़ी!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] looking serious and wise, pointing to his chest.",
+   "speaker": "sikka_seth",
+   "line": "Bole toh, jab koi achanak bimari ya job ka lafda ho.",
+   "say": "बोले तो, जब कोई अचानक बीमारी या जॉब का लफड़ा हो।",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] looking serious and wise, pointing to his chest.",
+   "speaker": "sikka_seth",
+   "line": "Tera monthly kharcha cover karne ke liye hota hai, tension gone!",
+   "say": "तेरा मंथली खर्चा कवर करने के लिए होता है, टेंशन गॉन!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[kharche_kaka]] looking triumphant, waving a small flag with a rupee sign.",
+   "speaker": "kharche_kaka",
+   "line": "Gaadi kharab, fridge off, ya phir doctor ka bill?",
+   "say": "गाड़ी खराब, फ्रिज ऑफ, या फिर डॉक्टर का बिल?",
+   "tag": "KHARCHE KAKA",
+   "fx": "none"
+  },
+  {
+   "image": "[[kharche_kaka]] looking triumphant, waving a small flag with a rupee sign.",
+   "speaker": "kharche_kaka",
+   "line": "Main aake tera jeb khaali kar sakta hoon, haan haan!",
+   "say": "मैं आके तेरा जेब खाली कर सकता हूँ, हाँ हाँ!",
+   "tag": "KHARCHE KAKA",
+   "fx": "none"
+  },
+  {
+   "image": "[[kharche_kaka]] looking triumphant, waving a small flag with a rupee sign.",
+   "speaker": "kharche_kaka",
+   "line": "Lekin Sikka Seth hai toh tu mujhe bol sakta hai 'Chal hat!'",
+   "say": "लेकिन सिक्का सेठ है तो तू मुझे बोल सकता है 'चल हट!'",
+   "tag": "KHARCHE KAKA",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] with a big smile, holding a small piggy bank.",
+   "speaker": "sikka_seth",
+   "line": "Kitna? Kam se kam 3 se 6 mahine ka kharcha, ekdum minimum!",
+   "say": "कितना? कम से कम 3 से 6 महीने का खर्चा, एकदम मिनिमम!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] with a big smile, holding a small piggy bank.",
+   "speaker": "sikka_seth",
+   "line": "Aise account mein rakh jahan se fatfat nikal sake, haan!",
+   "say": "ऐसे अकाउंट में रख जहाँ से फटाफट निकाल सके, हाँ!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] with a big smile, holding a small piggy bank.",
+   "speaker": "sikka_seth",
+   "line": "Zaroorat se zyada ya risky jagah mat rakh, bhidu!",
+   "say": "ज़रूरत से ज़्यादा या रिस्की जगह मत रख, भिडू!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] giving a thumbs up, looking confident and helpful.",
+   "speaker": "sikka_seth",
+   "line": "Investments are subject to market risks, yaad rakhna!",
+   "say": "इन्वेस्टमेंट्स आर सब्जेक्ट टू मार्केट रिस्क, याद रखना!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] giving a thumbs up, looking confident and helpful.",
+   "speaker": "sikka_seth",
+   "line": "Kisi bade plan ke liye, SEBI-registered adviser se pooch.",
+   "say": "किसी बड़े प्लान के लिए, सेबी-रजिस्टर्ड एडवाइज़र से पूछ।",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  },
+  {
+   "image": "[[sikka_seth]] giving a thumbs up, looking confident and helpful.",
+   "speaker": "sikka_seth",
+   "line": "Tera emergency fund ready hai kya? Comment mein batao!",
+   "say": "तेरा इमरजेंसी फंड रेडी है क्या? कमेंट में बताओ!",
+   "tag": "SIKKA SETH",
+   "fx": "none"
+  }
+ ],
+ "caption": "Emergency Fund: Tera Financial Lifeline, Samjha Kya?",
+ "slug": "2026-11-28_h3",
+ "story_no": 25,
+ "yt_title": "Emergency Fund: Tera Financial Lifeline, Samjha Kya?",
+ "description": "Unexpected kharche ka tension? Sikka Seth bataega kaise bache. Learn to be ready for life's surprises!",
+ "comment_question": "Aap emergency fund mein kitna time ka kharcha rakhte ho? Batao!",
+ "hashtags": [
+  "#EmergencyFund",
+  "#MoneyMindHealth",
+  "#FinancialFreedom",
+  "#Savings",
+  "#BePrepared",
+  "#moneytips",
+  "#personalfinance",
+  "#paisa",
+  "#financialliteracy",
+  "#savemoney",
+  "#moneymindset",
+  "#budgeting",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Emergency Fund: Tera Financial Lifeline, Samjha Kya?\n\nUnexpected kharche ka tension? Sikka Seth bataega kaise bache. Learn to be ready for life's surprises!\n\nAap emergency fund mein kitna time ka kharcha rakhte ho? Batao!\n\nEducational only. Not investment advice. Investments are subject to market risks; read all scheme-related documents. Consult a SEBI-registered adviser.\n\nFollow Money Mind & Health for a new tip every day!\n\n#EmergencyFund #MoneyMindHealth #FinancialFreedom #Savings #BePrepared #moneytips #personalfinance #paisa #financialliteracy #savemoney #moneymindset #budgeting #reelsindia #viralreels #facebookreels",
+ "pillar": "Money",
+ "format": "character",
+ "telegram_caption": "💰 Money Mind Health · Money · video 3\nBhaiyya, Emergency Fund Ka Jugaad!"
+}

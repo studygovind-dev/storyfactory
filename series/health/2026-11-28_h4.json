@@ -1,0 +1,195 @@
+{
+ "series": "Pet Ka Funda!",
+ "episode": 4,
+ "title": "Pet Ka Funda!",
+ "style": "clean medical 3D illustration, a translucent human body silhouette with the organ softly glowing inside it, dark blue background, volumetric light, scientific, highly detailed, vertical 9:16",
+ "img_suffix": "Stylised and clean: no blood, no gore, no surgery, no close-up of a face, no text, no watermark, no logos.",
+ "pic_group": 6,
+ "library": [
+  "stomach",
+  "body"
+ ],
+ "handle": "MONEY MIND & HEALTH",
+ "characters": {
+  "sir": {
+   "look": "calm male health teacher (voice only)",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "Your Stomach Secrets",
+ "scenes": [
+  {
+   "image": "a translucent glowing human body with the body part highlighted",
+   "speaker": "sir",
+   "line": "Kya aap jaante hain ki aapke pet mein kya hota hai?",
+   "say": "क्या आप जानते हैं कि आपके पेट में क्या होता है?",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Pet aapke khaane ko pachaane mein madad karta hai.",
+   "say": "पेट आपके खाने को पचाने में मदद करता है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Yah bhojan ko chhote-chhote tukdon mein todta hai.",
+   "say": "यह भोजन को छोटे-छोटे टुकड़ों में तोड़ता है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Taaki sharir poshak tatvon ko aasani se sokh sake.",
+   "say": "ताकि शरीर पोषक तत्वों को आसानी से सोख सके।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Pet ko swasth rakhne ke liye sahi pachan zaroori hai.",
+   "say": "पेट को स्वस्थ रखने के लिए सही पाचन ज़रूरी है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Halka aur samay par bhojan karna ise aaram deta hai.",
+   "say": "हल्का और समय पर भोजन करना इसे आराम देता है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "a clean close-up of that body part glowing softly (medical illustration)",
+   "speaker": "sir",
+   "line": "Dheere-dheere khaane se pachan kriya behtar hoti hai.",
+   "say": "धीरे-धीरे खाने से पाचन क्रिया बेहतर होती है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Zyada aur bhaari khaana pet par dabaav daal sakta hai.",
+   "say": "ज़्यादा और भारी खाना पेट पर दबाव डाल सकता है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Der raat ko bhaari bhojan asahajta paida kar sakta hai.",
+   "say": "देर रात को भारी भोजन असहजता पैदा कर सकता है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Tezi se khaana khaane se pet phool sakta hai.",
+   "say": "तेज़ी से खाना खाने से पेट फूल सकता है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Aur isse pet mein dard bhi ho sakta hai.",
+   "say": "और इससे पेट में दर्द भी हो सकता है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Hamesha bhojan ko dheere-dheere chabaakar khaayein.",
+   "say": "हमेशा भोजन को धीरे-धीरे चबाकर खाएं।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "the body part healthy, glowing with soft light",
+   "speaker": "sir",
+   "line": "Shaam ka bhojan jaldi aur halka rakhne ki koshish karein.",
+   "say": "शाम का भोजन जल्दी और हल्का रखने की कोशिश करें।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Yah aapke pet ko swasth aur khush rakh sakta hai.",
+   "say": "यह आपके पेट को स्वस्थ और खुश रख सकता है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Swasth pet swasth jeevan ki kunji hai.",
+   "say": "स्वस्थ पेट स्वस्थ जीवन की कुंजी है।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Chhote-chhote badlav bada fark la sakte hain.",
+   "say": "छोटे-छोटे बदलाव बड़ा फर्क ला सकते हैं।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Yadi pet mein lagaatar samasya ho, to doctor se salah lein.",
+   "say": "यदि पेट में लगातार समस्या हो, तो डॉक्टर से सलाह लें।",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  },
+  {
+   "image": "",
+   "speaker": "sir",
+   "line": "Aapke pet ko kya achha lagta hai? Humein bataayein!",
+   "say": "आपके पेट को क्या अच्छा लगता है? हमें बताएं!",
+   "tag": "INSIDE YOUR BODY",
+   "fx": "none"
+  }
+ ],
+ "caption": "Health Sir: Pet Ka Funda! | Swasth Pet Ke Rahasya | Money Mind Health",
+ "slug": "2026-11-28_h4",
+ "story_no": 26,
+ "yt_title": "Health Sir: Pet Ka Funda! | Swasth Pet Ke Rahasya | Money Mind Health",
+ "description": "Health Sir aapko batate hain pet ke swasthya ke raaz.\nJaaniye kaise aap apne pet ko khush rakh sakte hain!",
+ "comment_question": "Aapke pet ko kya achha lagta hai? Humein bataayein!",
+ "hashtags": [
+  "#PetHealth",
+  "#StomachCare",
+  "#HealthyDigestion",
+  "#MoneyMindHealth",
+  "#HealthTipsHindi",
+  "#healthtips",
+  "#healthfacts",
+  "#sehat",
+  "#swasthya",
+  "#hindihealth",
+  "#healthyfood",
+  "#yoga",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ],
+ "caption_text": "Health Sir: Pet Ka Funda! | Swasth Pet Ke Rahasya | Money Mind Health\n\nHealth Sir aapko batate hain pet ke swasthya ke raaz.\nJaaniye kaise aap apne pet ko khush rakh sakte hain!\n\nAapke pet ko kya achha lagta hai? Humein bataayein!\n\nEducational only. Not medical advice. See a doctor if you have a health problem.\n\nFollow Money Mind & Health for a new tip every day!\n\n#PetHealth #StomachCare #HealthyDigestion #MoneyMindHealth #HealthTipsHindi #healthtips #healthfacts #sehat #swasthya #hindihealth #healthyfood #yoga #reelsindia #viralreels #facebookreels",
+ "pillar": "Health",
+ "format": "anatomy",
+ "telegram_caption": "🥗 Money Mind Health · Health · video 4\nPet Ka Funda!"
+}
