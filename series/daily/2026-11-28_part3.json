@@ -1,0 +1,172 @@
+{
+ "series": "Adhoore Sapne Ka Saathi",
+ "episode": 3,
+ "title": "Adhoore Sapne Ka Saathi",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Anjali: young woman, long soft wavy dark-brown hair, small gold earrings, elegant pastel green kurta, fair/light wheatish skin.",
+   "voice": "hindi_female_young"
+  },
+  "Uncle Suresh": {
+   "look": "Elderly man, kind wrinkled face, short grey hair, white kurta-pyjama, light brown shawl, fair/light wheatish skin.",
+   "voice": "hindi_narrator_male"
+  }
+ },
+ "short": true,
+ "mood": "emotional",
+ "hook_text": "WHO WROTE THESE LETTERS?",
+ "scenes": [
+  {
+   "image": "Close-up on Anjali (young woman, long soft wavy dark-brown hair, small gold earrings, elegant pastel green kurta, fair/light wheatish skin) staring at a beautifully decorated cake, deep emotion in her eyes, a single tear tracing her cheek.",
+   "speaker": "narrator",
+   "line": "Mere adhoore sapne ko, unn khaton ne pankh diye.",
+   "fx": "none",
+   "sub": "My unfulfilled dream, those letters gave it wings.",
+   "say": "मेरे अधूरे सपने को, उन ख़तों ने पंख दिए।"
+  },
+  {
+   "image": "Anjali, in her home kitchen, carefully placing a freshly baked cake on a cooling rack, looking wistful, a distant look in her eyes.",
+   "speaker": "narrator",
+   "line": "Mera sapna tha ek chhoti si bakery kholna.",
+   "fx": "none",
+   "sub": "My dream was to open a small bakery.",
+   "say": "मेरा सपना था एक छोटी सी बेकरी खोलना।"
+  },
+  {
+   "image": "Anjali standing in front of a small, empty shop space, looking hesitant and unsure, biting her lip.",
+   "speaker": "narrator",
+   "line": "Par mujhme himmat nahin thi.",
+   "fx": "none",
+   "sub": "But I didn't have the courage.",
+   "say": "पर मुझमें हिम्मत नहीं थी।"
+  },
+  {
+   "image": "Anjali sighing deeply, gently putting away her baking tools into a drawer, her shoulders slumped in resignation.",
+   "speaker": "narrator",
+   "line": "Roz main khud ko rok deti thi.",
+   "fx": "none",
+   "sub": "Every day I used to stop myself.",
+   "say": "रोज़ मैं खुद को रोक देती थी।"
+  },
+  {
+   "image": "Close-up shot of an elegant, handwritten letter with beautiful script being carefully slid under Anjali's front door.",
+   "speaker": "narrator",
+   "line": "Ek din mujhe ek anokha khat mila.",
+   "fx": "none",
+   "sub": "One day I received a unique letter.",
+   "say": "एक दिन मुझे एक अनोखा ख़त मिला।"
+  },
+  {
+   "image": "Anjali sitting on her bed, reading the letter with growing interest, a small, hopeful smile slowly appearing on her face.",
+   "speaker": "narrator",
+   "line": "Likha tha, 'tumhare haathon mein jaadu hai'.",
+   "fx": "none",
+   "sub": "It said, 'your hands have magic'.",
+   "say": "लिखा था, 'तुम्हारे हाथों में जादू है'।"
+  },
+  {
+   "image": "A stack of similar handwritten letters on Anjali's bedside table, each one opened, indicating a series of deliveries.",
+   "speaker": "narrator",
+   "line": "Aise kai khat aane lage.",
+   "fx": "none",
+   "sub": "Many such letters started arriving.",
+   "say": "ऐसे कई ख़त आने लगे।"
+  },
+  {
+   "image": "Anjali, looking determined and confident, meticulously cleaning and arranging equipment in her new bakery space, a spark in her eyes.",
+   "speaker": "narrator",
+   "line": "Unn khaton ne mujhme vishwas bhar diya.",
+   "fx": "none",
+   "sub": "Those letters filled me with confidence.",
+   "say": "उन ख़तों ने मुझमें विश्वास भर दिया।"
+  },
+  {
+   "image": "Anjali proudly hanging a vibrant 'Grand Opening Today' sign on the glass door of her charming, newly decorated bakery.",
+   "speaker": "narrator",
+   "line": "Akhir woh din aa hi gaya.",
+   "fx": "none",
+   "sub": "Finally, that day arrived.",
+   "say": "आखिर वह दिन आ ही गया।"
+  },
+  {
+   "image": "Anjali, smiling brightly and greeting customers inside her bustling bakery, as Uncle Suresh (elderly man, kind wrinkled face, short grey hair, white kurta-pyjama, light brown shawl, fair/light wheatish skin) quietly enters, holding a small, wrapped gift.",
+   "speaker": "narrator",
+   "line": "Subah ek buzurag Uncle aaye.",
+   "fx": "none",
+   "sub": "In the morning an elderly Uncle came.",
+   "say": "सुबह एक बुजुर्ग अंकल आए।"
+  },
+  {
+   "image": "Close-up on Anjali's face, her eyes widening in recognition as she looks at Uncle Suresh's hands, then a quick flashback showing the unique, elegant handwriting of the anonymous letters.",
+   "speaker": "narrator",
+   "line": "Unke haath aur likhawat pehchan gayi.",
+   "fx": "none",
+   "sub": "I recognized his hands and handwriting.",
+   "say": "उनके हाथ और लिखावट पहचान गई।"
+  },
+  {
+   "image": "Anjali pointing gently at Uncle Suresh's hands, her eyes welling up with tears. Uncle Suresh looks surprised, then his face softens with emotion, a tear forming in his eye.",
+   "speaker": "narrator",
+   "line": "Yeh saare khat aapne likhe na?",
+   "fx": "none",
+   "sub": "You wrote all these letters, didn't you?",
+   "say": "ये सारे ख़त आपने लिखे ना?"
+  },
+  {
+   "image": "Close-up on Uncle Suresh's face, looking sad but then glancing wistfully at the display of beautiful cakes, a gentle smile appearing.",
+   "speaker": "Uncle Suresh",
+   "line": "Beta, main bhi ek baker banna chahta tha.",
+   "fx": "none",
+   "sub": "Child, I also wanted to be a baker.",
+   "say": "बेटा, मैं भी एक बेकर बनना चाहता था।"
+  },
+  {
+   "image": "Uncle Suresh looking directly at Anjali with a heartfelt, emotional gaze, conveying his unspoken dreams.",
+   "speaker": "Uncle Suresh",
+   "line": "Tum mein mujhe mera sapna dikha.",
+   "fx": "none",
+   "sub": "In you, I saw my dream.",
+   "say": "तुम में मुझे मेरा सपना दिखा।"
+  },
+  {
+   "image": "Anjali, wiping a tear, takes Uncle Suresh's hand and leads him to the ribbon, making him the guest of honor, a look of profound joy on his face as he prepares to cut it.",
+   "speaker": "narrator",
+   "line": "Maine unhe Ribbon kaatne bulaya.",
+   "fx": "none",
+   "sub": "I called him to cut the ribbon.",
+   "say": "मैंने उन्हें रिबन काटने बुलाया।"
+  },
+  {
+   "image": "Anjali and Uncle Suresh standing side-by-side, smiling warmly, holding a slice of cake, looking like a newfound family in the bustling bakery.",
+   "speaker": "narrator",
+   "line": "Apne adhure sapne dusron mein dekhna, galat hai kya?",
+   "fx": "none",
+   "sub": "Is it wrong to see your unfulfilled dreams in others?",
+   "say": "अपने अधूरे सपने दूसरों में देखना, गलत है क्या?"
+  }
+ ],
+ "caption": "Anonymous Letters Led Me To My Dream… And A Secret!",
+ "slug": "2026-11-28_part3",
+ "story_no": 96,
+ "yt_title": "Anonymous Letters Led Me To My Dream… And A Secret!",
+ "description": "Anjali dreamt of opening a bakery, but fear held her back until anonymous letters changed everything. On opening day, a shocking truth about the writer was revealed.\nIs it wrong to see your unfulfilled dreams in others? Tell us in the comments!",
+ "comment_question": "Apne adhure sapne dusron mein dekhna, galat hai kya?",
+ "hashtags": [
+  "#lovestory",
+  "#premkahani",
+  "#emotionalstory",
+  "#story",
+  "#storytime",
+  "#indiastory",
+  "#bakerydream",
+  "#sachapyaar",
+  "#प्रेमकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels",
+  "#facebookreels"
+ ]
+}

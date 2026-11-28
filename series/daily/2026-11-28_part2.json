@@ -1,0 +1,164 @@
+{
+ "series": "Chanakya Ki Chaturbhuj: The Distant Warmth",
+ "episode": 2,
+ "title": "Chanakya Ki Chaturbhuj: The Distant Warmth",
+ "style": "3D animated movie still in the style of a Pixar film, cute expressive characters with big eyes, exaggerated funny facial expressions, vibrant colors, soft cinematic lighting, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "A kind, warm male voice, like a storyteller.",
+   "voice": "hindi_narrator_male"
+  },
+  "Raja Vikram": {
+   "look": "A regal Indian king, mid-40s, fair skin, with a sharp, intelligent face that can show humor or sternness. Dressed in a rich golden-embroidered red sherwani and a matching turban.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Gopal": {
+   "look": "A lean, hopeful Indian man, 30s, fair skin, with a kind but worried expression. Dressed in worn, simple cotton kurta and dhoti.",
+   "voice": "hindi_cartoon_male"
+  },
+  "Chanakya": {
+   "look": "A wise and calm Indian advisor, 50s, fair skin, with a thoughtful smile and intelligent eyes. Dressed in a simple white dhoti and kurta.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "funny",
+ "hook_text": "RAJA KI AJEEB SHART?",
+ "scenes": [
+  {
+   "image": "Raja Vikram, in regal attire, looks sternly at Gopal, who stands shivering but determined in worn clothes. Close-up on their faces, showing the contrast in power and resolve.",
+   "speaker": "narrator",
+   "line": "Raja ne di ek mushkil chunauti!",
+   "fx": "none",
+   "say": "राजा ने दी एक मुश्किल चुनौती!"
+  },
+  {
+   "image": "Gopal, looking thin and a bit downtrodden but with kind eyes, stands in a simple village setting, his worn clothes highlighting his poverty. He looks hopeful.",
+   "speaker": "narrator",
+   "line": "Ek gareeb aadmi tha, Gopal naam.",
+   "fx": "none",
+   "say": "एक गरीब आदमी था, गोपाल नाम।"
+  },
+  {
+   "image": "Raja Vikram sits regally on his golden throne, stroking his chin thoughtfully, a serious expression on his face as he ponders a decision.",
+   "speaker": "narrator",
+   "line": "Raja Vikram ne ek shart rakhi.",
+   "fx": "none",
+   "say": "राजा विक्रम ने एक शर्त रखी।"
+  },
+  {
+   "image": "Gopal, bundled in his thin clothes, stands alone in a vast, dark desert under a starry sky. His breath forms mist, indicating extreme cold. A tiny, glowing lamp is visible far, far in the distance.",
+   "speaker": "narrator",
+   "line": "Jo raat bhar thande registaan mein khada rahega...",
+   "fx": "none",
+   "say": "जो रात भर ठंडे रेगिस्तान में खड़ा रहेगा..."
+  },
+  {
+   "image": "Raja Vikram holds up a large, overflowing bag of gold coins with a triumphant smile, showcasing the lavish reward. Bright light glints off the coins.",
+   "speaker": "narrator",
+   "line": "...use bada inaam milega.",
+   "fx": "none",
+   "say": "...उसे बड़ा इनाम मिलेगा।"
+  },
+  {
+   "image": "Gopal, despite shivering, looks determined. He nods his head firmly, eyes showing a blend of fear and resolve. Close-up on his face.",
+   "speaker": "narrator",
+   "line": "Gopal ne himmat se haami bhari.",
+   "fx": "none",
+   "say": "गोपाल ने हिम्मत से हामी भरी।"
+  },
+  {
+   "image": "Gopal, seen from behind, is still in the freezing desert, but his gaze is fixed on the distant, tiny lamp. A faint, tired smile of endurance plays on his lips.",
+   "speaker": "narrator",
+   "line": "Poori raat woh ek deepak dekh kar bacha.",
+   "fx": "none",
+   "say": "पूरी रात वो एक दीपक देख कर बचा।"
+  },
+  {
+   "image": "Raja Vikram points an accusing finger at Gopal, his face stern and unyielding. Gopal looks shocked, his hope turning to dismay.",
+   "speaker": "Raja Vikram",
+   "line": "Tumne deepak ki garmi li!",
+   "fx": "none",
+   "say": "तुमने दीपक की गर्मी ली!"
+  },
+  {
+   "image": "Gopal pleads with Raja Vikram, his hands joined in namaste, a look of desperation and confusion on his face. He gestures vaguely towards the distant lamp.",
+   "speaker": "Gopal",
+   "line": "Maharaj, woh toh bahut door tha!",
+   "fx": "none",
+   "say": "महाराज, वो तो बहुत दूर था!"
+  },
+  {
+   "image": "Raja Vikram turns his back to Gopal, his posture stiff and stubborn, signifying his refusal. Gopal stands defeated, shoulders slumped.",
+   "speaker": "narrator",
+   "line": "Raja ne inaam dene se mana kiya.",
+   "fx": "none",
+   "say": "राजा ने इनाम देने से मना किया।"
+  },
+  {
+   "image": "Chanakya, with a knowing and mischievous twinkle in his eye, stands looking thoughtful, a slight smile forming on his lips as an idea sparks.",
+   "speaker": "narrator",
+   "line": "Tab Chanakya ne ek yojana banayi.",
+   "fx": "none",
+   "say": "तब चाणक्य ने एक योजना बनाई।"
+  },
+  {
+   "image": "Chanakya stands holding a ridiculously long stick, from which a pot of rice hangs precariously high above the ground. Below it, a tiny, almost invisible flame flickers.",
+   "speaker": "narrator",
+   "line": "Usne chawal ka bartan duur latkaya.",
+   "fx": "none",
+   "say": "उसने चावल का बर्तन दूर लटकाया।"
+  },
+  {
+   "image": "Raja Vikram looks utterly bewildered at Chanakya's cooking setup, pointing at the distant pot with a confused and incredulous expression.",
+   "speaker": "Raja Vikram",
+   "line": "Chanakya, yeh kaise pakega?",
+   "fx": "none",
+   "say": "चाणक्य, ये कैसे पकेगा?"
+  },
+  {
+   "image": "Chanakya smiles knowingly, his gaze firm as he gestures from the tiny flame towards the high-hanging pot. Raja Vikram's eyes widen in sudden realization, a moment of 'aha!'",
+   "speaker": "Chanakya",
+   "line": "Usi garmi se, jo deepak ne di!",
+   "fx": "none",
+   "say": "उसी गर्मी से, जो दीपक ने दी!"
+  },
+  {
+   "image": "Raja Vikram throws his head back, laughing heartily, slapping his knee in amusement as he fully grasps the irony. Gopal beams with a relieved smile in the background.",
+   "speaker": "narrator",
+   "line": "Raja apni galti par bahut hase.",
+   "fx": "none",
+   "say": "राजा अपनी गलती पर बहुत हँसे।"
+  },
+  {
+   "image": "Raja Vikram, still smiling, hands the heavy bag of gold coins to Gopal, whose face is filled with joy and gratitude. Both look happy.",
+   "speaker": "narrator",
+   "line": "Ant mein Gopal ko inaam mila. Kya raja sahi tha?",
+   "fx": "none",
+   "say": "अंत में गोपाल को इनाम मिला। क्या राजा सही था?"
+  }
+ ],
+ "caption": "King Denied Reward, Then Advisor's 'Cooking' Twist! 🤔",
+ "slug": "2026-11-28_part2",
+ "story_no": 95,
+ "yt_title": "King Denied Reward, Then Advisor's 'Cooking' Twist! 🤔",
+ "description": "A poor man endures a freezing night for a king's challenge. But the king's logic for denying him the reward is baffling. Watch how the wise advisor solves this hilariously!\nWho do you think was right in the end?",
+ "comment_question": "Kya Raja Vikram sahi the? Haan ya Na?",
+ "hashtags": [
+  "#hindijokes",
+  "#funnyreels",
+  "#comedy",
+  "#akbarbirbal",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#funnyjokes",
+  "#indianjokes",
+  "#chutkule",
+  "#मज़ेदारकहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia"
+ ]
+}

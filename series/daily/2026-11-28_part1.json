@@ -1,0 +1,176 @@
+{
+ "series": "The Talking Paw's Secret",
+ "episode": 1,
+ "title": "The Talking Paw's Secret",
+ "style": "cinematic film still, shot on ARRI Alexa with a 40mm anamorphic lens, dramatic motivated lighting with a soft rim light, rich warm-and-teal colour grade, fine film grain, shallow depth of field, moody atmosphere, beautiful young Indian people with clear natural light wheatish skin, expressive emotional faces and sharp detailed eyes, vertical 9:16",
+ "characters": {
+  "narrator": {
+   "look": "Priya: Young woman, early 20s, fair skin, long soft wavy dark-brown hair, natural makeup, small bindi, simple pastel kurta. Warm, initially skeptical but loving.",
+   "voice": "hindi_narrator_female"
+  },
+  "Rohan": {
+   "look": "Boy, around 10-12 years old, light wheatish skin, short messy dark hair, scruffy but kind, worn t-shirt and shorts. Sensitive and lonely.",
+   "voice": "hindi_male_young"
+  },
+  "Gabbar": {
+   "look": "Medium-sized mixed breed stray dog, scruffy light brown fur, intelligent eyes, a distinctive torn ear. Loyal and brave.",
+   "voice": "hindi_cartoon_male"
+  }
+ },
+ "short": true,
+ "mood": "animal",
+ "hook_text": "DOG WARNED US!",
+ "scenes": [
+  {
+   "image": "Close-up of Rohan (10-12, scruffy t-shirt), sitting alone on a worn-out stoop, head down, looking deeply sad and lonely. His posture shows dejection.",
+   "speaker": "narrator",
+   "line": "Mera bhai Rohan bahut akela tha.",
+   "fx": "dust",
+   "sub": "My brother Rohan was very lonely.",
+   "say": "मेरा भाई रोहन बहुत अकेला था।"
+  },
+  {
+   "image": "Rohan secretly peeking from a narrow alley, offering a piece of bread to Gabbar (light brown stray dog, torn ear), who is wagging his tail hesitantly. Rohan has a soft, caring smile.",
+   "speaker": "narrator",
+   "line": "Uski ek hi dost thi, ek awara kutta.",
+   "fx": "none",
+   "sub": "He only had one friend, a stray dog.",
+   "say": "उसकी एक ही दोस्त थी, एक आवारा कुत्ता।"
+  },
+  {
+   "image": "A wide shot of a dilapidated old building, multiple cracks visible, missing window panes, showing clear signs of structural instability. It looks imposing and dangerous.",
+   "speaker": "narrator",
+   "line": "Humare ghar paas ek purana makaan tha.",
+   "fx": "none",
+   "sub": "Near our house was an old building.",
+   "say": "हमारे घर पास एक पुराना मकान था।"
+  },
+  {
+   "image": "Priya (female_young, pastel kurta) stands with her hands on her hips, a worried and stern expression, looking down at Rohan who is petting Gabbar. Gabbar looks up innocently.",
+   "speaker": "narrator",
+   "line": "Main Rohan ko us kutte se door rakhti thi.",
+   "fx": "none",
+   "sub": "I used to keep Rohan away from that dog.",
+   "say": "मैं रोहन को उस कुत्ते से दूर रखती थी।"
+  },
+  {
+   "image": "Priya secretly watching Rohan and Gabbar from a window or behind a curtain. They are very close to the old building, Rohan is playing with Gabbar, unaware of Priya. Priya's face is concerned.",
+   "speaker": "narrator",
+   "line": "Ek din maine unhe makaan paas dekha.",
+   "fx": "none",
+   "sub": "One day I saw them near that building.",
+   "say": "एक दिन मैंने उन्हें मकान पास देखा।"
+  },
+  {
+   "image": "Rohan, excitedly animated, pointing at Gabbar with a big smile. Gabbar sits attentively, looking straight at Rohan with intelligent eyes. Close-up on their faces.",
+   "speaker": "Rohan",
+   "line": "Didi, Gabbar mujhse baat karta hai!",
+   "fx": "none",
+   "sub": "Sister, Gabbar talks to me!",
+   "say": "दीदी, गब्बर मुझसे बात करता है!"
+  },
+  {
+   "image": "Priya, close-up, shaking her head gently, a skeptical but loving expression on her face. Her eyes are slightly narrowed, thinking Rohan is making things up out of loneliness.",
+   "speaker": "narrator",
+   "line": "Maine socha, akelapan mein bol raha hai.",
+   "fx": "none",
+   "sub": "I thought, he's talking out of loneliness.",
+   "say": "मैंने सोचा, अकेलापन में बोल रहा है।"
+  },
+  {
+   "image": "Extreme close-up on Gabbar's face. His mouth is slightly ajar, eyes wide with urgency and alarm, conveying a clear sense of speaking and warning.",
+   "speaker": "Gabbar",
+   "line": "Rohan! Jaldi yahan se chalo!",
+   "fx": "none",
+   "sub": "Rohan! Get out of here quickly!",
+   "say": "रोहन! जल्दी यहां से चलो!"
+  },
+  {
+   "image": "Rohan's face, a look of pure terror and shock, eyes wide open, staring at Gabbar. His mouth is slightly open in disbelief. Gabbar is beside him, looking urgent.",
+   "speaker": "Gabbar",
+   "line": "Makaan girne wala hai, sab ko batao!",
+   "fx": "none",
+   "sub": "The building is about to collapse, tell everyone!",
+   "say": "मकान गिरने वाला है, सबको बताओ!"
+  },
+  {
+   "image": "Rohan, blurred motion, running frantically towards the camera (towards home), arms flailing slightly, face panicked and screaming. Gabbar running closely behind him.",
+   "speaker": "narrator",
+   "line": "Rohan dauda ghar aaya, cheel sa chilla raha tha.",
+   "fx": "none",
+   "sub": "Rohan came running home, screaming like an eagle.",
+   "say": "रोहन दौड़ा घर आया, चील सा चिल्ला रहा था।"
+  },
+  {
+   "image": "Priya standing, arms crossed, a dismissive wave of her hand, a slight roll of her eyes, but a flicker of unease in her expression as Rohan tries to explain.",
+   "speaker": "narrator",
+   "line": "Maine uski baat ko mazaak samjha.",
+   "fx": "none",
+   "sub": "I brushed off his words as a joke.",
+   "say": "मैंने उसकी बात को मज़ाक समझा।"
+  },
+  {
+   "image": "A dramatic, wide shot of the old building violently crumbling into a cloud of dust and debris. The ground shakes, and dust billows outwards.",
+   "speaker": "narrator",
+   "line": "Lekin tabhi tez aawaaz se makaan gir gaya.",
+   "fx": "dust",
+   "sub": "But just then, with a loud noise, the building collapsed.",
+   "say": "लेकिन तभी तेज़ आवाज़ से मकान गिर गया।"
+  },
+  {
+   "image": "Priya, Rohan, and other family members (blurred in background) standing outside their home, faces covered in shock and disbelief, watching the dust settle from the collapsed building.",
+   "speaker": "narrator",
+   "line": "Hum hairaan the, Gabbar ne sach kaha.",
+   "fx": "dust",
+   "sub": "We were astonished, Gabbar had told the truth.",
+   "say": "हम हैरान थे, गब्बर ने सच कहा।"
+  },
+  {
+   "image": "Rohan kneeling, tightly hugging Gabbar, burying his face in Gabbar's fur. Gabbar sits calmly, looking wise and content, gently nudging Rohan.",
+   "speaker": "narrator",
+   "line": "Gabbar ne hum sabki jaan bachai.",
+   "fx": "none",
+   "sub": "Gabbar had saved all our lives.",
+   "say": "गब्बर ने हम सबकी जान बचाई।"
+  },
+  {
+   "image": "Gabbar is now inside Rohan's home, happily playing with Rohan, while Priya smiles warmly at them from the doorway, holding a bowl of food. A cozy, domestic scene.",
+   "speaker": "narrator",
+   "line": "Uske baad Gabbar humare ghar ka hissa bana.",
+   "fx": "none",
+   "sub": "After that, Gabbar became a part of our home.",
+   "say": "उसके बाद गब्बर हमारे घर का हिस्सा बना।"
+  },
+  {
+   "image": "Priya (narrator), close-up, looking directly into the camera with a pensive, slightly questioning expression, inviting the viewer's input.",
+   "speaker": "narrator",
+   "line": "Aap hoti toh kya is kutte par bharosa karti?",
+   "fx": "none",
+   "sub": "If you were in my place, would you trust this dog?",
+   "say": "आप होती तो क्या इस कुत्ते पर भरोसा करती?"
+  }
+ ],
+ "caption": "My Brother's Stray Dog Spoke, Saved Us All! 🐕",
+ "slug": "2026-11-28_part1",
+ "story_no": 94,
+ "yt_title": "My Brother's Stray Dog Spoke, Saved Us All! 🐕",
+ "description": "My younger brother found a stray dog. Everyone thought he was just lonely. But this dog had a secret that saved our whole family. Would you believe an impossible warning if it saved lives?",
+ "comment_question": "Aap hoti toh kya is kutte par bharosa karti?",
+ "hashtags": [
+  "#moralstory",
+  "#animalstory",
+  "#pyaarkikahani",
+  "#story",
+  "#emotionalstory",
+  "#storytime",
+  "#talkingdog",
+  "#animalrescue",
+  "#sachhidosti",
+  "#नैतिककहानी",
+  "#hindikahani",
+  "#hindistory",
+  "#kahani",
+  "#reelsindia",
+  "#viralreels"
+ ]
+}
